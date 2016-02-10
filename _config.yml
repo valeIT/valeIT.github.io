@@ -1,59 +1,56 @@
-# Build settings
 gems:
   - jemoji
   - jekyll-paginate
+  - jekyll-time-to-read
+  - jekyll-sitemap
 
-# Site settings
-title: "Mediator"
-description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+title: "Valentino Urbano"
+description: >
+   iOS Developer, Swift, Writer, Husband
 
-email: a-mail@mail.mail
+email: valentino@valentinourbano.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/df_logo.png"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/logo_image.png"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+name: 'Valentino Urbano'
+author: 'Valentino Urbano'
+author_image: "/assets/images/author.png"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://www.valentinourbano.com"
 baseurl: ""
-#used to display twitter cards
-twitter_handle: '@dirkfabisch'
+twitter_handle: '@valentinourbano'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
 
-# social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
+    url:	https://twitter.com/valentinourbano
     desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+    share_url: 
+    share_title: 
+    share_link: 
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
+  - icon: apple
+    url:  /apps
+    desc: Check out my apps
+    share_url: 
+    share_title: 
+    share_link: 
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
+    url:	https://github.com/valeIT/valeIT.github.io/
+    desc:	This site is open source
     share_url:
     share_title:
     share_link:
 
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
+kramdown:
+  default_lang: swift
+
+permalink: /:title.html
+# paginate_path: /page/:num

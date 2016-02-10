@@ -1,0 +1,29 @@
+---
+layout: post
+title: "★ On hiatus"
+date: 2012-05-24 17:30:33.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Tech
+tags: \[\]
+meta:
+\_wpcom\_is\_markdown: '1'
+\_edit\_last: '1'
+author:
+login: Myshar
+email: mysh@myshar.org
+display\_name: Valentino Urbano
+first\_name: ''
+last\_name: ''
+---
+
+From today i'll be focusing only on school, because i have my **final exam** in less than a month and i want to be ready - 100% ready.
+
+This doesn't mean that the blog will be closed, instead i have already written all the articles to cover this gap.
+
+If you want to contact me you can do it on twitter or you can send me an email. You can find both on the [contact][0] page.
+
+
+[0]: http://www.myshar.org/about

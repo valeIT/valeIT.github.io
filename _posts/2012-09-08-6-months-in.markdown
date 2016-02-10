@@ -1,0 +1,78 @@
+---
+layout: post
+title: 6 Months In
+date: 2012-09-08 21:08:05.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Me
+tags: \[\]
+meta:
+\_wpcom\_is\_markdown: '1'
+\_edit\_last: '1'
+author:
+login: Myshar
+email: mysh@myshar.org
+display\_name: Valentino Urbano
+first\_name: ''
+last\_name: ''
+---
+
+Can't believe I missed it.
+
+It was August, 26th.
+
+This blog was actually created a few days before that, but [the first post was published on that day][0].
+
+This post will be a natural follow up of the [First Month article][1], as it should be.
+
+## Thing I Learned
+
+There are so many things i learn thanks to the post i write and the blogs i follow, but the most important thing is that i can be fine without the internet. In July I spent 10 days without the internet and [i wrote an article about that, not yet published][2].
+
+For other things jump at the "Best Posts" section.
+
+## Changes
+
+As i started writing this article i dropped support for readability through this site. Don't scare off, i'm not blocking it, i'm just deleting the "read now / read later" buttons. I'm sure if you need them you will have installed on your browser. Those button were just slowing the site down and distracting from the reading.
+
+## Best Posts (only full lenght posts)
+
+These are the ones i think are the best through these 6 months, many more to come soon.
+
+* [Anthem of a new blog][0]
+* [We're not there, not yet][3]
+* [The New Google -- Search Plus][4]
+* [AT&T vs developers][5]
+* [Mobile layout is bad][6]
+* [Comments Off from the beginning][7]
+* [Other Suppositions are pointless][8]
+* [First Month][9]
+* [Hardware buttons][10]
+* [100 years][11]
+* [Apple][12]
+* [Be a Doer][13]
+* [3.7 billion miles][14]
+* [A Standard for ebooks][15]
+* All the serie on the [browser][16] [battle][17] (3rd article is coming).
+
+
+[0]: http://www.myshar.org/anthem-of-a-new-blog/
+[1]: http://anythingapple.altervista.org/2012/03/1-month/
+[2]: http://www.myshar.org/massive-publishing/
+[3]: http://www.myshar.org/were-not-there-not-yet/
+[4]: http://www.myshar.org/the-new-google/
+[5]: http://www.myshar.org/att-vs-developers/
+[6]: http://www.myshar.org/mobile-layout-is-bad/
+[7]: http://www.myshar.org/comments-off/
+[8]: http://www.myshar.org/other-suppositions-are-pointless/
+[9]: http://www.myshar.org/1-month/
+[10]: http://www.myshar.org/hardware-buttons/
+[11]: http://www.myshar.org/100-years/
+[12]: http://www.myshar.org/apple/
+[13]: http://www.myshar.org/be-a-doer/
+[14]: http://www.myshar.org/3-7-billion-miles/
+[15]: http://www.myshar.org/a-standard-for-ebooks/
+[16]: http://www.myshar.org/web-browser-battle/
+[17]: http://www.myshar.org/web-browser-battle-part-2/

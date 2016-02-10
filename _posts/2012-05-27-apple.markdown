@@ -1,0 +1,31 @@
+---
+layout: post
+title: Apple
+date: 2012-05-27 17:02:03.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Me
+tags: \[\]
+meta:
+\_wpcom\_is\_markdown: '1'
+\_edit\_last: '1'
+author:
+login: Myshar
+email: mysh@myshar.org
+display\_name: Valentino Urbano
+first\_name: ''
+last\_name: ''
+---
+
+Today I went to my local supermarket with my grandmother and I bought an apple, yes a simple green fresh apple.  
+On the way back home I pulled off my headphones and I start eating it. I tried to focus only on the action of enjoying the fresh juice. I never eaten an Apple so focused and _believe me or not_ it has improved its taste.  
+It was the very first time in a few years I really enjoyed eating an apple on the go, it's a compelling experience - if eating a simple apple can be called an 'experience'.
+
+Try to choose a simple thing to do now and lose yourself in it, you'll feel better doing it and more refreshed after.
+
+Trust me, Just try. And then [let me know][0].
+
+
+[0]: http://www.valentinourbano.com/about/

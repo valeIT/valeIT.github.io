@@ -1,0 +1,26 @@
+---
+layout: post
+title: Ipa
+date: 2012-04-17 18:43:50.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Tech
+tags: \[\]
+meta:
+\_wpcom\_is\_markdown: '1'
+author:
+login: Myshar
+email: mysh@myshar.org
+display\_name: Valentino Urbano
+first\_name: ''
+last\_name: ''
+---
+
+[Twitter has just announced IPA][0], how patents shoul be.  
+It's a huge step forward, but they're also taking a great risk if no one would follow.  
+Though I do hope that every other company could be as wise as Twitter.
+
+
+[0]: http://blog.twitter.com/2012/04/introducing-innovators-patent-agreement.html

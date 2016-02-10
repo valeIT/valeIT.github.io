@@ -1,0 +1,27 @@
+---
+layout: post
+title: Sun and Android
+date: 2012-04-16 10:05:10.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Tech
+tags: \[\]
+meta:
+\_wpcom\_is\_markdown: '1'
+\_edit\_last: '1'
+author:
+login: Myshar
+email: mysh@myshar.org
+display\_name: Valentino Urbano
+first\_name: ''
+last\_name: ''
+---
+
+[How Sun had almost set a partnership with google to develop android.][0]
+
+Didn't know it at all! Sun Made the worst decision of his entire life.
+
+
+[0]: http://www.theverge.com/2012/4/13/2945536/google-oracle-java-patent-copyright-lawsuit

@@ -1,0 +1,38 @@
+---
+layout: post
+title: iOS 8.0.1 fail
+date: 2014-09-30 08:56:49.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Tech
+tags: \[\]
+meta:
+\_edit\_last: '1'
+\_wpcom\_is\_markdown: '1'
+author:
+login: Myshar
+email: mysh@myshar.org
+display\_name: Valentino Urbano
+first\_name: ''
+last\_name: ''
+---
+
+[Nick Arnott:][0]
+
+> Software is buggy. Humans write and test software and humans are imperfect; as a result, so is software. This is the reality of software and should come as a surprise to nobody. What can be surprising are the kind of bugs we actually see make their way out into the wild.
+> 
+
+No one was complaining about that, the complains were related to the fact that it did make to production. This is a bug that is so obvious, that I'd be surprised if anyone wouldn't have discovered it as soon as you powered on your iPhone 6/6 plus.
+
+The fact that it did get through shows either that Apple has next to zero beta testers for minor iOS releases, or that the pressure to fix health kit overcame the most basic need to test before release.[1][1]
+
+---
+
+1. Probably the latter - I hope.[↩][2]
+
+
+[0]: http://imore.com/hugs-not-bugs
+[1]: #f1-093014
+[2]: #r1-093014

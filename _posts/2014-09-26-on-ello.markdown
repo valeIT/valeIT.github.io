@@ -1,0 +1,66 @@
+---
+layout: post
+title: On Ello
+date: 2014-09-26 14:32:47.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Tech
+tags: \[\]
+meta:
+\_edit\_last: '1'
+\_wpcom\_is\_markdown: '1'
+author:
+login: Myshar
+email: mysh@myshar.org
+display\_name: Valentino Urbano
+first\_name: ''
+last\_name: ''
+---
+
+[Nice thoughts on Ello][0] - another social network ala [App.net][1]:
+
+> They don't have feeds in or out. That means whatever you put in there, starting right now, is theirs. They won't even share your stuff with you. That's not a good deal. You shouldn't accept that.
+> 
+> So Ello isn't answering any question I can think of.
+> 
+> If they were open, then I would be interested.  
+> \[..\]  
+> This is the same problem I have with people pouring love into Medium. I don't care if they pay you to write there ...
+> 
+
+If you're aiming to be an alternative to twitter and than you behave even worse than them, i don't know what to tell you.
+
+They don't have any API, or any other way to export your posts - I'm not saying that that can't come in the future, it may well be, but it's not there now. They launched without it, so it's pretty clear that openness of your data is not their priority.
+
+That's concerning. It means whatever you put there, stands there and you can't do anything about it. Every single word that you write should be yours and yours only. You should be the only one able to decide what to do with your content - no matter if you're the most famous person on Earth, or just a normal person.
+
+At least app.met did the right thing opening their APIs - they also committed their fair amount of mistakes [1][2] of course - but they stayed true to their vision 'til the end, proving that a fair alternatives is possible, if we only believe in it.
+
+---
+
+_Update:_ [@waxpancake at Ello][3]
+
+> But a little digging shows a much more predictable source: they took a $435,000 round of seed funding in January from FreshTracks Capital, a Vermont-based VC firm that announced the deal in March.
+> 
+
+The post is interesting as a whole, so I suggest you to read it all completely.
+
+We should give them a thumbs up for this though:
+
+> Ello also respects Do Not Track (DNT) settings in browsers.
+> 
+
+But still no 'export' feature on sight. At all.
+
+---
+
+1. Mainly regarding their lack of focus and their terrible name.[↩][4]
+
+
+[0]: http://scripting.com/2014/09/25/#a1411678207
+[1]: http://app.net
+[2]: #f1-092614
+[3]: https://ello.co/waxpancake/post/oy73kFfDdhOPh8Jv9z9pFA
+[4]: #r1-092614

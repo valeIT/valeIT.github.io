@@ -1,0 +1,28 @@
+---
+layout: post
+title: "★ Boredom"
+date: 2012-06-02 17:05:02.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Tech
+tags: \[\]
+meta:
+\_wpcom\_is\_markdown: '1'
+\_edit\_last: '1'
+author:
+login: Myshar
+email: mysh@myshar.org
+display\_name: Valentino Urbano
+first\_name: ''
+last\_name: ''
+---
+
+Steve Jobs:
+
+> Boredom allows one to indulge in curiosity, he explained, and out of curiosity comes everything. All the \[technology\] stuff is wonderful, but having nothing to do can be wonderful, too.
+
+Using the iPhone (or any other smartphone ) every day for the whole day is killing **boredom**, which **is important to reflect, to have intuitions which are the engine of the future**.
+
+Are we slowing the future to kill boredom?

@@ -1,0 +1,49 @@
+---
+layout: post
+title: First month
+date: 2012-03-26 17:36:27.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Me
+tags: \[\]
+meta:
+\_wpcom\_is\_markdown: '1'
+\_edit\_last: '1'
+author:
+login: Myshar
+email: mysh@myshar.org
+display\_name: Valentino Urbano
+first\_name: ''
+last\_name: ''
+---
+
+A quick post to thank everyone for this first month together.
+
+My main target in writing this site is not to gain pageviews or visitor, i don't mind.  My main targey, as i've already said many time - but maybe it's worth saying another time more,  is learn. Writing is a great way to learn new things, to  delve new  unexplored topics.
+
+I learned more this month writing that the past 3 months reading articles, really.
+
+As an example, this month i learned\[[1][0]\]:
+
+* the existance of NetApplications;
+* a (not so) great quote by  Michael Dell;
+* that so many (relevant) blogs have turned comments off;
+* that a big american newspaper doesn't care to give proper credits to the ones who really break the news first;
+* therestartpage.com =);
+* how bad is the android fragmentation (really worst than i expected) ;
+* that I can't  use only an iPad to write, not yet;
+* that the official wordpress app for both iOs and android sucks;
+* i recalled few episodes of my online life that i'd almost forgotten.
+
+Not bad for just a month.
+
+Thanks to everyone: the ones who gave only a look, the ones who support what i do here and the ones who disapprove it, because only with someone who let you know your mistakes we get better, it's the only way to improve.
+
+---
+
+1.I'm listing only things that i wouldn't have learned if it wasn't for this site.
+
+
+[0]: #1

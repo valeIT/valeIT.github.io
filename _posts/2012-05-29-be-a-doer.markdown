@@ -1,0 +1,45 @@
+---
+layout: post
+title: "★ Be a Doer"
+date: 2012-05-29 17:03:17.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Tech
+tags: \[\]
+meta:
+\_wpcom\_is\_markdown: '1'
+\_edit\_last: '1'
+author:
+login: Myshar
+email: mysh@myshar.org
+display\_name: Valentino Urbano
+first\_name: ''
+last\_name: ''
+---
+
+# 
+
+Don't waste your time planning things to do if you know that in the end you will only procrastinate them over and over again. Don't be a planner, but a doer.  
+The GTD method \[1\] is great _i use it a lot_, but its mission is to **let you do** things, if you spend the whole time organizing your tasks, but not a minute actually doing them, all the time spent organizing is wasted.
+
+If something to do comes to mind decide what to do with it:
+
+* do it right now
+* procrastinate it - _but you've just said the opposite_ \[2\]
+* delegate it
+
+If something planned a long time ago are now clearly useless don't regret deleting it, there's no point in wasting your time doing something that you find useless.
+
+The most important rule of the GTD me this is: if you have something planned and it would take less than 2 minutes to do it, do it now.
+
+---
+
+1.I've discovered the gtd method a year ago thanks to [patrick rhone][0] , diego petrucci and [zen habit][1].
+
+1. Yes, i did but sometimes there's no other solution. Procrastinate it only if there's no way to do it now (or in a few hours), but try to procrastinate it only for a limited time (few days or at a week if your schedule is pretty full).
+
+
+[0]: http://minimalmac.com
+[1]: http://www.zenhabit.com

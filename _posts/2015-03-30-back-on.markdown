@@ -1,0 +1,24 @@
+---
+layout: post
+title: Back On
+date: 2015-03-30 07:01:42.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Me
+tags: \[\]
+meta:
+\_wpcom\_is\_markdown: '1'
+\_edit\_last: '1'
+author:
+login: Myshar
+email: mysh@myshar.org
+display\_name: Valentino Urbano
+first\_name: ''
+last\_name: ''
+---
+
+March 30, exactly 2 months after the last post. I'm finally back. To be forgiven for the wait this week I'll post at least two articles. The first one is gonna be the long awaited "Best of Reddit - Special", the second one is a surprise.
+
+The topic of the blog is gonna shift more and more towards programming and particularly Swift and iOs, with the occasional "web" and Python mixed in.

@@ -1,0 +1,37 @@
+---
+layout: post
+title: "★ Copycats"
+date: 2012-06-16 17:10:53.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Tech
+tags: \[\]
+meta:
+\_wpcom\_is\_markdown: '1'
+\_edit\_last: '1'
+author:
+login: Myshar
+email: mysh@myshar.org
+display\_name: Valentino Urbano
+first\_name: ''
+last\_name: ''
+---
+
+After samsung (with its sangung galaxy series) also hp [denies][0] that he has been 'inspired' by apple (in the design of the hp envy).
+
+I wonder if they've ever tried to put them side by side.
+
+![hp envy macbook]({{ site.baseurl }}/assets/51VhGU26suL.jpg)  
+![hp envy macbook]({{ site.baseurl }}/assets/tumblr_lxbpg8f4o21r9e4qao1_500.jpg)  
+![hp envy macbook]({{ site.baseurl }}/assets/dsc09700.jpg)
+
+They really seem very different, but you know the world is full by those Apple fanboys unfortunaly. The only thing they seems able to do is throwing shit on Apple's competitors.
+
+---
+
+Thanks to engadget and the verge for the side by side images.
+
+
+[0]: http://www.theverge.com/2012/5/9/3009501/hp-envy-spectre-xt-macbook-air-similarities

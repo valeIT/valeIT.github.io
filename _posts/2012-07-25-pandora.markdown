@@ -1,0 +1,29 @@
+---
+layout: post
+title: "★ Pandora"
+date: 2012-07-25 17:21:38.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Tech
+tags: \[\]
+meta:
+\_wpcom\_is\_markdown: '1'
+\_edit\_last: '1'
+author:
+login: Myshar
+email: mysh@myshar.org
+display\_name: Valentino Urbano
+first\_name: ''
+last\_name: ''
+---
+
+# 
+
+[It seems like it's getting more real.][0]
+
+We found something more about this company every week. To me it all seems like science fiction with the technology we have right now.
+
+
+[0]: http://www.theverge.com/2012/4/18/2957585/planetary-resources-space-exploration-company-james-cameron-google

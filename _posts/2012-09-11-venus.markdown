@@ -1,0 +1,26 @@
+---
+layout: post
+title: "★ Venus"
+date: 2012-09-11 20:35:05.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Tech
+tags: \[\]
+meta:
+\_wpcom\_is\_markdown: '1'
+\_edit\_last: '1'
+author:
+login: Myshar
+email: mysh@myshar.org
+display\_name: Valentino Urbano
+first\_name: ''
+last\_name: ''
+---
+
+I bet you didn't know anything [about Venus][0] before today, or at least not so deeper.
+
+
+
+[0]: http://web.archive.org/web/20120601132529/http://tomsastroblog.com:80/archives/12607

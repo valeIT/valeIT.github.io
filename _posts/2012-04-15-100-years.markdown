@@ -1,0 +1,45 @@
+---
+layout: post
+title: 100 years
+date: 2012-04-15 12:45:26.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Miscellaneous
+tags: \[\]
+meta:
+\_wpcom\_is\_markdown: '1'
+\_edit\_last: '1'
+author:
+login: Myshar
+email: mysh@myshar.org
+display\_name: Valentino Urbano
+first\_name: ''
+last\_name: ''
+---
+
+Today is the 100th year anniversary of the sinking of the Titanic. To 'celebrate'\[[1][0]\] it properly i strongly suggest you to watch the movie again, the 3D version released a week ago if possible. I know it might feel only a commercial move and basically it is, but it also makes people think.  
+While you're laying relaxed on the theatre's chair just before the show let your thoughts floating aroud for a few moments, unconsciously you start thinking about the disaster and the people aboard - and if at least One person a theatre does it all this business of the 3D version was worth.
+
+**Because I'm a poet too**\[[2][1]\]
+
+That's why culture is so important, it's a way to let people think, and that's why dictatorship always tries to block it.
+
+Right after I finish writing an article on this blog, reading a book, listening to a song, watching a movie I stop for a moment to think back to what this experience have left.  
+A few times important thoughts, many other times less important ones, but - if it's a good movie/post/book - it always leaves you something, something you may even remember for a lifetime: I always recall some books,movies,posts,.. Even some that i read many years ago.
+
+**Costa Concordia**
+
+The disaster of the Costa Concordia at giglio island has proved that after 100 years the situation is still critical, it got way better, but it's still a huge - underestimate - problem that need a fix. Maybe this anniversary can let people address this problem more, i ought to.
+
+---
+
+  
+1\. ok celebrate is not the perfect word, remember would be better, but the simple act of remembering something is not enough, as the disaster of the costa concordia proved, do something it's much more important.  
+  
+2\. I'm actually joking of course.
+
+
+[0]: #1
+[1]: #2

@@ -1,0 +1,31 @@
+---
+layout: post
+title: Discover
+date: 2012-04-18 19:06:55.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Tech
+tags: \[\]
+meta:
+\_wpcom\_is\_markdown: '1'
+\_edit\_last: '1'
+author:
+login: Myshar
+email: mysh@myshar.org
+display\_name: Valentino Urbano
+first\_name: ''
+last\_name: ''
+---
+
+[My Little Nomads][0]:
+
+> Everyone is ignorant of something but some people sit at home watching Fox News and have their opinions confirmed and some people go out into the world and look stupid and look naive and learn and grow and become better people. (And Gosh darn it I'm gonna be one of them!)
+
+First-hand discover is always the best choice.
+
+Don't trust media every time, never assume that if you've watched it on the tv it must be true, most of the time it's not.
+
+
+[0]: http://mylittlenomads.com/thrilling-amazing-tips-travel-vacation

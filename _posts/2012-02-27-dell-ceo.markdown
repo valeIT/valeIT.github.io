@@ -1,0 +1,34 @@
+---
+layout: post
+title: 'Dell CEO: Apple should shut down'
+date: 2012-02-27 21:39:07.000000000 +01:00
+type: post
+published: true
+status: publish
+categories:
+- Tech
+tags: \[\]
+meta:
+\_wpcom\_is\_markdown: '1'
+\_edit\_last: '1'
+author:
+login: Myshar
+email: mysh@myshar.org
+display\_name: Valentino Urbano
+first\_name: ''
+last\_name: ''
+---
+
+Michael Dell, the CEO of the company, at a confence of IT executive [said][0] about Apple:
+
+> What would I do? I'd shut it down and give the money back to the shareholders.
+
+It was october 6,2007\.
+
+Today Apple stock index AAPL [reached][1] another all time high at 528.50$ - _correction 534.62$ _ a share.
+
+Update: On that day apple stock was at 160$ a share.
+
+
+[0]: http://news.cnet.com/2100-1001-203937.html
+[1]: http://www.google.com/finance?client=ob&q=NASDAQ:AAPL

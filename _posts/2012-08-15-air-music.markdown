@@ -1,0 +1,31 @@
+---
+layout: post
+title: "★ Air Music"
+date: 2012-08-15 15:01:20.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Tech
+tags: \[\]
+meta:
+\_wpcom\_is\_markdown: '1'
+\_edit\_last: '1'
+author:
+login: Myshar
+email: mysh@myshar.org
+display\_name: Valentino Urbano
+first\_name: ''
+last\_name: ''
+---
+
+Two revolutions for musicians:
+
+* the [gTar][0], a guitar easy for everyone to play.
+* [Syntact][1], a new way to create digital music using (drawing) gestures literally in the air
+
+These are just two examples of the future that is approaching. What a wonderful future.
+
+
+[0]: http://www.kickstarter.com/projects/incident/gtar-the-first-guitar-that-anybody-can-play
+[1]: http://www.ultrasonic-audio.com/products/syntact.html

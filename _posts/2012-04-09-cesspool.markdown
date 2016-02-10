@@ -1,0 +1,28 @@
+---
+layout: post
+title: Cesspool
+date: 2012-04-09 17:12:27.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Tech
+tags: \[\]
+meta:
+\_wpcom\_is\_markdown: '1'
+author:
+login: Myshar
+email: mysh@myshar.org
+display\_name: Valentino Urbano
+first\_name: ''
+last\_name: ''
+---
+
+A wrong [decision][0], but a truthful [quote][1]:
+
+> @blondeboyofdoom piracy is a huge problem for Android devs, and we don't want to duplicate the chaotic cesspool of Android market
+
+
+
+[0]: http://www.theverge.com/2012/4/9/2935533/rim-cutting-sideloaded-app-playbook-android-piracy
+[1]: https://twitter.com/asaunders/status/187981323061829632
