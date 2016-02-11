@@ -7,17 +7,7 @@ published: true
 status: publish
 categories:
 - Column
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-\_oembed\_04aab30929eccb18d831025b4aea32ed: "{{unknown}}"
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 > Disclaimer: These were all the links in my read later for this week. It doesn't mean that I agree of approve any of the content. The longest ones will be included in _hr_ to keep them separated from the rest of the content.

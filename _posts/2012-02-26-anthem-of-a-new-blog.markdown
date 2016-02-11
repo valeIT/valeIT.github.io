@@ -7,26 +7,7 @@ published: true
 status: publish
 categories:
 - Me
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-\_yoast\_wpseo\_focuskw: ''
-\_yoast\_wpseo\_title: ''
-\_yoast\_wpseo\_metadesc: ''
-\_yoast\_wpseo\_meta-robots-noindex: '0'
-\_yoast\_wpseo\_meta-robots-nofollow: '0'
-\_yoast\_wpseo\_meta-robots-adv: none
-\_yoast\_wpseo\_sitemap-include: "-"
-\_yoast\_wpseo\_sitemap-prio: "-"
-\_yoast\_wpseo\_canonical: ''
-\_yoast\_wpseo\_redirect: ''
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 What was supposed to be a quick post eventually evolved into a structured story about my previous blog and my love about _everything apple_.

@@ -7,20 +7,7 @@ published: true
 status: publish
 categories:
 - Column
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-\_oembed\_a451a1b48a49afd8c79192f6d86682fd: "{{unknown}}"
-\_oembed\_11862231ad413db462dce646bb8ac72d: "{{unknown}}"
-\_oembed\_2d09e1a28ef89176c9e54ffaca5b3d60: "{{unknown}}"
-\_oembed\_623d3212e616ca32142501cd26a710bb: "{{unknown}}"
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 Best of Reddit is on an indefinite hiatus, as you might have noticed. I don't know if this column is going to be a once-only thing or if it's going to become regular, we'll see together.

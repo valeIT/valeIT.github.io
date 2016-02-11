@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Me
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 I've decided to start the blog with comments off, it might seem a crazy decision but after having another blog with comments on for 3 years I understood that  it's not worth, simply for the time you spend to moderate them. If i had to manually moderate every comment on my[previous blog ][0](with its 500 visits a day)  i'd have ended up spending half of my day - every day - clicking approve or cancel. So boring.

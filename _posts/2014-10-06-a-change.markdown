@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Me
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 November 1st marks the 4th year I've been writing exclusively about tech news online --- mostly about my personal opinions on the news instead of the news itself, but the topic is similar. When you write about the same topic for so long, it gets old. That doesn't mean in any way that I got bored with tech or Apple, I'm still excited as I was the very first day. It just means that I no longer have the urge of writing a commentary as soon as a news breaks. As fast as the tech news world goes, it would be pointless to write about something that is a week old --- so I'm not gonna do that either.

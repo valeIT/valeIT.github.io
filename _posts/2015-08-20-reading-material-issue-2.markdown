@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Column
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 And second Issue of "Reading Material for the Week", the new installment of "Best of Reddit". It will still include links from reddit, but it will also include links for the whole web. It'll mostly be focused on programming and technology, but it'll vary.

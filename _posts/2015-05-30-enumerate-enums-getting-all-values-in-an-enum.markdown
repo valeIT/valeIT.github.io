@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Programming
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 It sounded strange to me, but there is no way to enumerate all the cases of an enum automatically baked in the language. As an example I had this enum for three different strings that corresponded to 3 Identifiers of NSToolbarItems:

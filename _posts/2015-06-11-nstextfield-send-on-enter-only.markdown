@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Programming
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 The default action, when you connect a textField in Interface Builder, it's to send the action each time the value is changed. Doing so though, means that if my view controller would be dismissed it would trigger the value changed action if I touched the textField in any way. Probably worse if you changed it and you didn't want to save your change and just assumed that if you didn't press enter the previous value would stay current, but that wasn't the case.

@@ -7,17 +7,7 @@ published: true
 status: publish
 categories:
 - Me
-- Tech
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 I'm a strong supporter of cryptocurrencies and in particular Dogecoins. I've been mining them for more or less a year and I had a fair amount, so I decided on January to open a Faucet where everyone would be able to get some coins to get started. It's ad supported so that's where I implemented what I explained in [Blocking Adblock][0].

@@ -7,17 +7,7 @@ published: true
 status: publish
 categories:
 - Me
-tags:
-- star wars
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 This post contains A LOT OF SPOILERS: Don't read it if you haven't watched the movie yet.

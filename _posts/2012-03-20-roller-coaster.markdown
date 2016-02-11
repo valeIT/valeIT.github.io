@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Tech
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 Every company in the world works is a rollercoaster, mind that,  there are times when you go up, but some day this growt will end in a way or another, even for Apple. As in a rollercoaster the discent may be fast or slow, but sooner or later it has to happen.

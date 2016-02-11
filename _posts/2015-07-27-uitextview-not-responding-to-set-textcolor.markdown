@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Programming
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 I spent way too long to figure out why a simple UITextView set up from storyboard didn't want to set its text color at all. the fix was pretty easy: Just make sure in Storyboard "selectable" it's set to TRUE.

@@ -7,7 +7,7 @@ published: true
 status: publish
 categories:
 - Me
-author: Valentino Urbano
+author: Valentino Urbano 
 ---
 
 I spent a fair part of September debugging a weird Issue that happened in [IPLocation][0]. The first thing that I know is that this issue only happened to the Mac App Store version of the app. At the time I was only selling IPLocationMini directly so I could quickly rule out all of the shared components. Everything present in IPLocationMini wasn't the problem, this left me with the few major differences to analyse:  

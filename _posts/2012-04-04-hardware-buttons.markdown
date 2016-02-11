@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Tech
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 Any android phone and most of the tablets have soft touch buttons (the search button, the back button and the home button) and there are many rumors about a new [iPad][0] shipping without an hardware home button, but I'm not going to go further on speculations ([my policy][1]).\[[1][2]\]

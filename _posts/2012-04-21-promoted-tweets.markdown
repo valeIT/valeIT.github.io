@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Tech
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 Finally also Twitter is [rolling out][0] a proper business model, i see it as a great opportunity for them to stay in business. If you only provide a free service and you have no plan on how make money you'll probably go out of business in few months if you don't find a [VC ][1]to found you or if you don't end up[bought][2] by a bigger company.

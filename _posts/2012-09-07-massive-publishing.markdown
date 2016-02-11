@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Writing
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 In the last few months I started writing many articles that now lie in a folder into my dropbox account.

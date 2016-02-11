@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Programming
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 I had an app rightfully rejected for using an advertiser identifier while I stated that I didn't. I was sure I didn't have ads and I don't track users using the Identifier so there was something out of place. Luckily a simple "grep" I found out that a framework was using it and promptly removed it.

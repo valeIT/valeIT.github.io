@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Programming
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 I've been using Swift for close to 7 month now and I've seen all kind of weirdness[1][0]. Every time I catch something odd or interesting I try to take a note about it. Over time I got a nice collection of those notes [2][1]. 
