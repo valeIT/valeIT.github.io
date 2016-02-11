@@ -37,7 +37,5 @@ Again, as I said in the patch notes Thanks everyone for the system traces, the w
 
 Both the version on the Mac App Store and the Direct Version that are live already contain the fix.
 
-\[Next Up IPLocation - Direct Version Notice\]
-
 
 [0]: http://www.valentinourbano.com/apps/mac/iplocation/

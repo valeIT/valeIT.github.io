@@ -53,4 +53,10 @@ kramdown:
   default_lang: swift
 
 permalink: /:title.html
-# paginate_path: /page/:num
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "post"

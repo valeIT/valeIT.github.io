@@ -9,6 +9,8 @@ Here's a list of all my published app, sorted by platform.
 
 Most applications are available in English, Italian and Polish so far.
 
+[Click here to take a look at the Patch Notes](/apps/patchnotes)
+
 {% for member in site.data.apps %}
 
 {% if member.section %}

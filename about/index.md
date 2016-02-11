@@ -3,9 +3,11 @@ layout: page
 title: About
 ---
 
-My name is Valentino Urbano and I live in between Poland and Italy. I'm currently working full time developing apps for iOS. I also write on my Blog and occasionally on [Twitter](https://twitter.com/valentinourbano). [You can take a look at apps here](/apps)
+My name is Valentino Urbano and I live in between Poland and Italy. I'm currently working full time developing apps for iOS. I also write on my Blog and occasionally on [Twitter](https://twitter.com/valentinourbano). 
 
-You can contact me via email at <a href="mailto:valentino@valentinourbano.com">valentino@valentinourbano.com</a>. Please note that this is a personal email address, if you need to contact me for other reasons use the [Support Page](/support/). Support emails received on my personal email address will be ignored. Thanks.
+[You can take a look at the apps I've developed here](/apps).
+
+You can contact me via email at <a href="mailto:valentino@valentinourbano.com">valentino@valentinourbano.com</a>. Please note that this is a personal email address, if you need to contact me for other reasons use the [Support Page](/support/). Support emails received on my personal email address will be ignored. 
 
 If you'd like a copy of my CV, just send an email my way. 
 

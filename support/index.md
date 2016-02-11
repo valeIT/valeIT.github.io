@@ -5,6 +5,8 @@ title: Support
 
 From here you can submit a ticket or explore our [Knowledge Base](https://valentinourbano.freshdesk.com/support/solutions).
 
+Note: If your problem regards the website I'd prefer if you would consider instead to [open an Issue](https://github.com/valeIT/valeIT.github.io/issues) or [submit a pull request](https://github.com/valeIT/valeIT.github.io/pulls) on Github directly. If that's not possible feel free to open a ticket about it =)
+
 <script type="text/javascript" src="https://s3.amazonaws.com/assets.freshdesk.com/widget/freshwidget.js"></script>
 <style type="text/css" media="screen, projection">
 	@import url(https://s3.amazonaws.com/assets.freshdesk.com/widget/freshwidget.css); 

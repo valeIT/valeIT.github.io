@@ -5,7 +5,7 @@ title: Copyright
 
 ## Basic Informations
 
-I use Open Source projects in many of my Apps. In this page I try as best as I can to link to what I use. Please if you notice something missing [open a ticket](/support). You can find the [Changelog](#changelog) at the bottom of the page.
+I use Open Source projects in many of my Apps. In this page I try as best as I can to link to what I use. Please if you notice something missing [open an Issue on Github](https://github.com/valeIT/valeIT.github.io/issues) or [submit a pull request with the fix yourself](https://github.com/valeIT/valeIT.github.io/pulls). You can also [open a ticket](/support) if you don't have a Github account. You can find the [Changelog](#changelog) at the bottom of the page.
 
 ### Open Source Frameworks
 
@@ -40,7 +40,7 @@ List of Open Source Software used:
 
 The ordering is mostly chronological and based on the time of release. This may not always be the case though.
 
-**Website:** Most of the .svg files are provided by [FlatIcon.com](http://www.flaticon.com) and edited by me. The templates are provided by [W3Layouts](http://w3layouts.com/) for the main website and ios apps landing pages; the mac apps landing pages are based on a template provided by [Scoop Themes](http://www.scoopthemes.com/).
+**Website:** Most of the .svg files are provided by [FlatIcon.com](http://www.flaticon.com) and edited by me. The templates are provided by [W3Layouts](http://w3layouts.com/) for ios apps landing pages; the mac apps landing pages are based on a template provided by [Scoop Themes](http://www.scoopthemes.com/). The rest of the website is built on [Jekyll](http://jekyllrb.com) using the [mediator](https://github.com/dirkfabisch/mediator/) theme.
 
 **Minimal Counter:** The Icon is based on an .svg provided by [FlatIcon.com](http://www.flaticon.com)
 
@@ -48,7 +48,8 @@ The ordering is mostly chronological and based on the time of release. This may 
 
 *   July 10, 2015 : First Version.
 *   July 22, 2015 : Added specific copyrights for the website and the following apps: Minimal Counter.
-*   July 26, 2015: Added copy of the Licenses used at the bottom of the page
+*   July 26, 2015: Added copy of the Licenses used at the bottom of the page.
+* February 11, 2016: Added a paragraph about how to report Issues with the site on Github.
 
 ### Licenses
 
