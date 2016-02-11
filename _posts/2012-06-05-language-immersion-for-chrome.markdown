@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ Language Immersion for Chrome"
+title: "Language Immersion for Chrome"
 date: 2012-06-05 17:05:33.000000000 +02:00
 type: post
 published: true

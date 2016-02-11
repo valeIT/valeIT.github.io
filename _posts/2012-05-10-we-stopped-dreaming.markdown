@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ We Stopped Dreaming"
+title: "We Stopped Dreaming"
 date: 2012-05-10 19:37:21.000000000 +02:00
 type: post
 published: true

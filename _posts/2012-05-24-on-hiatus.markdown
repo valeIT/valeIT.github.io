@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ On hiatus"
+title: "On hiatus"
 date: 2012-05-24 17:30:33.000000000 +02:00
 type: post
 published: true

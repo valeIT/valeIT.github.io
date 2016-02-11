@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ Retina Macbook Pro Teardown"
+title: "Retina Macbook Pro Teardown"
 date: 2012-06-13 18:40:04.000000000 +02:00
 type: post
 published: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ Clicky keyboard"
+title: "Clicky keyboard"
 date: 2012-06-11 17:10:01.000000000 +02:00
 type: post
 published: true

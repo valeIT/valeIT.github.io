@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ iCloud integration"
+title: "iCloud integration"
 date: 2012-07-03 17:15:39.000000000 +02:00
 type: post
 published: true

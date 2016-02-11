@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ Nasa Remembers Neil Armstrong"
+title: "Nasa Remembers Neil Armstrong"
 date: 2012-09-16 14:23:05.000000000 +02:00
 type: post
 published: true

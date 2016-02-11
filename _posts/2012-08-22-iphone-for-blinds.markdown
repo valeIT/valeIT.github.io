@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ iPhone for Blinds"
+title: "iPhone for Blinds"
 date: 2012-08-22 15:06:14.000000000 +02:00
 type: post
 published: true

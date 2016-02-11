@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ Smoked by WP"
+title: "Smoked by WP"
 date: 2012-07-18 17:19:14.000000000 +02:00
 type: post
 published: true

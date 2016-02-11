@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ Dead Links"
+title: "Dead Links"
 date: 2012-06-20 17:11:35.000000000 +02:00
 type: post
 published: true

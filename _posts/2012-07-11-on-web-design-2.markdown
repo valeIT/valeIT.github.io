@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ On web design"
+title: "On web design"
 date: 2012-07-11 17:17:49.000000000 +02:00
 type: post
 published: true

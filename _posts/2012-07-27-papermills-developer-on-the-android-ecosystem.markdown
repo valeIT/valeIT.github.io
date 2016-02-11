@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ Papermill's developer on the android ecosystem"
+title: "Papermill's developer on the android ecosystem"
 date: 2012-07-27 17:22:21.000000000 +02:00
 type: post
 published: true

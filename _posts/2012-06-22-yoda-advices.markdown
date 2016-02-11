@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ Yoda Advices"
+title: "Yoda Advices"
 date: 2012-06-22 17:12:32.000000000 +02:00
 type: post
 published: true

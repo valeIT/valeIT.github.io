@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ Recipe to fail"
+title: "Recipe to fail"
 date: 2012-07-15 17:18:37.000000000 +02:00
 type: post
 published: true
