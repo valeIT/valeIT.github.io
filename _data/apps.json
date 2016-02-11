@@ -1,0 +1,152 @@
+[
+  { 
+    "name": "Minimal Counter",
+    "id": "MinimalCounter",
+    "description": "The best way to count pretty much anything on your iPhone, iPad or iPod touch. Fully customizable. For Free!",
+    "link": "http://www.valentinourbano.com/apps/ios/minimalcounter",
+    "platforms": ["iOS"],
+    "fontAwesome": [ "mobile" ]
+  },
+
+  { 
+    "name": "SWTOR Discipline and Utilities Calculator",
+    "id": "SWTORCalculator",
+    "description": "Explore your discipline and utilities and save custom presets.",
+    "link": "http://www.valentinourbano.com/apps/ios/swtorcalculator",
+    "platforms": ["iOS"],
+    "fontAwesome": [ "mobile"]
+   },
+
+  { 
+    "name": "County - Event Countdown",
+    "id": "County",
+    "description": "Count the time left before your next big day!",
+    "link": "https://itunes.apple.com/us/app/county-event-countdown/id1041921168?&at=1010lHG??mt=8",
+    "platforms": ["iOS"],
+    "fontAwesome": [ "mobile"]
+   },
+
+  { 
+    "name": "IPLocation / IPLocation Mini",
+    "id": "IPLocation",
+    "description": "Check the location of your IP address and get notified you each time your IP address changes!",
+    "link": "http://www.valentinourbano.com/apps/mac/iplocation",
+    "platforms": ["Mac"],
+    "fontAwesome": ["laptop"]
+  },
+    
+  {
+    "name": "Cooking Timer",
+    "id": "CookingTimer",
+    "description": "Minimal Countdown timer for all your cooking needs (and much else).",
+    "link": "https://itunes.apple.com/us/app/kitchen-timer-cooking-alarm/id1012475145?&at=1010lHG?mt=8",
+    "platforms": ["iOS", "Watch"],
+    "fontAwesome": [ "mobile", "clock-o"]
+  },
+
+  {
+    "name": "DogeChecker",
+    "id": "DogeChecker",
+    "description": "DogeChecker is a simple app to check the current Dogecoin price in a glance.<br> From a shibe, to a shibe.",
+    "link": "https://itunes.apple.com/us/app/dogechecker-dogecoin-price/id1011904433?&at=1010lHG?mt=8",
+    "bundleName": "Check your Crypto",
+    "bundleLink":"https://itunes.apple.com/us/app-bundle/check-your-crypto-dogecoin/id1021098263?&at=1010lHG?mt=8",
+    "platforms": ["iOS", "Watch"],
+    "fontAwesome": ["mobile", "clock-o"]
+  },
+
+  {
+    "name": "LiteChecker",
+    "id": "LiteChecker",
+    "description": "LiteChecker is a simple app to check the current Litecoin price in a second. [Lite Version without Apple Watch support also available.]",
+    "link": "https://itunes.apple.com/us/app/litechecker-litecoin-price/id1012346934?&at=1010lHG?mt=8",
+    "bundleName": "Check your Crypto",
+    "bundleLink":"https://itunes.apple.com/us/app-bundle/check-your-crypto-dogecoin/id1021098263?&at=1010lHG?mt=8",
+    "platforms": ["iOS", "Watch"],
+    "fontAwesome": ["mobile", "clock-o"]
+  },
+
+  {
+    "name": "BlackChecker",
+    "id": "BlackChecker",
+    "description": "BlackChecker is a simple app to check the current Blackcoin price in a moment. [Lite Version without Apple Watch support also available.]",
+    "link": "https://itunes.apple.com/us/app/blackchecker-blackcoin-price/id1012356346?&at=1010lHG?mt=8",
+    "bundleName": "Check your Crypto",
+    "bundleLink":"https://itunes.apple.com/us/app-bundle/check-your-crypto-dogecoin/id1021098263?&at=1010lHG?mt=8",
+    "platforms": ["iOS", "Watch"],
+    "fontAwesome": ["mobile", "clock-o"]
+  },
+
+  {
+    "name": "Tic Tac Toe Apple Watch Edition",
+    "id": "TicTacToe",
+    "description": "The old classic Tic Tac Toe that you know and love, now for Apple Watch! [Also available for iPhone, iPad and iPod touch.] ",
+    "link": "https://itunes.apple.com/us/app/tic-tac-toe-apple-watch-edition/id1011862851?&at=1010lHG?mt=8",
+    "platforms": ["iOS", "Watch"],
+    "fontAwesome": [ "mobile", "clock-o"]
+  },
+
+  {
+    "name": "Random Password Generator",
+    "id": "RandomPasswordGenerator",
+    "description": "Generate a Random Password on iOS or a PIN on Apple Watch.",
+    "link": "https://itunes.apple.com/us/app/random-password-generator/id1015892163?&at=1010lHG?mt=8",
+    "platforms": ["iOS", "Watch"],
+    "fontAwesome": [ "mobile", "clock-o"]
+  },
+
+  {
+    "name": "Translatory",
+    "id": "Translatory",
+    "description": "Translate everything in more than 50 languages.",
+    "link": "https://itunes.apple.com/us/app/translatory-your-personal/id1018240873?&at=1010lHG?mt=8",
+    "platforms": ["iOS"],
+    "fontAwesome": [ "mobile" ]
+  },
+
+  {
+    "name": "QRCodePal ",
+    "id": "QRCodePal",
+    "description": "Generate, Read and Share QRCodes without effort.",
+    "link": "https://itunes.apple.com/us/app/percentage-change-calculator/id1011977403?&at=1010lHG?mt=8",
+    "platforms": ["iOS"],
+    "fontAwesome": [ "mobile" ]
+  },
+
+  {
+    "name": "Percentage Change Calculator",
+    "id": "PercentageChangeCalculator",
+    "description": "Quickly Calculate the Percentage Change of any price.",
+    "link": "https://itunes.apple.com/us/app/percentage-change-calculator/id1011977403?&at=1010lHG?mt=8",
+    "platforms": ["iOS"],
+    "fontAwesome": [ "mobile" ]
+  },
+
+  {
+    "name": "Ary - The Meme Explorer",
+    "id": "Ary",
+    "description": "Get the latest memes directly on your iPhone, iPad or iPod touch.",
+    "link": "https://itunes.apple.com/us/app/ary-the-meme-explorer/id1021104124?&at=1010lHG??mt=8",
+    "platforms": ["iOS"],
+    "fontAwesome": [ "mobile" ]
+  },
+
+  {
+    "name": "FaceBlur - Automatically Blur Faces in an Image",
+    "id": "FaceBlur",
+    "description": "Blurring Faces in an image has never been easier! You no longer need to manually tap each and every face, with FaceBlur you just select the picture and the app does the rest.",
+    "link": "https://itunes.apple.com/us/app/faceblur-automatically-blur/id1042255381?&at=1010lHG??mt=8",
+    "platforms": ["iOS"],
+    "fontAwesome": [ "mobile" ]
+  },
+
+  {
+    "name": "CryptoChecker",
+    "id": "CryptoChecker",
+    "description": "CryptoChecker allows you to check the price of more than 700 Cryptocurrencies in a glance, from on your iPhone, iPad, and iPod touch.",
+    "link": "https://itunes.apple.com/us/app/cryptochecker/id1042715907?&at=1010lHG??mt=8",
+    "platforms": ["iOS"],
+    "fontAwesome": [ "mobile" ]
+
+   }
+]

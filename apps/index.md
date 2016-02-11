@@ -3,7 +3,7 @@ layout: page
 title: My Apps
 ---
 
-Here's a list of all my published app, sorted by platform.
+Here's a list of all my published apps, sorted by platform.
 
 [If you need Support and would like to open a ticket, please go to the Support page.](/support)
 
@@ -13,17 +13,13 @@ Most applications are available in English, Italian and Polish so far.
 
 {% for member in site.data.apps %}
 
-{% if member.section %}
-#{{ member.section }}
-{% endif %}
-
 {% if member.link %}
-##[{{ member.name }}]({{ member.link }})   
 
+##{% if member.fontAwesome %}{% for image in member.fontAwesome %}<i class="fa fa-{{ image }}"></i> {% endfor %}{% endif %}<a href="{{ member.link }}">{{ member.name }}</a>
+<br><br>
 {{ member.description }}   
-{% if member.bundleName %}
-[{{ member.bundleName }}]({{bundleLink }})
-{% endif %}
+    
+{% if member.bundleName %}Included in [{{ member.bundleName }}]({{bundleLink }}) bundle.{% endif %}
 {% endif %}
 
 {% endfor %}

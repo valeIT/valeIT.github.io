@@ -9,13 +9,10 @@ For each app you will find listed the Patch Notes from the latest one, to the ol
 
 {% for member in site.data.apps %}
 
-{% if member.section %}
-#{{ member.section }}    
-{% endif %}
-    
 <br>
 {% if member.name %}
-####[{{ member.name }}](/apps/patchnotes/page/{{ member.id | downcase }}.html)      
+###{% if member.fontAwesome %}{% for image in member.fontAwesome %}<i class="fa fa-{{ image }}"></i> {% endfor %}{% endif %}[{{ member.name }}](/apps/patchnotes/page/{{ member.id | downcase }}.html)      
 {% endif %}
+
     
 {% endfor %}
