@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ Old Prototypes"
+title: "Old Prototypes"
 date: 2012-08-01 10:58:56.000000000 +02:00
 type: post
 published: true

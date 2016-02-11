@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ 7 Years of Youtube"
+title: "7 Years of Youtube"
 date: 2012-05-21 16:44:54.000000000 +02:00
 type: post
 published: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ 1110 Megapixel Camera"
+title: "1110 Megapixel Camera"
 date: 2012-05-25 17:00:00.000000000 +02:00
 type: post
 published: true

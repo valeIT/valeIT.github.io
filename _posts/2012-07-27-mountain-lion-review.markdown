@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ Mountain Lion Review"
+title: "Mountain Lion Review"
 date: 2012-07-27 17:05:44.000000000 +02:00
 type: post
 published: true

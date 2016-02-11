@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ Bing Cleans Up"
+title: "Bing Cleans Up"
 date: 2012-05-30 17:04:11.000000000 +02:00
 type: post
 published: true

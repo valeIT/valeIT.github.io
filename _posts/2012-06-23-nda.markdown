@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ NDA"
+title: "NDA"
 date: 2012-06-23 12:55:47.000000000 +02:00
 type: post
 published: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ Gruber leaves 5by5"
+title: "Gruber leaves 5by5"
 date: 2012-05-18 22:52:07.000000000 +02:00
 type: post
 published: true

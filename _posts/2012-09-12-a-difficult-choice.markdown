@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ A difficult choice"
+title: "A difficult choice"
 date: 2012-09-12 21:10:47.000000000 +02:00
 type: post
 published: true

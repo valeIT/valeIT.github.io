@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ 1.3 trillion gigabytes in 2016"
+title: "1.3 trillion gigabytes in 2016"
 date: 2012-08-05 14:58:49.000000000 +02:00
 type: post
 published: true

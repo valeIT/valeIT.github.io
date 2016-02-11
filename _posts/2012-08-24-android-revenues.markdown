@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ Android Revenues"
+title: "Android Revenues"
 date: 2012-08-24 18:18:21.000000000 +02:00
 type: post
 published: true

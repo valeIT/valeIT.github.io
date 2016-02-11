@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ Bomb outside an italian school"
+title: "Bomb outside an italian school"
 date: 2012-05-19 14:12:23.000000000 +02:00
 type: post
 published: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ Don't look like a tourist"
+title: "Don't look like a tourist"
 date: 2012-08-19 15:02:12.000000000 +02:00
 type: post
 published: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ The Hobbit"
+title: "The Hobbit"
 date: 2012-07-22 17:20:33.000000000 +02:00
 type: post
 published: true

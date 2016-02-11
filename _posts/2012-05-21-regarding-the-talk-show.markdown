@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ Regarding the Talk Show"
+title: "Regarding the Talk Show"
 date: 2012-05-21 16:13:38.000000000 +02:00
 type: post
 published: true

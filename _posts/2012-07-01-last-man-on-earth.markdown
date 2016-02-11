@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ Last man on Earth"
+title: "Last man on Earth"
 date: 2012-07-01 01:14:32.000000000 +02:00
 type: post
 published: true

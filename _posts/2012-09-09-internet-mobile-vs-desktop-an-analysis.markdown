@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ Internet: Mobile VS Desktop - An Analysis"
+title: "Internet: Mobile VS Desktop - An Analysis"
 date: 2012-09-09 20:12:02.000000000 +02:00
 type: post
 published: true

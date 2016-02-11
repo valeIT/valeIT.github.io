@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ Mad for videogames"
+title: "Mad for videogames"
 date: 2012-07-07 17:16:43.000000000 +02:00
 type: post
 published: true

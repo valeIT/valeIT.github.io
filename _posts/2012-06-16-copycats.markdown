@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ Copycats"
+title: "Copycats"
 date: 2012-06-16 17:10:53.000000000 +02:00
 type: post
 published: true

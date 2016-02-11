@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ Map of Life"
+title: "Map of Life"
 date: 2012-08-02 17:24:12.000000000 +02:00
 type: post
 published: true

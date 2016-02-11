@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ 3.7 billion miles"
+title: "3.7 billion miles"
 date: 2012-08-11 15:00:03.000000000 +02:00
 type: post
 published: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "★ Users don't care about privacy"
+title: "Users don't care about privacy"
 date: 2012-07-30 17:23:46.000000000 +02:00
 type: post
 published: true
