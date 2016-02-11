@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Tech
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 [I've always been attracted from this kind of _oldish_ things, in fact i currently use a mechanic keyboard or to say it a-la shawn blanc a **clicky (clacky) keyboard** \[][0][1][1][\].][0]

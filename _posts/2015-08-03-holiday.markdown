@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Me
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 I've spent the last half of 2014 and all of 2015 [developing apps][0], now that finally 90% of the apps that I planned to ship this summer are actually live in the store and I've shipped the first wave of updates out to fix the first bugs in 1.0s I'm taking a break.

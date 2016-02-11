@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Tech
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 22 years ago the spaceship "Voyager 1", after 13 years of travelling, sent us back a picture of the Earth from 3.7 billion miles away.

@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Tech
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 ###### If I were the verge I would have put a big EXCLUSIVE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! in the title, but i'm not. You got lucky!

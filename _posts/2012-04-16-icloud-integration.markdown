@@ -7,15 +7,7 @@ published: true
 status: publish
 categories:
 - Tech
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 Few days ago tweetbot rolled out an update to include iCloud support for syncing the timeline position, dms and replies marked as read between the iPhone app, the iPad app (and the Mac app when it will be released).

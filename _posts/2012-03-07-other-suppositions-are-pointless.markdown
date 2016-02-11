@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Tech
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 Tech blogs are now making every kind of suppositions about the new iPad (ipad 3, 2s, HD or whatever it will be called).  

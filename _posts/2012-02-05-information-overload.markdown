@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Tech
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 Lately there has been a growing interest for minimalism and to try to better use our time online.  I've been introduced to the concept of minimalism by [Diego Petrucci][0], [Leo Babauta][1] and [Patrick Rhone][2], I strongly suggest to read their blogs.

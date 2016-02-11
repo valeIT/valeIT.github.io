@@ -7,17 +7,7 @@ published: true
 status: publish
 categories:
 - Column
-tags: \[\]
-meta:
-\_edit\_last: '1'
-\_post\_restored\_from: a:3:{s:20:"restored\_revision\_id";i:1186;s:16:"restored\_by\_user";i:1;s:13:"restored\_time";i:1415551313;}
-\_wpcom\_is\_markdown: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 Welcome to this new column "The Best Of Reddit" --- 'column' LOL yes, we're professionals here. It's gonna be a(n almost) weekly post with the best posts on reddit. In the beginning it will be limited to a few subreddits, but as time goes on I'm planning to include r/all as well. I'm not doing that now cause it's a huge commitment of time to go through r/all and pick the best post every day.

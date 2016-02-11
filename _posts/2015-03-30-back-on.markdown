@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Me
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 March 30, exactly 2 months after the last post. I'm finally back. To be forgiven for the wait this week I'll post at least two articles. The first one is gonna be the long awaited "Best of Reddit - Special", the second one is a surprise.

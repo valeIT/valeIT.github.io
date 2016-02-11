@@ -7,27 +7,7 @@ published: true
 status: publish
 categories:
 - Tech
-- Writing
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-\_yoast\_wpseo\_focuskw: ''
-\_yoast\_wpseo\_title: ''
-\_yoast\_wpseo\_metadesc: ''
-\_yoast\_wpseo\_meta-robots-noindex: '0'
-\_yoast\_wpseo\_meta-robots-nofollow: '0'
-\_yoast\_wpseo\_meta-robots-adv: none
-\_yoast\_wpseo\_sitemap-include: "-"
-\_yoast\_wpseo\_sitemap-prio: "-"
-\_yoast\_wpseo\_canonical: ''
-\_yoast\_wpseo\_redirect: ''
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 I've always thought an iPad would have been a great device for writers, at least with the addiction of a  physical keyboard (like the Apple Wireless Keyboard), but I was wrong. We're absolutely not there yet.

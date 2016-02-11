@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Writing
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 I noticed that I keep using 'said' a lot --- mainly because a novel has a lot of dialogue, but it's after a lot of thinking and some research I realised that 'said' is just one of those words that you skim past without even notice --- unless you **really** overuse it.

@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Tech
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 It's worth remembering that today, in 2012, mankind hasn't walked on any other planet or satellite since 1969\. Space exploration has just stopped without the reason that has brought us to the moon in the first place, the same old reason: competition - _i prefer calling it that way, but truly it was the **cold war**_.

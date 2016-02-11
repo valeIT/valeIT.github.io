@@ -7,17 +7,7 @@ published: true
 status: publish
 categories:
 - Tech
-- Writing
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 This year has been predicted to be _the year of the ebooks_, when the ebooks would go mainstream. I think it'd really happen (at least in the US), but if we want a long term result we need to converge on formats.

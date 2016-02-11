@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Programming
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 In every project, the same problem is bound to happen (if you care and do localization - tip: you should do it, even if you plan to release your app just in English, just set it up.): You add an element to storyboard and you want to translate it, but you have a .strings file in that language already and the changes aren't propagated automatically. If you follow the various "guides" online that tell you to remove and re-add the file you'll end up with a new file and you'd need to retranslate everything all over. Same with localizable.string: If you run genstrings again you will lose your localization!

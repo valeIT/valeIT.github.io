@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Programming
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 If you followed the hints that Apple gave in the past year you are surely using Size Classes in your Storyboard files to set up different UI for different sizes, but maybe you didn't know that you can do that from code as well. To check if you're running in a particular class just use:

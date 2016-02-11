@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Tech
-tags: \[\]
-meta:
-\_edit\_last: '1'
-\_wpcom\_is\_markdown: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 At times the clock on my mac goes haywire. Since I'm too lazy to fix it manually i just force the sync to time.apple.com from the terminal:

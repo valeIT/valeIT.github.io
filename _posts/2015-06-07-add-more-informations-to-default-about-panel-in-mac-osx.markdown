@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Programming
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 Apple provides a simple way to call the default "About Panel" to display copyright information and other kind of legal/license/... related informations. It takes the information available in the Info.plist[1][0] of your application and shows them. 

@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Programming
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 I always thought that "Justified" would be an option for UILabel, unfortunately it used to be the case, but the option was removed with Xcode 6\. The only option now is not use an AttributedString:

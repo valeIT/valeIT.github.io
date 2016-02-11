@@ -7,17 +7,7 @@ published: true
 status: publish
 categories:
 - Tech
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-linked\_list\_url: http://m.theatlantic.com/technology/archive/2012/05/how-the-blind-are-reinventing-the-iphone/256589/
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 It's awesome to see how the iPhone has improved their everyday lives, from riding a bus to paying a bill. Activities that they have never done before simply because they couldn't.

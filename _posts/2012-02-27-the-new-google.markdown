@@ -7,26 +7,7 @@ published: true
 status: publish
 categories:
 - Tech
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-\_yoast\_wpseo\_focuskw: ''
-\_yoast\_wpseo\_title: ''
-\_yoast\_wpseo\_metadesc: ''
-\_yoast\_wpseo\_meta-robots-noindex: '0'
-\_yoast\_wpseo\_meta-robots-nofollow: '0'
-\_yoast\_wpseo\_meta-robots-adv: none
-\_yoast\_wpseo\_sitemap-include: "-"
-\_yoast\_wpseo\_sitemap-prio: "-"
-\_yoast\_wpseo\_canonical: ''
-\_yoast\_wpseo\_redirect: ''
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 Google recently announced its _shitty_ new search feature - Google Search Plus Your World . It provides results from [google+][0], google's new social network experiment after the failure of [wave][1].

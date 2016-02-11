@@ -7,17 +7,7 @@ published: true
 status: publish
 categories:
 - Me
-- Programming
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 I've always kept my close source projects (all of my apps and more) under source control on Bitbucket, but I'd never released an open source project until now.

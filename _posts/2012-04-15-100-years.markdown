@@ -7,16 +7,7 @@ published: true
 status: publish
 categories:
 - Miscellaneous
-tags: \[\]
-meta:
-\_wpcom\_is\_markdown: '1'
-\_edit\_last: '1'
-author:
-login: Myshar
-email: mysh@myshar.org
-display\_name: Valentino Urbano
-first\_name: ''
-last\_name: ''
+author: Valentino Urbano 
 ---
 
 Today is the 100th year anniversary of the sinking of the Titanic. To 'celebrate'\[[1][0]\] it properly i strongly suggest you to watch the movie again, the 3D version released a week ago if possible. I know it might feel only a commercial move and basically it is, but it also makes people think.  
