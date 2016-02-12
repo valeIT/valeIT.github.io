@@ -3,7 +3,7 @@ layout: page
 title: Terms of Service
 ---
 
-For the Privacy Policy go to [here](/privacy).
+For the Privacy Policy go to the [Privacy Policy](/privacy) page.
 
 _You can find the [Changelog](#changelog) at the bottom of the page._
 
