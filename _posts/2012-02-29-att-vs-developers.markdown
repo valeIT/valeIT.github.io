@@ -43,6 +43,6 @@ Update 2: If it will pass [it's the end of the internet as we know it. ][3].
 
 
 [0]: http://www.theverge.com/2012/2/27/2828345/att-mobile-app-data-fee-developer-plan
-[1]: http://anythingapple.altervista.org/2012/02/anthem-of-a-new-blog/
+[1]: /anthem-of-a-new-blog.html
 [2]: http://www.theverge.com/2012/2/28/2830230/mobile-operators-data-use-mwc
 [3]: http://www.theverge.com/2012/3/6/2833314/mwc-carriers-net-neutrality

@@ -15,4 +15,4 @@ I've spent the last half of 2014 and all of 2015 [developing apps][0], now that 
 It won't be a long break, but nonetheless... I'll be turning off Xcode on Wednesday and it will stay shut for a full week.
 
 
-[0]: http://valentinourbano.com/apps
+[0]: /apps

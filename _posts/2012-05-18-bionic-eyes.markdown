@@ -12,4 +12,4 @@ author: Valentino Urbano
 
 Another prove that technology's mission is to emprove people's life even if more and more companies seems forgetting about it every day.
 
-Testing begins in 2014\.
+Testing begins in 2014.

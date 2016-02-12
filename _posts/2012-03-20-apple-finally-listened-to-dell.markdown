@@ -24,5 +24,5 @@ Of course he's right!
 Update: and their cash will still grow according to the latest predictions.
 
 
-[0]: http://anythingapple.altervista.org/2012/02/dell-ceo/
+[0]: /dell-ceo.html
 [1]: http://www.macstories.net/news/apple-confirms-dividend-and-share-repurchase-program/

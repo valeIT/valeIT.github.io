@@ -10,13 +10,9 @@ categories:
 author: Valentino Urbano 
 ---
 
-Apple provides a simple way to call the default "About Panel" to display copyright information and other kind of legal/license/... related informations. It takes the information available in the Info.plist[1][0] of your application and shows them. 
-    
-    NSApplication.sharedApplication().orderFrontStandardAboutPanel(self)
+Apple provides a simple way to call the default "About Panel" to display copyright information and other kind of legal/license/... related informations. It takes the information available in the Info.plist[^1] of your application and shows them: `NSApplication.sharedApplication().orderFrontStandardAboutPanel(self)`[^2]
 
-[2][1]
-
-The thing is that you can add your own custom text to it as well. It's really easy, you just need to add a file named \>Credits.rtf and Xcode will add it automatically above the copyright message. There is a caveat though: The file needs to be created from inside Xcode, I tried creating it both from Xcode -\> Create New -\> Empty File and from an external text editor and Xcode wasn't able to read those file even after importing them.
+The thing is that you can add your own custom text to it as well. It's really easy, you just need to add a file named `Credits.rtf` and Xcode will add it automatically above the copyright message. There is a caveat though: The file needs to be created from inside Xcode, I tried creating it both from Xcode -> Create New -> Empty File and from an external text editor and Xcode wasn't able to read those file even after importing them.
 
 So here's what you need to do:  
 - Create a new file with Xcode (CMD+N)  
@@ -30,12 +26,5 @@ You used to be able to call it "Credits.html" before OSX 10.10 and include html 
 
 ---
 
-1. It shows the icon, the name and the version of your app in addiction to the default copyright message.[↩][2]
-2. 
-Where `self` is your `viewController` of course[↩][3]
-
-
-[0]: #f1-052915
-[1]: #f2-052915
-[2]: #r1-052915
-[3]: #r2-052915
+[^1]: It shows the icon, the name and the version of your app in addiction to the default copyright message.
+[^2]: Where `self` is your `viewController` of course.

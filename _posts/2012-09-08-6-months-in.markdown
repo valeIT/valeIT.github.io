@@ -49,21 +49,21 @@ These are the ones i think are the best through these 6 months, many more to com
 * All the serie on the [browser][16] [battle][17] (3rd article is coming).
 
 
-[0]: http://www.myshar.org/anthem-of-a-new-blog/
-[1]: http://anythingapple.altervista.org/2012/03/1-month/
-[2]: http://www.myshar.org/massive-publishing/
-[3]: http://www.myshar.org/were-not-there-not-yet/
-[4]: http://www.myshar.org/the-new-google/
-[5]: http://www.myshar.org/att-vs-developers/
-[6]: http://www.myshar.org/mobile-layout-is-bad/
-[7]: http://www.myshar.org/comments-off/
-[8]: http://www.myshar.org/other-suppositions-are-pointless/
-[9]: http://www.myshar.org/1-month/
-[10]: http://www.myshar.org/hardware-buttons/
-[11]: http://www.myshar.org/100-years/
-[12]: http://www.myshar.org/apple/
-[13]: http://www.myshar.org/be-a-doer/
-[14]: http://www.myshar.org/3-7-billion-miles/
-[15]: http://www.myshar.org/a-standard-for-ebooks/
-[16]: http://www.myshar.org/web-browser-battle/
-[17]: http://www.myshar.org/web-browser-battle-part-2/
+[0]: /anthem-of-a-new-blog.html
+[1]: /1-month.html
+[2]: /massive-publishing.html
+[3]: /were-not-there-not-yet.html
+[4]: /the-new-google.html
+[5]: /att-vs-developers.html
+[6]: /mobile-layout-is-bad.html
+[7]: /comments-off.html
+[8]: /other-suppositions-are-pointless.html
+[9]: /1-month.html
+[10]: /hardware-buttons.html
+[11]: /100-years.html
+[12]: /apple.html
+[13]: /be-a-doer.html
+[14]: /3-7-billion-miles.html
+[15]: /a-standard-for-ebooks.html
+[16]: /web-browser-battle.html
+[17]: /web-browser-battle-part-2.html

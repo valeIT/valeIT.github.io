@@ -16,7 +16,7 @@ My main target in writing this site is not to gain pageviews or visitor, i don't
 
 I learned more this month writing that the past 3 months reading articles, really.
 
-As an example, this month i learned\[[1][0]\]:
+As an example, this month i learned [^1]:
 
 * the existance of NetApplications;
 * a (not so) great quote by  Michael Dell;
@@ -34,7 +34,4 @@ Thanks to everyone: the ones who gave only a look, the ones who support what i d
 
 ---
 
-1.I'm listing only things that i wouldn't have learned if it wasn't for this site.
-
-
-[0]: #1
+[^1]:I'm listing only things that i wouldn't have learned if it wasn't for this site.

@@ -10,9 +10,7 @@ categories:
 author: Valentino Urbano 
 ---
 
-# 
-
-In his analysis, posted few weeks ago, the developer of Papermill for Android\[1\] made few clear statement on the state of Android's ecosystem.
+In his analysis, posted few weeks ago, the developer of Papermill for Android[^1] made few clear statement on the state of Android's ecosystem.
 
 > "Media coverage and sales of Papermill have already far exceeded my expectations and I can't envision either increasing. With this in mind, it's easy to conclude that the the application, with its current price and need for a subscription, will never generate a profit, especially when costs like fonts still need to be incurred. If I were to create a 'freemium' or ad-based version, the app's profitability would almost certainly increase but I believe that this would decrease the quality of experience that the app offers and that is rare on the Android market.
 > 
@@ -45,4 +43,4 @@ And remember The world is awesome because is varied.
 
 ---
 
-1.The only Intapaper app for android.
+[^1]: The only Intapaper app for android.

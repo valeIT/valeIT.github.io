@@ -10,9 +10,9 @@ categories:
 author: Valentino Urbano 
 ---
 
-[![iPhone5 Black]({{ site.baseurl }}/assets/black.jpg)][0]
+[![iPhone5 Black]({{ site.baseurl }}/assets/article_images/black.jpg)][0]
 
-[![iPhone5 White]({{ site.baseurl }}/assets/white.jpg)][1]
+[![iPhone5 White]({{ site.baseurl }}/assets/article_images/white.jpg)][1]
 
 They're both awesome.
 

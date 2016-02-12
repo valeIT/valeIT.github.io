@@ -10,7 +10,7 @@ categories:
 author: Valentino Urbano 
 ---
 
-When I talk about multitasking on iOs I see that many people are uninformed on this matter, even Apple [geniuses][0]. \[[1][1]\]
+When I talk about multitasking on iOs I see that many people are uninformed on this matter, even Apple [geniuses][0]. [^1]
 
 iOs is a mobile OS and it doesn't Behave as every other desktop OS that you're used to use. It has its specific power management specific to avoid excessive battery usage, it also handle difficult memory situations automatically, it has built this way to provide a great experience where user have to care only about doing things, it'll be on the OS then to decide when is the time to free some RAM.
 
@@ -22,7 +22,7 @@ Before you even start you should watch this [video][2] made by a developer on ho
 
 Now let's take a look on what [Apple says][3] on his website:
 
-> Multitasking doesn't slow down the performance of the foreground app or drain battery life unnecessarily. \[...\]  Most applications are not taking up system resources when running in the background and instantly launch when you return to them. Certain tasks or services can continue to run in the background, and you can determine most by checking the status bar. \[...\] Double-clicking the Home button displays a list of recently used apps. These apps are not necessarily actively in use or open.
+> Multitasking doesn't slow down the performance of the foreground app or drain battery life unnecessarily. [...]  Most applications are not taking up system resources when running in the background and instantly launch when you return to them. Certain tasks or services can continue to run in the background, and you can determine most by checking the status bar. [...] Double-clicking the Home button displays a list of recently used apps. These apps are not necessarily actively in use or open.
 > 
 > 
 
@@ -30,7 +30,7 @@ Here's another interesting video about this matter, unfortunately it's only avai
 
 **Going Deeper**
 
-Hanging around the developer section i found an interesting Guide for developers on this matter, i just quote an extract \[[2][5]\] :
+Hanging around the developer section i found an interesting Guide for developers on this matter, i just quote an extract [^2] :
 
 > App States:
 > 
@@ -82,13 +82,13 @@ From [MacWorld][6]:
 > 
 > The iOS multitasking bar does _not_ contain a list of all running apps. It contains a list of _recently used apps_. The user _never_ has to manage background tasks on iOS.
 > 
-> \[..\]
+> [...]
 > 
 > Put simply: _You do not have to manage background tasks on iOS_. The system handles almost every case for you, and well-written audio, GPS, VOIP, Newsstand, and accessory apps will handle the rest.
 
 From [Daring Fireball][7]:
 
-> It is simply a list of your most recently used applications \[...\] Notice, for example, that if you turn an iOS device off and on, completely restarting the device, the multitasking tray still shows the same apps. It's like your browser history.  Emptying this list of applications is simply needless, mindless, busywork. It was absolutely never intended to be used this way and anyone who does this is just wasting their time.
+> It is simply a list of your most recently used applications [...] Notice, for example, that if you turn an iOS device off and on, completely restarting the device, the multitasking tray still shows the same apps. It's like your browser history.  Emptying this list of applications is simply needless, mindless, busywork. It was absolutely never intended to be used this way and anyone who does this is just wasting their time.
 
 From [Speirs][8], maybe the best article on this matter by far:
 
@@ -112,23 +112,21 @@ There is only one situation when you have to manage multitasking on iOs, when it
 
 ---
 
-1. I went to an Apple store few days ago with a friend because his iPhone had a problem with its battery and the Apple 'Genius' told me that it was because he had left few applications 'opened' - in the multitasking bar - for the whole day, but I have always done it! So I told him and I also told how multitasking on iOs actually works. He had no clue on how it worked, he told me that it behaves just like a Mac but it's completely wrong! I was astonished when I heard that, I was asking myself is this really a genius.
+[^1]: I went to an Apple store few days ago with a friend because his iPhone had a problem with its battery and the Apple 'Genius' told me that it was because he had left few applications 'opened' - in the multitasking bar - for the whole day, but I have always done it! So I told him and I also told how multitasking on iOs actually works. He had no clue on how it worked, he told me that it behaves just like a Mac but it's completely wrong! I was astonished when I heard that, I was asking myself is this really a "genius".
 
-But that's not the end of the story. He told my friend that an app was causing the problem so he had to perform a clean restore on the device and them add ten apps a day and take a close look on the battery, if its behaviour was ok he had to keep adding apps til he would have found the buggy one. My reaction: is he mad?? Does he really pretend that he would stay all day with only few apps for few weeks (10app a day for 200 apps = 20 days)?? So I told him to open up xcode to find which app was causing the bug, I mean I had to tell him to open up xcode!!! And what did he say? That he couldn't do this without providing any plausible reason.
+But that's not the end of the story. He told my friend that an app was causing the problem so he had to perform a clean restore on the device and them add ten apps a day and take a close look on the battery, if its behaviour was ok he had to keep adding apps til he would have found the buggy one. My reaction: is he mad?? Does he really pretend that he would stay all day with only few apps for few weeks (10app a day for 200 apps = 20 days)?? 
 
-Thanks God it was a genius.
+Thanks God it was a "genius".
 
-2.If you don't want to read all the extract it's all shown in this image:
+[^2]: If you don't want to read all the extract it's all shown in this image:
 
-![]({{ site.baseurl }}/assets/high_level_flow.jpg)
+![ios]({{ site.baseurl }}/assets/article_images/high_level_flow.jpg)
 
 
 [0]: https://twitter.com/#!/schwa/status/152425874581491712
-[1]: #1
 [2]: http://vimeo.com/34660348
 [3]: http://support.apple.com/kb/ht4211
 [4]: http://www.youtube.com/watch?v=OPfcZd4bc58
-[5]: #2
 [6]: http://www.macworld.com/article/164616/2012/01/how_ios_multitasking_really_works.html
 [7]: http://daringfireball.net/2012/01/ios_multitasking 
 [8]: http://speirs.org/blog/2012/1/2/misconceptions-about-ios-multitasking.html

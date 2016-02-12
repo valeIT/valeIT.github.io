@@ -10,8 +10,6 @@ categories:
 author: Valentino Urbano 
 ---
 
-# 
-
 [Good idea][0], but the biggest problem with this kind of implementation is friction. When i'm reading an article the only think i wanna be playing attention is in reading that article, i don't wanna be distracted by random words in a foreign language popping up now and then randomly in the text.
 
 Nonetheless the idea of enriching your vocabolary while surfing the web is compelling, but developers have to find a frictionless way to implement it.

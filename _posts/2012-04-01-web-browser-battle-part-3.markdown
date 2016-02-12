@@ -14,7 +14,7 @@ author: Valentino Urbano
 
 Surprisingly, after years of decline Internet Explorer usage raised last month. This is not to be considered a comeback though, it's demise is almost certain. Sure, it's still widely use (way more than it should be in my opinion), but it's usage - with its ups and down is going to continue its decline.
 
-[http://www.theverge.com/2012/4/2/2920085/internet-explorer-usage-rising-march-2012][0]
+[More Info @ The Verge][0]
 
 
-[0]: http://More Info @ The Verge
+[0]: http://www.theverge.com/2012/4/2/2920085/internet-explorer-usage-rising-march-2012

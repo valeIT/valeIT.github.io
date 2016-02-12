@@ -16,7 +16,7 @@ After you delete a bridging header in Xcode you must go back to
 
 and check for "Objective-C bridging header" --- you can use cmd+f to search for it.  
 Delete the entry for the header file.
-![Click on the Bridging header and press delete]({{ site.baseurl }}/assets/Screen%20Shot%202015-04-01%20at%2013.55.07.png)
+![Click on the Bridging header and press delete]({{ site.baseurl }}/assets/article_images/Screen%20Shot%202015-04-01%20at%2013.55.07.png)
 
 Click on the Bridging header and press delete
 

@@ -38,17 +38,17 @@ Write you own article instead. It's better for everyone. It's better for you, yo
 
 [Techcrunch][6] suggested few tips to avoid thermonuclear options like mine on comments:
 
-> ##### 1\. AUTHENTICATED IDENTITY SIGN-IN WITH MINIMUM FRIEND/FOLLOWER COUNT
+> ##### 1. AUTHENTICATED IDENTITY SIGN-IN WITH MINIMUM FRIEND/FOLLOWER COUNT
 > 
 > When people have to tie their comments to their identity, they become a lot more civil. The issue with Facebook is that it's easy to create a throwaway or dedicated commenting account to troll from. An ideal commenting system would allow the host to set a minimum friend count for commenting. A 20 friend count minimum would make it much harder to create a troll account, make bans more long-lasting, and ensure at least someone wants to hear what a commenter has to say.
 > 
 > Update: This is meant to authenticate a commenter's identity, not to discriminate against loners. Those who don't meet the requirement can always tweet at the author. An alternative I like, suggested by GigaOm's [Mathew Ingram][7] and ReadWriteWeb's [Jon Mitchell][8], is a trust pyramid where veteran commenters approve newbies. This is similar to the system [The New York Times is testing][9].
 > 
-> ##### 2\. ABILITY TO LOCK COMMENTS AFTER A CERTAIN PERIOD OF TIME
+> ##### 2. ABILITY TO LOCK COMMENTS AFTER A CERTAIN PERIOD OF TIME
 > 
 > Long-standing authors have more historic content than they can possibly moderate. Comments on old posts are often irrelevant due to newer information that has emerged. I want the ability to lock down and prevent further comments on a post after a designated period of time. I could then commit to moderating and responding to comments on posts younger than a week, a month, or 6 months, and direct all those wishing to comment on old posts to Twitter, Facebook, Google+, or elsewhere.
 > 
-> ##### 3\. DEDICATED COMMENTS PAGE FOR EACH POST
+> ##### 3. DEDICATED COMMENTS PAGE FOR EACH POST
 > 
 > Comment shouldn't be given even close to the same prominence as the post they refer to. Forcing readers to comment on social networks or their own blogs is too much work, and inefficient for an author to keep up with. A compromise would be the ability to host comments on a separate page linked to at the bottom of a post. It would also make the original post load faster, give sites more control over presentation, and create a dedicated discussion area.
 
@@ -56,11 +56,11 @@ Here's my opinions:
 
 1. They say it's not a discrimination against new commenters, but it is. It's just as the wikipedia problem. It doesn't matter what the user has to say (or in case of wikipedia the truth) the only thing that matters is verifiability. And that is terribly wrong, you create an elite vs all the others.
 2. That's a good solution against old comments, i've been using it for few years in my previous blog.
-3. Comments done this way are wasted. If you think that comments are worth allow them to stay behind your post, hiding them this way is unfair. You have to take a position, there are two choices:keep them or deleted them.Period.
+3. Comments done this way are wasted. If you think that comments are worth allow them to stay behind your post, hiding them this way is unfair. You have to take a position, there are two choices:keep them or deleted them. Period.
 
 
 
-[0]: http://mysimpleromance.altervista.org
+[0]: /
 [1]: http://mattgemmell.com/2011/11/29/comments-off/
 [2]: http://twitter.com/mattgemmell
 [3]: http://mattgemmell.com/about

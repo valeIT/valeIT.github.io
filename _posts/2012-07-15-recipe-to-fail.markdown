@@ -10,8 +10,6 @@ categories:
 author: Valentino Urbano 
 ---
 
-# 
-
 Instead of semplyfing things for honest custumers movie producers and fbi are [focing them to watch 20 seconds of piracy warning which is not skippable][0] before every purchased movie.
 
 This is a clear proof that they're fools.

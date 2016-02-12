@@ -23,5 +23,5 @@ Also the verge has written a [post][2] on the matter:
 
 
 [0]: http://animalnewyork.com/2012/04/comments-are-bad-business-for-online-media/
-[1]: http://anythingapple.altervista.org/2012/03/comments-off/
+[1]: /comments-off.html
 [2]: http://www.theverge.com/2012/4/11/2941133/internet-comments-online-media-joel-johnson

@@ -18,4 +18,4 @@ Jean-Baptiste Queru, the lead of the Android Open Source Project [stated][0]:
 
 
 [0]: http://www.theverge.com/2012/4/27/2979892/jean-baptiste-queru-android-4-update-sony-aosp-contribution
-[1]: http://anythingapple.altervista.org/2012/02/android-fragmentation/
+[1]: /android-fragmentation.html

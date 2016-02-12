@@ -10,7 +10,7 @@ categories:
 author: Valentino Urbano 
 ---
 
-\[This is not a sponsored post, I just love the service.\]
+[This is not a sponsored post, I just love the service.]
 
 I use Freshdesk as Support Portal for all of my iOS apps. They have a nice framework that you can integrate in your apps to provide a Knowledge Base to your users from inside the app on top of the ability to open a ticket (and automatically include debug informations).
 

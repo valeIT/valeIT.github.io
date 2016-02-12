@@ -12,7 +12,7 @@ author: Valentino Urbano
 
 Finally iTunes Match is [here too][0]. I've been waiting for it for such a long time.
 
-[![]({{ site.baseurl }}/assets/rw-404x600.png)][1]
+[![itunes match]({{ site.baseurl }}/assets/article_images/rw-404x600.png)][1]
 
 
 [0]: http://itunes.apple.com/WebObjects/MZStore.woa/wa/learnMore?about=match

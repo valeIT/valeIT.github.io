@@ -11,6 +11,7 @@ author: Valentino Urbano
 ---
 
 [What a huge difference! Much more than i Expected.][0]  
+
 ![google vs apple]({{ site.baseurl }}/assets/Screen-Shot-2012-05-15-at-5-15-4.03.29-PM.png)
 
 Google have to change something. Fast.

@@ -17,13 +17,10 @@ author: Valentino Urbano
 
 No one was complaining about that, the complains were related to the fact that it did make to production. This is a bug that is so obvious, that I'd be surprised if anyone wouldn't have discovered it as soon as you powered on your iPhone 6/6 plus.
 
-The fact that it did get through shows either that Apple has next to zero beta testers for minor iOS releases, or that the pressure to fix health kit overcame the most basic need to test before release.[1][1]
+The fact that it did get through shows either that Apple has next to zero beta testers for minor iOS releases, or that the pressure to fix health kit overcame the most basic need to test before release.[^1]
 
 ---
 
-1. Probably the latter - I hope.[↩][2]
-
+[^1]: Probably the latter - I hope.
 
 [0]: http://imore.com/hugs-not-bugs
-[1]: #f1-093014
-[2]: #r1-093014

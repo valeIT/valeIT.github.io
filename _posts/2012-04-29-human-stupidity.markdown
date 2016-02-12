@@ -12,7 +12,7 @@ author: Valentino Urbano
 
 [Dave Pell:][0]
 
-> A midlevel Taliban commander saw his own face on a wanted poster that promised a reward of $100\. So the commander [tore down the poster and brought it to police checkpoint][1] and demanded his reward. Authorities asked if it was really him and he answered, "Yes, yes, that's me! Can I get my award now?"
+> A midlevel Taliban commander saw his own face on a wanted poster that promised a reward of $100. So the commander [tore down the poster and brought it to police checkpoint][1] and demanded his reward. Authorities asked if it was really him and he answered, "Yes, yes, that's me! Can I get my award now?"
 > 
 > 
 

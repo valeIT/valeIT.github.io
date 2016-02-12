@@ -20,7 +20,7 @@ It sounded strange to me, but there is no way to enumerate all the cases of an e
 
 And I need to enumerate them so I can tell the toolbar which items are selectable and which aren't. By the way I have no idea which this method returns an array of `AnyObject` instead of an array of `String`, as it should do --- but I'm digressing.
 
-So I added a new property in the enum called allValues [1][0]
+So I added a new property in the enum called allValues [^1]
 
 :
 
@@ -46,8 +46,4 @@ So now we can do:
 
 ---
 
-1. I use CapitalCase for enums and constants, but in this case it wasn't actually a constant, it's more like a function that returns all the values of the enum. I know that technically speaking it's a variable inside the enum, but it really shouldn't be necessary.[↩][1]
-
-
-[0]: #f1-052915
-[1]: #r1-052915
+[^1]: I use CapitalCase for enums and constants, but in this case it wasn't actually a constant, it's more like a function that returns all the values of the enum. I know that technically speaking it's a variable inside the enum, but it really shouldn't be necessary.

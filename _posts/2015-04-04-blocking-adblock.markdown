@@ -22,7 +22,7 @@ Last month I build a dogecoin faucet to give some of my Dogecoins to the people 
 
 ---
 
-I love Adblock and I wouldn't like to have an internet without it, but I also stand by the motto of rewarding content creators for their time. The best option is direct support of course and it has been proved successful in many circumstances, but asking for money directly leads to you having some kind of responsibility on your shoulders --- rightfully so. The only other way is through advertisement. Nowadays though almost everyone has Adblock or similar installed (at least the savy people do and most of the people interested in cryptocurrencies are along those lines). While that is great not to be annoyed every seconds by ads there are cases, such as faucets, where you want to allow access only if Adblock is disabled[1][1]. The money from advertisement will be directly used to top up the faucet alone and that coupled with the fact of not using intrusive advertisement makes it more bearable. All of that said though , advertisement is a plague and Adblock may be the cure[2][2] --- it's too early too say yet.
+I love Adblock and I wouldn't like to have an internet without it, but I also stand by the motto of rewarding content creators for their time. The best option is direct support of course and it has been proved successful in many circumstances, but asking for money directly leads to you having some kind of responsibility on your shoulders --- rightfully so. The only other way is through advertisement. Nowadays though almost everyone has Adblock or similar installed (at least the savy people do and most of the people interested in cryptocurrencies are along those lines). While that is great not to be annoyed every seconds by ads there are cases, such as faucets, where you want to allow access only if Adblock is disabled[^1]. The money from advertisement will be directly used to top up the faucet alone and that coupled with the fact of not using intrusive advertisement makes it more bearable. All of that said though , advertisement is a plague and Adblock may be the cure[^2] --- it's too early too say yet.
 
 ## Methods
 
@@ -66,15 +66,11 @@ For more just search on either google or StackOverflow for "blocking Adblock" or
 
 ---
 
-1. I see how this can be abused, but there are guides on this subject already and if someone wants to do it, he's going to. Nothing we can do to stop him. I really believe that in this case it's the right call though, feel free to ping me up if you disagree.[↩][6]
-2. Content creators though are going to evolve one way or the other. We've seen it already through Memberships programs and such, but lately I've seen also ads embedded in videos on youtube --- like in the actual video, just to show the other face of the coin.[↩][7]
+[^1]: I see how this can be abused, but there are guides on this subject already and if someone wants to do it, he's going to. Nothing we can do to stop him. I really believe that in this case it's the right call though, feel free to ping me up if you disagree.
+[^2]: Content creators though are going to evolve one way or the other. We've seen it already through Memberships programs and such, but lately I've seen also ads embedded in videos on youtube --- like in the actual video, just to show the other face of the coin.
 
 
 [0]: #my-current-method
-[1]: #f1-033015
-[2]: #f2-033015
 [3]: http://stackoverflow.com/questions/18180598/ad-blocker-detection-aka-Adblock-plus
 [4]: http://tutorialzine.com/2011/12/how-to-block-Adblock/
 [5]: http://jquery.com
-[6]: #r1-033015
-[7]: #r2-033015

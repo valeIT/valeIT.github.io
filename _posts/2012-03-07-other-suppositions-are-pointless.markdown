@@ -18,12 +18,11 @@ In ['the ipad HD sucks' ][0]MG Sieger states that all this hype will bring inevi
 It's easy to make 100 different predictions and then says 'I got it, you see I was right, you should count on me even for the next keynote' or 'What I suggested what actually better, what a disappointment' at the end you gain lots of pageviews (and money if you're payed for each pageview as many of them actually are), but you haven't added anything relevant in the tech scene, just rubbish.
 
 _Unfortunately most of the tech bloggers nowadays are more interested in pageviews than they are in writing a sincere article, but there will always be few articles that are outstanding and authors who try to add their own voices.  
-And that is what really matters in the end._\[[1][1]\]
+And that is what really matters in the end._[^1]
 
 ---
 
-1.So thanks Gruber, Shawn, Ben, Marco, MG, ...
+[^1]: So thanks Gruber, Shawn, Ben, Marco, MG, ...
 
 
 [0]: http://techcrunch.com/2012/03/06/the-ipad-hd-is-wonderful/
-[1]: #1

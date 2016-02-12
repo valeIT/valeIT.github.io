@@ -14,7 +14,7 @@ author: Valentino Urbano
 
 > Some of these "developers" don't know a lick of programming code. Instead, they are fountain of ideas with a group of somewhat ambivalent programmers on speed dial in India, Russia, and other far away places.
 > 
-> \[...\]
+> [...]
 > 
 > If you want to develop apps, take your time and make something awesome. Make it fast. Make it beautiful. Make something you're proud of. Don't make 60 crappy apps: Make one really good one.
 

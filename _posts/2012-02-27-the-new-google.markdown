@@ -16,7 +16,7 @@ They are late at joining the 'social network game' so they're pushing hard on it
 
 **Monopoly**
 
-[![]({{ site.baseurl }}/assets/google-search-plus-your-world-come-sfruttarlo-600x372.jpg)][3]
+[![g plus]({{ site.baseurl }}/assets/article_images/google-search-plus-your-world-come-sfruttarlo-600x372.jpg)][3]
 
 Google is 10 years late in the social networking _game_ so they're trying to use their monopoly in search to pull this new service (but they're also spamming it in any other google service). The problem that google doesn't seem to understand is that doing so they're ruining their main business - web search.
 
@@ -30,7 +30,7 @@ In the last few months more and more people, including [shawn][5] [blanc][6] and
 
 This_switch_ was caused also by this new search feature - Google Search Plus Your World, but that's not the main reason.
 
-It's google's new privacy settings \[[1][10]\] .
+It's google's new privacy settings [^1].
 
 Google will be able , from march,1st , to share all you data including your [search history][11] to their customers, Their real customer - the[advertisers][12].
 
@@ -56,20 +56,19 @@ Update: Also david sparks on [Mac Sparky][17] switched to duckduckgo a month ago
 
 ---
 
-1\. Another strong point in favour of duckduckgo is 'the information bubble' . Google has all your data saved ontheir server and they use it provide "better results" , well done you would say, actually no. They're using that data to provide results that they think you would like. If you random pick 10 persons and you made them search the same thing you won't find anyone with the exact same result. Showing things that we like is a pro, but the con is that we don't have an impartial view of the reality.
+[^1]: Another strong point in favour of duckduckgo is 'the information bubble' . Google has all your data saved ontheir server and they use it provide "better results" , well done you would say, actually no. They're using that data to provide results that they think you would like. If you random pick 10 persons and you made them search the same thing you won't find anyone with the exact same result. Showing things that we like is a pro, but the con is that we don't have an impartial view of the reality.
 
 
 [0]: https://plus.google.com/
 [1]: https://wave.google.com/wave/
 [2]: http://www.slashgear.com/google-reader-social-sharing-features-moved-to-google-01192233/
-[3]: http://www.myshar.org/the-new-google/
+[3]: /the-new-google.html
 [4]: http://gs.statcounter.com/#mobile_vendor-ww-monthly-201101-201201
 [5]: http://shawnblanc.net/2012/02/duckduckgo-daily/
 [6]: http://shawnblanc.net/2012/01/dryburgh-duckduckgo/
 [7]: http://brooksreview.net/2012/01/duckduckwin/
 [8]: http://brooksreview.net/2012/02/duckduckgo-reeder/
 [9]: http://duckduckgo.com
-[10]: #1
 [11]: https://www.google.com/history/
 [12]: http://www.google.com/adwords
 [13]: http://lifehacker.com/5697167/if-youre-not-paying-for-it-youre-the-product

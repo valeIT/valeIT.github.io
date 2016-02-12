@@ -12,11 +12,11 @@ author: Valentino Urbano
 
 [Cisco has predicted that yearly internet usage will ramp up to 1.3 trillion gigabytes in 2016\. That's huge.][0]
 
-Also the hosts _- where places to host a site -_ have ramped up from 213 in 1981 to the outstanding number of 888,239,000 last year \[1\]. And it will keep this momentum also for the years to come.
+Also the hosts _- where places to host a site -_ have ramped up from 213 in 1981 to the outstanding number of 888,239,000 last year [^1]. And it will keep this momentum also for the years to come.
 
 ---
 
-1.Data provided by [gandalf.it][1]
+[^1]: Data provided by [gandalf.it][1]
 
 > This is the growth of hostcount from 1981 to 2010 according to the worldwide internet domain survey.
 > 
@@ -51,8 +51,6 @@ Also the hosts _- where places to host a site -_ have ramped up from 213 in 1981
 >     2009 – 732,740,000 
 >     2010 – 818,374,000 
 >     2011 – 888,239,000
-> 
-> 
 
 
 

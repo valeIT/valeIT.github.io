@@ -10,8 +10,6 @@ categories:
 author: Valentino Urbano 
 ---
 
-# 
-
 What Would you do if you were the last man on Earth? Tough question, but everyone has thought about it at least once in their lifetime.
 
 [On Reddit there's a great post which talks about everything you would need just in case.][0]

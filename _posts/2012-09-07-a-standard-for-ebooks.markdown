@@ -14,11 +14,11 @@ This year has been predicted to be _the year of the ebooks_, when the ebooks wou
 
 There are way too many e-readers out there with their own proprietary formats, each one incompatible with the others: Apple with .ibooks and .epub, Amazon with .mobi, Barnes and Nobles with .epub and others) - with a very few exceptions (.pdf).
 
-![]({{ site.baseurl }}/assets/kindle-4.jpg)
+![kindle]({{ site.baseurl }}/assets/article_images/kindle-4.jpg)
 
 #### How to innovate
 
-The first step is to find a standard which is not controlled by one company, it has to be the standard and_every device must _be able to open it\[1\].
+The first step is to find a standard which is not controlled by one company, it has to be the standard and_every device must _be able to open it[^1].
 
 Then a proper e-readed should not only provide a great reading experience, it also has to be much better than paper books to convince most of the aficionados who are still reading hardcover books to make the final switch.  
 Amazon has reached a very high standpoint with the kindle, which provide a built in dictionary, bookmarks, notes and a **great sync feature** .  
@@ -80,7 +80,7 @@ If you want to read more on this check these out:
 
 ---
 
-1.Now it seems they're focusing on .epubs, but it has to be adopted by every single company in the market to become a standard, expecially by Amazon and Apple.
+[^1]: Now it seems they're focusing on .epubs, but it has to be adopted by every single company in the market to become a standard, expecially by Amazon and Apple.
 
 
 [0]: http://daringfireball.net/linked/2012/02/29/godin-ibooks

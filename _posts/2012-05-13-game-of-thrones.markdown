@@ -12,7 +12,7 @@ author: Valentino Urbano
 
 George R.R. Martin - A Clash Of Kings:
 
-> "Power resides only where men believe it resides. \[...\] A shadow on the wall, yet shadows can kill. And ofttimes a very small man can cast a very large shadow."
+> "Power resides only where men believe it resides. [...] A shadow on the wall, yet shadows can kill. And ofttimes a very small man can cast a very large shadow."
 
 I love the books and i adore the tv shows. The actors are all amazing.
 

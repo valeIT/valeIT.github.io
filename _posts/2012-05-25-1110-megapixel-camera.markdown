@@ -10,7 +10,7 @@ categories:
 author: Valentino Urbano 
 ---
 
-![1110 Megapixel Camera]({{ site.baseurl }}/assets/Spectral_20Instruments_201110s.mp4_20-_20YouTube_20copy_large_large.png)
+![1110 Megapixel Camera]({{ site.baseurl }}/assets/article_images/Spectral_20Instruments_201110s.mp4_20-_20YouTube_20copy_large_large.png)
 
 [This camera can take a picture of the sun and the stars at the same time.][0]
 

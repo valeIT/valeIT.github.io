@@ -10,8 +10,6 @@ categories:
 author: Valentino Urbano 
 ---
 
-# 
-
 [Patrick Rhone][0]:
 
 > I'm certainly not a model citizen here but I can tell you that I care a great deal. Sharp eyed readers may have noticed that I make slight edits and wording changes to most of the things I post. Sometimes I do this within minutes of posting them. I also have been known to re-read a post that is weeks old and make slight and subtle changes even though no one will notice but me. Why? Two reasons:
@@ -20,13 +18,13 @@ author: Valentino Urbano
 > 2. I once had a teacher in a creative writing class convince me that, when it comes to art, nothing is ever finished or absolved from the potential to change or improve. If I see something that I made that I think could be improved I do so, no matter the time or audience.
 > 
 
-I do care too. When I publish a post usually I miss few mistakes (grammar, misspells, punctuation)\[1\], so when I come back to it a few days after I get rid off all (most) of them because I do care even though i know that no one would read it.
+I do care too. When I publish a post usually I miss few mistakes (grammar, misspells, punctuation)[^1], so when I come back to it a few days after I get rid off all (most) of them because I do care even though i know that no one would read it.
 
 For the same reason when i write i always take a long time (weeks or even months) to complete an very long article, because i wanna be certain that it doesn't sucks, _not too much at least_.
 
 ---
 
-1.Also because I'm not a native English speaker, but i I'm not ashamed. I look at this as an opportunity to improve. **The only way to get better is to keep trying, no matter what.**
+[^1]: Also because I'm not a native English speaker, but i I'm not ashamed. I look at this as an opportunity to improve. **The only way to get better is to keep trying, no matter what.**
 
 
 [0]: http://minimalmac.com/post/663697093/steve-jobs-the-next-insanely-great-thing

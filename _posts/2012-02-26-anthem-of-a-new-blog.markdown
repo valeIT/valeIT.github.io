@@ -22,9 +22,9 @@ Since then i wanted to start a new project on a whole different topic, to focus 
 
 **Apple**
 
-[![]({{ site.baseurl }}/assets/Original_iPhone_docked-198x300.jpg)][8][![]({{ site.baseurl }}/assets/samsung-j700-2-300x225.jpg)][9]
+[![old phone]({{ site.baseurl }}/assets/article_images/Original_iPhone_docked-198x300.jpg)][8][![old samsung]({{ site.baseurl }}/assets/article_images/samsung-j700-2-300x225.jpg)][9]
 
-\[iPhone 2g | Samsung J-700\]
+[iPhone 2g | Samsung J-700]
 
 I heard about Apple on january 9,  2007  right after the keynote about the original iPhone. I've  had an iPod Nano (4g) before, but i'd bought it only because it was a 'status symbol' (_yeah i know what you're thinking, but hey it has been really hard to admit.._)  so i didn't know whatever that apple on the back means. The day after the keynote  I was going to school as usual and I picked up a free newspaper and on the front page there was a giant picture of this new 'phone' with a giant screen and i immediately fallen in love with its design and its user interface. My cellphone was a Samsung j-700, a dumb phone to use Steve's words.
 
@@ -61,7 +61,7 @@ Edit\#1:  I've added a readability button on the top of every article, i've also
 [5]: http://cutephp.com/forum/index.php?showtopic=41787
 [6]: http://wordpress.org
 [7]: http://en.wikipedia.org/wiki/XHTML
-[8]: http://www.myshar.org/anthem-of-a-new-blog
-[9]: http://www.myshar.org/anthem-of-a-new-blog/
-[10]: http://anythingapple.altervista.org/contact/
+[8]: /anthem-of-a-new-blog.html
+[9]: /anthem-of-a-new-blog.html
+[10]: /about
 [11]: http://mattgemmell.com/2011/11/29/comments-off/

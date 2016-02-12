@@ -10,8 +10,6 @@ categories:
 author: Valentino Urbano 
 ---
 
-# 
-
 Internet users are used to fill in login forms everywhere, even where they shouldn't. Many sites nowadays ask for a Facebook/twitter/google account login to post comments, it's a really bad behaviour, yes in a way it's a much more easiers way to log in (you don't have to register to every site you visit/comment on) but this way users get used to give their facebook/google and twitter passwords to every stranger who's asking for them. Many of the sites that do theser kind of logins are run by honest guys, but few aren't. We know, as power users, which sites are to trust and which sites are not, but an average user is not.
 
 ### Solution

@@ -14,7 +14,7 @@ Neil Degrasse Tyson:
 
 > after we went to the moon, it all ended. We stopped dreaming
 > 
-> \[...\]
+> [...]
 > 
 > how much would you pay for the universe?
 

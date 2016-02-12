@@ -20,4 +20,4 @@ It's also a way to improve both my knowledge and my writing skills. You an only 
 
 [0]: http://www.codinghorror.com/blog/2011/07/nobodys-going-to-help-you-and-thats-awesome.html
 [1]: /about/
-[2]: /1-month/
+[2]: /1-month.html

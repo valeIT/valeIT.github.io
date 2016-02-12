@@ -15,8 +15,8 @@ author: Valentino Urbano
 > When is the last time you can remember the largest company in the world leading in customer satisfaction surveys?
 
 Indeed.  
-Apple is at the top spot since the original iphone came out in 2007\. No other company had ever done that before (and probably won't even in the close future).  
-The closest competitor is HTC at 798/1000, while Apple is at 839\.  
+Apple is at the top spot since the original iphone came out in 2007. No other company had ever done that before (and probably won't even in the close future).  
+The closest competitor is HTC at 798/1000, while Apple is at 839.  
 Samsung is far below.
 
 

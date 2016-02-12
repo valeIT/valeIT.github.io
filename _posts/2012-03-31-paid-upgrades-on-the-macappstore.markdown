@@ -16,7 +16,7 @@ Wil Shipley wrote an [article][0] on why developers like him need paid upgrades 
 
 Now it's not possible to do that on the appstore, but you can do that by yourself, selling the app from your own website, but doing so you'll lose all the advantages o being on the appstore, especially those regarding the updates and visibility.
 
-It's weird that apple has still to figure out a way to let it work, Will suggest to allow discounted price for the ones who have bought the previous version \[[1][1]\].
+It's weird that apple has still to figure out a way to let it work, Will suggest to allow discounted price for the ones who have bought the previous version [^1].
 
 > So, for instance, as a developer I could say to the Mac App Store, "When someone buys 'Delicious Library ∞' who has bought 'Delicious Library 2,' it should cost them them $15\. Leave our version '2' page up but don't allow any new sales of it, and mark it as obsolete." (In this way existing version "2" customers can still be updated (for free) with bug fixes even if they don't upgrade to "∞.")
 
@@ -24,8 +24,7 @@ You should [read][0] the full post if you have the time.
 
 ---
 
-1. Which now is not possible because apple doesn't share with the developer any data about users, so they can't know if you have really bought that app in any way
+[^1]: Which now is not possible because apple doesn't share with the developer any data about users, so they can't know if you have really bought that app in any way
 
 
 [0]: http://blog.wilshipley.com/2012/03/mac-app-store-needs-paid-upgrades.html
-[1]: #1

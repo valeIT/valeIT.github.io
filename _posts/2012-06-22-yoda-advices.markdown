@@ -10,8 +10,6 @@ categories:
 author: Valentino Urbano 
 ---
 
-# 
-
 [Being the best jedy in the universe don't means being the best advice giver.][0]
 
 

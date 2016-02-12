@@ -14,7 +14,7 @@ People have been wondering which is the best Content Blocker for iOS since iOS9 
 
 If you're not interested in fancy animations and just want the quickest loading times without any ad crap or tracking just disable javascript everywhere, it's that easy.
 
-Settings -\> Safari -\> Advanced -\> JavaScript -\> Off.
+Settings -> Safari -> Advanced -> JavaScript -> Off.
 
 And disable any content block since their job is done already for you.
 

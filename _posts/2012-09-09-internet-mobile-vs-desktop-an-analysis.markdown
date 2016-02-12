@@ -12,8 +12,8 @@ author: Valentino Urbano
 
 ###### If I were the verge I would have put a big EXCLUSIVE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! in the title, but i'm not. You got lucky!
 
-This month In May (yes i first started this article in May, then other projects got in the way and i had to re-prioretize everything) for the first time ever mobile web usage has [reached 10%][0], but what i found relevant is the fact that since 2010 the desktops usage kept shrinking more and more each month (and the path is accellerating).  
-![mobile usage]({{ site.baseurl }}/assets/24w4o76.jpg)
+This month In May (yes i first started this article in May, then other projects got in the way and i had to re-prioretize everything) for the first time mobile web usage has [reached 10%][0], but what i found relevant is the fact that since 2010 the desktops usage kept shrinking more and more each month (and the path is accellerating).  
+![mobile usage]({{ site.baseurl }}/assets/article_images/24w4o76.jpg)
 
 #### Looking Deeper
 
@@ -51,11 +51,11 @@ That does **not** mean that they have more mobile usage than the most developed 
 
 Let's dive in some [raw data][2] about the population of each of them:
 
-* Zimbabwe 12,619,600 people (July 2012 est.) \[1\]
+* Zimbabwe 12,619,600 people (July 2012 est.) 
 * U.S.A. 313,847,465 people (July 2011 est.)
 * UK 63,047,162 people (July 2011 est.)
 
-\[These are the most recent data that i found unfortunately.\]
+[These are the most recent data that i found unfortunately.]
 
 Let's compare them:
 

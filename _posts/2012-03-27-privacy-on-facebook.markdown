@@ -10,7 +10,7 @@ categories:
 author: Valentino Urbano 
 ---
 
-Here's another [reason][0] (if there weren't enough already) why you should close your facebook accout right now, or at least you should try to delete everything compromising \[[1][1]\].
+Here's another [reason][0] (if there weren't enough already) why you should close your facebook accout right now, or at least you should try to delete everything compromising [^1].
 
 **Delete Data**
 
@@ -22,8 +22,8 @@ The solution  is to be extremely careful on everything you share online, but mai
 
 ---
 
-1. I say you should, not you have to. I have too many connections on facebook that i can't freely delete it or i'll lose any kind of contact with many people.
+[^1]: I say you should, not you have to. I have too many connections on facebook that i can't freely delete it or i'll lose any kind of contact with many people. 
 
+**Update 2016-02-12**: In the end I delete my facebook 3 years ago. Don't miss it the slightest.
 
 [0]: http://www.theverge.com/2012/3/20/2887272/employers-ask-applicants-to-give-up-facebook-social-media-passwords
-[1]: #1

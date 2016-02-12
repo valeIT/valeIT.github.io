@@ -14,9 +14,9 @@ After samsung (with its sangung galaxy series) also hp [denies][0] that he has b
 
 I wonder if they've ever tried to put them side by side.
 
-![hp envy macbook]({{ site.baseurl }}/assets/51VhGU26suL.jpg)  
-![hp envy macbook]({{ site.baseurl }}/assets/tumblr_lxbpg8f4o21r9e4qao1_500.jpg)  
-![hp envy macbook]({{ site.baseurl }}/assets/dsc09700.jpg)
+![hp envy macbook]({{ site.baseurl }}/assets/article_images/51VhGU26suL.jpg)  
+![hp envy macbook]({{ site.baseurl }}/assets/article_images/tumblr_lxbpg8f4o21r9e4qao1_500.jpg)  
+![hp envy macbook]({{ site.baseurl }}/assets/article_images/dsc09700.jpg)
 
 They really seem very different, but you know the world is full by those Apple fanboys unfortunaly. The only thing they seems able to do is throwing shit on Apple's competitors.
 

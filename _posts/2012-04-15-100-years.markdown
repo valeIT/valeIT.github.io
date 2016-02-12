@@ -10,10 +10,10 @@ categories:
 author: Valentino Urbano 
 ---
 
-Today is the 100th year anniversary of the sinking of the Titanic. To 'celebrate'\[[1][0]\] it properly i strongly suggest you to watch the movie again, the 3D version released a week ago if possible. I know it might feel only a commercial move and basically it is, but it also makes people think.  
+Today is the 100th year anniversary of the sinking of the Titanic. To 'celebrate'[^1] it properly i strongly suggest you to watch the movie again, the 3D version released a week ago if possible. I know it might feel only a commercial move and basically it is, but it also makes people think.  
 While you're laying relaxed on the theatre's chair just before the show let your thoughts floating aroud for a few moments, unconsciously you start thinking about the disaster and the people aboard - and if at least One person a theatre does it all this business of the 3D version was worth.
 
-**Because I'm a poet too**\[[2][1]\]
+**Because I'm a poet too**[^2]
 
 That's why culture is so important, it's a way to let people think, and that's why dictatorship always tries to block it.
 
@@ -27,10 +27,6 @@ The disaster of the Costa Concordia at giglio island has proved that after 100 y
 ---
 
   
-1\. ok celebrate is not the perfect word, remember would be better, but the simple act of remembering something is not enough, as the disaster of the costa concordia proved, do something it's much more important.  
+[^1]:ok celebrate is not the perfect word, remember would be better, but the simple act of remembering something is not enough, as the disaster of the costa concordia proved, do something it's much more important.  
   
-2\. I'm actually joking of course.
-
-
-[0]: #1
-[1]: #2
+[^2]:I'm actually joking of course.

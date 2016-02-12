@@ -23,11 +23,11 @@ I didn't break my hiatus for WWDC, but i need to post some thoughts on the new m
 
 I think no one was expecting such a revolutionary product: of course the retina display was predicted, as the SSD on a Macbook Pro, as ivy bridge cpus, but all those improvements together is just a game changing in the industry.
 
-I love apple for this, not the new mac itself (also), but i love them mainly for their mentality. Even though they are currently the leader \[1\] they don't stop pushing hard on innovation, both on iOs and on Mac OsX.
+I love apple for this, not the new mac itself (also), but i love them mainly for their mentality. Even though they are currently the leader [^1] they don't stop pushing hard on innovation, both on iOs and on Mac OsX.
 
 ---
 
-1.some might argue that Mac OsX has just a 15% of the Pc market at the moment, but Aple is the only manifactury that keeps gaining share at the same pace month after month, all the others are shrinking.
+[^1]: Some might argue that Mac OsX has just a 15% of the Pc market at the moment, but Aple is the only manifactury that keeps gaining share at the same pace month after month, all the others are shrinking.
 
 
 [0]: http://www.ifixit.com/Teardown/MacBook-Pro-with-Retina-Display-Teardown/9462/1

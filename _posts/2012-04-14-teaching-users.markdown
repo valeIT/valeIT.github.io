@@ -18,17 +18,16 @@ author: Valentino Urbano
 > 
 > 
 
-So an actual news. That's why i'm using [1password][2] and i've completely\[[1][3]\] turned off cookies on my browser.
+So an actual news. That's why i'm using [1password][2] and i've completely[^1] turned off cookies on my browser.
 
-[![]({{ site.baseurl }}/assets/6a0120a85dcdae970b0147e0ad9dbd970b-800wi.png)][4]
+[![1pass]({{ site.baseurl }}/assets/article_images/6a0120a85dcdae970b0147e0ad9dbd970b-800wi.png)][4]
 
 --  
   
-1.I had to keep them on just for the current session for few sites that doesn't even work with them off (Google,Facebook -wonder why- and Read Later bookmarks).
+[^1]: I had to keep them on just for the current session for few sites that doesn't even work with them off (Google,Facebook -wonder why- and Read Later bookmarks).
 
 
 [0]: http://www.codinghorror.com/blog/2007/09/youre-probably-storing-passwords-incorrectly.html
 [1]: http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=59a03a48-3584-465e-8072-a254ec933b32
 [2]: https://agilebits.com/onepassword
-[3]: #1
-[4]: http://www.myshar.org/teaching-users/
+[4]: /teaching-users.html

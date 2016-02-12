@@ -19,4 +19,4 @@ It has been installed on 411 devices.
 
 After a week, the launch week.
 
-**Update (October 9, 2014):** Papermill has been removed from the store so I've taken the link down.
+**Update (October 9, 2014):** Papermill has been removed from the store so I've taken the link down since it's a 404 now.

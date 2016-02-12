@@ -10,8 +10,6 @@ categories:
 author: Valentino Urbano 
 ---
 
-# 
-
 Microsoft claims a [98% success rate][0] for the campain "Smoked by Windows Phone".
 
 It might be true, but i wonder if what [happened to Sahas Katta][1] would also happened to others.

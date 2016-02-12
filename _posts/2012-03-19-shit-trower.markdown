@@ -52,4 +52,4 @@ As I said [few weeks ago][2] Most journalist have sold their souls to pageviews 
 
 [0]:  http://brooksreview.net/2012/03/shit-fan/
 [1]: http://www.marketplace.org/topics/life/ieconomy/acclaimed-apple-critic-made-details
-[2]: http://anythingapple.altervista.org/2012/03/other-suppositions-are-pointless/
+[2]: /other-suppositions-are-pointless.html

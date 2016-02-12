@@ -26,4 +26,4 @@ I only hope that google won't put their users first, not their main customers  (
 [0]: http://www.youtube.com/watch?v=9c6W4CCU9M4&feature=player_embedded
 [1]: https://plus.google.com/111626127367496192147/posts
 [2]: http://www.theatlantic.com/video/archive/2012/04/googles-admented-reality-glasses/255495/
-[3]: http://anythingapple.altervista.org/2012/02/the-new-google/
+[3]: /the-new-google.html

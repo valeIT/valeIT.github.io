@@ -10,7 +10,7 @@ categories:
 author: Valentino Urbano 
 ---
 
-[Jeffrey Inscho:][0]
+Jeffrey Inscho:
 
 > Developers of the next Instagram: please give users the opportunity to directly support your service by paying for it! Please take our money! Please have a sustainable business plan, or better yet, a platform philosophy!
 > 
@@ -18,7 +18,4 @@ author: Valentino Urbano
 
 It's time for the users to understand that internet doesn't mean free. If you want a service you have to feel good about paying them a _proper_ amount of money.
 
-**Update (October 9, 2014):** Removing the source, since the linked article went offline \[It was an article on 512pixels.net\].
-
-
-[0]: http://www.staticmade.com/we-are-all-for-sale/
+**Update (October 9, 2014):** Removing the source, since the linked article went offline [It was an article on 512pixels.net]. Luckily I copied the quote. 

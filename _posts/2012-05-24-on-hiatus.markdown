@@ -17,4 +17,4 @@ This doesn't mean that the blog will be closed, instead i have already written a
 If you want to contact me you can do it on twitter or you can send me an email. You can find both on the [contact][0] page.
 
 
-[0]: http://www.myshar.org/about
+[0]: /about

@@ -16,5 +16,5 @@ It really works like magic, and it's not intrusive at all (expecially when you c
 
 
 [0]: http://www.youtube.com/user/wspowell
-[1]: http://anythingapple.altervista.org/2012/04/google-glass/
+[1]: /google-glass.html
 [2]: http://www.youtube.com/watch?v=9c6W4CCU9M4&feature=player_embedded

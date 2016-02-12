@@ -16,16 +16,14 @@ As italian I feel very sad and angry to hear this news, it's a shame.
 
 #### This need to end
 
-As i state in a [tweet][1] it's a shame that in 2012 Mafia can still do whatever they want. The government should put on top (with the economic plan) a plan against mafia, cosa nostra and all criminals organisations - especially when they bomb childrens for no reason at all.[1][2]
+As i state in a [tweet][1] it's a shame that in 2012 Mafia can still do whatever they want. The government should put on top (with the economic plan) a plan against mafia, cosa nostra and all criminals organisations - especially when they bomb childrens for no reason at all.[^1]
 
 Violence is never the answer.
 
 ---
 
-1. There's never a reason to bomb children's anyway.[↩][3]
+[^1]: There's never a reason to bomb children's anyway.
 
 
 [0]: https://twitter.com/BreakingNews/statuses/203745377420181504
-[1]: https://twitter.com/vale93kotor/statuses/203821700075356160
-[2]: #f1-100114
-[3]: #r1-100114
+[1]: https://twitter.com/valentinourbano/statuses/203821700075356160

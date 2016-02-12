@@ -14,20 +14,20 @@ November 1st marks the 4th year I've been writing exclusively about tech news on
 
 That said coming today I'll roll out a few changes.
 
-I am gonna stop writing linked posts about tech, starting today, unless it's really something I care a lot about[1][0]. If anyone is interested in that, the best blogs to follow are:[2][1]
+I am gonna stop writing linked posts about tech, starting today, unless it's really something I care a lot about[^1]. If anyone is interested in that, the best blogs to follow are:[^2]
 
 * [Shawn Blanc][2];
 * [Ben Brooks][3];
-* [MacStories][4] \[high volume\];
+* [MacStories][4] [high volume];
 * [Inessential][5];
 * [Marco Arment][6];
 * [512 Pixels][7];
 * [Daring Fireball][8];
 * [Jared Sinclair][9];
 
-\[Mostly about Apple rather than Tech in general..\]
+[Mostly about Apple rather than Tech in general..]
 
-The (barely minimum) cadence is gonna be of one post a week, usually there are going to be two of them. The first post is gonna be an essay about a specific topic, usually tech related, writing and programming --- but not necessarily. The second post is gonna be a linked post with the five or ten best[3][10] topics of the week on reddit \[NSFW alert[4][11]\].
+The (barely minimum) cadence is gonna be of one post a week, usually there are going to be two of them. The first post is gonna be an essay about a specific topic, usually tech related, writing and programming --- but not necessarily. The second post is gonna be a linked post with the five or ten best[^3][ topics of the week on reddit [NSFW alert[^4]].
 
 The first post is gonna be published on Monday evening (CET time), the second on Friday, around the same time. If there will be only one post the Friday one is going to be skipped.
 
@@ -35,14 +35,13 @@ The first post is gonna be published on Monday evening (CET time), the second on
 
 ---
 
-1. That doesn't mean once a week, maybe not even once a month. A news of that caliber would be something like the iPhone, Google Glass, the changes with iOs8 more like of analysis than an actual news commentary. I will probably keep commenting news in a txt file, still no idea what I will do with them --- probably keep them as such. I want to make more time to write long form pieces --- might that be a story, an essay or anything else that interests me.[↩][12]
-2. Best as in "I liked them the most along all the ones that I've read" kind of thing.[↩][13]
-3. Of course i follow many more blogs about tech alone, but those are the ones I enjoy the most and I wouldn't want to miss a single article from. (Apart from tech I follow blogs about programming, automation, writing and I'm a Reddit addict.)[↩][14]
-4. I will mark in the title and along every link if the linked post contains any NSFW links --- it probably will.[↩][15]
+[^1]: That doesn't mean once a week, maybe not even once a month. A news of that caliber would be something like the iPhone, Google Glass, the changes with iOs8 more like of analysis than an actual news commentary. I will probably keep commenting news in a txt file, still no idea what I will do with them --- probably keep them as such. I want to make more time to write long form pieces --- might that be a story, an essay or anything else that interests me.
+[^2]: Best as in "I liked them the most along all the ones that I've read" kind of thing.
+[^3]: Of course i follow many more blogs about tech alone, but those are the ones I enjoy the most and I wouldn't want to miss a single article from. (Apart from tech I follow blogs about programming, automation, writing and I'm a Reddit addict.)
+[^4]: I will mark in the title and along every link if the linked post contains any NSFW links --- it probably will.
 
 
-[0]: #f4-100514
-[1]: #f2-100514
+
 [2]: http://shawnblanc.net
 [3]: https://brooksreview.net
 [4]: http://www.macstories.net
@@ -51,9 +50,3 @@ The first post is gonna be published on Monday evening (CET time), the second on
 [7]: http://www.512pixels.net
 [8]: http://daringfireball.net
 [9]: http://blog.jaredsinclair.com
-[10]: #f1-100514
-[11]: #f3-100514
-[12]: #r4-100514
-[13]: #r1-100514
-[14]: #r2-100514
-[15]: #r3-100514

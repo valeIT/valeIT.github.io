@@ -16,7 +16,7 @@ iOs 5.1 has reached 12% two days after the release and two weeks after the relea
 
 As i [said before][1]:
 
-> That should sound as an alarm bell for Google, now the problem is getting too big. They should act quickly\[...\]
+> That should sound as an alarm bell for Google, now the problem is getting too big. They should act quickly [...]
 > 
 
 And times keep going on without any news from google on the matter.
@@ -25,4 +25,4 @@ It seems like they don't care at all.
 
 
 [0]: http://www.theverge.com/2012/4/3/2922581/android-usage-stats-gingerbread-ice-cream-sandwich
-[1]: http://anythingapple.altervista.org/2012/02/android-fragmentation/
+[1]: /android-fragmentation.html

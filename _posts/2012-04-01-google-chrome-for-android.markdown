@@ -16,23 +16,23 @@ I used int for a few days, here's few screenshoot of the app running on my hp to
 
 Settings
 
-![image]({{ site.baseurl }}/assets/wpid-1333548748960.png)
+![image]({{ site.baseurl }}/assets/article_images/wpid-1333548748960.png)
 
 The favourite tab
 
-![image]({{ site.baseurl }}/assets/wpid-1333548840120.png)
+![image]({{ site.baseurl }}/assets/article_images/wpid-1333548840120.png)
 
 Google's homepage enhanced for tablets
 
-![image]({{ site.baseurl }}/assets/wpid-1333548680912.png)
+![image]({{ site.baseurl }}/assets/article_images/wpid-1333548680912.png)
 
 Most visited sites
 
-![image]({{ site.baseurl }}/assets/wpid-1333548890049.jpg)
+![image]({{ site.baseurl }}/assets/article_images/wpid-1333548890049.jpg)
 
 Other devices tab
 
-![image]({{ site.baseurl }}/assets/wpid-1333548430711.png)
+![image]({{ site.baseurl }}/assets/article_images/wpid-1333548430711.png)
 
 **Beta**
 

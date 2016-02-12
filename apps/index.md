@@ -15,7 +15,7 @@ Most applications are available in English, Italian and Polish so far.
 
 {% if member.link %}
 
-##{% if member.fontAwesome %}{% for image in member.fontAwesome %}<i class="fa fa-{{ image }}"></i> {% endfor %}{% endif %}<a href="{{ member.link }}">{{ member.name }}</a>
+## {% if member.fontAwesome %}{% for image in member.fontAwesome %}<i class="fa fa-{{ image }}"></i> {% endfor %}{% endif %}<a href="{{ member.link }}">{{ member.name }}</a>
 <br><br>
 {{ member.description }}   
     

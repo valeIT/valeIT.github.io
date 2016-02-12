@@ -21,40 +21,38 @@ Before submitting your app make sure that you generate the dSYM file (it's on by
 
 ## Oh No, It Crashed
 
-You get your first crash log from release and the only thing you have is a memory address: 0x10d503000\.
+You get your first crash log from release and the only thing you have is a memory address: `0x10d503000`.
 
 * Open the Organizer from Xcode.
 * Locate the archive corresponding to the build that's crashing (hope you didn't delete that). Always keep ALL archives from shipping versions!!
 * Copy it in a folder on the desktop or anywhere and open the archive (Show Content)
 * Copy the .app to the folder (means the base folder that you created)
-* Navigate to the DWARF folder, for Mac OSX it's on
-
-    dSYMs/AppName.app.dSYM/Contents/Resources/DWARF/AppName
+* Navigate to the DWARF folder, for Mac OSX it's on `dSYMs/AppName.app.dSYM/Contents/Resources/DWARF/AppName`
 
 * Copy the file to the folder
 * Open terminal and write/paste:
 
-    atos -o LOCATION_OF_THE_EXECUTABLE -arch x86_64 -l MEMORY_ADDRESS_OF_THE_CRASH
+`atos -o LOCATION_OF_THE_EXECUTABLE -arch x86_64 -l MEMORY_ADDRESS_OF_THE_CRASH`
 
 Example:
 
-     atos -o IPLocationMini.app/Contents/MacOS/IPLocationMini -arch x86_64 -l 0x10b6ec000 0x000000010b70192a
+`atos -o IPLocationMini.app/Contents/MacOS/IPLocationMini -arch x86_64 -l 0x10b6ec000 0x000000010b70192a`
 
 ###### Note
 
 The memory address for:
 
-    0 com.valentinourbano.IPLocationMini 0x000000010b70192a 0x10b6ec000 + 88362
+`0 com.valentinourbano.IPLocationMini 0x000000010b70192a 0x10b6ec000 + 88362`
 
 To paste in the terminal is:
 
-    0x10b6ec000 0x000000010b70192a
+   `0x10b6ec000 0x000000010b70192a`
 
 (Notice the space)
 
 The address for the executable is:
 
-    AppName.app/Contents/MacOS/AppName
+`AppName.app/Contents/MacOS/AppName`
 
 ## Resolution
 

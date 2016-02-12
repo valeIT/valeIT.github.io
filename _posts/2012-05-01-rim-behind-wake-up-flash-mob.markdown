@@ -14,7 +14,7 @@ After few days wondering if Samsung was behind the wake up flash mob and its den
 
 I do agree with [Michael Schechter][1]:
 
-> "\[I\] can't help but feel that RIM would have been better served having the flash mob show up at their own offices."
+> "I can't help but feel that RIM would have been better served having the flash mob show up at their own offices."
 > 
 
 

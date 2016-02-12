@@ -19,4 +19,4 @@ Try to choose a simple thing to do now and lose yourself in it, you'll feel bett
 Trust me, Just try. And then [let me know][0].
 
 
-[0]: http://www.valentinourbano.com/about/
+[0]: /about/

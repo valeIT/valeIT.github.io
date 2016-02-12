@@ -10,6 +10,4 @@ categories:
 author: Valentino Urbano 
 ---
 
-# 
-
 I've always been a fan of "The Lord Of The Rings" trilogy and i can't wait to see the Hobbit in the theatre later this year.

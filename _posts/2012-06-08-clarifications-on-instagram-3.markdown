@@ -10,13 +10,13 @@ categories:
 author: Valentino Urbano 
 ---
 
-\#\#\#\#\#\#Disclaimer:
+######Disclaimer:
 
 This is a follow up of my previous 2 posts:
 
-1st - <a href="http://anythingapple.altervista.org/2012/04/facebook-buys-instagram-for-a-billion/"\>Facebook buys instagram for a billion</a\>
+1st - [Facebook buys instagram for a billion](/facebook-buys-instagram-for-a-billion.html)
 
-2nd - <a href="[http://anythingapple.altervista.org/2012/04/clarifications-on-instagram/][0]\>Clarifications On Instagram</a\>
+2nd - [Clarifications On Instagram](/clarifications-on-instagram.html)
 
 ---
 
@@ -27,5 +27,5 @@ Instagram for iPhone had set a specific _(pretty high)_ minimum standard of qual
 Android phones on the other hand can be everything, from the chineese crappy 50$ tablet (with a 0.2 Megapixels front facing camera) to a Samsung galxy nexus, which [sucks anyway][1].
 
 
-[0]: http://www.myshar.org/clarifications-on-instagram/
+[0]: /clarifications-on-instagram.html
 [1]: https://twitter.com/#!/gruber/status/187349393492549634

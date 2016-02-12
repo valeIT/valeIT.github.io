@@ -12,5 +12,4 @@ author: Valentino Urbano
 
 [WWDC][0] sold out in just 2 hours.
 
-
 [0]: https://developer.apple.com/wwdc/

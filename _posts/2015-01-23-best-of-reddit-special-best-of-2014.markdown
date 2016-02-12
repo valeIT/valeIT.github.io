@@ -16,7 +16,7 @@ author: Valentino Urbano
 > 
 > I'd bet that the quality of this panel is gonna vary a lot on a week by week basis, but I hope that overall it's gonna be worthwile --- you'll be the judge of that.
 
-\[Not from TIL[1][1]\]
+[Not from TIL[^1]]
 
 After a month hiatus from this column I couldn't leave you hanging with no Extras. Know that another extra is sheduled for next week, if all is good...
 
@@ -64,16 +64,15 @@ He got way more users than what he lost.
 
 • [God and Lucifer playing Chess.][20]
 
-I'm sure that I've missed a bunch of them but that's it for 2014\. See you next week for another Issue of "Best of Reddit". [2][21]
+I'm sure that I've missed a bunch of them but that's it for 2014. See you next week for another Issue of "Best of Reddit". [^2]
 
 ---
 
-1. I decided not to include anything from Today I Learned subreddit since it's just a link to an outside source, unless the comments in itself can summarize the topic in its integrity. I also decided not to include "The Fappening", not only because it has been removed from Reddit a short time after the fact, but also because I'm not keen on invading the privacy of other people. Such high morals... XD[↩][22]
-2. Hope I won't have to change the name to "Worst of Reddit", but it doesn't seem the case. Reddit is still up there producing amazing hilariously content, and also more serious one --- from time to time.[↩][23]
+[^1]: I decided not to include anything from Today I Learned subreddit since it's just a link to an outside source, unless the comments in itself can summarize the topic in its integrity. I also decided not to include "The Fappening", not only because it has been removed from Reddit a short time after the fact, but also because I'm not keen on invading the privacy of other people. Such high morals... XD
+[^2]: Hope I won't have to change the name to "Worst of Reddit", but it doesn't seem the case. Reddit is still up there producing amazing hilariously content, and also more serious one --- from time to time.
 
 
-[0]: http://www.myshar.org/best-of-reddit-introduction/
-[1]: #f1-111414
+[0]: /best-of-reddit-introduction/
 [2]: http://www.reddit.com/r/talesfromtechsupport/comments/28qemm/dont_bother_sending_a_tech_ill_be_dead_by_then/
 [3]: http://www.reddit.com/r/tifu/comments/1yf68c/tifu_by_having_gay_sex_with_my_cousin_when_i_was/
 [4]: http://www.reddit.com/r/AskReddit/comments/1rwouq/what_piece_of_stand_up_comedy_10_minutes_or_less/
@@ -93,6 +92,3 @@ I'm sure that I've missed a bunch of them but that's it for 2014\. See you next 
 [18]: http://www.reddit.com/r/talesfromtechsupport/comments/24jme8/so_this_just_happened
 [19]: http://www.reddit.com/r/Anarchism/comments/2cjlop/gamma_international_leaked/
 [20]: https://www.reddit.com/r/WritingPrompts/comments/23n2zr/wp_two_godlike_beings_disguised_as_old_men_play_a/cgyprtt
-[21]: #f2-012615
-[22]: #r1-111414
-[23]: #r2-012615

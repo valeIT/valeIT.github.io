@@ -14,13 +14,13 @@ Provide a completely different layout (using different CSS files) for each categ
 
 **Tablets**
 
-![]({{ site.baseurl }}/assets/ipad-flash-100129-6.png)
+![flash]({{ site.baseurl }}/assets/article_images/ipad-flash-100129-6.png)
 
-Tablets should be treated just like a PC. With a tablet you can surf the web the same way you do on a PC [\[1\]][0] so there's absolutely no reason to provide a different layout.
+Tablets should be treated just like a PC. With a tablet you can surf the web the same way you do on a PC [^1] so there's absolutely no reason to provide a different layout.
 
 **Smartphones**
 
-![]({{ site.baseurl }}/assets/iphone-safari-web-browser.jpg)
+![smartphones]({{ site.baseurl }}/assets/article_images/iphone-safari-web-browser.jpg)
 
 A different case is a smartphone, which the biggest is 5.1' - [galaxy note][1] ( if you consider it a smartphone) or 4.6' if you consider the [galaxy nexus][2] (the iPhone is 3.5').
 
@@ -36,22 +36,20 @@ We need a crossplatform solution.
 
 **My solution**
 
-The solution/compromise I've found with this site is to provide a desktop experience on every device by default provind a version in plain text using readability \[[2][3]\] , which supports every platform.
+The solution/compromise I've found with this site is to provide a desktop experience on every device by default provind a version in plain text using readability [^2] , which supports every platform.
 
 You can find the button to switch to the readability view on top of every article, and if you're logged it you can also save the full article to read later with just one click.
 
 ---
 
   
-1\. [Apart][4] from [flash][5] [content][6] on the iPad.  
+[^1]: [Apart][4] from [flash][5] [content][6] on the iPad.  
   
-2\. Of course if you're on iOs you can use reader instead as mentioned before.
+[^2]: Of course if you're on iOs you can use reader instead as mentioned before.
 
 
-[0]: #iPad
 [1]: http://www.samsung.com/global/microsite/galaxynote/note/image01.html?type=find
 [2]: http://www.google.it/nexus/
-[3]: #2
 [4]: http://www.apple.com/hotnews/thoughts-on-flash/
 [5]: http://www.adobe.com/support/flashplayer/downloads.html
 [6]: http://blogs.adobe.com/conversations/2011/11/flash-focus.html

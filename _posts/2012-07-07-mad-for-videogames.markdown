@@ -10,8 +10,6 @@ categories:
 author: Valentino Urbano 
 ---
 
-# 
-
 I watched this [video][0] a few days ago. He is so immersed in this game to not even recognise his own voice.
 
 

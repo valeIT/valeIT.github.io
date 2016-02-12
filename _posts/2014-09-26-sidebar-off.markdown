@@ -12,14 +12,8 @@ author: Valentino Urbano
 
 Moving towards minimalism I realized that the sidebar wasn't really needed for anything at all, apart aesthetic.
 
-All the content present there is easily available either in the menu above every page [1][0].
+All the content present there is easily available either in the menu above every page [^1].
 
 ---
 
-1. The [contact][1] and/or [archive][2] pages to be precise. [↩][3]
-
-
-[0]: #f1-092614
-[1]: ../about
-[2]: ../archive
-[3]: #r1-092614
+1. The contact and/or archive pages to be precise. 

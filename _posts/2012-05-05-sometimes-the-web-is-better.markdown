@@ -26,15 +26,14 @@ It makes no sense to me, even now it's faster to open up safari and simply digit
 
 If you use an app you have to go to the app store, find the app, tap on the download button, wait for the download process to complete, open the app, find liquid digit 6 switch to gallons to liters. 6 steps.
 
-If you have the app already installed it' makes sense, because the only thing you do is to open it up, find liquid\[[1][0]\] and digit the values. 2 steps.
+If you have the app already installed it' makes sense, because the only thing you do is to open it up, find liquid[^1] and digit the values. 2 steps.
 
 But if you use it occasionally, as i do, is it still worth? It depends on your personal opinion, but for me it's not. I'll keep using [DuckDuckGo][1] instead.
 
 ---
 
   
-1.Not always necessary, so i reduced it to 2 steps.
+[^1]: Not always necessary, so i reduced it to 2 steps.
 
 
-[0]: #1
-[1]: http://anythingapple.altervista.org/2012/02/the-new-google/
+[1]: /the-new-google.html

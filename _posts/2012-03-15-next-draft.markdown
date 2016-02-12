@@ -10,7 +10,7 @@ categories:
 author: Valentino Urbano 
 ---
 
-If you only follow one email newsletter make sure it's Dave Pell's one.\[[1][0]\]
+If you only follow one email newsletter make sure it's Dave Pell's one.[^1]
 
 It provides exactly what the state on his site:
 
@@ -23,8 +23,7 @@ Ok he's a bit boastful, but just a bit._ironic_
   
 ---
 
-1.It's Free.
+[^1]: It's Free.
 
 
-[0]: #1
 [1]: http://nextdraft.com

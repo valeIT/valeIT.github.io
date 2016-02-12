@@ -14,7 +14,7 @@ author: Valentino Urbano
 
 No other has ever gone so far - yet.
 
-![Earth]({{ site.baseurl }}/assets/main-qimg-58cffbbee4a9881887e0c1b382328c6d)
+![Earth]({{ site.baseurl }}/assets/article_images/main-qimg-58cffbbee4a9881887e0c1b382328c6d)
 
 It has inspired many deep thoughts such this one from Dr. Carl Sagan:
 

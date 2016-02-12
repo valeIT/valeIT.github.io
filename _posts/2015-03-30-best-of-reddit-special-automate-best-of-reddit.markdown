@@ -19,37 +19,37 @@ The Issue published the last time, as you might have noticed from its length and
 **I present you: [Best of Reddit][0].**
 Navigation
 
-[What ][1]
+[What ][#what]
 
-[Dependencies ][2]
+[Dependencies][#dependencies]
 
-[Install][3]
+[Install][#install]
 
-[Input Files][4]
+[Input Files][#input-files]
 
-[Extras ][5]
+[Extras ][#extras]
 
-[Run It ][6]
+[Run It ][#run-it]
 
-[The Actual Script][7]
+[The Actual Script][#the-actual-script]
 
-[FAQ ][8]
+[FAQ ][#faq]
 
 ## What
 
-Best of Reddit is a small python script (just a self contained file really) that I've written to automate the posting of "Best of Reddit" threads, or better said the scraping part of it --- every link still needs to be checked before being sent out in the wild, and it needs to include my personal impressions so I still have to go over it one by one myself. The script though makes the rest of it way easier. \[I'm still unsure if i'm going to actually use it consistently every week, or if I'm going to keep doing it manually (as I've done so far --- apart from the previous Issue)\].
+Best of Reddit is a small python script (just a self contained file really) that I've written to automate the posting of "Best of Reddit" threads, or better said the scraping part of it --- every link still needs to be checked before being sent out in the wild, and it needs to include my personal impressions so I still have to go over it one by one myself. The script though makes the rest of it way easier. [I'm still unsure if i'm going to actually use it consistently every week, or if I'm going to keep doing it manually (as I've done so far --- apart from the previous Issue)].
 
 A one liner description would be:
 
 **"Best of Reddit" scrapes Reddit using the official [APIs][9] and packs the results in a [markdown][10] formatted .txt file.**
 
-That's it.It uses a few .txt support files for basic configuration and it can be run from [Keyboard Maestro][11] if you want to automate it all further to just a keyboard shortcut or schedule it to run every week at a specific time, but let's proceed in order.[1][12] The script as it is runs every Friday morning, but it can be changed easily to run every day of the week or once a month even, you would need to change it manually if you'd like to do so, but it's fairly easy.
+That's it.It uses a few .txt support files for basic configuration and it can be run from [Keyboard Maestro][11] if you want to automate it all further to just a keyboard shortcut or schedule it to run every week at a specific time, but let's proceed in order.[^1] The script as it is runs every Friday morning, but it can be changed easily to run every day of the week or once a month even, you would need to change it manually if you'd like to do so, but it's fairly easy.
 
 ## Dependencies
 
-The only dependency is [praw][13], which is what I use to access Reddit APIs. Nothing more --- well apart from python itself of course.[2][14]
+The only dependency is [praw][13], which is what I use to access Reddit APIs. Nothing more --- well apart from python itself of course.[^2]
 
-`Best of Reddit` has been tested to work with either python 2.7.8/2.7.9 and python 3.4.\* Open an issue on Bitbucket if for any reason it doesn't work on your machine.
+`Best of Reddit` has been tested to work with either python 2.7.8/2.7.9 and python 3.4.* Open an issue on Bitbucket if for any reason it doesn't work on your machine.
 
 If you have pip installed, you can get praw by opening your terminal window and run `pip install praw`. If you don't you can either use `easy_install pip` to install pip and than follow the previous step (recommended) or just install it through easy\_install (bad) `easy_install praw`.
 
@@ -74,7 +74,7 @@ Template.txt
 
 * `gettop25subweekly.py` is the actual script file, more on it later...
 * `Last_Time.txt` is updated after every run and it contains the number of the previous issue (set to 12 at the moment).
-* `subs.txt` is the list (one item each line) of the subreddits to parse. It contains the name of the subreddits --- one per line --- not the URL[3][17].
+* `subs.txt` is the list (one item each line) of the subreddits to parse. It contains the name of the subreddits --- one per line --- not the URL[^3].
 * `Template.txt` is the header for the txt file that will get generated, you can modify it as you wish, just make sure not to touch the first line. That's because the x is going to get replaced by the current number of the "Issue --- " if you don't want that to happen let me know and I'll update it.
 
 ## Output files
@@ -99,9 +99,9 @@ Easter egg (well not really an easter egg, cause it's hidden in plain sight and 
 
 ## Run it
 
-To run it at a specific time (every week) I set up an action with Keyboard Maestro to run it as shell script [4][19].
+To run it at a specific time (every week) I set up an action with Keyboard Maestro to run it as shell script [^4].
 
-![Keyboard Maestro Macro]({{ site.baseurl }}/assets/KeyboardMaestro%20-%20Best%20of%20Reddit.png)
+![Keyboard Maestro Macro]({{ site.baseurl }}/assets/article_images/KeyboardMaestro%20-%20Best%20of%20Reddit.png)
 
 The shell script is really bread and butter, just a cd and run:
 
@@ -257,16 +257,16 @@ This section will be updated as I get asked more questions.
 
 This is the first piece of code that I release to the world, so be wary of that. Thanks to [Brett Terpstra][24] for the inspiration.
 
-You can find the repository on [Bitbucket][15].[5][25]
+You can find the repository on [Bitbucket][15].[^5]
 
 ---
 
-1. I haven't updated it to pip, since it's just one .py file and it doesn't require anything more than praw to function. If there is the interest for me to post it there and package it up I'll likely do it, just let me know.  
-[↩][26]
-2. You may notice that I'm also importing `datetime` \[[Docs][27]\] to let it only run on Fridays only, but that's a standard python library both in 2.x and 3.x .[↩][28]
-3. Yes, those are the actual subreddits I check for this column. You can always suggest more and submit a pull request ;)[↩][29]
-4. Nope I'm not using github and I'm not going to use it [anytime][30] [soon][31] and nope, I'm not going to discuss any of this further.[↩][32]
-5. Since I wanted to run it from a specific folder every time and I'm too lazy to set it up as a variable.[↩][33]
+[^1]: I haven't updated it to pip, since it's just one .py file and it doesn't require anything more than praw to function. If there is the interest for me to post it there and package it up I'll likely do it, just let me know.  
+
+[^2]: You may notice that I'm also importing `datetime` ([Docs][27]) to let it only run on Fridays only, but that's a standard python library both in 2.x and 3.x .
+[^3]: Yes, those are the actual subreddits I check for this column. You can always suggest more and submit a pull request ;)
+[^4]: Nope I'm not using github and I'm not going to use it [anytime][30] [soon][31] and nope, I'm not going to discuss any of this further.
+[^5]: Since I wanted to run it from a specific folder every time and I'm too lazy to set it up as a variable.
 
 ---
 
@@ -299,37 +299,17 @@ Copyright (c) 2015 Valentino Urbano, http://myshar.org
 
 
 [0]: https://bitbucket.org/valentinoita/best-of-reddit-special-automate-best-of-reddit "Best of Reddit"
-[1]: #what
-[2]: #dependencies
-[3]: #install
-[4]: #input-files
-[5]: #extras
-[6]: #run-it
-[7]: #actual-script
-[8]: #faq
 [9]: https://www.reddit.com/dev/api
 [10]: http://daringfireball.net/projects/markdown/
 [11]: http://www.keyboardmaestro.com/documentation/6/actions.html#actions_overview
-[12]: #f3-013015
 [13]: https://praw.readthedocs.org/en/
-[14]: #f1-020215
 [15]: https://bitbucket.org/valentinoita/best-of-reddit-special-automate-best-of-reddit
-[16]: #top-25
-[17]: #f2-012615
-[18]: #
-[19]: #f4-020215
 [20]: https://bitbucket.org/valentinoita/best-of-reddit-special-automate-best-of-reddit/issues/new
 [21]: https://bitbucket.org/valentinoita/best-of-reddit-special-automate-best-of-reddit/issues
 [22]: https://bitbucket.org/valentinoita/best-of-reddit-special-automate-best-of-reddit/
 [23]: https://bitbucket.org/valentinoita/best-of-reddit-special-automate-best-of-reddit/commits/all
 [24]: http://brettterpstra.com/projects/
-[25]: #f1-012615
-[26]: #r3-013015
 [27]: https://docs.python.org/2/library/datetime.html
-[28]: #r1-020215
-[29]: #r2-012615
 [30]: http://techcrunch.com/2014/03/16/github-julie-ann-horvath-response/
 [31]: http://techcrunch.com/2014/04/21/github-denies-allegations-of-gender-based-harassment-co-founder-preston-werner-resigns
-[32]: #r1-012615
-[33]: #r4-020215
 [34]: http://opensource.org/licenses/MIT

@@ -10,13 +10,11 @@ categories:
 author: Valentino Urbano 
 ---
 
-# 
-
 The Map is a revolutionary product that consists of creating a catalog listing all the species of animals and plants on Earth and include their location.
 
 The [Web version][0] is currently in beta, but thanks to [the verge][1] we have a screenshot:
 
-![Map]({{ site.baseurl }}/assets/mapp.jpg)
+![Map]({{ site.baseurl }}/assets/article_images/mapp.jpg)
 
 
 [0]: http://www.mappinglife.org/

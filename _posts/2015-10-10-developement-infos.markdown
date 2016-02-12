@@ -19,4 +19,4 @@ Feel free to follow it if you're interested.
 
 [Update]({ % post_url 2016-02-22-migrating-off-wordpress % })
 
-[0]: http://www.valentinourbano.com/
+[0]: /

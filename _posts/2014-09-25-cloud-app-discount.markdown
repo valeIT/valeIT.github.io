@@ -15,14 +15,12 @@ I have a discount code for [CloudApp][0] - 12 month subscription, first come fir
 **How to enter?**
 
 Simply send an [email][1] with the Subject:  
-CloudApp Code [1][2].
+CloudApp Code [^1].
 
 ---
 
-1. Make sure to include your email address of course.[↩][3]
+[^1]: I'll obviously send you the code on via email there so make sure to use an email address you actually check ;)
 
 
 [0]: https://www.getcloudapp.com
-[1]: mailto:mysh@myshar.org
-[2]: #f1-0926999
-[3]: #r1-0926999
+[1]: mailto:valentino@valentinourbano.com

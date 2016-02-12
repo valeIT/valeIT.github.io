@@ -23,13 +23,14 @@ author: Valentino Urbano
 
 There are many useful tips, i encourage you to read them, not only if you're planning on going to one of those cities this summer. But if you do it's a must read.
 
+**Update 2016-02-12:** Changed links to web archive since the website has been deleted.
 
-[0]: http://hntbat.com/
-[1]: http://hntbat.com/new-york
-[2]: http://hntbat.com/london
-[3]: http://hntbat.com/singapore
-[4]: http://hntbat.com/paris
-[5]: http://hntbat.com/melbourne
-[6]: http://hntbat.com/beijing
-[7]: http://hntbat.com/san-francisco
-[8]: http://hntbat.com/bangkok
+[0]: https://web.archive.org/web/20120309115518/http://hntbat.com/
+[1]: https://web.archive.org/web/20120313114122/http://hntbat.com/new-york
+[2]: https://web.archive.org/web/20120313114122/http://hntbat.com/london
+[3]: https://web.archive.org/web/20120313114122/http://hntbat.com/singapore
+[4]: https://web.archive.org/web/20120313114122/http://hntbat.com/paris
+[5]: https://web.archive.org/web/20120313114122/http://hntbat.com/melbourne
+[6]: https://web.archive.org/web/20120313114122/http://hntbat.com/beijing
+[7]: https://web.archive.org/web/20120313114122/http://hntbat.com/san-francisco
+[8]: https://web.archive.org/web/20120313114122/http://hntbat.com/bangkok
