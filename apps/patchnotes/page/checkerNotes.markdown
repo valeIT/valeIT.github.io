@@ -1,4 +1,4 @@
-##1.1.1
+## 1.1.1
 
 - [Dogechecker][0], [BlackChecker][1] and [LiteChecker][2] (and the bundle including all 3 versions) have been discounted! This will be the new price, since [CryptoChecker][3] is now available.
 

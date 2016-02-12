@@ -3,7 +3,7 @@ layout: page
 title: Minimal Counter Patch Notes
 ---
 
-##1.5
+## 1.5
 
 During these past few months I've been deep at work making the new version of Minimal Counter. You'll find that it has so many new features that it feels like a 2.0 without actually being one! I thought multiple times if I should call this 2.0 cause it really feels to me like a 2.0 release, but at a mere 5 months after the release it seems a bit premature. That said the version number is not that relevant, unless you go for paid upgrades which I wasn't going to for this version anyway.
 
@@ -13,7 +13,7 @@ Notice: Most of the new features require the Full Version. The update is free fo
 
 [More in depth explanations after the patch notes.]
 
-###Bug Fixes
+### Bug Fixes
 
 * FIX: Fixed Layout Issues on iPhone 6 Plus and iPhone 6S Plus on Landscape Mode
 * FIX: Fixed Layout Issues on iPads

@@ -13,7 +13,7 @@ title: IPLocation Patch Notes
 - NEW: Added option to also show the internal IP address.  
 - FIX: Fixed a crash on El. Captain (ATS)
 
-##1.2
+## 1.2
 
 
 Update 1.2 Fixes a critical issue with all versions of IPLocation that causes the internet connection to appear as offline.

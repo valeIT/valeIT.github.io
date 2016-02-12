@@ -3,7 +3,7 @@ layout: page
 title: QRCodePal Patch Notes
 ---
 
-##1.2.1
+## 1.2.1
 
 - The app has been permanently discounted to 0.99$ or equivalent.
 

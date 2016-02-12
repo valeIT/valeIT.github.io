@@ -3,7 +3,7 @@ layout: page
 title: Translatory Patch Notes
 ---
 
-##1.2
+## 1.2
 
 * FIX: Fixed a bug with the position of the banner.
 * NEW: Updated for iOS9!

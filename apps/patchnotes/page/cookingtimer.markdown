@@ -3,7 +3,7 @@ layout: page
 title: Cooking Timer Patch Notes
 ---
 
-##1.6 
+## 1.6 
 
 - FIX: Fixed a memory leak when cancelling an in-app purchase.  
 - FIX: Fixed a bug with the automatic sharing of a timer to the paired Apple Watch.  
@@ -24,7 +24,7 @@ title: Cooking Timer Patch Notes
 * NEW: Full support for iOS9!
 * NEW: WatchOS2 Support!
 
-\[**NOTICE**: This will break compatibility with WatchKit (AKA WatchOS1). If you are still on WatchKit refrain from updating until you upgrade to WatchOS2!!\]
+[**NOTICE**: This will break compatibility with WatchKit (AKA WatchOS1). If you are still on WatchKit refrain from updating until you upgrade to WatchOS2!!]
 
 * NEW: New picker for WatchOS!
 * NEW: You can now pick up the timer that you started on your iPhone from your Watch (not viceversa!!)!
@@ -56,7 +56,7 @@ title: Cooking Timer Patch Notes
 * NEW: Added possibility to unlock the pro version (which also remove ads!). Some New features may require the pro version in the future.
 * NEW: Introducing Custom Themes! (PRO) 5 great themes included in this release, each one carefully handpicked. Let me know what you think.
 * NEW: Added option to change the title of the timer while running. Off by default of course.
-* NEW: Added Knowledge Base section in Settings -\> Support.
+* NEW: Added Knowledge Base section in Settings -> Support.
 * NEW: Added a few basic animations in the Watch App.
 * NEW: Settings can be accessed also by swiping =)
 * NEW: Now supports up to 48 hours!

@@ -3,11 +3,11 @@ layout: page
 title: Percentage Change Calculator Patch Notes
 ---
 
-##1.1.1
+## 1.1.1
 
 - The app has been permanently discounted to 0.99$ or equivalent.
 
-##1.1
+## 1.1
 
 * Fixed a crash that might occur while trying to use the share sheet on iOS 8.x
 * Changed colors and text on certain elements to make them feel more natural
