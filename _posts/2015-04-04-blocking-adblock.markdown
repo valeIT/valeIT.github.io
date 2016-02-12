@@ -54,7 +54,7 @@ This is not really a script to block the access to the site, but invite the user
 
 **Check the height of your ad**
 
-\[Needs [jQuery][5]\].
+[Needs [jQuery][5]].
 
 Simply copy the `#id` of your ad and check the height:
 
@@ -70,7 +70,7 @@ For more just search on either google or StackOverflow for "blocking Adblock" or
 2. Content creators though are going to evolve one way or the other. We've seen it already through Memberships programs and such, but lately I've seen also ads embedded in videos on youtube --- like in the actual video, just to show the other face of the coin.[↩][7]
 
 
-[0]: #mine
+[0]: #my-current-method
 [1]: #f1-033015
 [2]: #f2-033015
 [3]: http://stackoverflow.com/questions/18180598/ad-blocker-detection-aka-Adblock-plus

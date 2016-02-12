@@ -16,10 +16,10 @@ I had an app rightfully rejected for using an advertiser identifier while I stat
 2. 
 Run:
 
-    
+    ```
     grep -r ASIdentifierManager .
     grep -r AdSupport.framework .
     grep -r advertisingIdentifier .
-    
+    ```
 
-\[Having the . at the end is important, don't delete that!\]
+[Having the . at the end is important, don't delete that!]
