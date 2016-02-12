@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Star Wars The Force Awakens "Review" \[SPOILERS!\]
+title: Star Wars The Force Awakens "Review" [SPOILERS!]
 date: 2015-12-20 17:46:49.000000000 +01:00
 type: post
 published: true
@@ -19,7 +19,7 @@ Watched it? Good. First things first, the movie is decent. I got into the theate
 * The characters and actors are really good. They play well together and the acting is top notch.
 * It's 100% designed from the ground up to have the feel of a classical Star Wars movie.
 
-The subjective point \[I personally liked the prequels, but for the people who didn't like them this can be added to 'the good points'\]:  
+The subjective point [I personally liked the prequels, but for the people who didn't like them this can be added to 'the good points']:  
 - It's 100% designed not to be like the prequels.
 
 ## The bad points:

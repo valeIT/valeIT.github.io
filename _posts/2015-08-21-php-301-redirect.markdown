@@ -18,4 +18,4 @@ In the `head` section add (obviously between php opening and closing tags):
 
     
     header("HTTP/1.1 301 Moved Permanently"); 
-    header("Location: http://www.myshar.org/faucet");
+    header("Location: http://www.valentinourbano.com");

@@ -10,6 +10,8 @@ categories:
 author: Valentino Urbano 
 ---
 
+**Update 2016-02-12**: Notice that email RSS will be shut down soon. [More Info](% post_url 2016-02-21-migrating-off-wordpress %})
+
 If you'd prefer to subscribe via email, instead of plain RSS you can do so [here][0]. You will find the link in the top menu as well from now on.
 
 
