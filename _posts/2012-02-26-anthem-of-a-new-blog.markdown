@@ -22,7 +22,6 @@ Since then i wanted to start a new project on a whole different topic, to focus 
 
 **Apple**
 
-[![old phone]({{ site.baseurl }}/assets/article_images/Original_iPhone_docked-198x300.jpg)][8][![old samsung]({{ site.baseurl }}/assets/article_images/samsung-j700-2-300x225.jpg)][9]
 
 [iPhone 2g | Samsung J-700]
 

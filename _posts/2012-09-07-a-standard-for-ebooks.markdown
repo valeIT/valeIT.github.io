@@ -14,7 +14,6 @@ This year has been predicted to be _the year of the ebooks_, when the ebooks wou
 
 There are way too many e-readers out there with their own proprietary formats, each one incompatible with the others: Apple with .ibooks and .epub, Amazon with .mobi, Barnes and Nobles with .epub and others) - with a very few exceptions (.pdf).
 
-![kindle]({{ site.baseurl }}/assets/article_images/kindle-4.jpg)
 
 #### How to innovate
 

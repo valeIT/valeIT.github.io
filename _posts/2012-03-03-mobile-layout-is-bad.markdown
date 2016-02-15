@@ -14,13 +14,9 @@ Provide a completely different layout (using different CSS files) for each categ
 
 **Tablets**
 
-![flash]({{ site.baseurl }}/assets/article_images/ipad-flash-100129-6.png)
-
 Tablets should be treated just like a PC. With a tablet you can surf the web the same way you do on a PC [^1] so there's absolutely no reason to provide a different layout.
 
 **Smartphones**
-
-![smartphones]({{ site.baseurl }}/assets/article_images/iphone-safari-web-browser.jpg)
 
 A different case is a smartphone, which the biggest is 5.1' - [galaxy note][1] ( if you consider it a smartphone) or 4.6' if you consider the [galaxy nexus][2] (the iPhone is 3.5').
 

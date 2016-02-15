@@ -101,8 +101,6 @@ Easter egg (well not really an easter egg, cause it's hidden in plain sight and 
 
 To run it at a specific time (every week) I set up an action with Keyboard Maestro to run it as shell script [^4].
 
-![Keyboard Maestro Macro]({{ site.baseurl }}/assets/article_images/KeyboardMaestro%20-%20Best%20of%20Reddit.png)
-
 The shell script is really bread and butter, just a cd and run:
 
     

@@ -16,8 +16,6 @@ They are late at joining the 'social network game' so they're pushing hard on it
 
 **Monopoly**
 
-[![g plus]({{ site.baseurl }}/assets/article_images/google-search-plus-your-world-come-sfruttarlo-600x372.jpg)][3]
-
 Google is 10 years late in the social networking _game_ so they're trying to use their monopoly in search to pull this new service (but they're also spamming it in any other google service). The problem that google doesn't seem to understand is that doing so they're ruining their main business - web search.
 
 We can't deny that Google provides great search results, they're the best and its monipoly is well-deserved, because they provide better and more relevant results than anyone else but people don't take much time to switch to a better alternative, we've seen that with the iPhone. Just 5 years ago the phone industry was controlled by company like Palm and RIM, now they have -in aggregate- less than [10%][4] of the _phone_ market.
@@ -62,7 +60,6 @@ Update: Also david sparks on [Mac Sparky][17] switched to duckduckgo a month ago
 [0]: https://plus.google.com/
 [1]: https://wave.google.com/wave/
 [2]: http://www.slashgear.com/google-reader-social-sharing-features-moved-to-google-01192233/
-[3]: /the-new-google.html
 [4]: http://gs.statcounter.com/#mobile_vendor-ww-monthly-201101-201201
 [5]: http://shawnblanc.net/2012/02/duckduckgo-daily/
 [6]: http://shawnblanc.net/2012/01/dryburgh-duckduckgo/
