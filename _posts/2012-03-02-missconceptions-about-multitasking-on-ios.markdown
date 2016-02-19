@@ -118,9 +118,7 @@ But that's not the end of the story. He told my friend that an app was causing t
 
 Thanks God it was a "genius".
 
-[^2]: If you don't want to read all the extract it's all shown in this image:
-
-![ios]({{ site.baseurl }}/assets/article_images/high_level_flow.jpg)
+[^2]: If you don't want to read all the extract it's all shown in this image. [Image was deleted and no mirro available]
 
 
 [0]: https://twitter.com/#!/schwa/status/152425874581491712

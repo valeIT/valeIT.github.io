@@ -18,7 +18,6 @@ iOs 5 on november, 30 (it was released on october, 12) was adopted by almost 50%
 
 The most relevant news is that, as stated in a really good article by [pxldot][1], the adopt rate of gingerbread even now is much greater than ICS, it means that there are more new devices with gingerbread than with ics, but looking back:
 
-> [![Percent By Version]({{ site.baseurl }}/assets/article_images/Percent-by-Version-by-Weeks-After-Launch-600x300.png)][2]
 > 
 > It's clear that Gingerbread has disseminated into the market much more slowly than either of Froyo or Eclair. In fact, it took Gingerbread about 17 weeks longer to reach a version distribution milestone (10%, 20%, 30%) than its two predecessors. While it is too early to fairly judge ICS's trajectory, it certainly appears to have started at a slower pace than did Gingerbread (more on that later).
 
@@ -34,7 +33,6 @@ Update 3: New data from [david smith][6] on the adoption rate of iOs 5.1\. Hint:
 
 [0]: http://www.marco.org/2011/11/30/more-ios-device-and-os-version-stats-from-instapaper
 [1]: http://pxldot.com/post/18281312362/android-measuring-stick
-[2]: /android-fragmentation.html
 [3]: http://www.theverge.com/2012/1/16/2711490/charlie-kindel-google-has-already-lost-control-of-android-and-has
 [4]: http://www.theverge.com/2012/3/5/2846170/android-ice-cream-sandwich-delay-editorial
 [5]: http://www.theverge.com/2012/3/6/2849493/android-4-ice-cream-sandwich-marketshare-slow-growth

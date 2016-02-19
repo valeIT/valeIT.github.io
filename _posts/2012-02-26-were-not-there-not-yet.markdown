@@ -10,9 +10,9 @@ categories:
 author: Valentino Urbano 
 ---
 
-I've always thought an iPad would have been a great device for writers, at least with the addiction of a  physical keyboard (like the Apple Wireless Keyboard), but I was wrong. We're absolutely not there yet.
+**Note 2016-02-15**: All images were removed. No Mirrors.
 
-[![writing apps for ipad]({{ site.baseurl }}/assets/article_images/different-writing-apps-for-iPad-2.jpg)][0]
+I've always thought an iPad would have been a great device for writers, at least with the addiction of a  physical keyboard (like the Apple Wireless Keyboard), but I was wrong. We're absolutely not there yet.
 
 **Writing process on a touch device**
 
@@ -23,8 +23,6 @@ The  difficulties comes with links, images (media)  and quotes. When I'm writing
 In the end it's not a problem of the platform itself, it's an app problem, Touch devices still lacks of a definitive blogging app.
 
 **WordPress for iOs**
-
-[![wp]({{ site.baseurl }}/assets/article_images/home-ss1.jpg)][0]
 
 The official WordPress app  provides  just enough tools to let you write an article, but not enough to publish it just how you want it. It's great with plain test, but when images,links and quote comes, it fails miserably. I really can't get why it can't have a native [markdown][2] support, it would be a great step forward.
 
@@ -42,6 +40,5 @@ Let me know if you have any other idea or if you disagree.
 Update: I've tried WordPress Apps for few days now and they'really also way more buggy than I expected.
 
 
-[0]: /were-not-there-not-yet.html
 [1]: http://parislemon.com/post/17215781807/chrome-for-android-the-browser-for-the-1
 [2]: http://daringfireball.net/projects/markdown/

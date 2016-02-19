@@ -12,9 +12,7 @@ author: Valentino Urbano
 
 Any android phone and most of the tablets have soft touch buttons (the search button, the back button and the home button) and there are many rumors about a new [iPad][0] shipping without an hardware home button, but I'm not going to go further on speculations.[^1]
 
-![galaxy nexus]({{ site.baseurl }}/assets/article_images/galaxy-nexus-iphone-4s901v-600x398.jpg)
-
-[Image from [the verge][3]]
+[Image from [the verge][3] - The image was deleted on 2014.]
 
 Software buttons as everything have their highs and lows, I'm gonna cover the few ones _I think _are the more relevants to final users and to the handset makers.
 

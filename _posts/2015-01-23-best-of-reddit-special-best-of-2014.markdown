@@ -72,7 +72,7 @@ I'm sure that I've missed a bunch of them but that's it for 2014. See you next w
 [^2]: Hope I won't have to change the name to "Worst of Reddit", but it doesn't seem the case. Reddit is still up there producing amazing hilariously content, and also more serious one --- from time to time.
 
 
-[0]: /best-of-reddit-introduction/
+[0]: /best-of-reddit-introduction.html
 [2]: http://www.reddit.com/r/talesfromtechsupport/comments/28qemm/dont_bother_sending_a_tech_ill_be_dead_by_then/
 [3]: http://www.reddit.com/r/tifu/comments/1yf68c/tifu_by_having_gay_sex_with_my_cousin_when_i_was/
 [4]: http://www.reddit.com/r/AskReddit/comments/1rwouq/what_piece_of_stand_up_comedy_10_minutes_or_less/

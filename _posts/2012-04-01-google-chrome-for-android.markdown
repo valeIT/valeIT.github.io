@@ -10,29 +10,22 @@ categories:
 author: Valentino Urbano 
 ---
 
+**Note 2016-02-15**: The images have been all deleted since they returned 404 and no mirror was available.
+
 I've just updated my hp touchpad to ice cream sandwich and the first thing i've done on the new os was downloading chrome (which is only compatible with ICS).
 
 I used int for a few days, here's few screenshoot of the app running on my hp touchpad.
 
 Settings
 
-![image]({{ site.baseurl }}/assets/article_images/wpid-1333548748960.png)
 
 The favourite tab
 
-![image]({{ site.baseurl }}/assets/article_images/wpid-1333548840120.png)
-
 Google's homepage enhanced for tablets
-
-![image]({{ site.baseurl }}/assets/article_images/wpid-1333548680912.png)
 
 Most visited sites
 
-![image]({{ site.baseurl }}/assets/article_images/wpid-1333548890049.jpg)
-
 Other devices tab
-
-![image]({{ site.baseurl }}/assets/article_images/wpid-1333548430711.png)
 
 **Beta**
 

@@ -19,7 +19,7 @@ Most applications are available in English, Italian and Polish so far.
 <br><br>
 {{ member.description }}   
     
-{% if member.bundleName %}Included in [{{ member.bundleName }}]({{bundleLink }}) bundle.{% endif %}
+{% if member.bundleLink %}Included in [{{ member.bundleName }}]({{ member.bundleLink }}) bundle.{% endif %}
 {% endif %}
 
 {% endfor %}

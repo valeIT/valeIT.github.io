@@ -17,6 +17,6 @@ Until now I didn't have a place to share release notes ahead of time and alike. 
 Feel free to follow it if you're interested.
 </del>
 
-[Update]({ % post_url 2016-02-22-migrating-off-wordpress % })
+[Update]({ % post_url 2016-02-21-migrating-off-wordpress % })
 
 [0]: /
