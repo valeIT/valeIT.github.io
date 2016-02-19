@@ -867,7 +867,7 @@ The post has been deleted, [here's][118] a mirror. And another [article][119] ab
 [46]: http://www.nateberkopec.com/2015/07/29/scaling-ruby-apps-to-1000-rpm.html
 [47]: http://gyrovague.com/2015/07/29/crashes-only-on-wednesdays/
 [48]: https://medium.com/@716Labs/7-open-source-ios-controls-that-helped-us-launch-the-gifpitch-app-c3d6a01bb8b3
-[49]: http://www.settheory.net/
+[49]: http://web.archive.org/http://www.settheory.net/
 [50]: http://bokken.re/index.html
 [51]: https://inguma.eu/projects/bokken/repository
 [52]: http://alistapart.com/column/job-hunting-for-web-designers-and-developers

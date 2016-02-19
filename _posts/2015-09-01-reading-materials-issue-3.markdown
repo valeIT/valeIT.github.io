@@ -315,7 +315,7 @@ Safari 9 Prerelase Notes
 [6]: https://medium.com/@aaron10buuren/designing-for-and-with-color-blindness-48392aab3d87
 [7]: http://thesweetsetup.com/apps/best-read-it-later-service/
 [8]: http://ethanschoonover.com/solarized
-[9]: http://makingiants.com/blog/xcode-shortcuts-easy-liberate-yourself-from-clicks-on-those-tinny-horrible-buttons-forever-smile-/
+[9]:  http://web.archive.org/http://makingiants.com/blog/xcode-shortcuts-easy-liberate-yourself-from-clicks-on-those-tinny-horrible-buttons-forever-smile-/
 [10]: http://randsinrepose.com/archives/please-learn-to-write/
 [11]: http://wtfjs.com
 [12]: http://www.reddit.com/r/todayilearned/comments/3d2xvs/til_that_when_it_was_time_to_make_pokemon_stadium/

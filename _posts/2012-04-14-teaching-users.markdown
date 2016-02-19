@@ -25,5 +25,5 @@ So an actual news. That's why i'm using [1password][2] and i've completely[^1] t
 
 
 [0]: http://www.codinghorror.com/blog/2007/09/youre-probably-storing-passwords-incorrectly.html
-[1]: http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=59a03a48-3584-465e-8072-a254ec933b32
+[1]:  http://web.archive.org/http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=59a03a48-3584-465e-8072-a254ec933b32
 [2]: https://agilebits.com/onepassword
