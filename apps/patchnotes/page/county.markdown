@@ -3,6 +3,11 @@ layout: page
 title: County Patch Notes
 ---
 
+## 1.2
+
+- FIX: Fixed color of the text color picker.
+- FIX: Fixed two issues while selecting an image
+
 ## 1.1
 
 * FIX: Drastically reduced app size!

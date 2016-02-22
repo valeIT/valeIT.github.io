@@ -3,6 +3,52 @@ layout: page
 title: IPLocation Patch Notes
 ---
 
+## 1.4
+
+- NEW: Added the ability to copy the internal IP to clipboard.
+- NEW: Added a second kind of flags (available from Preferences). Please note that not all countries are available. If your location flag is not available, it will automatically switch to the default kind of flag. Note that the image gets updated only if your IP changes to limit battery consumption, so you might need to restart the app if you want the change to be shown right away.
+
+List of Unavailable Countries (Updated on February 2016):
+
+BV: Bouvet Island
+CC: Cocos (Keeling) Islands
+CK: Cook Islands
+CX: Christmas Island
+FK: Falkland Islands (Islas Malvinas)
+GU: Guam
+HM: Heard & McDonald Islands 
+IO: British Indian Ocean Territory
+MH: Marshall Islands
+MP: Northern Mariana Islands
+NF: Norfolk Island
+PN: Pitcairn Islands
+UM: United States Minor Outlying Islands
+VI: United States Virgin Islands
+AS: American Samoa
+IM : Isle of Man
+PS : Palestine Territories 
+CW : Curacao
+SS : South Sudan
+ZM : Zambia
+GF : French Guiana
+PF : French Polynesia
+FT : French Southern Territories
+LK : Sri Lanka
+NR : Nauru
+GP : Guadeloupe
+
+- FIX: Updated Copyright section for 2016 =)
+- FIX: Fixed a layout issue on small displays.
+
+## 1.3 + 1.3.1
+
+- FIX: Fixed more than 10 minor bugs
+- FIX: Fixed a major layout bug with the text overlapping with the map.
+- FIX: Fixed a major bug with "run at startup" for NON MAS version.
+- FIX: Fixed a minor bug with automatic updates.
+- FIX: Fixed a minor bug when setting the flag.
+- NEW: Added fully automatic updates for NON MAS version (Check in Preferences)!
+
 ## 1.2.3
 
 - FIX: Fixed a crash on all versions -\> Code Signing

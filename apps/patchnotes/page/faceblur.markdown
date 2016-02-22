@@ -3,6 +3,10 @@ layout: page
 title: FaceBlur Patch Notes
 ---
 
+## 1.2
+
+- FIX: Fixed an issue while selecting an image
+
 ## 1.1
 
 * FIX: Removed a few placeholder that slipped in 1.0

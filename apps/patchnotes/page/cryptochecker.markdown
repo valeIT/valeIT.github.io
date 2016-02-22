@@ -3,6 +3,12 @@ layout: page
 title: CryptoChecker Patch Notes
 ---
 
+## 1.1
+
+- FIX: Fixed another bug retrieving data for the table
+- FIX: Better error reporting
+- FIX: Greatly improved error handling
+
 ## 1.0.3
 
 * FIX: Fixed a bug retrieving data for the table
