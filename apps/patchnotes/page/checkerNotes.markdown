@@ -1,3 +1,25 @@
+
+## 1.3.1
+
+- FIX: Minor bug fixes
+
+## 1.3
+
+- NEW: WatchOS2 Support! 
+
+[**NOTICE**: This will break compatibility with WatchKit (AKA WatchOS1). If you are still on WatchKit refrain from updating until you upgrade to WatchOS2!!]
+
+- NEW: iOS9 Support!
+
+## 1.2
+
+- FIX: Improved Error Handling
+- FIX: Better Layout for Apple Watch under certain conditions
+- FIX: Other Minor Fixes
+- FIX: Fixed a crash under certain network conditions on WatchOS2
+- FIX: Fixed a bug with the layout of the Watch App.
+- FIX: Better error reporting
+
 ## 1.1.1
 
 - [Dogechecker][0], [BlackChecker][1] and [LiteChecker][2] (and the bundle including all 3 versions) have been discounted! This will be the new price, since [CryptoChecker][3] is now available.
