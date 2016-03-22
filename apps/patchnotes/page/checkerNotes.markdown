@@ -2,6 +2,7 @@
 ## 1.3.1
 
 - FIX: Minor bug fixes
+- FIX: Improved Loading Screen
 
 ## 1.3
 

@@ -3,11 +3,16 @@ layout: page
 title: CryptoChecker Patch Notes
 ---
 
+# 1.2
+
+- FIX: The title of the cryptocurrency would get truncated in some case, if it was too long, not it scales down.
+
 ## 1.1
 
 - FIX: Fixed another bug retrieving data for the table
 - FIX: Better error reporting
 - FIX: Greatly improved error handling
+- FIX: Improved launch screen
 
 ## 1.0.3
 

@@ -3,6 +3,13 @@ layout: page
 title: County Patch Notes
 ---
 
+## 1.3
+
+- FIX: Add support for iPad Pro
+- FIX: Fixed settings layout
+- FIX: Fixed launch screen
+- NEW: Changed Default Color scheme
+
 ## 1.2
 
 - FIX: Fixed color of the text color picker.

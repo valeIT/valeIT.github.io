@@ -3,6 +3,11 @@ layout: page
 title: Translatory Patch Notes
 ---
 
+## 1.3
+
+- FIX: Added a voice in the tutorial about the Speak function not working in silent mode.
+- FIX: Improved launch screen 
+
 ## 1.2
 
 * FIX: Fixed a bug with the position of the banner.

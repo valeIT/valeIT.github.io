@@ -3,6 +3,18 @@ layout: page
 title: Minimal Counter Patch Notes
 ---
 
+## 1.6
+
+- FIX: Fixed a possible crash while loading the background color of the counter screen. 
+- FIX: Fixed a crash for free user occurring during a background fetch.
+- FIX: Added "Internet connection not available" in Settings screen if offline.
+
+- NEW: All new archive feature! You can now archive your Counters if you finished with them, but you don't want to delete them (maybe to keep them as memories or proud moments: "Hey look, I managed to do this!").
+- NEW: All new statistics! Find out how many goals you have completed and more from "Settings" -> "Account" -> "Statistics".
+- NEW: Added spotlight search! Get brought directly in your full screen counter!
+- NEW: New delicious confettis will drop from all over your screen instead of fireworks. You can always switch back to fireworks from "Settings" -> "Advanced".
+- NEW: Icon Badge for the top counter (Off by default, you can turn it on from "Settings" -> "Advanced")
+
 ## 1.5
 
 During these past few months I've been deep at work making the new version of Minimal Counter. You'll find that it has so many new features that it feels like a 2.0 without actually being one! I thought multiple times if I should call this 2.0 cause it really feels to me like a 2.0 release, but at a mere 5 months after the release it seems a bit premature. That said the version number is not that relevant, unless you go for paid upgrades which I wasn't going to for this version anyway.

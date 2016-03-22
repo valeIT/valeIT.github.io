@@ -9,7 +9,7 @@ title: Percentage Change Calculator Patch Notes
 - FIX: Fixed a bug occurring when a textfield was empty.
 - NEW: Now supports decimals.
 - NEW: iOS9 Support!
-- 
+
 ## 1.1.1
 
 - The app has been permanently discounted to 0.99$ or equivalent.

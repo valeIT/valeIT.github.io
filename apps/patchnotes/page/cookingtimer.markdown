@@ -3,6 +3,14 @@ layout: page
 title: Cooking Timer Patch Notes
 ---
 
+## 1.8
+
+- NEW: In-app purchases removed! Everything is now included in the app price. You will find all features unlocked and all ads removed! Enjoy =)
+
+## 1.7
+
+- NEW: New loading screen
+
 ## 1.6 
 
 - FIX: Fixed a memory leak when cancelling an in-app purchase.  
