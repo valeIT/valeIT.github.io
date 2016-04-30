@@ -3,6 +3,9 @@ layout: page
 title: Minimal Counter Patch Notes
 ---
 
+##1.7
+- Backend and seamless Sync migration (you should experience no downtime and no changes at all).
+
 ## 1.6
 
 - FIX: Fixed a possible crash while loading the background color of the counter screen. 
