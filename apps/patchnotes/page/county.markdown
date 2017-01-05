@@ -3,6 +3,17 @@ layout: page
 title: County Patch Notes
 ---
 
+## 1.5
+
+- FIX: Fixed bug with reward screen 
+- FIX: Fixed bug when creating a new event
+- FIX: Improved iOS 10 support
+
+## 1.4
+
+- NEW: Added reward screen
+- FIX: Minor bug fixes
+
 ## 1.3
 
 - FIX: Add support for iPad Pro

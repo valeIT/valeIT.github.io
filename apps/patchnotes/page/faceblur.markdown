@@ -3,6 +3,10 @@ layout: page
 title: FaceBlur Patch Notes
 ---
 
+## 1.4
+
+- FIX: Improved iOS 10 support
+
 ## 1.3
 
 - FIX: Fixed rotation bug that might occur to certain photos taken in Portrait mode.
