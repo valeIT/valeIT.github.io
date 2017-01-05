@@ -3,6 +3,10 @@ layout: page
 title: Cooking Timer Patch Notes
 ---
 
+## 1.9
+
+- FIX: improved iOS 10 and WatchOS 2 Support
+
 ## 1.8
 
 - NEW: In-app purchases removed! Everything is now included in the app price. You will find all features unlocked and all ads removed! Enjoy =)
