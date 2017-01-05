@@ -3,6 +3,10 @@ layout: page
 title: Percentage Change Calculator Patch Notes
 ---
 
+## 1.3
+
+- FIX: Improved iOS 10 support
+
 ## 1.2
 
 - FIX: Textfields now dismiss as intended

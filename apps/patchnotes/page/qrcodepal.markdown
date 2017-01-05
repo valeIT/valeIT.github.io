@@ -3,6 +3,14 @@ layout: page
 title: QRCodePal Patch Notes
 ---
 
+## 1.4
+
+- FIX: Improved iOS 10 support
+
+## 1.3
+
+- FIX: Minor bug fixes
+
 ## 1.2.1
 
 - The app has been permanently discounted to 0.99$ or equivalent.

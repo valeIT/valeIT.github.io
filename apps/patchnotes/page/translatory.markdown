@@ -3,6 +3,14 @@ layout: page
 title: Translatory Patch Notes
 ---
 
+## 1.5
+
+- Improved iOS 10 support
+
+## 1.4
+
+- Added from - to language reversal!
+
 ## 1.3
 
 - FIX: Added a voice in the tutorial about the Speak function not working in silent mode.
