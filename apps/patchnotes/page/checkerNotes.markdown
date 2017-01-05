@@ -1,3 +1,7 @@
+## 1.4
+
+- FIX: Fixed a possible crash when loading data rom the internet under certain conditions.
+- FIX: Updated for iOS 10 and improved Watch OS 2 support
 
 ## 1.3.1
 

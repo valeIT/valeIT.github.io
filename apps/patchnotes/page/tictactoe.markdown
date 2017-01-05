@@ -3,6 +3,12 @@ layout: page
 title: Tic Tac Toe Patch Notes
 ---
 
+## 1.2
+
+* FIX: Fixed Support Panel
+* FIX: Improved support for iOS 10 and Apple Watch 2
+* FIX: Changed app colors for better visibility on Apple Watch
+
 ## 1.1
 
 * NEW: Nuova Localizzazione in Italiano. Essendo Italiano mi è dispiaciuto non poter offrire la localizzazione per il rilascio. Se notate qualcosa fuori posto fatemelo sapere ;)
