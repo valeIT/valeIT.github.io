@@ -1,3 +1,9 @@
+## 1.5
+
+- FIX: Greatly improved error handling
+- FIX: Fixed minor network error
+- FIX: Improved response when getting corrupted data from the server
+
 ## 1.4
 
 - FIX: Fixed a possible crash when loading data rom the internet under certain conditions.

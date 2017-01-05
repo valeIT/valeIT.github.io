@@ -3,7 +3,13 @@ layout: page
 title: CryptoChecker Patch Notes
 ---
 
-# 1.2
+## 1.5
+
+- FIX: Improved iOS 10 support
+- FIX: Improved performance, reliability and networking
+- NEW: Better error handling + added ability to refresh, allowing you to always get the latest data
+
+## 1.2
 
 - FIX: The title of the cryptocurrency would get truncated in some case, if it was too long, not it scales down.
 
