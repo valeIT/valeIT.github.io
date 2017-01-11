@@ -3,12 +3,22 @@ layout: page
 title: Minimal Counter Patch Notes
 ---
 
-##1.7
+# 2.0
+
+- FIX: Improved iOS 10 Support
+- FIX: More than 20 minor bug fixes
+- FIX: Fixed multiple UI issue on smaller screens
+- FIX: Improved VoiceOver support
+- NEW: Whole new data layer [Full Only]
+
+Note: The server has been shut down, everything else works as before.  [Full Only]
+
+## 1.7
 - Backend and seamless Sync migration (you should experience no downtime and no changes at all).
 
 ## 1.6
 
-- FIX: Fixed a possible crash while loading the background color of the counter screen. 
+- FIX: Fixed a possible crash while loading the background color of the counter screen.
 - FIX: Fixed a crash for free user occurring during a background fetch.
 - FIX: Added "Internet connection not available" in Settings screen if offline.
 
@@ -22,7 +32,7 @@ title: Minimal Counter Patch Notes
 
 During these past few months I've been deep at work making the new version of Minimal Counter. You'll find that it has so many new features that it feels like a 2.0 without actually being one! I thought multiple times if I should call this 2.0 cause it really feels to me like a 2.0 release, but at a mere 5 months after the release it seems a bit premature. That said the version number is not that relevant, unless you go for paid upgrades which I wasn't going to for this version anyway.
 
-Notice: Most of the new features require the Full Version. The update is free for paying customers and the old "Unlock More Themes" has been renamed "Full Version". The in-app purchase "Remove Ads" has been rolled into the "Full Version" and has been removed from sale. (I removed it from sale months ago actually when I first thought about doing this.) If you bought "Remove Ads" you will be happy to know that I haven't increased the price of the "Full Version" so you won't spend a cent more than you would have done before. If you're not a paying customer everything will still work as before, but you'll miss out on most of the new features. 
+Notice: Most of the new features require the Full Version. The update is free for paying customers and the old "Unlock More Themes" has been renamed "Full Version". The in-app purchase "Remove Ads" has been rolled into the "Full Version" and has been removed from sale. (I removed it from sale months ago actually when I first thought about doing this.) If you bought "Remove Ads" you will be happy to know that I haven't increased the price of the "Full Version" so you won't spend a cent more than you would have done before. If you're not a paying customer everything will still work as before, but you'll miss out on most of the new features.
 
 * The App has been completely revamped! Read the rest to find out how.
 
@@ -78,7 +88,7 @@ Notice: The migration will happen as soon as you log in (regardless of the fact 
 
 ### Tutorials
 
-In "Settings" -> "Advanced" -> "Tutorials and Resources" you will find a link to read the on-boarding tutorial again if you missed a part and a link to this very article. Notice that the tutorial is aimed to provide an introduction for the free users and it doesn't cover much at all of the full version of the app. 
+In "Settings" -> "Advanced" -> "Tutorials and Resources" you will find a link to read the on-boarding tutorial again if you missed a part and a link to this very article. Notice that the tutorial is aimed to provide an introduction for the free users and it doesn't cover much at all of the full version of the app.
 
 If you need any information you can --- apart from continuing reading this post --- check the [Knowledge Base][1].
 
@@ -94,15 +104,15 @@ But let's go ahead and create a new one. Tap on the plus on the top right corner
 
 If you want to enable Goal Mode for this counter go ahead and do so because that's your only chance, once you've created it your decision is final, you'll need to create a new counter if you wanna try out Goal Mode. Remember that to enable Goal Mode you need to have it enabled from "Settings" first.
 
-Once you click "Save" your counter will be added, notice that if your counter is in Goal Mode you'll have a nice blue completion bar at the bottom that marks your progress (in %). From here you can either click on the square on the left to increment it or click anywhere else on the cell to get taken into the fullscreen view. 
+Once you click "Save" your counter will be added, notice that if your counter is in Goal Mode you'll have a nice blue completion bar at the bottom that marks your progress (in %). From here you can either click on the square on the left to increment it or click anywhere else on the cell to get taken into the fullscreen view.
 
 From the fullscreen view you can swipe left to go back or tap anywhere on the screen to increase the counter. To find out all the other gestures available check out the "Changes in Gestures" section.
 
-With every change your counter gets synced and will be available on any device you log to. 
+With every change your counter gets synced and will be available on any device you log to.
 
 ### Settings
 
-Let's now take a look at the new Settings screen. It's now reachable tapping the "Settings" button at the top left of the main screen. There you will find an all new Account screen where you can manage your account. 
+Let's now take a look at the new Settings screen. It's now reachable tapping the "Settings" button at the top left of the main screen. There you will find an all new Account screen where you can manage your account.
 
 For free (and non logged in) users most of the app will stay the same. The Settings screen is still reachable by swiping on the counter. You will notice that "Custom Themes" has been renamed, but for you it will keep the same functionality as before.
 
@@ -113,11 +123,11 @@ For the full version you will notice that most of the counter related settings h
 From here you can manage everything about your account:
 
 * You can Log Out which will log you out of your account on this device; this will of course keep all of your data safe in the Cloud (and in all your other devices that are logged in --- this will NOT log you out from your other devices). Once you log back in all of your counters will be there waiting for you. Make sure that you have an internet connection so that your changes sync over before logging out. If you log out while offline and ignore the warning your offline changes will be lost.
-* 
+*
 You can delete all of your data, basically starting again from scratch or you can delete your account (and automatically delete all of your data). Be mindful that once your data (or account) has been deleted there is no way to recover it. This will delete your account and/or data across all of your devices.
-* 
+*
 If you created your account using the traditional "sign up" screen you can also link your account to Facebook or Twitter from here so that it won't require your password anymore to sign in. (Of course you don't need to link your account and doing so doesn't unlock anything, it's just for your own convenience.)
-* 
+*
 You can also check the [TOS][2] and [Privacy Policy][3]
 
 That's it, I didn't want to over bloat the Settings with useless crap and I feel like there is a good balance between customizability and ease to use. If there's something missing, [let me know][4].
@@ -152,7 +162,7 @@ The other fields are NOT editable for obvious reasons. Note that at the bottom o
 
 Changes are synced to the server after a short while (**usually** less than a minute) so if you change a counter on one device it might take a short amount of time for the changes to be propagated to another device. This is done mainly to limit the load on the server and not to clutter the internet connection.
 
-The latest change always wins. Timestamp is taken by the server at the moment of finished upload of an edit. 
+The latest change always wins. Timestamp is taken by the server at the moment of finished upload of an edit.
 
 Uniqueness is enforced by a random ID, so 2 objects with the same name, but created by 2 different devices or at two different times will appear as different objects (this solves a whole area of problems with sync conflicts). \[Of course once you get them both synced to one device you can decide if you want to keep them both or delete one.\]
 
@@ -162,19 +172,19 @@ NOTE: Once the changes have been saved to the server you can use pull to refresh
 
 The dates are based on the system clock. I use different, server based dates for keeping track of which object to sync of course, but those are not accurate of when the object was created or modified since you might be offline while creating new counter or performing changes or it simply may take a while for the changes to get pushed to the server. Just notice of course that if your clock is not correct the date will obviously be wrong.
 
-NOTE: You can choose between absolute dates such as "November 1st, 2015" and relative dates like "a minute ago". Please mind that relative dates are not precise by the second. 
+NOTE: You can choose between absolute dates such as "November 1st, 2015" and relative dates like "a minute ago". Please mind that relative dates are not precise by the second.
 
 ##### Background Fetch
 
-Every once in a while, if background fetch is enabled and if you're logged in, Minimal Counter will silently sync all your data in the background so that the latest data is ready for when you open the app without the need to wait. 
+Every once in a while, if background fetch is enabled and if you're logged in, Minimal Counter will silently sync all your data in the background so that the latest data is ready for when you open the app without the need to wait.
 
 You can always disable it from the stock "Settings" app from Apple if you don't want it active.
 
 ### In-Depth into Goal Mode
 
-Goal Mode is an exciting new features of Minimal Counter 1.5! 
+Goal Mode is an exciting new features of Minimal Counter 1.5!
 
-With goal mode you can set a goal for any counter and count up to that goal. Mind that you can't count backwards in goal mode, you can't switch a counter from normal mode to goal mode and you can't change the value of the goal. Once it's set it's set. The only way to undo it is to delete the counter. You also can't change the "Step By" or "Reset To" values to something else (but you can reset the counter, for example if you miss your goal and want to start over). 
+With goal mode you can set a goal for any counter and count up to that goal. Mind that you can't count backwards in goal mode, you can't switch a counter from normal mode to goal mode and you can't change the value of the goal. Once it's set it's set. The only way to undo it is to delete the counter. You also can't change the "Step By" or "Reset To" values to something else (but you can reset the counter, for example if you miss your goal and want to start over).
 
 All of this is done so that once you commit to complete a goal you can't back off and change it to something easier and say oh I've done it, the only way would be to fail this goal (deleting the counter) and start a new one.
 
@@ -194,11 +204,11 @@ When you complete your goal you will be rewarded! How you ask? With rocking fire
 
 You can find settings for the reward screen in "Settings" -> "Advanced"
 
-You have completed a goal and wanna brag about it? [Let me know][4], I'm always happy to hear new and interesting goals! 
+You have completed a goal and wanna brag about it? [Let me know][4], I'm always happy to hear new and interesting goals!
 
 ### Changes in Gestures
 
-The gestures have been completely changed from the free version since most of them are now irrelevant since the related function can be accessed more easily and intuitively from somewhere else in the app. 
+The gestures have been completely changed from the free version since most of them are now irrelevant since the related function can be accessed more easily and intuitively from somewhere else in the app.
 
 #### Main Screen (the one with the List of counters)
 
@@ -223,7 +233,7 @@ If you don't like gestures check the next section on how to avoid them ;)
 
 ### Accessibility
 
-The app is fully accessible! (Let me [know][4] if there's anything that doesn't work.) 
+The app is fully accessible! (Let me [know][4] if there's anything that doesn't work.)
 
 All the actions that needed a swipe are now available as buttons visible to the Accessibility system. The buttons will be also visible if the user turns on the option to "Show Accessibility Buttons for Gestures" from Settings -> Advanced. Please note that doing so will **not** turn off the gestures (if voice over is off) but you can use the button instead of the gestures if you prefer.
 

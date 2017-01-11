@@ -5,7 +5,7 @@ title: County Patch Notes
 
 ## 1.5
 
-- FIX: Fixed bug with reward screen 
+- FIX: Fixed bug with reward screen
 - FIX: Fixed bug when creating a new event
 - FIX: Improved iOS 10 support
 
