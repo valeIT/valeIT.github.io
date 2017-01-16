@@ -3,6 +3,16 @@ layout: page
 title: Minimal Counter Patch Notes
 ---
 
+# 2.1
+
+- FIX: Fixed a crash on iPad  
+
+# 2.0.1
+
+- FIX: Fixed a crash for the free version
+- FIX: Fixed a crash while migrating to the full version, if you experience any issue feel free to open a ticket or try using "Restore Purchases". Note that you WON'T be billed again.
+- PROMO OVER: The promotion "Try the full version for free" is now over and your app has been converted back to the free version. Hope you enjoyed the free trial. [This was a one time promotion for the 2.0 launch for the early adopters and is not scheduled to come back]
+
 # 2.0
 
 - FIX: Improved iOS 10 Support
