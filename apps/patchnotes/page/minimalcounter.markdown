@@ -3,6 +3,9 @@ layout: page
 title: Minimal Counter Patch Notes
 ---
 
+# 2.1.1
+- FIX: Fixed a rare crash for the free version
+
 # 2.1
 
 - FIX: Fixed a crash on iPad  

@@ -3,6 +3,12 @@ layout: page
 title: Tic Tac Toe Patch Notes
 ---
 
+## 2.0
+
+* NEW: All new Difficulty: The new Hard Mode AI will surely be challenging to beat. The old AI is still available as "Normal" difficulty.
+* FIX: Improved support for WatchOS 3
+* FIX: Improved performance
+
 ## 1.2
 
 * FIX: Fixed Support Panel
