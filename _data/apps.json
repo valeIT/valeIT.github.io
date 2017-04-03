@@ -148,5 +148,15 @@
     "platforms": ["iOS"],
     "fontAwesome": [ "mobile" ]
 
+   },
+
+    {
+    "name": "Tickery",
+    "id": "Tickery",
+    "description": "Tickery allows you to check the buy and sell price of more than 20 currencies.",
+    "link": "https://itunes.apple.com/us/app/walutomat-kursy-walut/id1216145372?&at=1010lHG??mt=8",
+    "platforms": ["iOS"],
+    "fontAwesome": [ "mobile" ]
+
    }
 ]
