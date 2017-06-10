@@ -1,3 +1,7 @@
+## 1.5.1 [Dogechecker only]
+
+- FIX: Fixed a major networking bug.
+
 ## 1.5
 
 - FIX: Greatly improved error handling
