@@ -3,6 +3,11 @@ layout: page
 title: Translatory Patch Notes
 ---
 
+## 2.0
+- NEW: All new backend for improved translations!
+- NEW: Increased limit on max number of translations allowed per month.
+- General Bug Fixing
+
 ## 1.5
 
 - Improved iOS 10 support
