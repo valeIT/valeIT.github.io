@@ -3,6 +3,9 @@ layout: page
 title: Minimal Counter Patch Notes
 ---
 
+# 2.2.2
+- FIX: Fixed a crah on iPad that affected the Full Version
+
 # 2.2.1
 
 - FIX: Fixed a crash on the full version
