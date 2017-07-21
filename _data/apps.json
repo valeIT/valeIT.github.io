@@ -158,5 +158,15 @@
     "platforms": ["iOS"],
     "fontAwesome": [ "mobile" ]
 
-   }
+   },
+
+ {
+    "name": "Endless Wheel",
+    "id": "EndlessWheel",
+    "description": "Build your own strategy to get as many pins into the wheel as you can.",
+    "link": "https://itunes.apple.com/us/app/endless-wheel/id1257429123?&at=1010lHG??mt=8",
+    "platforms": ["iOS"],
+    "fontAwesome": [ "mobile" ]
+
+   }  
 ]
