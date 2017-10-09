@@ -33,3 +33,7 @@ title: Tic Tac Toe Patch Notes
 * Increased Speed across the board
 * Added better resources for Apple Watch App
 * Improved Sharing Sheet.
+
+##1.0
+
+- Initial Release

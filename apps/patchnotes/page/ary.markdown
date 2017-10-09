@@ -12,7 +12,6 @@ I'm not sure if I'm allowed to talk about the issue, so I will refrain from doin
 - Yes, I've tried everything I could and it didn't work.  
 - Nope, there is no way I can change something and that will make it go through.
 
-
 ### 1.1
 
 - FIX: Changed springboard name to "Ary".  
@@ -21,4 +20,8 @@ I'm not sure if I'm allowed to talk about the issue, so I will refrain from doin
 
 ### 1.0.1
 
-- FIX: Fixed a number of bugs that slipped in the 1.0.
+- FIX: Fixed a number of bugs that slipped in the 1.0.  
+
+###1.0
+
+- Initial Release

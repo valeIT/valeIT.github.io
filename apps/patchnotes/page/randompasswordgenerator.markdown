@@ -28,3 +28,6 @@ title: Random Password Generator Patch Notes
 * FIX: Settings improved
 * FIX: Increased Speed across the board
 
+##1.0
+
+- Initial Release

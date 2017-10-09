@@ -27,3 +27,7 @@ title: Percentage Change Calculator Patch Notes
 * NEW: Dodano lokalizację w języku polskim. Wszelkie błędy proszę zgłaszać poprzez użycie opcji "wyślij opinię".
 * NEW: Added Knowledge Base section in Settings -\> Support
 * Increased Speed across the board
+
+##1.0
+
+- Initial Release

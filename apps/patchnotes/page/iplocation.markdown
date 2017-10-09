@@ -99,6 +99,10 @@ The link from the app page will bring you to the Online Store. The two versions 
 - Please mind that I'm trying to keep a consistent versioning between the Mini and the Full version, that's the reason for the bump from 1.0 to 1.1 (there has been a 1.0.1 and 1.0.2 resolved a few issues only present in the Full Version of IPLocation =) ).
 
 
+##1.0
+
+- Initial Release
+
 ## Introducing IPLocation
 
 I first released IPLocation on the Mac App Store in the beginning of September, my plan since way before it got released was to eventually have 2 versions and have both available to be bought directly AND using the MAS.

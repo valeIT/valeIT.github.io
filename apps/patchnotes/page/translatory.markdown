@@ -48,3 +48,6 @@ If, after buying the In-app purchase, the "Speak" feature doesn't work make sure
 - NEW: Selecting a language for display from Settings will now be kept between launches  
 - NOTICE: If you find any bugs when selecting a language please open a ticket. ;)
 
+##1.0
+
+- Initial Release

@@ -3,7 +3,9 @@ layout: page
 title: SWTOR Calculator Patch Notes
 ---
 
-## 1.0
+##1.0
+
+- Initial Release
 
 [Crossposted on [Reddit][0]].
 

@@ -54,6 +54,10 @@ NOTE: The [CheckYourCrypto][4] bundle has been discounted as well, mind that it 
 * NEW: Landscape Support!
 * Increased Speed across the board
 
+##1.0
+
+- Initial Release
+ 
 [0]: https://itunes.apple.com/us/app/dogechecker-dogecoin-price/id1011904433?ls=1&mt=8?&at=1010lHG
 [1]: https://itunes.apple.com/pl/app/blackchecker-blackcoin-price/id1012356346?&at=1010lHG?mt=8
 [2]: https://itunes.apple.com/pl/app/litechecker-litecoin-price/id1012346934?&at=1010lHG?mt=8

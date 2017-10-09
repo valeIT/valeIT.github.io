@@ -328,6 +328,9 @@ Valentino Urbano.
 * NEW: Added Knowledge Base (with search) to the in-app support! You can still open a support ticket by pressing the "new message" icon on the very top right or by pressing "talk to us", when available.
 * NEW: 3 New Colorful Themes!
 
+##1.0
+
+- Initial Release
 
 [1]: https://valentinourbano.freshdesk.com/support/solutions/6000071180
 [2]: http://www.valentinourbano.com/tos

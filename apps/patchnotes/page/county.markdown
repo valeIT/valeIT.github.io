@@ -32,3 +32,7 @@ title: County Patch Notes
 * FIX: Fixed other minor bugs.
 * NEW: New and Improved Image Picker!
 * NEW: Select a custom color for your text!
+
+##1.0
+
+- Initial Release

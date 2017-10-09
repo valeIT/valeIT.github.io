@@ -33,3 +33,7 @@ title: QRCodePal Patch Notes
 * NEW: Dodano lokalizację w języku polskim. Wszelkie błędy proszę zgłaszać poprzez użycie opcji "wyślij opinię".
 * Increased Speed across the board
 * End of launch price
+
+##1.0
+
+- Initial Release
