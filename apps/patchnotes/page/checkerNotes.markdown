@@ -1,8 +1,11 @@
+## 2.0
 
+- NEW: Added support for Euro
+- FIX: Improved iOS 11 and Watch OS 3 support
 
 ## 1.5.1 [Dogechecker and Litechecker only]
 
-- FIX: Fixed a major networking bug.
+- FIX: Fixed a major networking bug
 
 ## 1.5
 

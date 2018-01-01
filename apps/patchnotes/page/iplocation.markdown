@@ -3,9 +3,13 @@ layout: page
 title: IPLocation Patch Notes
 ---
 
+## 2.0
+- NEW: Added failbacks to always have a location even during service interruptions
+- FIX: Improved support for High Sierra
+
 ## 1.4
 
-- NEW: Added the ability to copy the internal IP to clipboard.
+- NEW: Added the ability to copy the internal IP to clipboard
 - NEW: Added a second kind of flags (available from Preferences). Please note that not all countries are available. If your location flag is not available, it will automatically switch to the default kind of flag. Note that the image gets updated only if your IP changes to limit battery consumption, so you might need to restart the app if you want the change to be shown right away.
 
 List of Unavailable Countries (Updated on February 2016):

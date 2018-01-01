@@ -3,6 +3,11 @@ layout: page
 title: County Patch Notes
 ---
 
+## 1.6 
+
+- FIX: Fixed UI for iPhone X
+- FIX: Improved iOS 11 support
+
 ## 1.5
 
 - FIX: Fixed bug with reward screen
