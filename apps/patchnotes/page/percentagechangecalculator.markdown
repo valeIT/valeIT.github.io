@@ -28,6 +28,6 @@ title: Percentage Change Calculator Patch Notes
 * NEW: Added Knowledge Base section in Settings -\> Support
 * Increased Speed across the board
 
-##1.0
+## 1.0
 
 - Initial Release

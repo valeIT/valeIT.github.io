@@ -57,7 +57,7 @@ NOTE: The [CheckYourCrypto][4] bundle has been discounted as well, mind that it 
 * NEW: Landscape Support!
 * Increased Speed across the board
 
-##1.0
+## 1.0
 
 - Initial Release
  

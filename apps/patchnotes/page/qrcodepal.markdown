@@ -34,6 +34,6 @@ title: QRCodePal Patch Notes
 * Increased Speed across the board
 * End of launch price
 
-##1.0
+## 1.0
 
 - Initial Release

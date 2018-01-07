@@ -22,6 +22,6 @@ I'm not sure if I'm allowed to talk about the issue, so I will refrain from doin
 
 - FIX: Fixed a number of bugs that slipped in the 1.0.  
 
-###1.0
+### 1.0
 
 - Initial Release
