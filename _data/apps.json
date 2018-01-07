@@ -168,5 +168,14 @@
     "platforms": ["iOS"],
     "fontAwesome": [ "mobile" ]
 
-   }  
+   }, 
+   {
+    "name": "Quote A Bot",
+    "id": "QuoteABot",
+    "description": "Twitter bot that uses Machine Learning to tweet \"quotes\".",
+    "link": "https://twitter.com/quoteabday",
+    "platforms": ["twitter"],
+    "fontAwesome": [ "twitter" ]
+
+   }, 
 ]
