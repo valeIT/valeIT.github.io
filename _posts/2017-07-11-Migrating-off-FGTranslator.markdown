@@ -22,7 +22,7 @@ The criteria to decide where to move to:
 - After the free tier it needed to have a reasonable pricing structure based on actual use 
 - It had to be from an established company (seen to many startup closing shops in a few months)
 - It had to support a decent amount of languages. 
-The only one i found that fulfilled all of them is [Yandex](https://translate.yandex.com/developers/).
+The only one i found that fulfilled all of them is [Yandex](https://translate.yandex.com/developers). [^1]
 
 
 ## Migrating the codebase
@@ -77,3 +77,8 @@ If you integrate this into your app, make sure to follow the [Design Requirement
 ## Docs
 
 Yandex has a [decent documentation](https://tech.yandex.com/translate/doc/dg/concepts/About-docpage/), it misses some responses for some services but overall not too bad.
+
+
+---
+
+[^1]: Weird enough the link gives you a 404 if it's written as: https://translate.yandex.com/developers/
