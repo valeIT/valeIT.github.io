@@ -10,7 +10,7 @@ categories:
 author: Valentino Urbano
 ---
 
-This last few years I run an experiment, started with [this post]{ % post_url 2012-06-20-dead-links % } back in 2012.
+This last few years I run an experiment, started with [this post]({% post_url 2012-06-20-dead-links %}) back in 2012.
 
 I've included in my [travis.ci][0] build, on top of the usual build errors, also all of my pages that link to an external resource that no longer exists. The [current build][1] returns 64 errors (most of them 404s).
 
