@@ -4,6 +4,5 @@ _drafts
 .jekyll-metadata
 .DS_Store
 *.swp
-Gemfile.lock
 .bundle/install.log
 tmp
