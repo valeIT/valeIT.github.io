@@ -170,10 +170,28 @@
 
    }, 
    {
+    "name": "Twitterclean",
+    "id": "Twitterclean",
+    "description": "Clean your Tweets, Retweets and Favorites.",
+    "link": "https://github.com/valeIT/twitterclean",
+    "platforms": ["twitter", "github"],
+    "fontAwesome": [ "twitter", "github"]
+
+   }, 
+   {
     "name": "Quote A Bot",
     "id": "QuoteABot",
     "description": "Twitter bot that uses Machine Learning to tweet \"quotes\".",
     "link": "https://twitter.com/quoteabday",
+    "platforms": ["twitter"],
+    "fontAwesome": [ "twitter" ]
+
+   }, 
+   {
+    "name": "Crypto A Day",
+    "id": "CryptoADay",
+    "description": "Twitter bot that tweets a random cryptocurrency every day.",
+    "link": "https://twitter.com/cryptoaday",
     "platforms": ["twitter"],
     "fontAwesome": [ "twitter" ]
 
