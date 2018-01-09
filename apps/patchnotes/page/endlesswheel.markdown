@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Endless Wheel Notes
+title: Endless Wheel Patch Notes
 ---
 
 

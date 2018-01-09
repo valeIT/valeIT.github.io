@@ -3,7 +3,7 @@ layout: page
 title: Patch Notes
 ---
 
-For each app you will find listed the Patch Notes from the latest one, to the oldest.
+For each app you will find listed the Patch Notes ordered by version number (latest on top). 
 
 [If you need Support and would like to open a ticket, please go to the Support page.](/support)
 
