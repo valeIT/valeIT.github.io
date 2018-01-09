@@ -10,7 +10,7 @@ description: >
 
 email: valentino@valentinourbano.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/df_logo.png"
 float_logo: true # true, false (default)
 
 # blog cover
@@ -29,7 +29,7 @@ twitter_handle: '@valentinourbano'
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
 
-#google_analytics: UA-XXXXX-X
+google_analytics: UA-61742521-6
 
 # social icons and sharing options
 social:
