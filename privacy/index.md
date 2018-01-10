@@ -64,7 +64,7 @@ Although most changes are likely to be minor,We may change the Privacy Policy fr
 
 #### App Specific Privacy Policy
 
-This Privacy Policy applies to every Website and Application. Certain Applications may need more information than those covered in this Policy. If this is the case you can found the more specific information at valentinourbano.com/apps/specific_app_website/privacy. That page will be linked in the footer of the page regarding that specific Application.
+This Privacy Policy applies to every Website and Application. Certain Applications may need more information than those covered in this Policy. If this is the case you can found the more specific information at valentinourbano.com/projects/specific_app_website/privacy. That page will be linked in the footer of the page regarding that specific Application.
 
 #### Definitions and legal references
 
@@ -110,3 +110,4 @@ Notice to European Users: this privacy statement has been prepared in fulfilment
 *   June 6, 2015 : First Version.
 *   November 2, 2015 : Added Parse as Analytics Provider for some iOS Apps.
 *  February 10, 2016 : Improved wording and removed Parse, following the shutdown.
+*  January 10, 2018 : Changed "Apps" to "Projects"

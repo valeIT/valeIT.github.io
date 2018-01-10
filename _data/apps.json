@@ -52,7 +52,7 @@
         "name": "Minimal Counter",
         "id": "MinimalCounter",
         "description": "The best way to count pretty much anything on your iPhone, iPad or iPod touch. Fully customizable. For Free!",
-        "link": "http://www.valentinourbano.com/apps/ios/minimalcounter",
+        "link": "http://www.valentinourbano.com/projects/ios/minimalcounter",
         "platforms": ["iOS"],
         "fontAwesome": ["mobile"]
     },
@@ -61,7 +61,7 @@
         "name": "SWTOR Discipline and Utilities Calculator",
         "id": "SWTORCalculator",
         "description": "Explore your discipline and utilities and save custom presets.",
-        "link": "http://www.valentinourbano.com/apps/ios/swtorcalculator",
+        "link": "http://www.valentinourbano.com/projects/ios/swtorcalculator",
         "platforms": ["iOS"],
         "fontAwesome": ["mobile"]
     },
@@ -79,7 +79,7 @@
         "name": "IPLocation / IPLocation Mini",
         "id": "IPLocation",
         "description": "Check the location of your IP address and get notified you each time your IP address changes!",
-        "link": "http://www.valentinourbano.com/apps/mac/iplocation",
+        "link": "http://www.valentinourbano.com/projects/mac/iplocation",
         "platforms": ["Mac"],
         "fontAwesome": ["laptop"]
     },

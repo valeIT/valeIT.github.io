@@ -1,9 +1,5 @@
 ---
-layout: page
-title: Endless Wheel Patch Notes
+layout: redirected
+sitemap: false
+redirect_to:  /projects/patchnotes/page/endlesswheel
 ---
-
-
-## 1.0
-
-- Initial Release

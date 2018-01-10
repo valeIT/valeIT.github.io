@@ -228,3 +228,4 @@ All rights reserved.
 
 *   June 6, 2015 : First Version.
 *  February 10, 2016 : Improved Wording.
+*  January 10, 2018 : Changed "Apps" to "Projects"

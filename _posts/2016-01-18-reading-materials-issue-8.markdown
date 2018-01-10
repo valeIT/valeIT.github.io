@@ -73,7 +73,7 @@ author: Valentino Urbano
 
 [Yes, The Appeals Court Got Basically Everything Wrong In Deciding API's Are Covered By Copyright][4]
 
-[How projects actually ship ][5]
+[How apps actually ship ][5]
 
 [my phone is only 80% reversible - TAKE MY MONEY][6]
 

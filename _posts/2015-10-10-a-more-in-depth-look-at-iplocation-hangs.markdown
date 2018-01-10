@@ -38,4 +38,4 @@ Again, as I said in the patch notes Thanks everyone for the system traces, the w
 Both the version on the Mac App Store and the Direct Version that are live already contain the fix.
 
 
-[0]: /apps/mac/iplocation/
+[0]: /projects/mac/iplocation/

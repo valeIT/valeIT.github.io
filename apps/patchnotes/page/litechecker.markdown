@@ -1,6 +1,5 @@
 ---
-layout: page
-title: LiteChecker Patch Notes
+layout: redirected
+sitemap: false
+redirect_to:  /projects/patchnotes/page/litechecker
 ---
-
-{% include_relative checkerNotes.markdown %}
