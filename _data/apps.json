@@ -1,4 +1,14 @@
 [{
+        "name": "Free Geek Deal",
+        "id": "Freegeekdeal",
+        "description": "Retweets tech deals.",
+        "link": "https://twitter.com/freegeekdeal",
+        "platforms": ["twitter"],
+        "fontAwesome": ["twitter"]
+
+    },
+
+    {
         "name": "Twitterclean",
         "id": "Twitterclean",
         "description": "Clean your Tweets, Retweets and Favorites.",
