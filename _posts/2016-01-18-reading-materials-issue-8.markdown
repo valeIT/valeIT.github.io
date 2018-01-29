@@ -10,9 +10,9 @@ categories:
 author: Valentino Urbano 
 ---
 
-> Disclaimer: These were all the links in my read later for this week. It doesn't mean that I agree of approve any of the content. The longest ones will be included in _hr_ to keep them separated from the rest of the content.
+> Disclaimer: These were all the links in my read later for this week. It doesn't mean that I agree or approve any of the content. The longest ones will be included in _hr_ to keep them separated from the rest of the content.
 > 
-> Notice: Some of the links may be either explicit or may disturb someone. It should be obvious (99% of the times it will) from the title if that's the case or not . Proceed at your own risk.
+> Notice: Some of the links may be either explicit or may disturb someone. It should be obvious (99% of the times it will) from the title if that's the case or not. Proceed at your own risk.
 > 
 
 [Your Android unlock pattern sucks as much as your password did][1]

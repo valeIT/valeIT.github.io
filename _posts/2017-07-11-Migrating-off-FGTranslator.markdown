@@ -12,17 +12,17 @@ author: Valentino Urbano
 
 I've been using Microsoft Translator for a few years in [Translatory](https://itunes.apple.com/us/app/translatory-your-personal/id1018240873?&at=1010lHG?mt=8), it has all the features you would expect while being priced way more competitively than Google Translate.
 
-At the end of last year Microsoft announced that they'd retire the old APIs and would migrate to Azure for all of their services. They finally dropped support a few months ago. Not too bad, I thought, would just migrate the url to the new one and it will keep working. 
+At the end of last year, Microsoft announced that they'd retire the old APIs and would migrate to Azure for all of their services. They finally dropped support a few months ago. Not too bad, I thought, would just migrate the URL to the new one and it will keep working. 
 
-The sad part, for me, is that making an Azure account requires a credit card linked to your bank account and I don't have one, the one that I have linked to my bank account doesn't work online, and I'm not going to open a third one just for Azure. I tried to use my prepaid card that I use normally for all purchases, but it was rejected because it was prepaid. It was clear that I had to move somewhere else. 
+The sad part, for me, is that making an Azure account requires a credit card linked to your bank account and I don't have one, the one that I have linked to my bank account doesn't work online, and I'm not going to open the third one just for Azure. I tried to use my prepaid card that I use normally for all purchases, but it was rejected because it was prepaid. It was clear that I had to move somewhere else. 
 
 The criteria to decide where to move to: 
 
 - It had to have a free tier 
-- After the free tier it needed to have a reasonable pricing structure based on actual use 
-- It had to be from an established company (seen to many startup closing shops in a few months)
+- After the free tier, it needed to have a reasonable pricing structure based on actual use 
+- It had to be from an established company (seen too many startup closing shops in a few months)
 - It had to support a decent amount of languages. 
-The only one i found that fulfilled all of them is [Yandex](https://translate.yandex.com/developers). [^1]
+The only one I found that fulfilled all of them is [Yandex](https://translate.yandex.com/developers). [^1]
 
 
 ## Migrating the codebase
@@ -37,7 +37,7 @@ The data model and the view were already totally decoupled, that said I didn't w
 
 The first one is called on launch (if not cached) and retrieves all the supported languages from the web service to show them in the pickers, the second one performs the translation.
 
-The migration itself wasn't hard at all, just make a data manager called FGTranslator (I didn't want to keep the old name so I rename it simply to `TranslatorManager` and make a network call). FGTranslator also includes caching, but I removed for now it in this version. I mostly followed the content of those 2 function that were in FGTranslator to keep the behaviour as similar as possible since this app is really old and I don't remember if  I had assumed some specific behaviour, I doubt, but just to be safe.
+The migration itself wasn't hard at all, just make a data manager called FGTranslator (I didn't want to keep the old name so I rename it simply to `TranslatorManager` and make a network call). FGTranslator also includes caching, removed to speed up development in this version. I mostly followed the content of those 2 function that was in FGTranslator to keep the behavior as similar as possible since this app is really old and I don't remember if  I had assumed some specific behavior, I doubt, but just to be safe.
 
 ## Integration
 
@@ -81,4 +81,4 @@ Yandex has a [decent documentation](https://tech.yandex.com/translate/doc/dg/con
 
 ---
 
-[^1]: Weird enough the link gives you a 404 if it's written as: https://translate.yandex.com/developers/
+[^1]: Weird enough the link gives you a 404 if it's written as https://translate.yandex.com/developers/

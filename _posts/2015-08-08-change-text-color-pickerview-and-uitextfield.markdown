@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Change text color pickerview and uitextfield
+title: Change text color on UIPickerView and UITextField
 date: 2015-08-08 23:51:13.000000000 +02:00
 type: post
 published: true
@@ -10,7 +10,7 @@ categories:
 author: Valentino Urbano 
 ---
 
-There are no property to do so, you need to use `NSAttributedString` in both cases.
+There is no property to do so, you need to use `NSAttributedString` in both cases.
 
 ## TextField
 
@@ -31,4 +31,4 @@ This is just a bit more elaborated. If you have the delegate method for titleFor
       }
     
 
-Make sure to call `mPicker.reloadAllComponents()` in your `viewWillAppear` if you change the color from another view and you want it updated with the current color. Otherwise it will show the old color until the user scrolls the picker.
+Make sure to call `mPicker.reloadAllComponents()` in your `viewWillAppear` if you change the color from another view and you want it updated with the current color. Otherwise, it will show the old color until the user scrolls the picker.

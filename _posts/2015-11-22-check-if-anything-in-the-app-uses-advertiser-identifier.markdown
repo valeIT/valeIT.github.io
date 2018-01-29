@@ -22,4 +22,4 @@ Run:
     grep -r advertisingIdentifier .
     ```
 
-[Having the . at the end is important, don't delete that!]
+Having the "." at the end is important, don't delete that! It tells the OS to start looking from the current folder.

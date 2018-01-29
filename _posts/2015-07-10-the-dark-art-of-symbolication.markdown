@@ -56,6 +56,6 @@ The address for the executable is:
 
 ## Resolution
 
-Terminal will give you back the exact method call and line where the app crashed. 
+The terminal will give you back the exact method call and line where the app crashed. 
 
 Time to slash some bugs =)

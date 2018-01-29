@@ -18,7 +18,7 @@ As of [Parse Guidelines][0] all of the databases across all of my apps that were
 - Go to App Settings -> App Management
 - Click on Migrate Database
 
-It will ask you for the URL of your mongoDB instance.
+It will ask you for the URL of your MongoDB instance.
 
 The format for it is:
 ```
@@ -31,7 +31,7 @@ After the migration has completed you can't go back to a parse.com hosted databa
 
 ## Caveats:
 
-- For some reason, in certain cases, the migration wouldn't work until i turned off SLL between the two MongoDB instances.
+- For some reason, in certain cases, the migration wouldn't work until I turned off SLL between the two MongoDB instances.
 - For some reason, in certain cases, the migrations wouldn't work until the 10th try.
 
 

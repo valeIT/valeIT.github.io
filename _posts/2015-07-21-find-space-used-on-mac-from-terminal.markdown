@@ -14,11 +14,11 @@ The following only lists the space taken up by directories (in gigabytes). Just 
 
     sudo du -sg /*
 
-and type your password, otherwise use:
+and type your password, otherwise, use:
 
     du -sg /*
 
-If you want a more human readable format (with GB, MB, etc. spelled out):
+If you want a more human-readable format (with GB, MB, etc. spelled out):
 
     sudo du -sh /*
 

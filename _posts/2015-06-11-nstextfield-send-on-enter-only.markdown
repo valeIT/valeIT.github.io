@@ -10,6 +10,6 @@ categories:
 author: Valentino Urbano 
 ---
 
-The default action, when you connect a textField in Interface Builder, it's to send the action each time the value is changed. Doing so though, means that if my view controller would be dismissed it would trigger the value changed action if I touched the textField in any way. Probably worse if you changed it and you didn't want to save your change and just assumed that if you didn't press enter the previous value would stay current, but that wasn't the case.
+The default action, when you connect a textField in Interface Builder, it's to send the action each time the value is changed. Doing so means that if my view controller would be dismissed it would trigger the value changed action if I touched the textField in any way. Probably worse if you changed it and you didn't want to save your change and just assumed that if you didn't press enter the previous value would stay current, but that wasn't the case.
 
-Fortunately there is a property in the attribute inspector in IB to set "send on enter only". Turn it on and connect the action as normal. ;)
+Fortunately, there is a property in the attribute inspector in IB to set "send on enter only". Turn it on and connect the action as normal. ;)

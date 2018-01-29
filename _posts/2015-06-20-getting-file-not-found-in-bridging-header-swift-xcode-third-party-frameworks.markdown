@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting "file not found" in Bridging Header with third party framework - Swift & Xcode
+title: Getting "file not found" in Bridging Header with a third-party framework - Swift & Xcode
 date: 2015-06-20 20:12:28.000000000 +02:00
 type: post
 published: true
@@ -30,6 +30,6 @@ Check your "Header Search Paths", it should contain:
     "${PODS_ROOT}/Headers/Public/FRAMEWORKNAME"
     
 
-The second line should be one for each frameworks you're using. (Where FRAMEWORKNAME is the name of the dependency you're using of course.)
+The second line should be one for each framework you're using. (Where FRAMEWORKNAME is the name of the dependency you're using of course.)
 
 If there's nothing add it (and look if the corresponding header exists in "/Pods/Headers/Public/..."

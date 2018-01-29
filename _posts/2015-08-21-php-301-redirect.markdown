@@ -10,11 +10,11 @@ categories:
 author: Valentino Urbano 
 ---
 
-I needed to do a 301 redirect, but didn't have access neither to the cpanel nor ftp. I could just edit the full html code of the index.php page from the built in editor in the browser.
+I needed to do a 301 redirect but I neither had access to the cPanel or FTP. I could just edit the full HTML code of the index.php page from the built-in editor in the browser.
 
-**NOTICE**: For this to work it needs to be a .php page and your server needs to have php enabled and able to run of course :P
+**NOTICE**: It needs to be a .php page and your server needs to have PHP enabled and able to run of course ;)
 
-In the `head` section add (obviously between php opening and closing tags):
+In the `head` section add (obviously between PHP opening and closing tags):
 
     
     header("HTTP/1.1 301 Moved Permanently"); 

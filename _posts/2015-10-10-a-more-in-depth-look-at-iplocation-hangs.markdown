@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A more in depth look at IPLocation Hangs
+title: A more in-depth look at IPLocation Hangs
 date: 2015-10-10 19:10:41.000000000 +02:00
 type: post
 published: true
@@ -10,7 +10,7 @@ categories:
 author: Valentino Urbano 
 ---
 
-I spent a fair part of September debugging a weird Issue that happened in [IPLocation][0]. The first thing that I know is that this issue only happened to the Mac App Store version of the app. At the time I was only selling IPLocationMini directly so I could quickly rule out all of the shared components. Everything present in IPLocationMini wasn't the problem, this left me with the few major differences to analyse:  
+I spent a fair part of September debugging a weird Issue that happened in [IPLocation][0]. The first thing that I know is that this issue only happened to the Mac App Store version of the app. At the time I was only selling IPLocationMini directly so I could quickly rule out all of the shared components. Everything present in IPLocationMini wasn't the problem, this left me with the few major differences to analyze:  
 - The Map View  
 - The Popover  
 - 3 different Source Code Files (2 Classes and a Helper)

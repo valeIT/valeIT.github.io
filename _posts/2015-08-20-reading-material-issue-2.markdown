@@ -12,7 +12,7 @@ author: Valentino Urbano
 
 And second Issue of "Reading Material for the Week", the new installment of "Best of Reddit". It will still include links from reddit, but it will also include links for the whole web. It'll mostly be focused on programming and technology, but it'll vary.
 
-> Disclaimer: These were all the links in my read later for this week. It doesn't mean that I agree of approve any of the content. The longest ones will be included in _hr_ to keep them separated from the rest of the content.
+> Disclaimer: These were all the links in my read later for this week. It doesn't mean that I agree or approve any of the content. The longest ones will be included in _hr_ to keep them separated from the rest of the content.
 > 
 
 Notice: Some of the links may be either explicit or may disturb someone. It will be obious from the title if that's the case or not (99% of the times it won't). Proceed at your own risk.

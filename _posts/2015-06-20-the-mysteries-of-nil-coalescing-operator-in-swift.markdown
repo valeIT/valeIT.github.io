@@ -18,9 +18,9 @@ As a one-liner:
 
 ## Example:
 
-For the sake of this example the optional is of `Int?` type, but of course it works for every type, just make sure that the fallback you're providing is type correct.
+For the sake of this example, the optional is of `Int?` type, but of course it works for every type, just make sure that the fallback you're providing is type correct.
 
-`optionalValue` is an optional, if it's nil I want to assign a default value to it. If it's not it can keep it's own value.
+`optionalValue` is an optional, if it's nil I want to assign a default value to it. If it's not it can keep its own value.
 
 Let's define a new constant called `value` to hold the result and call the "Nil Coalescing Operator" which is `??` to unwrap the optional and if necessary to provide a default value for it.
 

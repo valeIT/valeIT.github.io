@@ -12,11 +12,11 @@ author: Valentino Urbano
 
 [This is not a sponsored post, I just love the service.]
 
-I use Freshdesk as Support Portal for all of my iOS apps. They have a nice framework that you can integrate in your apps to provide a Knowledge Base to your users from inside the app on top of the ability to open a ticket (and automatically include debug informations).
+I use Freshdesk as Support Portal for all of my iOS apps. They have a nice framework that you can integrate with your apps to provide a Knowledge Base to your users from inside the app on top of the ability to open a ticket (and automatically include debug information).
 
 The framework though needs an UIViewController to work. I wanted to present it from a SKScene.
 
-All SKScenes are inside the main ViewController of the app (the default name for it is GameViewController). You just create a reference of it in your scene and use that to present the support panel.
+All SKScenes are inside the main ViewController of the app (the default name for it is GameViewController). You just create a reference to it in your scene and use that to present the support panel.
 
 From GameViewController, right before presenting your SKScene:
 

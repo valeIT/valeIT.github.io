@@ -10,7 +10,7 @@ categories:
 author: Valentino Urbano
 ---
 
-At every social meeting this topic comes up. I might be stuck with it, but I've seen so many people that don't understand it.
+At every social meeting, this topic comes up. I might be stuck with it, but I've seen so many people that don't understand it.
 
 ## Post hoc ego propter hoc 
 (aka Correlation Doesn't Imply Causation)
@@ -23,11 +23,11 @@ From my experience everyone understands and accepts that statement, but when you
 
 A simple traveler's example that is obvious to everyone is a fallacy:
 "Just right as I arrived in my new apartment a window broke, therefore it's my fault it did."
-Wheter if you actually look at the cause it might look like:
+Whether if you actually look at the cause it might look like:
 "It was hailing the whole day, the window just happened to give in at the moment I arrived."
 
 More examples:
-- [Non related graphs put together][2]
+- [Nonrelated graphs put together][2]
 - [Funny examples][3]
 
 ## Denying the antecedent

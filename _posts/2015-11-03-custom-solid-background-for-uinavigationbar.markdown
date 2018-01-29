@@ -10,7 +10,7 @@ categories:
 author: Valentino Urbano 
 ---
 
-For the latest version of [Minimal Counter][0] I wanted to have a solid background across the app.
+For the latest version of [Minimal Counter][0] I wanted to have a solid background in the app.
 
 I'm using of course `UIAppearance()`. If you simply set a background color it'll get filtered by iOS automatically and will look nothing like the actual color you used so I just created a 1px1p image of the color that I wanted and set it:
 

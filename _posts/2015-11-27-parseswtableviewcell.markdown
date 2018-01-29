@@ -10,7 +10,7 @@ categories:
 author: Valentino Urbano 
 ---
 
-I've always kept my close source projects (all of my apps and more) under source control on Bitbucket, but I'd never released an open source project until now.
+I've always kept my closed source projects (all of my apps and more) under source control on Bitbucket, but I'd never released an open source project until now.
 
 It's a swipeable Table Cell to use in conjunction with a PFTableViewController from [Parse UI][0].
 
