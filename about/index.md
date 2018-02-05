@@ -7,11 +7,13 @@ My name is Valentino Urbano and I live in between Poland and Italy with my wife.
 
 ## Projects
 
-I'm currently working full time, mainly developing apps for iOS.  I'm also developing web applications (mainly backend) and working in DevOps. 
+I'm currently working full time, mainly developing apps for iOS.  I'm also developing web applications (mainly backend and databases) and working in DevOps. 
 
 I've been writing online since 2007 and had a website since 2009. I currently write on my [Blog](/) and occasionally on [Twitter](https://twitter.com/valentinourbano). 
 
-When I have time, I work on some small [personal projects](/projects). For professional projects send me an email.
+When I have time, I work on some small [personal projects](/projects), write and play guitar. 
+
+For information about professional projects send me an email.
 
 ## Tools
 
