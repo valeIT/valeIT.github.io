@@ -3,7 +3,16 @@ layout: page
 title: Copyright
 ---
 
-## Basic Informations
+## Website
+
+All content copyright © [Valentino Urbano](/). 
+
+Feel free to quote part of the articles if you include proper citation - including a link back to the original article on this website.
+
+The source code provided in my articles is released under MIT, unless otherwised specified in the article itself.
+
+
+## Projects
 
 I use Open Source projects in many of my Apps. In this page I try as best as I can to link to what I use. Please if you notice something missing [open an Issue on Github](https://github.com/valeIT/valeIT.github.io/issues) or [submit a pull request with the fix yourself](https://github.com/valeIT/valeIT.github.io/pulls). You can also [open a ticket](/support) if you don't have a Github account. You can find the [Changelog](#changelog) at the bottom of the page.
 
