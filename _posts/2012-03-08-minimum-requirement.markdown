@@ -16,7 +16,7 @@ As Ben Brooks [quoted][0] the new iPhoto is only for iPad or later:
 > 
 > --- Arnold Kim (@arnoldkim) March 8, 2012
 
-But what if it was only "for the new iPad", as it'd surely happen someday? If they write "for the new iPad" it would be understandable for a year, but then? Without a proper name it'd be difficult to refer to this generation iPad with a proper name; instead Apple should (and i think they will) do as they do with the macs, with years. For example the new MacbookAir is the middle 2011 Air, for the iPad it'd be the 2012 iPad (if they keep going on a year shedule like they used to).
+But what if it was only "for the new iPad", as it'd surely happen someday? If they write "for the new iPad" it would be understandable for a year, but then? Without a proper name it'd be difficult to refer to this generation iPad with a proper name; instead, Apple should (and I think they will) do as they do with the macs, with years. For example, the new MacbookAir is the middle 2011 Air, for the iPad it'd be the 2012 iPad (if they keep going on a year schedule like they used to).
 
 We'll see.
 

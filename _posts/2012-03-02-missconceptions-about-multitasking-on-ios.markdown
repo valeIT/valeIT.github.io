@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Missconceptions about Multitasking on iOs
+title: Misconceptions about Multitasking on iOs
 date: 2012-03-02 13:18:46.000000000 +01:00
 type: post
 published: true
@@ -12,7 +12,7 @@ author: Valentino Urbano
 
 When I talk about multitasking on iOs I see that many people are uninformed on this matter, even Apple [geniuses][0]. [^1]
 
-iOs is a mobile OS and it doesn't Behave as every other desktop OS that you're used to use. It has its specific power management specific to avoid excessive battery usage, it also handle difficult memory situations automatically, it has built this way to provide a great experience where user have to care only about doing things, it'll be on the OS then to decide when is the time to free some RAM.
+iOs is a mobile OS and it doesn't Behave as every other desktop OS that you're used to using. It has its specific power management specific to avoid excessive battery usage, it also handles difficult memory situations automatically, it has built this way to provide a great experience where user have to care only about doing things, it'll be on the OS then to decide when is the time to free some RAM.
 
 **Before You Start**
 
@@ -20,17 +20,17 @@ Before you even start you should watch this [video][2] made by a developer on ho
 
 **Apple Official Statement**
 
-Now let's take a look on what [Apple says][3] on his website:
+Now let's take a look at what [Apple says][3] on his website:
 
 > Multitasking doesn't slow down the performance of the foreground app or drain battery life unnecessarily. [...]  Most applications are not taking up system resources when running in the background and instantly launch when you return to them. Certain tasks or services can continue to run in the background, and you can determine most by checking the status bar. [...] Double-clicking the Home button displays a list of recently used apps. These apps are not necessarily actively in use or open.
 > 
 > 
 
-Here's another interesting video about this matter, unfortunately it's only available in [Italian][4], but it clearly shows that app running in the background are idle and they're not sucking battery life, instead when you manually kill an app the processor and so the battery are heavily used.
+Here's another interesting video about this matter, unfortunately, it's only available in [Italian][4], but it clearly shows that app running in the background are idle and they're not sucking battery life, instead of when you manually kill an app the processor and so the battery is heavily used.
 
 **Going Deeper**
 
-Hanging around the developer section i found an interesting Guide for developers on this matter, i just quote an extract [^2] :
+Hanging around the developer section I found an interesting Guide for developers on this matter, I just quote an extract [^2] :
 
 > App States:
 > 
@@ -58,15 +58,15 @@ Hanging around the developer section i found an interesting Guide for developers
 > 
 > 
 
-There are actually few kind of apps which do run in the background indefinitely. Those apps are:
+There is actually few kind of apps which do run in the background indefinitely. Those apps are:
 
 1. Navigation Apps which uses the GPS module;
 2. VOIP apps which are able to receive incoming calls even if that certain app is not running;
-3. Music Playback Apps like instacast;
+3. Music Playback Apps like Instacast;
 4. Newsstand Apps which are downloading content;
-5. Apps that receive  continuous updates from an external accessory.
+5. Apps that receive continuous updates from an external accessory.
 
-All those apps  become suspended when the user stop using that kind of feature (the ones in the list) which enable unlimited background.
+All those apps become suspended when the user stop using that kind of feature (the ones in the list) which enable unlimited background.
 
 **What Bloggers Says**
 
@@ -78,7 +78,7 @@ From [MacWorld][6]:
 > 
 > Here's the statement I keep hearing, and it's wrong:
 > 
-> > _All those apps in the multitasking bar on your iOS device are currently active and slowing it down, filling the device's memory or using up your battery. To maximise performance and battery life, you should kill them all manually._
+> > _All those apps in the multitasking bar on your iOS device is currently active and slowing it down, filling the device's memory or using up your battery. To maximize performance and battery life, you should kill them all manually._
 > 
 > The iOS multitasking bar does _not_ contain a list of all running apps. It contains a list of _recently used apps_. The user _never_ has to manage background tasks on iOS.
 > 
@@ -96,7 +96,7 @@ From [Speirs][8], maybe the best article on this matter by far:
 > 
 > Here is the advice - and remember it is wrong:
 > 
-> All those apps in the multitasking bar on your iOS device are currently active and slowing it down, filling the device's memory or using up your battery. To maximise performance and battery life, you should kill them all manually.
+> All those apps in the multitasking bar on your iOS device are currently active and slowing it down, filling the device's memory or using up your battery. To maximize performance and battery life, you should kill them all manually.
 > 
 > Wrong. Wrong. Wrong. Wrong. Wrong. Wrong. Wrong. There are caveats to this but anyone dispensing the advice above is clearly uninformed enough that they will certainly not be aware of these subtleties."
 > 
@@ -108,17 +108,17 @@ Quoting again Speirs:
 
 > I said earlier that "the user never has to manage Background tasks on iOS". The only exception to this is when one of these Background-running apps goes berserk and will not terminate properly. That, however, is an exceptional situation and not a normal part of being an iOS user.
 
-There is only one situation when you have to manage multitasking on iOs, when it got stuck - it only happens when a developer has made a poor job developing the app.
+There is only one situation when you have to manage to multitask on iOS when it got stuck - it only happens when a developer has made a poor job developing the app.
 
 ---
 
-[^1]: I went to an Apple store few days ago with a friend because his iPhone had a problem with its battery and the Apple 'Genius' told me that it was because he had left few applications 'opened' - in the multitasking bar - for the whole day, but I have always done it! So I told him and I also told how multitasking on iOs actually works. He had no clue on how it worked, he told me that it behaves just like a Mac but it's completely wrong! I was astonished when I heard that, I was asking myself is this really a "genius".
+[^1]: I went to an Apple store a few days ago with a friend because his iPhone had a problem with its battery and the Apple 'Genius' told me that it was because he had left few applications 'opened' - in the multitasking bar - for the whole day, but I have always done it! So I told him and I also told how multitasking on iOs actually works. He had no clue on how it worked, he told me that it behaves just like a Mac but it's completely wrong! I was astonished when I heard that, I was asking myself is this really a "genius".
 
-But that's not the end of the story. He told my friend that an app was causing the problem so he had to perform a clean restore on the device and them add ten apps a day and take a close look on the battery, if its behaviour was ok he had to keep adding apps til he would have found the buggy one. My reaction: is he mad?? Does he really pretend that he would stay all day with only few apps for few weeks (10app a day for 200 apps = 20 days)?? 
+But that's not the end of the story. He told my friend that an app was causing the problem so he had to perform a clean restore on the device and they add ten apps a day and take a close look on the battery if its behavior was ok he had to keep adding apps til he would have found the buggy one. My reaction: is he mad?? Does he really pretend that he would stay all day with only a few apps for few weeks (10app a day for 200 apps = 20 days)?? 
 
-Thanks God it was a "genius".
+Thank God it was a "genius".
 
-[^2]: If you don't want to read all the extract it's all shown in this image. [Image was deleted and no mirro available]
+[^2]: If you don't want to read all the extract it's all shown in this image. [Image was deleted and no mirror available]
 
 
 [0]: https://twitter.com/#!/schwa/status/152425874581491712

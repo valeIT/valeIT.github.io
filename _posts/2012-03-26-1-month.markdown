@@ -12,26 +12,26 @@ author: Valentino Urbano
 
 A quick post to thank everyone for this first month together.
 
-My main target in writing this site is not to gain pageviews or visitor, i don't mind.  My main targey, as i've already said many time - but maybe it's worth saying another time more,  is learn. Writing is a great way to learn new things, to  delve new  unexplored topics.
+My main target in writing this site is not to gain pageviews or visitor, I don't mind.  My main target, as I've already said much time - but maybe it's worth saying another time more, is learning. Writing is a great way to learn new things, to delve new unexplored topics.
 
 I learned more this month writing that the past 3 months reading articles, really.
 
-As an example, this month i learned [^1]:
+As an example, this month I learned [^1]:
 
-* the existance of NetApplications;
+* the existence of NetApplications;
 * a (not so) great quote by  Michael Dell;
 * that so many (relevant) blogs have turned comments off;
-* that a big american newspaper doesn't care to give proper credits to the ones who really break the news first;
+* that a big American newspaper doesn't care to give proper credits to the ones who really break the news first;
 * therestartpage.com =);
-* how bad is the android fragmentation (really worst than i expected) ;
+* how bad is the Android fragmentation (really worst than I expected) ;
 * that I can't  use only an iPad to write, not yet;
-* that the official wordpress app for both iOs and android sucks;
-* i recalled few episodes of my online life that i'd almost forgotten.
+* that the official WordPress app for both iOs and android sucks;
+* I recalled few episodes of my online life that I'd almost forgotten.
 
 Not bad for just a month.
 
-Thanks to everyone: the ones who gave only a look, the ones who support what i do here and the ones who disapprove it, because only with someone who let you know your mistakes we get better, it's the only way to improve.
+Thanks to everyone: the ones who gave only a look, the ones who support what I do here and the ones who disapprove it, because only with someone who let you know your mistakes we get better, it's the only way to improve.
 
 ---
 
-[^1]:I'm listing only things that i wouldn't have learned if it wasn't for this site.
+[^1]: I'm listing only things that I wouldn't have learned if it wasn't for this site.

@@ -16,7 +16,7 @@ It provides exactly what the state on his site:
 
 > Each morning I visit about fifty news sites and from that swirling nightmare of information quicksand, I pluck the top ten most fascinating items of the day, which I deliver with a fast, pithy wit that will make your inbox vibrate with delight.
 
-Ok he's a bit boastful, but just a bit._ironic_
+Ok, he's a bit boastful, but just a bit._ironic_
 
 [Subscribe][1].Period.
 

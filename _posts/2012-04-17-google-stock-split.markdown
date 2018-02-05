@@ -10,9 +10,9 @@ categories:
 author: Valentino Urbano 
 ---
 
-Google has announced they would [Split their stock][0] in two pats: voting and non-voting shares.
+Google has announced they would [Split their stock][0] into two parts: voting and non-voting shares.
 
-Google's high executives will be' the only ones with voting shares.  
+Google's high executives will be the only ones with voting shares.  
 And then they keep saying they're not evil.
 
 

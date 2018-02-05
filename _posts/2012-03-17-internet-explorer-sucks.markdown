@@ -10,15 +10,15 @@ categories:
 author: Valentino Urbano 
 ---
 
-Finally after many years Microsoft admitted that IE 6/7 sucks, in fact they're forcing all the users to update to the latest versions (IE 9/10).  
+Finally, after many years, Microsoft admitted that IE 6/7 sucks, in fact, they're forcing all the users to update to the latest versions (IE 9/10).  
 They made a great commercial about that.
 
-You can see from a simple ad like this one that Microsoft is not boastful (like google), not at all.  
+You can see from a simple ad like this one that Microsoft is not boastful (like Google), not at all.  
 They're trying to reinvent themselves even if it means moving to unknown territory (with Windows 8 ) or making self-irony with ads like this [one][0].
 
-I've also sent an email to them, i'll quote an extract:
+I've also sent an email to them, I'll quote an extract:
 
-> I really have to reconsider your brand. Try to push hard on bing and maybe in the future i might consider to switch from google to bing instead of duckduckgo.
+> I really have to reconsider your brand. Try to push hard on bing and maybe in the future I might consider switching from google to bing instead of duckduckgo.
 > 
 
 

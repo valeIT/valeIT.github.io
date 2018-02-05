@@ -12,7 +12,7 @@ author: Valentino Urbano
 
 [wspowell][0] has made a real version of the google glass which actually works pretty well considering that they're based on dragon dictation.
 
-It really works like magic, and it's not intrusive at all (expecially when you compare it with the actual [google][1] [glass][2]).
+It really works like magic, and it's not intrusive at all (especially when you compare it with the actual [Google][1] [glass][2]).
 
 
 [0]: http://www.youtube.com/user/wspowell

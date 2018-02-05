@@ -10,9 +10,9 @@ categories:
 author: Valentino Urbano 
 ---
 
-Can't believe i can play [this][0] on a browser. The future is already here.
+Can't believe I can play [this][0] on a browser. The future is already here.
 
-Hey it's 56.1 mb!
+Hey, it's 56.1 MB!
 
 
 [0]: https://chrome.google.com/webstore/search/airmech?utm_source=chrome-ntp-icon

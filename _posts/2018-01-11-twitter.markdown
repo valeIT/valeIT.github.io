@@ -14,11 +14,12 @@ During the past few days, I've been playing with the Twitter APIs. Yes, I'm a fe
 
 ## Twitterclean
 
-There are a lot of Twitter cleaners out there, but I haven't found one that was compartmentalized enough. Either they allowed you to delete all of your tweets or the most granularity was either delete your favorites or tweets+retweets. The few cases where they allowed you to choose it didn't work (or even worse), it deleted something else from what you asked.
+There are a lot of Twitter cleaners out there, but I haven't found one compartmentalized enough. Either they allowed you to delete your tweets or the most granularity was either delete your favorites or tweets+retweets. The few cases where they allowed you to choose it didn't work (or even worse), it deleted something else from what you asked.
 
-With Twitterclean you can choose to delete either your favorites, your retweets or your tweets. It can also run in an indestructive mode, giving you a preview of what is going to get deleted beforehand.
+With Twitterclean you can choose to delete either your favorites, your retweets or your tweets. Or a mix of those. It can also run in an indestructive mode, giving you a preview of what is going to get deleted beforehand.
 
 You can find more details about this project [here][0].
+
 
 
 ## Crypto A Day
@@ -33,7 +34,8 @@ When inspiration sparks this bot will tweet. What you say, you'll never know.
 
 
 
-[^1]: Not that I never played with them before, just I've only made little scripts for myself.
+[^1]: Not that I never played with them before, I've only made little scripts for myself.
+
 
 
 #### Update 2018-01-26

@@ -12,15 +12,15 @@ author: Valentino Urbano
 
 Google released a promo [video][0] of their innovative ["Project Glass"][1], but they forgot to add their main business model in it_(a hint? Ads)._
 
-Fortunately [The Atlantic][2] has fixed it! Here's the new and improved_(?) _video of the  product.
+Fortunately, [The Atlantic][2] has fixed it! Here's the new and improved_(?) _video of the product.
 
 Hilarious.
 
 Do you really wanna be monitored by Google whenever you go? I Don't.
 
-I also don't wanna ads that cover up all my view, what happen if i receive a notification/ad while crossing the street?
+I also don't wanna ads that cover up all my view, what happen if I receive a notification/ad while crossing the street?
 
-I only hope that google won't put their users first, not their main customers  (the ad companies) as they're doing nowadays with their new [privacy policy][3].
+I only hope that Google won't put their users first, not their main customers  (the ad companies) as they're doing nowadays with their new [privacy policy][3].
 
 
 [0]: http://www.youtube.com/watch?v=9c6W4CCU9M4&feature=player_embedded

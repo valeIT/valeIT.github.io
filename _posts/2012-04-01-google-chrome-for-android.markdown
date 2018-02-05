@@ -29,12 +29,12 @@ Other devices tab
 
 **Beta**
 
-It was marked as 'beta', i thought about siri and all the customers indignation about Apple releasing a beta sotware (which works by the way) and i was like ok i'll give it a try anyway.
+It was marked as 'beta', I thought about Siri and all the customer's indignation about Apple releasing a beta software (which works by the way) and I was like ok I'll give it a try anyway.
 
-Installed smootly, let's go.
+Installed smoothly, let's go.
 
-I had been surfing for almost an hour when chrome froze, later on i found out that it was because of a youtube video. Google has release a browser that doesn't even work with its own services.
+I had been surfing for almost an hour when chrome froze, later on, i found out that it was because of a youtube video. Google has released a browser that doesn't even work with its own services.
 
-And i haven't heard anyone yet complaining about it, because you know, it's still in beta!
+And I haven't heard anyone yet complaining about it because you know, it's still in beta!
 
-It's not a huge problem you could expect such a thing from a beta version, but what matters is that  if they haven't shout at Apple i wouldn't even mind to  write something about it, but they did. That's my response.
+It's not a huge problem you could expect such a thing from a beta version, but what matters is that if they haven't shouted at Apple I wouldn't even mind writing something about it, but they did. That's my response.

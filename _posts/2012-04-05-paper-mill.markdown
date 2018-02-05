@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper mill
+title: Papermill
 date: 2012-04-05 17:05:29.000000000 +02:00
 type: post
 published: true
@@ -10,8 +10,8 @@ categories:
 author: Valentino Urbano 
 ---
 
-The developer of papermill, the first instapaper app for android has written an analysis of his first week on the android market.  
-The app is priced ad 3.99€ and it requires an instapaper subscription to work.
+The developer of papermill, the first Instapaper app for Android has written an analysis of his first week on the android market.  
+The app is priced at 3.99€ and it requires an Instapaper subscription to work.
 
 It has been installed on 411 devices.  
 

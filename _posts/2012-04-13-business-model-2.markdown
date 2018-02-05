@@ -18,4 +18,4 @@ Jeffrey Inscho:
 
 It's time for the users to understand that internet doesn't mean free. If you want a service you have to feel good about paying them a _proper_ amount of money.
 
-**Update (October 9, 2014):** Removing the source, since the linked article went offline [It was an article on 512pixels.net]. Luckily I copied the quote. 
+**Update (October 9, 2014):** Removing the source since the linked article went offline [It was an article on 512pixels.net]. Luckily I copied the quote. 

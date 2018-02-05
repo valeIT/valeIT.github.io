@@ -10,7 +10,7 @@ categories:
 author: Valentino Urbano 
 ---
 
-[Twitter has just announced IPA][0], how patents shoul be.  
+[Twitter has just announced IPA][0], how patents should be.  
 It's a huge step forward, but they're also taking a great risk if no one would follow.  
 Though I do hope that every other company could be as wise as Twitter.
 

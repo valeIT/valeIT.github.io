@@ -12,7 +12,7 @@ author: Valentino Urbano
 
 [The future is already here][0].
 
-The project consists of  an overlay between space exploration and finding natural resources, it all looks like science-fiction to me, but many VIP including Larry page, eric schmidt and James Cameron have already backed it.
+The project consists of an overlay between space exploration and finding natural resources, it all looks like science-fiction to me, but many VIP including Larry page, eric Schmidt, and James Cameron have already backed it.
 
 
 [0]: http://www.theverge.com/2012/4/24/2971461/planetary-resources-mining

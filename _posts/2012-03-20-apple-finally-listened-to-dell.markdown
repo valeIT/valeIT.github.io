@@ -10,16 +10,16 @@ categories:
 author: Valentino Urbano 
 ---
 
-Finally Apple listened to [Michael Dell][0]: they're giving the money back to the share holders, exactly 2,65$ a share.
+Finally, Apple listened to [Michael Dell][0]: they're giving the money back to the shareholders, exactly 2,65$ a share.
 
-Tim cook announced in a conference call yesterday that Apple will [initiate][1] a dividend and a share repurchasing program using 10 of their 100 billions to do so in the next 3 years.
+Tim Cook announced in a conference call yesterday that Apple will [initiate][1] a dividend and a share repurchasing program using 10 of their 100 billion to do so in the next 3 years.
 
-But they didn't talk only about this, Tim Cook, asking to an inappropriate question said:
+But they didn't talk only about this, Tim Cook, asking an inappropriate question said:
 
 > We love to announce new products, we just don't do it in conference calls
 > 
 
-Of course he's right!
+Of course, he's right!
 
 Update: and their cash will still grow according to the latest predictions.
 

@@ -10,16 +10,16 @@ categories:
 author: Valentino Urbano 
 ---
 
-After almost 6 months Gingerbread has [reached][0] the all time high of 3% of userbase! Impressive!
+After almost 6 months Gingerbread has [reached][0] the all-time high of 3% of userbase! Impressive!
 
 iOs 5.1 has reached 12% two days after the release and two weeks after the release was already at 60%.
 
 As i [said before][1]:
 
-> That should sound as an alarm bell for Google, now the problem is getting too big. They should act quickly [...]
+> That should sound like an alarm bell for Google, now the problem is getting too big. They should act quickly [...]
 > 
 
-And times keep going on without any news from google on the matter.
+And times keep going on without any news from Google on the matter.
 
 It seems like they don't care at all.
 

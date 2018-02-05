@@ -10,7 +10,7 @@ categories:
 author: Valentino Urbano 
 ---
 
-[How Sun had almost set a partnership with google to develop android.][0]
+[How Sun had almost set a partnership with Google to develop Android.][0]
 
 Didn't know it at all! Sun Made the worst decision of his entire life.
 

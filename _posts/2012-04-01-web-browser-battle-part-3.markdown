@@ -12,7 +12,7 @@ author: Valentino Urbano
 
 #### The Comeback of Internet Explorer
 
-Surprisingly, after years of decline Internet Explorer usage raised last month. This is not to be considered a comeback though, it's demise is almost certain. Sure, it's still widely use (way more than it should be in my opinion), but it's usage - with its ups and down is going to continue its decline.
+Surprisingly, after years of decline Internet Explorer usage raised last month. This is not to be considered a comeback though, it's demise is almost certain. Sure, it's still widely used (way more than it should be in my opinion), but it's usage - with its ups and down is going to continue its decline.
 
 [More Info @ The Verge][0]
 

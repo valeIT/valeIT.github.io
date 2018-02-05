@@ -10,7 +10,7 @@ categories:
 author: Valentino Urbano 
 ---
 
-We're at nuts. Oracle claims that a programming language is copyrightable, whether google says that it's not.
+We're at nuts. Oracle claims that a programming language is copyrightable, whether Google says that it's not.
 
 The trial starts this [monday][0].
 

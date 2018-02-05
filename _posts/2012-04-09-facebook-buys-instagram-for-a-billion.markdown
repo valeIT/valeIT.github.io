@@ -10,15 +10,15 @@ categories:
 author: Valentino Urbano 
 ---
 
-Instagram has just [announced][0] that they have agreed to be bought by facebook for a billion $.
+Instagram has just [announced][0] that they have agreed to be bought by Facebook for a billion $.
 
 That's good for them, a bit less for the users.
 
 First reaction: [noooooo][1].
 
-Although I do hope that facebook will keep their word and keep developing Istagram indipendently, i'm really afraid it would end up as it happened with gowalla few years ago - they disappeared.
+Although I do hope that Facebook will keep their word and keep developing Instagram independently, I'm really afraid it would end up as it happened with Gowalla a few years ago - they disappeared.
 
-I still hope for the best, but most of the blogosphere is sleptical: Ben Brooks has already [deleted][2] his account.
+I still hope for the best, but most of the blogosphere is skeptical: Ben Brooks has already [deleted][2] his account.
 
 # Few Stats
 

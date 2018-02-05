@@ -18,10 +18,10 @@ author: Valentino Urbano
 > 
 > 
 
-So an actual news. That's why i'm using [1password][2] and i've completely[^1] turned off cookies on my browser.
+So an actual news. That's why I'm using [1password][2] and I've completely[^1] turned off cookies on my browser.
 --  
   
-[^1]: I had to keep them on just for the current session for few sites that doesn't even work with them off (Google,Facebook -wonder why- and Read Later bookmarks).
+[^1]: I had to keep them on just for the current session for few sites that don't even work with them off (Google, Facebook -wonder why- and Read Later bookmarks).
 
 
 [0]: http://www.codinghorror.com/blog/2007/09/youre-probably-storing-passwords-incorrectly.html

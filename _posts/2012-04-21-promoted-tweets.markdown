@@ -10,15 +10,15 @@ categories:
 author: Valentino Urbano 
 ---
 
-Finally also Twitter is [rolling out][0] a proper business model, i see it as a great opportunity for them to stay in business. If you only provide a free service and you have no plan on how make money you'll probably go out of business in few months if you don't find a [VC ][1]to found you or if you don't end up[bought][2] by a bigger company.
+Finally, also Twitter is [rolling out][0] a proper business model, I see it as a great opportunity for them to stay in business. If you only provide a free service and you have no plan on how to make money you'll probably go out of business in few months if you don't find a [VC ][1]to found you or if you don't end up[bought][2] by a bigger company.
 
-Remember the main focus of a company should be making money, if they make money you can be sure that they won't drop the development so i really can't understand all those complaints about it. I do understand that Ads are ugly[^1], but you can't pretent that a free service don't rely on advertisement to keep going.
+Remember the main focus of a company should be making money like that they won't drop the development so I really can't understand all those complaints about it. I do understand that Ads are ugly[^1], but you can't pretend that a free service doesn't rely on advertisement to keep going.
 
-If you really don't won't ads you'd be willing to pay, that's the business model of [Instapaper][4] and [Pinboard][5] and they're doing great, they have no problem at all.
+If you really don't want ads you'd be willing to pay, that's the business model of [Instapaper][4] and [Pinboard][5] and they're doing great, they have no problem at all.
 
 ---
 
-[^1]: I think that too, but the way they've developed it, integrated in the timeline is actually fine for me.
+[^1]: I think that too, but the way they've developed it, integrated into the timeline is actually fine for me.
 
 
 [0]: http://www.theverge.com/2012/3/20/2887724/twitter-promoted-tweets-ios-android-timeline

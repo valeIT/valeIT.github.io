@@ -10,10 +10,10 @@ categories:
 author: Valentino Urbano 
 ---
 
-[Ben brooks][0] make a collection of the quotes of the main topic all across the blogosphere yesterday: Mike Daisey statement about the work conditions in China at foxconn were lies.
+[Ben brooks][0] make a collection of the quotes of the main topic all across the blogosphere yesterday: Mike Daisey statement about the work conditions in China at Foxconn were lies.
 
   
-[Marketplace][1] Talked with cathie Lee (the translator which was with daisey in China - he didn't speak Chinese):
+[Marketplace][1] Talked with Kathie Lee (the translator which was with Daisey in China - he didn't speak Chinese):
 
 > Cathy Lee, Daisey's translator in Shenzhen, was with Daisey at this meeting in Shenzhen. I met her in the exact place she took Daisey---the gates of Foxconn. So I asked her: "Did you meet people who fit this description?"
 > 
@@ -23,7 +23,7 @@ author: Valentino Urbano
 > 
 > Lee's answer was the same: "No. Nobody mentioned the Hexane."
 > 
-> I pressed Cathy to confirm other key details that Daisey reported. Did the guards have guns when you came here with Mike Daisey? With each question I got the same answer from Lee. "No," or "This is not true."
+> I pressed Cathy to confirm other key details that Daisey reported. Did the guards have guns when you came here with Mike Daisey? With each question, I got the same answer from Lee. "No," or "This is not true."
 
 Then they met Daisey:
 
@@ -47,7 +47,7 @@ Then they met Daisey:
 > 
 > MD: That's correct.
 
-As I said [few weeks ago][2] Most journalist have sold their souls to pageviews when they should care about users and great content.
+As I said [a few weeks ago][2] Most journalist have sold their souls to pageviews when they should care about users and great content.
 
 
 [0]:  http://brooksreview.net/2012/03/shit-fan/
