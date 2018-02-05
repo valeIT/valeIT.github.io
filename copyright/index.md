@@ -53,13 +53,6 @@ The ordering is mostly chronological and based on the time of release. This may 
 
 **Minimal Counter:** The Icon is based on an .svg provided by [FlatIcon.com](http://www.flaticon.com)
 
-### Changelog
-
-*   July 10, 2015 : First Version.
-*   July 22, 2015 : Added specific copyrights for the website and the following apps: Minimal Counter.
-*   July 26, 2015: Added copy of the Licenses used at the bottom of the page.
-* February 11, 2016: Added a paragraph about how to report Issues with the site on Github.
-
 ### Licenses
 
 The frameworks released under a license that is not MIT are listed below:
@@ -158,3 +151,12 @@ Licensed under the Apache License, Version 2.0 (the “License”); you may not 
 http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+
+### Changelog
+
+*   July 10, 2015 : First Version.
+*   July 22, 2015 : Added specific copyrights for the website and the following apps: Minimal Counter.
+*   July 26, 2015: Added copy of the Licenses used at the bottom of the page.
+* February 11, 2016: Added a paragraph about how to report Issues with the site on Github.
+* February 5, 2018: Added a paragraph about copyright regarding website content.
