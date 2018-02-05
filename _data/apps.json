@@ -31,7 +31,7 @@
     {
         "name": "Crypto A Day",
         "id": "CryptoADay",
-        "description": "Twitter bot that tweets a random cryptocurrency every day.",
+        "description": "Twitter bot that tweets random cryptocurrencies every day.",
         "link": "https://twitter.com/cryptoaday",
         "platforms": ["twitter"],
         "fontAwesome": ["twitter"]
