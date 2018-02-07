@@ -19,7 +19,7 @@ I was able to salvage some of them by using the [web archive](http://web.archive
 
 Some food for thoughts.
 
-##Bookmarks 
+## Bookmarks 
 
 Apart from the links on my blog I have around a few thousand links on my bookmarklet of choice (or "personal archive" as they like to call it): [Pinboard](http://pinboard.in) and simple PDF files.
 
@@ -46,7 +46,7 @@ Lately, the problem is only getting worse. For the 'Reading Materials' column, I
 
 Update 31-03-2016:
 
-##Solution
+## Solution
 
 I found a great plugin for Wordpress, called [Amber](https://wordpress.org/plugins/amberlink/), that saves a screenshot of linked articles.
 
