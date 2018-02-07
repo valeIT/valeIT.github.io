@@ -31,7 +31,7 @@
                         {% if page.date %} on
                         <time datetime="{{ page.date | date: " %F %R " }}">{{ page.date | date_to_string }}</time>
                         <!-- , tagged on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}} -->
-                        {% endif %} - {{ page.content | number_of_words }} Words - {{ content | reading_time_as_i }}
+                        {% endif %} - {{ page.content | number_of_words }} Words
                     </div>
                     <div style="text-align:center">
                         <a href="#topofpage" class="topofpage"><i class="fa fa-angle-down"></i></a>
@@ -41,7 +41,7 @@
 
             <section class="post-content">
                 <div class="post-reading">
-                    {{ page.content | number_of_words }} words - {{ content | reading_time_as_i }}
+                    {{ page.content | number_of_words }} words
                 </div>
                 <a name="topofpage"></a>
                 {{content}}
