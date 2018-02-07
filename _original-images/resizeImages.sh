@@ -1,0 +1,1 @@
+convert -strip -interlace Plane -sampling-factor 4:2:0 -quality 85% test.jpeg result.jpg
