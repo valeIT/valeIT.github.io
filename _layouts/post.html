@@ -86,7 +86,11 @@
                     </footer>
                 </div>
             </div>
-            {%if site.disqus %}
+            {% if page.comment_id %}
+            <article class='post'>
+                {% include gh_comments.html %}
+            </article>
+            {% endif %} {%if site.disqus %}
             <div id="disqus_thread"></div>
             <script type="text/javascript">
                 /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */

@@ -8,6 +8,7 @@ status: publish
 categories:
 - Me
 author: Valentino Urbano 
+comment_id: 7
 ---
 
 What was supposed to be a quick post eventually evolved into a structured story about my previous blog and my love about **everything apple**.
