@@ -5,8 +5,7 @@ date: 2018-02-06 18:38:01.000000000 +01:00
 type: post
 published: true
 status: publish
-categories:
-- Tech
+categories: [Tech]
 author: Valentino Urbano 
 ---
 
@@ -44,8 +43,7 @@ Recently I wrote a script to extract the markdown from a page using Brett Terpst
 Update 02-01-2015 [Dates are EU format of course]:
 Lately, the problem is only getting worse. For the 'Reading Materials' column, I have to delete 2 links a week on average because they're 404. And nope the sites are not down because of too much traffic, every other page works, simply the article was deleted. Most of the times there is no way of getting that content back (no Google cache and no Wayback Machine). This trend makes me wonder if I should quote the main points of every link for posterity. I still lean on the nope side since it's supposed to be a list of links with an optional short explanation, not for quoting major parts of the article. You'll notice that I do quotes at times when the content is just so good that I need to. But usually, it won't happen.
 
-Update 31-03-2016:
-
+Update 2016-03-31:
 ## Solution
 
 I found a great plugin for Wordpress, called [Amber](https://wordpress.org/plugins/amberlink/), that saves a screenshot of linked articles.
