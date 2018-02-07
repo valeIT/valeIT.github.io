@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reading Materials - Issue 12
-date: 2018-01-21 23:28:05.000000000 +01:00
+date: 2017-01-21 23:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
