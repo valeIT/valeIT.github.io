@@ -53,6 +53,13 @@ The ordering is mostly chronological and based on the time of release. This may 
 
 **Minimal Counter:** The Icon is based on an .svg provided by [FlatIcon.com](http://www.flaticon.com)
 
+### Stock Photos
+
+I use stock photos with a CC0 License.
+
+- [Pexels](https://www.pexels.com/photo-license/)
+- [Unsplash](https://unsplash.com/license)
+
 ### Licenses
 
 The frameworks released under a license that is not MIT are listed below:
