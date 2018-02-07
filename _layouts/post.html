@@ -48,7 +48,7 @@
             <br> {% endif %}
             <section class="post-content">
                 <div class="post-reading">
-                    <span class="post-reading-time"></span> read
+                    {{ page.content | number_of_words }} words <br> {{ content | reading_time_as_i }}
                 </div>
                 <a name="topofpage"></a>
                 {{content}}
