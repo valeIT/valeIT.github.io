@@ -13,7 +13,7 @@ I've been writing online since 2007 and had a website since 2009. I currently wr
 
 When I have time, I work on some [personal projects](/projects), write and play guitar. 
 
-For information about professional projects check out the [work page](/work) and/or send me an email. If you'd like a copy of my CV, just send an email my way. 
+For information about professional projects check out the [work page](/work). If you want more information about it or would like a copy of my CV send an email my way. 
 
 ## Tools
 

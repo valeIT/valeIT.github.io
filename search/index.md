@@ -22,7 +22,7 @@ SimpleJekyllSearch({
   noResultsText: ("No result found, try something more broad"),
   searchResultTemplate: '<div><a href="{url}"><h1>{title}</h1></a><span>{date}</span></div>',
   limit: 50,
-  fuzzy: true,
+  // fuzzy: true,//Off for now - if fuzzy needs to be same case, I want it to be case insensitive
   json: '/search.json'
 })
 </script>
