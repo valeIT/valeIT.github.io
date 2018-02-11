@@ -22,4 +22,4 @@ I'm using of course `UIAppearance()`. If you simply set a background color it'll
 (Remember to set translucent to no as well).
 
 
-[0]: /projects/ios/minimalcounter
+[0]: /apps/ios/minimalcounter

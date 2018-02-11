@@ -11,9 +11,9 @@ I'm currently working full time, mainly developing apps for iOS.  I'm also devel
 
 I've been writing online since 2007 and had a website since 2009. I currently write on my [Blog](/) and occasionally on [Twitter](https://twitter.com/valentinourbano). 
 
-When I have time, I work on some small [personal projects](/projects), write and play guitar. 
+When I have time, I work on some [personal projects](/projects), write and play guitar. 
 
-For information about professional projects send me an email.
+For information about professional projects check out the [work page](/work) and/or send me an email. If you'd like a copy of my CV, just send an email my way. 
 
 ## Tools
 
@@ -28,8 +28,6 @@ I use Byword to write short prose, Scrivener for longer essays. To code I mainly
 You can contact me via email at <a href="mailto:valentino@valentinourbano.com">valentino@valentinourbano.com</a>. 
 
 Note: Be mindful that this is a personal email address. If you need to contact me for support use the [Support Page](/support/). Support emails received personal email addresses will be ignored and deleted.
-
-If you'd like a copy of my CV, just send an email my way. 
 
 I read every email that I get, but I can't assure that I will respond to every one of them. I'm sorry.
 

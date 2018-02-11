@@ -1,44 +1,4 @@
 [{
-        "name": "Free Geek Deal",
-        "id": "Freegeekdeal",
-        "description": "Retweets tech deals.",
-        "link": "https://twitter.com/freegeekdeal",
-        "platforms": ["twitter"],
-        "fontAwesome": ["twitter"]
-
-    },
-
-    {
-        "name": "Twitterclean",
-        "id": "Twitterclean",
-        "description": "Clean your Tweets, Retweets and Favorites.",
-        "link": "https://github.com/valeIT/twitterclean",
-        "platforms": ["twitter", "github"],
-        "fontAwesome": ["twitter", "github"]
-
-    },
-
-    {
-        "name": "Quote A Bot",
-        "id": "QuoteABot",
-        "description": "Twitter bot that uses Machine Learning to tweet \"quotes\".",
-        "link": "https://twitter.com/quoteabday",
-        "platforms": ["twitter"],
-        "fontAwesome": ["twitter"]
-
-    },
-
-    {
-        "name": "Crypto A Day",
-        "id": "CryptoADay",
-        "description": "Twitter bot that tweets random cryptocurrencies every day.",
-        "link": "https://twitter.com/cryptoaday",
-        "platforms": ["twitter"],
-        "fontAwesome": ["twitter"]
-
-    },
-
-    {
         "name": "Endless Wheel",
         "id": "EndlessWheel",
         "description": "Build your own strategy to get as many pins into the wheel as you can.",
@@ -62,7 +22,7 @@
         "name": "Minimal Counter",
         "id": "MinimalCounter",
         "description": "The best way to count pretty much anything on your iPhone, iPad or iPod touch. Fully customizable. For Free!",
-        "link": "http://www.valentinourbano.com/projects/ios/minimalcounter",
+        "link": "http://www.valentinourbano.com/apps/ios/minimalcounter",
         "platforms": ["iOS"],
         "fontAwesome": ["mobile"]
     },
@@ -71,7 +31,7 @@
         "name": "SWTOR Discipline and Utilities Calculator",
         "id": "SWTORCalculator",
         "description": "Explore your discipline and utilities and save custom presets.",
-        "link": "http://www.valentinourbano.com/projects/ios/swtorcalculator",
+        "link": "http://www.valentinourbano.com/apps/ios/swtorcalculator",
         "platforms": ["iOS"],
         "fontAwesome": ["mobile"]
     },
@@ -89,7 +49,7 @@
         "name": "IPLocation / IPLocation Mini",
         "id": "IPLocation",
         "description": "Check the location of your IP address and get notified you each time your IP address changes!",
-        "link": "http://www.valentinourbano.com/projects/mac/iplocation",
+        "link": "http://www.valentinourbano.com/apps/mac/iplocation",
         "platforms": ["Mac"],
         "fontAwesome": ["laptop"]
     },

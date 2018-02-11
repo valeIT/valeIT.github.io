@@ -1,5 +1,6 @@
 ---
-layout: redirected
-sitemap: false
-redirect_to:  /projects/patchnotes/page/blackchecker
+layout: page
+title: BlackChecker Patch Notes
 ---
+
+{% include_relative checkerNotes.markdown %}

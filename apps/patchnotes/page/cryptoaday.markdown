@@ -1,5 +1,9 @@
 ---
-layout: redirected
-sitemap: false
-redirect_to:  /projects/patchnotes/page/cryptoaday
+layout: page
+title: Crypto A Day
 ---
+
+
+## 1.0
+
+- Initial Release

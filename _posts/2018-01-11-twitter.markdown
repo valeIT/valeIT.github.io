@@ -44,6 +44,6 @@ When inspiration sparks this bot will tweet. What you say, you'll never know.
 
 A bot that retweets tech deals.
 
-[0]:/projects/patchnotes/page/twitterclean.html
+[0]:/bots/patchnotes/page/twitterclean.html
 [1]:https://en.wikipedia.org/wiki/Gambler%27s_fallacy
 [2]:https://labs.spotify.com/2014/02/28/how-to-shuffle-songs/

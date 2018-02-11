@@ -1,5 +1,6 @@
 ---
-layout: redirected
-sitemap: false
-redirect_to:  /projects/patchnotes/page/dogechecker
+layout: page
+title: DogeChecker Patch Notes
 ---
+
+{% include_relative checkerNotes.markdown %}

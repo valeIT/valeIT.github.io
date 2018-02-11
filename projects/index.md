@@ -3,21 +3,18 @@ layout: page
 title: My Projects
 ---
 
-Here's a list of all my published (personal) projects, sorted by date of release (newest first).
+This site is only part of what I do in my free time. I also have a day job and my personal life.
 
-[If you need Support and would like to open a ticket, please go to the Support page.](/support)
+For more info about me and the website you can check the [about page](/about).
 
-{% for member in site.data.apps %}
+## Apps
 
-{% if member.link %}
+For more info about the personal apps (keep notice that many of them are years old at this point) check the [apps page](/apps). For my professional apps you can check my [work page](/work).
 
-## {% if member.fontAwesome %}{% for image in member.fontAwesome %}<i class="fa fa-{{ image }}"></i> {% endfor %}{% endif %}<a href="{{ member.link }}">{{ member.name }}</a>
-<br>
-{{ member.description }}   
+## Bots
 
-{% if member.bundleLink %}Included in [{{ member.bundleName }}]({{ member.bundleLink }}) bundle.{% endif %}{% endif %}  
-[More Info](/projects/patchnotes/page/{{ member.id | downcase }}.html)          
+For the various bots you can check the [bots page](/bots).
 
-{% endfor %}
+## Contribute
 
-[Click here to take a look at the Patch Notes for each project](/projects/patchnotes)
+If you like what I'm doing here you can either leave a comment [by replying to a Github Issue](/about) or you can [offer me a coffee](https://paypal.me/vale93).

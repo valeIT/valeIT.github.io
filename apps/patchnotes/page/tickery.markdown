@@ -1,5 +1,8 @@
 ---
-layout: redirected
-sitemap: false
-redirect_to:  /projects/patchnotes/page/tickery
+layout: page
+title: Tickery Patch Notes
 ---
+
+## 1.0
+
+- Initial Release

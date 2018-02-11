@@ -1,5 +1,9 @@
 ---
-layout: redirected
-sitemap: false
-redirect_to:  /projects/patchnotes/page/quoteabot
+layout: page
+title: Quote A Bot
 ---
+
+
+## 1.0
+
+- Initial Release
