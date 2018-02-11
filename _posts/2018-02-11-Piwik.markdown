@@ -48,6 +48,8 @@ All the data is yours, on your server, and can be easily downloaded. After doing
 
 Examples for a basic visit tracker: "IP, General Location are logged as aggregate for statistic purposes. No other data is collected. This data will never be used to uniquely identify or track a user, is only meant to be used as aggregate. This site may use cookies only for the purpose of tracking recurring visits." Or something along those lines.
 
+Notice: I'm not a lawyer and this is not legal advice. 
+
 <hr>
 
 Nice to see how after a year that I started using it now everybody seems to realize that Google Analytics is evil (like they didn't know that already) and is switching. 
