@@ -40,13 +40,6 @@ social:
     share_title: 
     share_link: 
 
-  - icon: apple
-    url:  /projects
-    desc: Check out my apps
-    share_url: 
-    share_title: 
-    share_link: 
-
   - icon:	github
     url:	https://github.com/valeIT/valeIT.github.io/
     desc:	This site is open source
