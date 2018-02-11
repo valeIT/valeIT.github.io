@@ -9,6 +9,7 @@ categories: [Programming]
 image: /assets/article_images/pexels-photo57686745.jpeg
 image2: /assets/article_images/pexels-photo57686745.jpeg
 author: Valentino Urbano 
+comment_id: 9
 ---
 
 I don't trust Google, lately even less so. I've used Google Analytics on all my previous sites until 2012, even on this one — in its previous iteration.
