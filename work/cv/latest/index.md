@@ -1,5 +1,5 @@
 ---
 layout: redirected
 sitemap: false
-redirect_to: ../files/CV_Eng.pdf
+redirect_to: https://raw.githubusercontent.com/valeIT/valeIT.github.io/master/work/cv/files/CV_eng.pdf
 ---
