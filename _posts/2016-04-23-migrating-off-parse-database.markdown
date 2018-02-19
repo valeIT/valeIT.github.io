@@ -5,8 +5,7 @@ date: 2016-04-23 19:19:03.000000000 +01:00
 type: post
 published: true
 status: publish
-categories:
-- Me, Tech
+categories: [Me, Tech]
 author: Valentino Urbano 
 ---
 
