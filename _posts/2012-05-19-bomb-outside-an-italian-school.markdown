@@ -14,7 +14,7 @@ As italian I feel very sad and angry to hear this news, it's a shame.
 
 > 6 students injured, 2 seriously, after pair of blasts outside a school in Brindisi, southern Italy - @[SkyNewsBreak][0]
 
-#### This need to end
+#### This needs to end
 
 As i state in a [tweet][1] it's a shame that in 2012 Mafia can still do whatever they want. The government should put on top (with the economic plan) a plan against mafia, cosa nostra and all criminals organisations - especially when they bomb childrens for no reason at all.[^1]
 
