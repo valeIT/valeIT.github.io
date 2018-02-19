@@ -3,7 +3,7 @@ layout: page
 title: Categories
 ---
 
-Categories:<br>
+<br>
 
 <ul class="tag-box inline">
 {% assign tags_list = site.categories %}  
