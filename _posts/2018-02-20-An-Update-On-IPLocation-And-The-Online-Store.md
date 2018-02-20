@@ -36,8 +36,7 @@ It's the best way to do it with fewer hassles for everyone involved - or so I th
 
 As always, I'm open to feedback.
 
-[0]: /
-<!-- post_url The Days Of Indipendent iOS Development Are Over -->
+[0]: {% post_url 2018-02-25-The-Days-Of-Indipendent-iOS-Development-Are-Over %}
 
 
 [^1]:  I don't want to have anything to do with credit card details, customer addresses or any other personal information. And surely I don't want to store any of it on my servers. 
