@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Days Of Indipendent iOS Development Are Over
-date: 2018-02-19 20:48:15.000000000 +01:00
+date: 2018-02-25 20:48:15.000000000 +01:00
 type: post
 published: true
 status: publish
