@@ -71,21 +71,21 @@ Third party software libraries included in the Service are licensed to you eithe
 
 Except as expressly permitted under this Agreement, you agree **NOT TO**, nor will you allow any third party (whether or not for your benefit) to:
 
-*   Reproduce, reverse engineer, disassemble, decompile, modify, create derivative works based on the Service, or otherwise attempt to derive the source code of the Software;
-*   Translate the Software unless with explicit permission;
-*   Run, rent, lease, loan, or sell access to the Services;
-*   Copy, archive, store, reproduce, rearrange, adapt, download, upload, display, perform, publish, distribute, redistribute or disseminate any part of the Services, unless you obtained a written permission by us to do so;
-*   Access any part of the Services to build a product using similar ideas, features, functions, interface or graphics;
-*   Access (or attempt to access) any service on the Services, by any means other than as permitted in these Terms of Service;
-*   Circumvent, disable or otherwise interfere with security related features of the Services, or features that prevent or restrict use or copying of any Content or Third Party Content or enforce limitations on use of the Services or the Content and Third Party Content therein;
-*   Cause a breach of security to the Services or any Network or interfere with the proper working of the Services or prevent others from using the Services;
-*   Delete the copyright and other proprietary rights notices on any Services;
+* Reproduce, reverse engineer, disassemble, decompile, modify, create derivative works based on the Service, or otherwise attempt to derive the source code of the Software;
+* Translate the Software unless with explicit permission;
+* Run, rent, lease, loan, or sell access to the Services;
+* Copy, archive, store, reproduce, rearrange, adapt, download, upload, display, perform, publish, distribute, redistribute or disseminate any part of the Services, unless you obtained a written permission by us to do so;
+* Access any part of the Services to build a product using similar ideas, features, functions, interface or graphics;
+* Access (or attempt to access) any service on the Services, by any means other than as permitted in these Terms of Service;
+* Circumvent, disable or otherwise interfere with security related features of the Services, or features that prevent or restrict use or copying of any Content or Third Party Content or enforce limitations on use of the Services or the Content and Third Party Content therein;
+* Cause a breach of security to the Services or any Network or interfere with the proper working of the Services or prevent others from using the Services;
+* Delete the copyright and other proprietary rights notices on any Services;
 
 #### Copyright Policy
 
 Werespect the intellectual property rights of others and expect users of the Services to do the same. We will respond to notices of alleged copyright infringement that comply with applicable law and are properly provided to me. If you believe that your Content has been copied in a way that constitutes copyright infringement, please provide us with the following information: (1) a physical or electronic signature of the Copyright owner or a person authorised to act on their behalf; (2) identification of the copyrighted work claimed to have been infringed; (3) identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material; (4) your contact information, including your address, telephone number, and an email address; (5) a statement by you that you have a good faith belief that use of the material in the manner complained of is not authorised by the Copyright owner, its agent, or the law; and (6) a statement that the information in the notification is accurate, and, under penalty of perjury, that you are authorised to act on behalf of the Copyright owner.
 
-**Copyright/Trademark Information**: Copyright © 2015-Current, Valentino Urbano, All rights reserved. The name of our websites and apps is a Trademark, and in some jurisdictions, registered Trademark of Valentino Urbano. The Copyrights, Trademarks, Trade Names, Logos, and Service Marks (“Marks”) displayed in connection with the Service are Valentino Urbano’s property or the property of other third parties. You are not permitted to use these Marks without Valentino Urbano’s prior written consent or the consent of such third party, which may own the Marks.
+**Copyright/Trademark Information**: Copyright © 2015-Current, Valentino Urbano, All rights reserved. The name of our websites, apps and services is a Trademark, and in some jurisdictions, registered Trademark of Valentino Urbano. The Copyrights, Trademarks, Trade Names, Logos, and Service Marks (“Marks”) displayed in connection with the Service are Valentino Urbano’s property or the property of other third parties. You are not permitted to use these Marks without Valentino Urbano’s prior written consent or the consent of such third party, which may own the Marks.
 
 **DMCA and Copyright Infringement**:
 
@@ -93,12 +93,12 @@ You may notify Valentino Urbano of Copyright infringement in connection with the
 
 Your notice must:
 
-*   Identify the original Copyrighted work you claim is infringed;
-*   Identify the content on the Service that you claim is infringing the copyrighted work. Please provide enough detail to locate the allegedly infringing content on the Service;
-*   Provide your contact information, including your full name, mailing address, telephone number, and email address, if available;
-*   Provide a statement that you have a good faith belief that the use of the content in the manner complained of is not authorised by the copyright owner, its agent, or the law;
-*   Provide this statement: “Weswear, under penalty of perjury, that the information in this notification and complaint is accurate and that Wearethe Copyright owner, orareauthorised to act on behalf of the Copyright owner of an exclusive right that is infringed.”;
-*   Provide your signature.
+* Identify the original Copyrighted work you claim is infringed;
+* Identify the content on the Service that you claim is infringing the copyrighted work. Please provide enough detail to locate the allegedly infringing content on the Service;
+* Provide your contact information, including your full name, mailing address, telephone number, and email address, if available;
+* Provide a statement that you have a good faith belief that the use of the content in the manner complained of is not authorised by the copyright owner, its agent, or the law;
+* Provide this statement: “Weswear, under penalty of perjury, that the information in this notification and complaint is accurate and that Wearethe Copyright owner, orareauthorised to act on behalf of the Copyright owner of an exclusive right that is infringed.”;
+* Provide your signature.
 
 #### Consideration
 
@@ -120,7 +120,7 @@ If you reside in a country which is part of the European Union and have purchase
 
 If you have a Paid Subscription, your payment will automatically renew at the end of the subscription period, unless you cancel your Paid Subscription through your subscription page before the end of the current subscription period. The cancellation will take effect the day after the last day of the current subscription period, you will be downgraded to the Free Service, if available. However, if you cancel your payment and/or terminate the Terms after the Cooling-off Period is over (where applicable), and/or before the end of the subscription period, We will not refund any subscription fees already paid to me.
 
-Wemay change the price for the Paid Subscriptions from time to time, and will communicate any price changes to you. Price changes for Paid Subscriptions will take effect at the start of the next subscription period following the date of the price change. By continuing to use the Service after the price change takes effect, you accept the new price.
+We may change the price for the Paid Subscriptions from time to time, and will communicate any price changes to you. Price changes for Paid Subscriptions will take effect at the start of the next subscription period following the date of the price change. By continuing to use the Service after the price change takes effect, you accept the new price.
 
 #### Passwords
 
@@ -130,7 +130,7 @@ You are responsible for safeguarding the password that you use to access the Ser
 
 All Content, whether publicly posted or privately transmitted, is the sole responsibility of the person who originated such Content. We may not monitor or control the Content posted via the Services and, We cannot take responsibility for such Content. Any use or reliance on any Content or materials posted via the Services or obtained by you through the Services is at your own risk.
 
-Wedo not endorse, support, represent or guarantee the completeness, truthfulness, accuracy, or reliability of any Content or communications posted via the Services or endorse any opinions expressed via the Services. You understand that by using the Services, you may be exposed to Content that might be offensive, harmful, inaccurate or otherwise inappropriate, or in some cases, postings that have been mislabeled or are otherwise deceptive. Under no circumstances will We be liable in any way for any Content, including, but not limited to, any errors or omissions in any Content, or any loss or damage of any kind incurred as a result of the use of any Content posted, emailed, transmitted or otherwise made available via the Services or broadcast elsewhere.
+We do not endorse, support, represent or guarantee the completeness, truthfulness, accuracy, or reliability of any Content or communications posted via the Services or endorse any opinions expressed via the Services. You understand that by using the Services, you may be exposed to Content that might be offensive, harmful, inaccurate or otherwise inappropriate, or in some cases, postings that have been mislabeled or are otherwise deceptive. Under no circumstances will We be liable in any way for any Content, including, but not limited to, any errors or omissions in any Content, or any loss or damage of any kind incurred as a result of the use of any Content posted, emailed, transmitted or otherwise made available via the Services or broadcast elsewhere.
 
 #### Your Rights
 
@@ -144,18 +144,18 @@ By downloading any content from our apps — if this kind of Service is availabl
 
 #### User Guidelines
 
-Westrive to keep the Service “family friendly”. As such, We do not allow any of the following content, or links to such content, to be published on the Service:
+We strive to keep the Service “family friendly”. As such, We do not allow any of the following content, or links to such content, to be published on the Service:
 
-*   Content of a pornographic, sexually explicit, violent or deviant nature;
-*   Content of illegal nature (including any stolen Copyrighted material);
-*   Pirated software sites, including cracking programs or cracking program archives;
-*   Content with the sole purpose of causing harm or inciting hate, or content that could be reasonably considered as slanderous or libellous;
-*   Content which infringes, violates or misappropriates any third party’s intellectual property rights or other proprietary rights or contractual rights;
-*   Content which engages in spamming, “chain letters,” “pyramid schemes”, advertisement of illegal or controlled products or services, or other advertising or marketing activities that violate these Terms of Service, any applicable laws, regulations or generally-accepted advertising industry guidelines, including to other Users whether on or off the Service;
-*   Content created and or published in a manner that is misleading, deceptive or fraudulent or otherwise illegal or promotes illegal activities, including engaging in phishing or otherwise obtaining financial or other personal information in a misleading manner or for fraudulent or misleading purposes;
-*   Content that is harmful to minors in any way;
-*   Use of profanity or the description or name of any illegal activity in the name of your account or in any field of your support ticket;
-*   You may not access the Service through automated methods. Use of robots or other computer code, except where explicitly allowed, is absolutely forbidden;
+* Content of a pornographic, sexually explicit, violent or deviant nature;
+* Content of illegal nature (including any stolen Copyrighted material);
+* Pirated software sites, including cracking programs or cracking program archives;
+* Content with the sole purpose of causing harm or inciting hate, or content that could be reasonably considered as slanderous or libellous;
+* Content which infringes, violates or misappropriates any third party’s intellectual property rights or other proprietary rights or contractual rights;
+* Content which engages in spamming, “chain letters,” “pyramid schemes”, advertisement of illegal or controlled products or services, or other advertising or marketing activities that violate these Terms of Service, any applicable laws, regulations or generally-accepted advertising industry guidelines, including to other Users whether on or off the Service;
+* Content created and or published in a manner that is misleading, deceptive or fraudulent or otherwise illegal or promotes illegal activities, including engaging in phishing or otherwise obtaining financial or other personal information in a misleading manner or for fraudulent or misleading purposes;
+* Content that is harmful to minors in any way;
+* Use of profanity or the description or name of any illegal activity in the name of your account or in any field of your support ticket;
+* You may not access the Service through automated methods. Use of robots or other computer code, except where explicitly allowed, is absolutely forbidden;
 
 The final choice of whether an account is in violation of any of these policies is at our sole discretion.
 
@@ -185,9 +185,9 @@ Nothing in this section shall affect our rights to change, limit or stop the pro
 
 Your access to and use of the Services or any Content are at your own risk. You understand and agree that the Services are provided to you on an “AS IS” and “AS AVAILABLE” basis WITHOUT EXPRESS OR IMPLIED WARRANTY OR CONDITION OF ANY KIND. YOU USE THE SERVICE AT YOUR OWN RISK. Without limiting the foregoing, to the maximum extent permitted under applicable law, VALENTINO URBANO DISCLAIMS ALL WARRANTIES AND CONDITIONS, WHETHER EXPRESS OR IMPLIED, OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
 
-Wemake no warranty or representation and disclaim all responsibility and liability for: (1) the completeness, accuracy, availability, timeliness, security or reliability of the Services or any Content; (2) any harm to your computer system, loss of data, or other harm that results from your access to or use of the Services or any Content; (3) the deletion of, or the failure to store or to transmit, any Content and other communications maintained by the Services; and (4) whether the Services will meet your requirements or be available on an uninterrupted, secure, or error-free basis. No advice or information, whether oral or written, obtained from or through the Services, will create any warranty or representation not expressly made herein.
+We make no warranty or representation and disclaim all responsibility and liability for: (1) the completeness, accuracy, availability, timeliness, security or reliability of the Services or any Content; (2) any harm to your computer system, loss of data, or other harm that results from your access to or use of the Services or any Content; (3) the deletion of, or the failure to store or to transmit, any Content and other communications maintained by the Services; and (4) whether the Services will meet your requirements or be available on an uninterrupted, secure, or error-free basis. No advice or information, whether oral or written, obtained from or through the Services, will create any warranty or representation not expressly made herein.
 
-Wealso don’t not warrant, endorse, guarantee or assume responsibility for any third party product or service advertised or offered by a third party on or through any of our Services or any hyperlinked website, or featured in any banner or other advertising. No advice or information whether oral or in writing obtained by you from us shall create any warranty on behalf of us in this regard. Some aspects of this section may not apply in some jurisdictions.
+We also don’t not warrant, endorse, guarantee or assume responsibility for any third party product or service advertised or offered by a third party on or through any of our Services or any hyperlinked website, or featured in any banner or other advertising. No advice or information whether oral or in writing obtained by you from us shall create any warranty on behalf of us in this regard. Some aspects of this section may not apply in some jurisdictions.
 
 **Other Terms** The Payments for the Services are provided by [Apple](http://www.apple.com/legal/internet-services/itunes/us/terms.html) and [FastSpring](http://fastspring.com). You are subjected to their Terms of Service when using their Services.
 
@@ -225,7 +225,7 @@ All rights reserved.
 
 #### Changelog
 
-
-*   June 6, 2015 : First Version.
-*  February 10, 2016 : Improved Wording.
-*  January 10, 2018 : Changed "Apps" to "Projects"
+* June 6, 2015 : First Version.
+* February 10, 2016 : Improved Wording.
+* January 10, 2018 : Changed "Apps" to "Projects"
+* May 5, 2018: GDPR + Improved Wording.
