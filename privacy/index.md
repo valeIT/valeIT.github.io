@@ -84,6 +84,22 @@ You have several choices available when it comes to information about you:
 * Opt-Out of Electronic Communications: You may opt out of receiving promotional messages from us. Just follow the instructions in those messages. If you opt out of promotional messages, we may still send you other messages, like those about your account and legal notices.
 * Set Your Browser to Reject Cookies: You can usually choose to set your browser to remove or reject browser cookies before using Our websites, with the drawback that certain features of Our website may not function properly without the aid of cookies.
 
+### Request / Delete your data
+
+You can request a copy of all data we have about you by sending us an email, you can also ask us to delete all the data we have about you.
+
+* How to export:
+
+Send an email to valentino@valentinourbano.com with the subject "[EXPORT] USERNAME APPNAME". You can include anything you want to share in the body, a real human will read it. We will respond with an export of your data.
+
+* How to delete:
+
+Send an email to valentino@valentinourbano.com with the subject "[DELETE] USERNAME APPNAME". You can include anything you want to share in the body, a real human will read it. We will respond with a confirmation of deletion.
+
+### GDPR Notice
+
+We believe in Privacy First. We are applying GDPR compliance for everyone and by default.
+
 #### Protection of Certain Personally-Identifying Information
 
 Our websites, apps and services disclose potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organisations that (1) need to know that information in order to process it on our websites, apps and services’ behalf or to provide services available at our websites, apps and services’ websites, and (2) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organisations may be located outside of your home country; by using our websites, apps and services, you consent to the transfer of such information to them. our websites, apps and services will not rent, lend or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organisations, as described above, our websites, apps and services discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when our websites, apps and services believes in good faith that disclosure is reasonably necessary to protect the property or rights of our websites, apps and services, third parties or the public at large. If you are a registered to our newsletter,We may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with our products.We primarily use our various product blogs to communicate this type of information, soWe expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of the feedback mechanisms),We reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. our websites, apps and services take all measures reasonably necessary to protect against the unauthorised access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
@@ -104,7 +120,7 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 
 ##### Apps
 
-I work with advertisers and third party advertising networks, who need to know how you interact with advertising provided in the Application which helps us to keep the cost of the Application low. Advertisers and advertising networks use some of the information collected by the Application, including, but not limited to, the unique identification ID of your mobile device. These third parties may also obtain anonymous information about other applications you’ve downloaded to your mobile device, the mobile websites you visit, your non-precise location information (e.g., your zip code), and other non-precise location information in order to help analyse and serve anonymous targeted advertising on the Application and elsewhere.
+We work with advertisers and third party advertising networks, who need to know how you interact with advertising provided in the Application which helps us to keep the cost of the Application low. Advertisers and advertising networks use some of the information collected by the Application, including, but not limited to, the unique identification ID of your mobile device. These third parties may also obtain anonymous information about other applications you’ve downloaded to your mobile device, the mobile websites you visit, your non-precise location information (e.g., your zip code), and other non-precise location information in order to help analyse and serve anonymous targeted advertising on the Application and elsewhere.
 
 On iOs you can limit ad tracking by following [these steps](https://support.apple.com/en-us/HT202074).
 
