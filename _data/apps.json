@@ -1,4 +1,13 @@
 [{
+        "name": "Free The Desktop",
+        "id": "FreeTheDesktop",
+        "description": "Quickly hide and show your desktop, dock and menubar. Make your screen recordings look great.",
+        "link": "http://www.valentinourbano.com/apps/mac/freethedesktop",
+        "platforms": ["Mac"],
+        "fontAwesome": ["laptop"]
+
+    },
+    {
         "name": "Endless Wheel",
         "id": "EndlessWheel",
         "description": "Build your own strategy to get as many pins into the wheel as you can.",
