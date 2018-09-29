@@ -1,8 +1,8 @@
 [{
-        "name": "Free The Desktop",
-        "id": "FreeTheDesktop",
-        "description": "Quickly hide and show your desktop, dock and menubar. Make your screen recordings look great.",
-        "link": "http://www.valentinourbano.com/apps/mac/freethedesktop",
+        "name": "Free My Desktop",
+        "id": "FreeMyDesktop",
+        "description": "Quickly hide and show your desktop, dock and menubar. Make your screens and recordings look great. For free.",
+        "link": "http://www.valentinourbano.com/apps/mac/freemydesktop",
         "platforms": ["Mac"],
         "fontAwesome": ["laptop"]
 
