@@ -26,7 +26,8 @@
                 <div class="post-meta">
                     <h1 class="post-title">{{ page.title }}</h1>
                     <div class="cf post-meta-text">
-                        <div class="author-image" style="background-image: url({{ site.author_image | prepend: site.baseurl }})">Blog Logo</div>
+                        <div class="author-image" style="background-image: url({{ site.author_image | prepend: site.baseurl }})">Blog Logo
+                        </div>
                         <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4>
                         {% if page.date %} on
                         <time datetime="{{ page.date | date: " %F %R " }}">{{ page.date | date_to_string }}</time>
@@ -59,20 +60,23 @@
                 <div class="isLeft">
                     <h5 class="index-headline featured"><span>Written by</span></h5>
                     <section class="author">
-                        <div class="author-image" style="background-image: url({{site.author_image | prepend: site.baseurl}})">Blog Logo</div>
+                        <div class="author-image" style="background-image: url({{site.author_image | prepend: site.baseurl}})">Blog Logo
+                        </div>
                         <h4>{{ site.author }}</h4>
                         <p class="bio">{{author.bio}}</p>
                         <hr> {% if page.date %}
-                        <p class="published">Published <time datetime="{{ page.date | date: " %F %R " }}">{{ page.date | date_to_string }}</time></p>
+                        <p class="published">Published <time datetime="{{ page.date | date: " %F %R " }}">{{ page.date
+                                | date_to_string }}</time></p>
                         {% endif %}
                     </section>
                 </div>
                 {{post}}
                 <div class="isRight">
-                    <h5 class="index-headline featured"><span>Supported by</span></h5>
+                    <h5 class="index-headline featured"><span>Find Out More</span></h5>
                     <footer class="site-footer">
                         <section class="poweredby"><a href="{{site.url}}/projects">Check Out My Projects</a></section>
-                        <a class="subscribe" href="{{ " /feed.xml " | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> You should subscribe to my feed.</span></a>
+                        <a class="subscribe" href="{{ " /feed.xml " | prepend: site.baseurl }}"> <span class="tooltip">
+                                <i class="fa fa-rss"></i> You should subscribe to my feed.</span></a>
                         <div class="inner">
                             <section class="copyright">All content copyright <a href="{{@blog.url}}/">{{site.author}}</a> &copy; {{ site.time | date: '%Y' }}<br>All rights reserved.</section>
                         </div>
@@ -95,10 +99,12 @@
                     dsq.type = 'text/javascript';
                     dsq.async = true;
                     dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild
+                        (dsq);
                 })();
             </script>
-            <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> {% endif %}
+            <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered
+                    by Disqus.</a></noscript> {% endif %}
         </article>
     </main>
     <div class="bottom-closer">
