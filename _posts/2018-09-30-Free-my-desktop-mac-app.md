@@ -9,6 +9,7 @@ categories: [Tech, Me]
 image: /assets/article_images/freemydesktop_screen_4.jpeg
 image2: /assets/article_images/freemydesktop_screen_4.jpeg
 author: Valentino Urbano
+comment_id: 14
 ---
 
 Lately I've been doing some screen recordings and screenshots for some projects and I had the necessity of making a quick tool to hide everything from the desktop to make it look neat.
