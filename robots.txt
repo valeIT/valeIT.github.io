@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: /work/cv
+Disallow: /apps/mac/freemydesktop
