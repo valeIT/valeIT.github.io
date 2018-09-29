@@ -3,6 +3,14 @@ layout: page
 title: Random Password Generator Patch Notes
 ---
 
+
+## 2.0
+
+- NEW: iOS 11 Support
+- NEW:  watch OS5 Support
+- FIX: iOS 10 Bug Fixing
+- FIX: watch OS 3-4 Bug Fixing
+
 ## 1.3
 
 - NEW: Nuova Localizzazione in Italiano. Essendo Italiano mi è dispiaciuto non poter offrire la localizzazione per il rilascio. Se notate qualcosa fuori posto fatemelo sapere ;)

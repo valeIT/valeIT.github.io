@@ -3,6 +3,13 @@ layout: page
 title: Tic Tac Toe Patch Notes
 ---
 
+## 2.5
+
+- NEW: iOS 11 Support
+- NEW:  watch OS5 Support
+- FIX: iOS 10 Bug Fixing
+- FIX: watch OS 3-4 Bug Fixing
+
 ## 2.0
 
 * NEW: All new Difficulty: The new Hard Mode AI will surely be challenging to beat. The old AI is still available as "Normal" difficulty.
