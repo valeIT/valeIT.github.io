@@ -7,7 +7,7 @@
 }
 
 body {
-  font-family: "Open Sans", Tahoma, Arial;
+  font-family: "Avenir", Tahoma, Arial;
 }
 
 header {
@@ -213,7 +213,7 @@ header.masthead .mh-slider {
   text-transform: uppercase;
   padding-top: 25px;
   padding-bottom: 24px;
-  font-family: "Open Sans", Tahoma, Arial;
+  font-family: "Avenir", Tahoma, Arial;
   color: gray;
   -webkit-transition: all 0.25s ease-in-out;
   -o-transition: all 0.25s ease-in-out;
