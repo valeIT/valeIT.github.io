@@ -2,7 +2,7 @@
         "name": "Free My Desktop",
         "id": "FreeMyDesktop",
         "description": "Quickly hide and show your desktop, dock and menubar. Make your screens and recordings look great. For free.",
-        "link": "http://www.valentinourbano.com/apps/mac/freemydesktop",
+        "link": "http://www.valentinourbano.com/Free-my-desktop-mac-app.html",
         "platforms": ["Mac"],
         "fontAwesome": ["laptop"]
 
@@ -12,8 +12,8 @@
         "id": "EndlessWheel",
         "description": "Build your own strategy to get as many pins into the wheel as you can.",
         "link": "https://itunes.apple.com/us/app/endless-wheel/id1257429123?&at=1010lHG??mt=8",
-        "platforms": ["iOS"],
-        "fontAwesome": ["mobile"]
+        "platforms": ["iOS", "android"],
+        "fontAwesome": ["mobile", "android"]
 
     },
 
