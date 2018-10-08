@@ -34,6 +34,18 @@ The app is completely free, but I'd glad if you would [consider donating towards
 
 ![Free My Desktop](/assets/article_images/freemydesktop_screen_3.jpeg)
 
+## Installation and Requirements
+
+The app requires OS X Yosemite or newer to run. I tried to keep it backward compatible as much as I could, but it's not tested on any system apart Mojave (let me know if there are problems on any older systems).
+
+There is no installer, you can just drag and drop it in your Application folder and double click to open.
+
+It is signed with my developer ID (also notarized by Apple). The only warning popup that should appear is the one telling you that you downloaded this app from the internet and not from the App Store.
+
+**If you have problems opening the app the first time:**
+
+If you have Gatekeeper (most recent Mac have it) and allow only applications from the Mac App Store to run you need to open "System Preferences" -> "Security & Privacy" -> "Allow apps downloaded from" and select "App Store and identified developers". You can now open the app.
+
 Note: Unfortunately, due to Apple Sandboxing the app is not and will never be available through the Mac App Store.
 
 <br><br>
