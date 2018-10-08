@@ -44,7 +44,11 @@ It is signed with my developer ID (also notarized by Apple). The only warning po
 
 **If you have problems opening the app the first time:**
 
-If you have Gatekeeper (most recent Mac have it) and allow only applications from the Mac App Store to run you need to open "System Preferences" -> "Security & Privacy" -> "Allow apps downloaded from" and select "App Store and identified developers". You can now open the app.
+If you have Gatekeeper (most recent Mac have it) and allow only applications from the Mac App Store to run you need to open "System Preferences" -> "Security & Privacy" -> "Allow apps downloaded from" -> click the logck and enter your password and select "App Store and identified developers".
+
+![Free My Desktop](/assets/article_images/freemydesktop_screen_inst.jpeg)
+
+You can now open the app.
 
 Note: Unfortunately, due to Apple Sandboxing the app is not and will never be available through the Mac App Store.
 
