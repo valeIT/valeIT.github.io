@@ -8,7 +8,7 @@ status: publish
 categories: [Tech]
 image: /assets/article_images/andre-francois-557614-unsplash.jpeg
 image2: /assets/article_images/andre-francois-557614-unsplash.jpeg
-author: Valentino Urbano 
+author: Valentino Urbano
 comment_id: 12
 ---
 
@@ -16,8 +16,8 @@ comment_id: 12
 
 This article requires an intermediate understanding of [Crypto][3]. Before we start you should also familiarize yourself with the concept of [Blockchain][6] and [Digital Currencies][7].
 
-
 Terminology:
+
 - [Mining][18]
 - [Block][19]
 - [FIAT Currency][20], like for example the US Dollar
@@ -32,7 +32,7 @@ The blockchain holds all the records of previous transactions. Miners are people
 
 I tried not to talk about this for the past few years, but I feel that I should do it now. Now that the future is still totally uncertain, I should put what I think about it down for postures. Right or wrong.
 
-*Disclaimer: I do not own any Bitcoin nor Ethereum before or up to the moment when I finished writing this article. I may have in the future, I may not. I [do own][23] a few Dogecoins though.*
+_Disclaimer: I do not own any Bitcoin nor Ethereum before or up to the moment when I finished writing this article. I may have in the future, I may not. I [do own][23] a few Dogecoins though._
 
 Ready?
 
@@ -40,20 +40,19 @@ Ready?
 
 Now, calm down, put down your pitchforks and listen with an open mind. If you don't agree you can comment at the bottom of the post (please be polite).
 
-What I mean by that is that I don't think **Bitcoin itself** will survive long term. 
+What I mean by that is that I don't think **Bitcoin itself** will survive long term.
 
 It may go up by a lot in the short/medium term and be used in businesses (it already is today), but it won't become the powerhouse everybody thinks it will become and change everything forever. At least not in the way post people think it will.
 
-The main reasons are its design flaws (network fees, limited pool, mining rewards, ...), but more importantly the fact that it has merely recreated the banking system. 
+The main reasons are its design flaws (network fees, limited pool, mining rewards, ...), but more importantly the fact that it has merely recreated the banking system.
 
 **It failed spectacularly in doing what it was supposed to do.**
 
-Instead of destroying the banking world it merely copied it. 
+Instead of destroying the banking world it merely copied it.
 
 A few people (an exact copy of the famous 1% of the banking world) controls more than 60% of all Bitcoins in circulation. It is concerning. More so if you know how bitcoin works: whoever controls 50%+1 of the network basically [controls the currency][8][^1].
 
 The whole idea of a Digital Currency is in opposition of the status quo and the inequalities of today's society. This is not the case with Bitcoin.
-
 
 What will survive is its foundations. The basic ideas behind it and its implementation:
 
@@ -69,7 +68,7 @@ Here are a few ideas:
 
 ## Decentralization[^3] is a core principle of the internet.
 
-There is currently a full-on war going on in the web between businesses who want centralization and advocates who want to stop it[^4]. 
+There is currently a full-on war going on in the web between businesses who want centralization and advocates who want to stop it[^4].
 
 More and more services and companies are centralizing and regulating everything they can.
 
@@ -89,7 +88,9 @@ To have a better understanding of the whole fenomenon you should also read these
 These are just a few first steps, there is a lot more...
 
 [0]: /soon
+
 <!-- post_url Medium is taking over the blogging world -->
+
 [1]: https://en.wikipedia.org/wiki/Ethereum_Classic
 [2]: https://medium.com
 [3]: https://en.wikipedia.org/wiki/Cryptocurrency
@@ -112,9 +113,18 @@ These are just a few first steps, there is a lot more...
 [20]: https://en.wikipedia.org/wiki/Fiat_money
 [21]: https://www.investopedia.com/terms/a/altcoin.asp
 [22]: https://en.bitcoinwiki.org/wiki/Main_Page
+
 [23]: {% post_url 2015-08-19-dogecoin-faucet-myshar-org %}
 
-[^1]: Look no further than at ETH Classic for a similar real-life case of what happens if the bad guys decide they want it all for themselves. (It is pretty different from the Bitcoin situation, but I still think it fits.)
-[^2]: If there is a currency I'd bet on it's Ethereum (NOT classic). This is not an investing advice - crypto is NOT investing. It's highly probable I'm wrong.
+[^1]:
+
+  Look no further than at ETH Classic for a similar real-life case of what happens if the bad guys decide they want it all for themselves. (It is pretty different from the Bitcoin situation, but I still think it fits.)
+
+[^2]:
+
+  If there is a currency I'd bet on it's Ethereum (NOT classic). This is not an investing advice - crypto is NOT investing. It's highly probable I'm wrong.
+
 [^3]: Through the Blockchain
-[^4]: [Medium][2] is not the only example and it is surely NOT the main culprit. Other Examples: [Facebook][10] and [Google][11].
+[^4]:
+
+  [Medium][2] is not the only example and it is surely NOT the main culprit. Other Examples: [Facebook][11] and [Google][10].
