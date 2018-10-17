@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Free My Desktop - Product Hunt Launch
-date: 2018-10-17 16:50:23.000000000 +01:00
+date: 2018-10-17 11:50:23.000000000 +01:00
 type: post
 published: true
 status: publish
@@ -14,7 +14,7 @@ comment_id: 16
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Hey! My name is Valentino Urbano and in March I quit my full-time job to freelance on my own. In my spare time, I make products.
+<!-- Hey! My name is Valentino Urbano and in March I quit my full-time job to freelance on my own. In my spare time, I make products. -->
 
 Late last month I realized that I didn't ship anything in a long time. Freelancing keeps me pretty busy between finding clients and actually doing the work. On top of that, I also _try_ to spend some time with my spouse.
 
