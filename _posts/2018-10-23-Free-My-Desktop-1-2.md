@@ -17,8 +17,11 @@ The thid update for Free My Desktop is up.
 This update always shows the menu on both right and left click. Having it show only on secondary click had a lot of accessibility issues.
 
 You can turn on minimalist mode (make it work as the previous update) by opening a Terminal window and running:
+
 `defaults com.valentinourbano.FreeMyDesktop minimalist true`
+
 And you can turn it back off by opening a Terminal window and running:
+
 `defaults com.valentinourbano.FreeMyDesktop minimalist false`
 
 **Improvements:**
