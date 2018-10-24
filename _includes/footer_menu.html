@@ -227,7 +227,14 @@
         $(this).toggleClass("expanded");
     });
     $("#fixed-form-container #button_external_close").click(function() {
+        Cookies.set("hideNewsletter", "hideNewsletter", {
+            expires: 7
+        }); //7 days
         $("#fixed-form-container").hide();
     });
+
+    if (Cookies.get('hideNewsletter') === "hideNewsletter") {
+        $("#fixed-form-container").hide();
+    }
 </script>
 <!--End mc_embed_signup-->
