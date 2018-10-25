@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>IPLocation</title>
+<item>
+<title>2.0</title>
+<pubDate>Thu, 25 Oct 2018 20:24:26 +0200</pubDate>
+<sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/valeIT/valeIT.github.io/master/apps/mac/iplocation/beta/IPLocation2.app.zip" sparkle:version="19" sparkle:shortVersionString="2.0" length="7905941" type="application/octet-stream"/>
+</item>
+</channel></rss>
