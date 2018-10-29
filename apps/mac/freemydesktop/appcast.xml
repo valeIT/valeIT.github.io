@@ -1,10 +1,12 @@
-<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-<channel>
-<title>FreeMyDesktop</title>
-<item>
-<title>1.2</title>
-<pubDate>Tue, 23 Oct 2018 22:23:37 +0200</pubDate>
-<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/valeIT/valeIT.github.io/master/apps/mac/freemydesktop/FreeMyDesktop.app.zip" sparkle:version="5" sparkle:shortVersionString="1.2" length="6141460" type="application/octet-stream"/>
-</item>
-</channel></rss>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>FreeMyDesktop</title>
+    <item>
+      <title>1.2</title>
+      <pubDate>Tue, 23 Oct 2018 22:23:37 +0200</pubDate>
+      <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+      <enclosure url="https://raw.githubusercontent.com/valeIT/valeIT.github.io/master/apps/mac/freemydesktop/download/FreeMyDesktop.app.zip" sparkle:version="5" sparkle:shortVersionString="1.2" length="6141460" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
