@@ -1,20 +1,21 @@
 <!-- footer start -->
 
 <footer class="site-footer">
-  <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
+    <a class="subscribe" href="{{ " /feed.xml " | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i>
+      Subscribe!</span></a>
     <div class="inner">
-         <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{ site.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.</section>
-        {% for social in site.social %}
-	        {% if social.url %}
-	            <a class="icon-{{ social.icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}">
-	              <i class="fa fa-{{ social.icon }}"></i>
-	            </a>
-	            &nbsp;&nbsp;·&nbsp;&nbsp;
-	        {% endif %}
-      {% endfor %}
-      <br>
-      {% include footer_menu.html %}
-    </div>
+        <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{ site.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.</section>
+        {% for social in site.social %} {% if social.url %}
+        <a class="icon-{{ social.icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}" {% endif %} ">
+      <i class="fa fa-{{ social.icon }} "></i>
+    </a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    {% endif %}
+    {% endfor %}
+    <br>
+    {% include footer_menu.html %}
+    {% include newsletter.html %}
+  </div>
 </footer>
 
 <!-- footer end -->
