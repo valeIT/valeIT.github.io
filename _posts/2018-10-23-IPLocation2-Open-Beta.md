@@ -32,6 +32,9 @@ Use it for free while in beta!
 
 If you have any feedback on the beta let me know via [email][3] or on [twitter][6].
 
+You can also take a look at the [roadmap and upvote your favorite features][7].
+
 [2]: /apps/mac/iplocation/beta
 [3]: /about
 [6]: https://twitter.com/valentinourbano
+[7]: https://iplocation.nolt.io/

@@ -60,6 +60,23 @@ If you enjoyed it consider buying me a coffee.
 
 [Press Kit][4]
 
+<!--
+
+#### Featured On
+
+https://www.producthunt.com/posts/free-my-desktop
+https://www.indiehackers.com/forum/show-ih-just-launched-my-first-app-on-product-hunt-free-my-desktop-19f7c5ab09
+https://startupresources.io/blog/my-first-product-hunt-launch-valentino-urbano/
+https://startuptracker.io/lists/types/hot/2018/43
+https://twitter.com/newtechhubnet/status/1050280623598919680
+https://www.appinn.com/free-my-desktop-for-macos/
+https://www.ifun.de/free-my-desktop-mini-app-blendet-desktop-icons-aus-128293/
+http://www.maxiapple.com/2018/10/free-my-desktop-mac-app-macos.html
+https://ihaveanidea.hellobox.co/site/contents/content/2206716/2018-10-08/free-my-desktop-hides-all-the-icons-from-your-desktop-with-a-click?ref=producthunt
+https://dev.to/valeit/just-launched-my-first-app-on-product-hunt---free-my-desktop-1ic8
+
+-->
+
 [1]: https://www.paypal.me/vale93
 [2]: /apps/mac/freemydesktop/
 [3]: https://twitter.com/valentinourbano
