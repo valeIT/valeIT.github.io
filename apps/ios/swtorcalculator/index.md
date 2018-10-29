@@ -1,11 +1,13 @@
+---
+layout: empty
+---
+
 <!--
 Author: W3layouts
 Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 -->
-<!DOCTYPE HTML>
-<html>
 
 <head>
     <title>SWTOR Discipline and Utility Calculator for iOS</title>
@@ -37,6 +39,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         });
     </script>
     <!---- start-smoth-scrolling---->
+
 </head>
 
 <body>
@@ -144,7 +147,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     </div>
     <!----- top-grids ----->
 
-    <div class="notify">
+    <!--<div class="notify">
         <div class="container">
             <div class="notify-grid">
                 <h3>Get Notified of any updates!</h3>
@@ -155,20 +158,22 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 </form>
             </div>
         </div>
-    </div>
+    </div>-->
 
     <div class="social-icons">
         <div class="container">
             <ul>
                 <li><a class="twitter" href="https://twitter.com/valentinourbano"><span> </span></a></li>
                 <!-- <li><a class="facebook" href="https://www.facebook.com/valentinourbanosupport"><span> </span></a></li>
-               
-						<li><a class="vemeo" href="#"><span> </span></a></li>
-						<li><a class="pin" href="#"><span> </span></a></li>
+
+    					<li><a class="vemeo" href="#"><span> </span></a></li>
+    					<li><a class="pin" href="#"><span> </span></a></li>
+
 -->
-                <div class="clearfix"> </div>
-            </ul>
-        </div>
+
+<div class="clearfix"> </div>
+</ul>
+</div>
 
         <!---- footer-links ---->
         <div class="footer-links">
@@ -182,13 +187,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <script type="text/javascript">
                 $(document).ready(function() {
                     /*
-										var defaults = {
-								  			containerID: 'toTop', // fading element id
-											containerHoverID: 'toTopHover', // fading element hover id
-											scrollSpeed: 1200,
-											easingType: 'linear' 
-								 		};
-										*/
+    									var defaults = {
+    							  			containerID: 'toTop', // fading element id
+    										containerHoverID: 'toTopHover', // fading element hover id
+    										scrollSpeed: 1200,
+    										easingType: 'linear'
+    							 		};
+    									*/
 
                     $().UItoTop({
                         easingType: 'easeOutQuart'
@@ -203,6 +208,5 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <!----- social-icons ---->
     </div>
     <!---- container ---->
-</body>
 
-</html>
+</body>

@@ -1,40 +1,9 @@
-<!doctype html>
-<!--[if lt IE 7]><html lang="en" class="no-js ie6"><![endif]-->
-<!--[if IE 7]><html lang="en" class="no-js ie7"><![endif]-->
-<!--[if IE 8]><html lang="en" class="no-js ie8"><![endif]-->
-<!--[if gt IE 8]><!-->
-<html lang="en" class="no-js">
-<!--<![endif]-->
+---
+layout: empty
+---
 
 <head>
-    <script>
-        "use strict";
 
-        ! function() {
-            var t = window.driftt = window.drift = window.driftt || [];
-            if (!t.init) {
-                if (t.invoked) return void(window.console && console.error && console.error("Drift snippet included twice."));
-                t.invoked = !0, t.methods = ["identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on"],
-                    t.factory = function(e) {
-                        return function() {
-                            var n = Array.prototype.slice.call(arguments);
-                            return n.unshift(e), t.push(n), t;
-                        };
-                    }, t.methods.forEach(function(e) {
-                        t[e] = t.factory(e);
-                    }), t.load = function(t) {
-                        var e = 3e5,
-                            n = Math.ceil(new Date() / e) * e,
-                            o = document.createElement("script");
-                        o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + n + "/" + t + ".js";
-                        var i = document.getElementsByTagName("script")[0];
-                        i.parentNode.insertBefore(o, i);
-                    };
-            }
-        }();
-        drift.SNIPPET_VERSION = '0.3.1';
-        drift.load('vbwmrgez6nux');
-    </script>
     <meta charset="UTF-8">
     <title>IPLocation 2</title>
 
@@ -280,21 +249,21 @@
             </div>
         </section>
 
-        <section id="download">
+      <section id="download">
             <div class="container">
                 <div class="row">
                     <div class="col-md-10 col-md-push-1">
                         <h1>IPLocation 2 <span>Available</span> in the Mac App Store</h1>
                         <h4>Get it in the Mac App Store now. <br><br></h4>
                         <br><br><br>
-                        <p><a href="https://infinit.io/_/zixgq2T" class="btn btn-default scrollpoint sp-effect1">download
+                        <p><a href="/IPLocation2-Open-Beta.html" class="btn btn-default scrollpoint sp-effect1">download
                                 now!</a></p>
                     </div>
 
                     <div class="col-md-6 col-md-push-3">
                         <div class="btn-group btn-group-justified btn-lg small">
                             <div class="btn-group">
-                                <a href="https://infinit.io/_/zixgq2T" class="btn btn-default scrollpoint sp-effect6">
+                                <a href="/IPLocation2-Open-Beta.html" class="btn btn-default scrollpoint sp-effect6">
                                     <span class="apple"></span>
                                 </a>
                             </div>
@@ -302,6 +271,8 @@
                         </div>
                     </div>
 
+</div>
+                    </div>
 
         </section>
 
@@ -310,7 +281,9 @@
                 <div class="col-md-7">
 
                     <h2 class="scrollpoint sp-effect3">IPLocation <span>Features</span></h2>
-                    <p class="first">With IPLocation checking your ip geolocation has never been easier. The application lives in the menubar and notifies you each time your IP address changes. IPLocation is highly customizable with a bunch of options.</p>
+                    <p class="first">With IPLocation checking your ip geolocation has never been easier. The
+                        application lives in the menubar and notifies you each time your IP address changes. IPLocation
+                        is highly customizable with a bunch of options.</p>
                     <p></p>
                     <p>
                         <a href="#packages" class="btn btn-default scrollpoint sp-effect1">buy now!</a>
@@ -328,6 +301,7 @@
             <div class="container">
                 <div class="row">
                     <!--
+
 <div class="col-md-2 hidden-xs">
                         <span class="owl-prev"><i class="fa fa-chevron-left fa-2x"></i></span>
                     </div>
@@ -425,8 +399,12 @@
                                     <li>Support a solo, indipendent developer</li>
                                 </ul>
                                 <p>
-                                    Note: IPLocation 1 is an old version and is currently unsupported. <br>If you've purchased IPLocation 1 after May 1st 2018 and before the release of IPLocation 2 (October 26th) you can get the all new IPLocation 2 for
-                                    free. This special offer applies to both users of the direct version and the mac app store version of IPLocation 1. <br>To find out how contact me via <a href="/about/">email</a> with your proof (and date) of purchase.
+                                    Note: IPLocation 1 is an old version and is currently unsupported. <br>If you've
+                                    purchased IPLocation 1 after May 1st 2018 and before the release of IPLocation 2
+                                    (October 26th) you can get the all new IPLocation 2 for
+                                    free. This special offer applies to both users of the direct version and the mac
+                                    app store version of IPLocation 1. <br>To find out how contact me via <a href="/about/">email</a>
+                                    with your proof (and date) of purchase.
                                 </p>
                                 <s><a href="#" class="btn btn-sign-up btn-block"> </a>Retired</s>
                             </div>
@@ -467,7 +445,8 @@
                 <div class="row">
                     <div class="col-md-8 col-md-push-2 clearfix">
                         <div class="section-heading scrollpoint sp-effect3">
-                            <p>*Free Updates for patches and minor updates. Major (3.x, ...) releases (usually every few years) may require an upgrade.</p>
+                            <p>*Free Updates for patches and minor updates. Major (3.x, ...) releases (usually every
+                                few years) may require an upgrade.</p>
                         </div>
                     </div>
                 </div>
@@ -533,7 +512,8 @@
                             <div class="section-heading scrollpoint sp-effect3">
                                 <h3>IPLocation<span> team</span></h3>
                                 <span class="divider"></span>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore reiciendis vel reprehenderit expedit!</p>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore reiciendis vel
+                                    reprehenderit expedit!</p>
                             </div>
                         </div>
                         <!-- <div class="col-md-2 hidden-xs">
@@ -551,7 +531,8 @@
                                         <div class="member">
                                             <div class="media">
                                                 <a class="pull-left" href="#">
-                                                    <img class="media-object" src="http://api.randomuser.me/portraits/men/74.jpg" alt="">
+                                                    <img class="media-object" src="http://api.randomuser.me/portraits/men/74.jpg"
+                                                        alt="">
                                                 </a>
                                                 <div class="media-body">
                                                     <h4 class="media-heading">
@@ -566,7 +547,9 @@
                                                     </h4>
                                                     <p>Developer</p>
                                                     <span class="divider"></span>
-                                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, veritatis. Numquam adipisci eos necessitatibus nemo, nulla eligendi nobis quae autem illum ullam magni.</p>
+                                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error,
+                                                        veritatis. Numquam adipisci eos necessitatibus nemo, nulla
+                                                        eligendi nobis quae autem illum ullam magni.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -591,7 +574,7 @@
                                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, veritatis. Numquam adipisci eos necessitatibus nemo, nulla eligendi nobis quae autem illum ullam magni.</p>
                                                 </div>
                                             </div>
-                                        </div> 
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -641,7 +624,7 @@
                                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, veritatis. Numquam adipisci eos necessitatibus nemo, nulla eligendi nobis quae autem illum ullam magni.</p>
                                                 </div>
                                             </div>
-                                        </div> 
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -671,7 +654,7 @@
                                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, veritatis. Numquam adipisci eos necessitatibus nemo, nulla eligendi nobis quae autem illum ullam magni.</p>
                                                 </div>
                                             </div>
-                                        </div> 
+                                        </div>
                          <div class="member">
                                             <div class="media">
                                                 <a class="pull-left" href="#">
@@ -693,7 +676,7 @@
                                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, veritatis. Numquam adipisci eos necessitatibus nemo, nulla eligendi nobis quae autem illum ullam magni.</p>
                                                 </div>
                                             </div>
-                                        </div> 
+                                        </div>
                     </div>
                 </div>
             </div>
@@ -721,7 +704,7 @@
                                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, veritatis. Numquam adipisci eos necessitatibus nemo, nulla eligendi nobis quae autem illum ullam magni.</p>
                                                 </div>
                                             </div>
-                                        </div> 
+                                        </div>
                          <div class="member">
                                             <div class="media">
                                                 <a class="pull-left" href="#">
@@ -743,25 +726,29 @@
                                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, veritatis. Numquam adipisci eos necessitatibus nemo, nulla eligendi nobis quae autem illum ullam magni.</p>
                                                 </div>
                                             </div>
-                                        </div> 
-                    </div>
-                </div>
-            </div> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>-->
+
+</div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div>                            
         </section>
 
-
-        <section id="subscribe">
+       <!-- <section id="subscribe">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
                         <div class="newsletter-wrapper">
                             <h3 class="scrollpoint sp-effect3">IPLocation <span>newsletter</span></h3>
                             <span class="divider scrollpoint sp-effect3"></span>
-                            <p class="scrollpoint sp-effect3">Subscribe to get notified of new releases and get exclusive access to beta versions of the app.</p>
+                            <p class="scrollpoint sp-effect3">Subscribe to get notified of new releases and get
+                                exclusive access to beta versions of the app.</p>
                             <div class="form-group has-feedback">
                                 <input type="text" class="form-control" placeholder="Email">
                                 <button class="form-control-feedback">subscribe</button>
@@ -769,18 +756,18 @@
                             <p> </p>
                         </div>
                     </div>
-                    <!-- <div class="col-md-6"> -->
-                    <!-- <img src="img/iphone2.png" class="img-responsive hidden-xs scrollpoint sp-effect3" alt=""> -->
-                    <!-- </div> -->
+                     <div class="col-md-6">
+                     <img src="img/iphone2.png" class="img-responsive hidden-xs scrollpoint sp-effect3" alt="">
+                     </div>
                 </div>
             </div>
-        </section>
+        </section>-->
 
 
         <section id="sponsors">
-            <!-- <div class="container"> -->
-            <!-- <div class="row"> -->
-            <!-- <div class="col-md-3">
+            <!-- <div class="container">
+             <div class="row">
+             <div class="col-md-3">
                         <a href="#" class="scrollpoint sp-effect2"><img src="img/logo_gray.png" alt="" class="img-responsive"></a>
                     </div>
                     <div class="col-md-3">
@@ -791,9 +778,9 @@
                     </div>
                     <div class="col-md-3">
                         <a href="#" class="scrollpoint sp-effect1"><img src="img/logo_gray.png" alt="" class="img-responsive"></a>
-                    </div> -->
-            <!-- </div> -->
-            <!-- </div> -->
+                    </div>
+             </div>
+             </div> -->
         </section>
 
 
@@ -819,32 +806,32 @@
                             </ul>
                         </div><br><br><br>
                         <p class="rights">
-                            2015-Current <span>IPLocation</span> by Valentino Urbano. | Template by <a href="http://www.scoopthemes.com" rel=nofollow>ScoopThemes</a>
+                            2015-Current <span>IPLocation</span> by Valentino Urbano. | Template by <a href="http://www.scoopthemes.com"
+                                rel=nofollow>ScoopThemes</a>
                         </p>
                     </div>
                 </div>
             </div>
         </footer>
-        </div>
+    </div>
 
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-        <script src="/apps/mac/web/js/bootstrap.min.js"></script>
-        <script src="/apps/mac/web/js/owl.carousel.min.js"></script>
-        <script src="/apps/mac/web/js/waypoints.min.js"></script>
 
-        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAtxNC8sOq37sDk2NbEvhRWMkvasC7MNkM&sensor=false"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="/apps/mac/web/js/bootstrap.min.js"></script>
+    <script src="/apps/mac/web/js/owl.carousel.min.js"></script>
+    <script src="/apps/mac/web/js/waypoints.min.js"></script>
 
-        <!-- jQuery REVOLUTION Slider  -->
-        <script type="text/javascript" src="/apps/mac/web/rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
-        <script type="text/javascript" src="/apps/mac/web/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAtxNC8sOq37sDk2NbEvhRWMkvasC7MNkM&sensor=false"></script>
 
-        <script src="/apps/mac/web/js/script.js"></script>
-        <script>
-            $(document).ready(function() {
-                appMaster.preLoader();
-            });
-        </script>
+    <!-- jQuery REVOLUTION Slider  -->
+    <script type="text/javascript" src="/apps/mac/web/rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
+    <script type="text/javascript" src="/apps/mac/web/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+
+    <script src="/apps/mac/web/js/script.js"></script>
+    <script>
+        $(document).ready(function () {
+            appMaster.preLoader();
+        });
+    </script>
 
 </body>
-
-</html>
