@@ -74,7 +74,10 @@ https://www.ifun.de/free-my-desktop-mini-app-blendet-desktop-icons-aus-128293/
 http://www.maxiapple.com/2018/10/free-my-desktop-mac-app-macos.html
 https://ihaveanidea.hellobox.co/site/contents/content/2206716/2018-10-08/free-my-desktop-hides-all-the-icons-from-your-desktop-with-a-click?ref=producthunt
 https://dev.to/valeit/just-launched-my-first-app-on-product-hunt---free-my-desktop-1ic8
-
+https://startup88.com/startups/2018/10/30/free-my-desktop-hides-all-the-icons-from-your-desktop-with-a-click/29473
+https://free.com.tw/free-my-desktop/
+https://techroomage.com/GrzxRYvb/
+https://launched.io/startup/2642-free-my-desktop
 -->
 
 [1]: https://www.paypal.me/vale93

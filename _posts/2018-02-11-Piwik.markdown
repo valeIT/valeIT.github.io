@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Avoid Google Tracking Your Analytics using Piwik
+title: Avoid Google Tracking Your Analytics using Matomo (Formerly Piwik)
 date: 2018-02-11 20:32:15.000000000 +01:00
 type: post
 published: true
@@ -8,9 +8,11 @@ status: publish
 categories: [Programming]
 image: /assets/article_images/pexels-photo57686745.jpeg
 image2: /assets/article_images/pexels-photo57686745.jpeg
-author: Valentino Urbano 
+author: Valentino Urbano
 comment_id: 9
 ---
+
+Note: Piwik recently rebranded to Matomo.
 
 I don't trust Google, lately even less so. I've used Google Analytics on all my previous sites until 2012, even on this one — in its previous iteration.
 
@@ -38,7 +40,7 @@ The set up is pretty easy and straightforward if you're anyhow capable of instal
 
 4. Wait for ages for it to upload :P (Upload the whole folder
 
-5.  Surf to <code>http://www.yoursite.whatever/piwik/</code> That will start the automatic installation process. Make sure to have your database information handy (or in your password manager) and start.
+5. Surf to <code>http://www.yoursite.whatever/piwik/</code> That will start the automatic installation process. Make sure to have your database information handy (or in your password manager) and start.
 
 5a. If you don't have a database set up just go in your CPanel and create a database giving it a random name and password.
 
@@ -48,11 +50,11 @@ All the data is yours, on your server, and can be easily downloaded. After doing
 
 Examples for a basic visit tracker: "IP, General Location are logged as aggregate for statistic purposes. No other data is collected. This data will never be used to uniquely identify or track a user, is only meant to be used as aggregate. This site may use cookies only for the purpose of tracking recurring visits." Or something along those lines.
 
-Notice: I'm not a lawyer and this is not legal advice. 
+Notice: I'm not a lawyer and this is not legal advice.
 
 <hr>
 
-Nice to see how after a year that I started using it now everybody seems to realize that Google Analytics is evil (like they didn't know that already) and is switching. 
+Nice to see how after a year that I started using it now everybody seems to realize that Google Analytics is evil (like they didn't know that already) and is switching.
 
 Unfortunately I had to switch back to Google Analytics 3/4 months ago since Piwik had really a lot of bugs and I have no plans to switch back at the moment. Someday...
 
@@ -62,7 +64,6 @@ Unfortunately I had to switch back to Google Analytics 3/4 months ago since Piwi
 <p>I still have my personal email account on Gmail. It's just impossible to give up on it since all my accounts on other services are linked to it. Although I'm rerouting all new mail I can to my custom domain mail. I think this is one the big problems we have now on the internet - not at the same level of importance as net neutrality of course. There is no way to simply switch all of my accounts to another email address (like setting up a flag - some kind of .htaccess for emails with 301 redirects in place). Nope, this is not the same as what happens now; the only thing you can do is to forward all incoming emails to another address, but that still let all the mail through the other provider - in this case, Google and they can scan them anyway. There should be something at the root.
 <a href="#r1-092714">↩</a></p>
 </li>
-
 
 <li id="f2-092714">
 <p>I have a simple <a href="http://www.noodlesoft.com/hazel.php">hazel</a> rule to unzip every file in my download folder.<a href="#r2-092714">↩</a></p>
