@@ -9,6 +9,7 @@ categories: [Me, Tech]
 image: /assets/article_images/iplocationScreenBeta.jpeg
 image2: /assets/article_images/iplocationScreenBeta.jpeg
 author: Valentino Urbano
+comment_id: 19
 ---
 
 IPLocation 2 for Mac Public Beta is now shipping!

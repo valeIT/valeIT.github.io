@@ -1,36 +1,54 @@
 ---
 layout: page
-title: Open
+title: Open Startup - Free My Desktop
 ---
 
-**Revenues:**
+# Revenues
 
-- 0 €
+- **0 €**
 
-**Monthly active users:**
+# Monthly active users
 
-- 445
+- **445**
 
-**Users on latest build:**
+![Monthly active users](/assets/article_images/Screenshot_2018-11-05_at_13.18.55.png)
 
-- 44.4%
+# Users on latest build
+
+- **44.4%**
 
 [Why?][0]
 
-**Most used Machine:**
+# Most popular version
 
-- MacBook Pro 44.4%
+- **1.4** (latest)
 
-**Most used OS:**
+![Most popular version](/assets/article_images/Screenshot_2018-11-05_at_13.18.10.jpeg)
 
-- Mojave 66.7%
+# Most used Machine
 
-**Crash Free Users:**
+- **MacBook Pro 44.4%**
 
-- 100%
+# Most used OS
+
+- **Mojave 66.7%**
+
+# Crash Free Users
+
+- **100%**
+
+![Crash Free Users](/assets/article_images/Screenshot_2018-11-05_at_13.19.59.png)
+
+# Monthly running costs[^1]
+
+- **0 €**
 
 #### Changelog
 
-- November 6, 2018 : First Month Report.
+- November 5, 2018 : First Month Report.
+
+[^1]: Apple Developer license costs 99 € a year, but I already have it for my [work][1] and my [other apps][2].
 
 [0]: {% post_url 2018-11-05-lessons-learned-free-mac-app %}
+[1]: /work
+[2]: /projects
