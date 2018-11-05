@@ -12,11 +12,15 @@ Here's a list of all my published (personal) apps, sorted by date of release (ne
 {% if member.link %}
 
 ## {% if member.fontAwesome %}{% for image in member.fontAwesome %}<i class="fa fa-{{ image }}"></i> {% endfor %}{% endif %}<a href="{{ member.link }}">{{ member.name }}</a>
-<br>
-{{ member.description }}   
 
-{% if member.bundleLink %}Included in [{{ member.bundleName }}]({{ member.bundleLink }}) bundle.{% endif %}{% endif %}  
-[More Info](/apps/patchnotes/page/{{ member.id | downcase }}.html)          
+<br>
+{{ member.description }}
+
+{% if member.bundleLink %}Included in [{{ member.bundleName }}]({{ member.bundleLink }}) bundle.{% endif %}{% endif %}
+
+{% if member.open %} [{{ member.name }} is an Open Startup]({{ member.open }}) {% endif %}
+
+[Path Notes](/apps/patchnotes/page/{{ member.id | downcase }}.html)
 
 {% endfor %}
 

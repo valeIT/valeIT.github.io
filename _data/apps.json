@@ -4,8 +4,8 @@
         "description": "Quickly hide and show your desktop, dock and menubar. Make your screens and recordings look great. For free.",
         "link": "http://www.valentinourbano.com/Free-my-desktop-mac-app.html",
         "platforms": ["Mac"],
-        "fontAwesome": ["laptop"]
-
+        "fontAwesome": ["laptop"],
+        "open": "http://www.valentinourbano.com/apps/mac/freemydesktop/open"
     },
     {
         "name": "Endless Wheel",
