@@ -78,6 +78,9 @@ https://startup88.com/startups/2018/10/30/free-my-desktop-hides-all-the-icons-fr
 https://free.com.tw/free-my-desktop/
 https://techroomage.com/GrzxRYvb/
 https://launched.io/startup/2642-free-my-desktop
+https://usepanda.com/newsletter.html
+https://twitter.com/gustomela/status/1055160505369792513
+
 -->
 
 [1]: https://www.paypal.me/vale93

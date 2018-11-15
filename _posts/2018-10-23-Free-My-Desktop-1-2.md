@@ -12,17 +12,19 @@ author: Valentino Urbano
 comment_id: 18
 ---
 
-The thid update for Free My Desktop is up.
+The third update for Free My Desktop is up.
 
 This update always shows the menu on both right and left click. Having it show only on secondary click had a lot of accessibility issues.
 
-You can turn on minimalist mode (make it work as the previous update) by opening a Terminal window and running:
+<s>You can turn on minimalist mode (make it work as the previous update) by opening a Terminal window and running:
 
 `defaults com.valentinourbano.FreeMyDesktop minimalist true`
 
 And you can turn it back off by opening a Terminal window and running:
 
-`defaults com.valentinourbano.FreeMyDesktop minimalist false`
+`defaults com.valentinourbano.FreeMyDesktop minimalist false`</s>
+
+Update: [Check update 1.2.1 on how to turn on minimalist mode][4].
 
 **Improvements:**
 
@@ -42,3 +44,5 @@ If you enjoyed it consider buying me a coffee.
 [1]: https://www.paypal.me/vale93
 [2]: /apps/mac/freemydesktop/
 [3]: https://twitter.com/valentinourbano
+
+[4]: {%post_url 2018-11-15-Free-My-Desktop-1-2-1 %}
