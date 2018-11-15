@@ -92,7 +92,7 @@ _Not everything written here is set in stone, might be subject to change._
   As I've said many times my main goal in this challenge is to learn something new and ship my first web app. I've kept my scope pretty limited to be able to do both at the same time.
 
 Backend: Laravel + Mysql
-Frontend: Vanilla ES6 js
+Frontend: Vanilla js (ES6)
 
 ### Ideas
 
