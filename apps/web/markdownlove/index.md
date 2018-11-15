@@ -10,6 +10,8 @@ An API to turn an article URL into beautiful markdown without any of the clutter
 - Removes header, navigation bar, ads, footer
 - Returns the markdown of the rest of the page
 
+## [Go to Markdown.love][2]
+
 _Not everything written here is set in stone, might be subject to change._
 
 # Main Todo List
@@ -105,3 +107,4 @@ If you have any feedback you can let me know on [twitter][0] or via [email][1]
 
 [0]: https://twitter.com/valentinourbano
 [1]: http://www.valentinourbano.com/about#contact
+[2]: https://www.markdown.love
