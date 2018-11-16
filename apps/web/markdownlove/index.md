@@ -12,6 +12,8 @@ An API to turn an article URL into beautiful markdown without any of the clutter
 
 ## [Go to Markdown.love][2]
 
+## [Watch the Stream][3]
+
 _Not everything written here is set in stone, might be subject to change._
 
 # Main Todo List
@@ -103,7 +105,7 @@ Frontend: Vanilla js (ES6)
 - Pricing  
   Obviously with Stripe. A free tier with limited usage (max xx requests per day/month) and a paid tier with more requests and more data returned in the request.
 
-One example would be returning both the markdown and the html of the article or parsing the author name and the published date.
+One example would be returning both the markdown and the html of the article or parsing the author name and the publish date.
 
 ### Feedback
 
@@ -112,3 +114,4 @@ If you have any feedback you can let me know on [twitter][0] or via [email][1]
 [0]: https://twitter.com/valentinourbano
 [1]: http://www.valentinourbano.com/about#contact
 [2]: https://www.markdown.love
+[3]: https://www.twitch.tv/valentinourbano93
