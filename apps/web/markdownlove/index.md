@@ -55,6 +55,7 @@ _Not everything written here is set in stone, might be subject to change._
 - [ ] Privacy Page
 - [ ] Newsletter Page _Not mandatory_
 - [ ] FAQ Page _Not mandatory_
+- [ ] Zapier Integration _Not mandatory_
 
 ## Launch
 
@@ -71,24 +72,27 @@ _Not everything written here is set in stone, might be subject to change._
 
 ### Still need to figure out
 
-- Name
+- Name  
   markdown.love is enough?
-- Logo
+
+- Logo  
   A simple M should be fine..?
-- Monetization
+
+- Monetization  
   Does it do too little to be monetized? Can it be usage based?
-- Api Keys
+
+- Api Keys  
   I'd love to require API keys. I've seen that free API usually get hammered with requests
 
 ### Figured out
 
-- Domain
-  Wanted a really simple domain. All md. were taken, but markdown. had quite a few free. Markdown.love sounded great and was decently prices @ Porkbun.
+- Domain  
+  Wanted a really simple domain. All md. were taken, but markdown. Had quite a few free. Markdown.love sounded great and was decently priced @ Porkbun.
 
-- Hosting
+- Hosting  
   I'm going to use a Digital Ocean droplet and Cloudflare. I've already setup https via certbot and a testing page up.
 
-- Tech Stack
+- Tech Stack  
   As I've said many times my main goal in this challenge is to learn something new and ship my first web app. I've kept my scope pretty limited to be able to do both at the same time.
 
 Backend: Laravel + Mysql
@@ -96,7 +100,7 @@ Frontend: Vanilla js (ES6)
 
 ### Ideas
 
-- Pricing
+- Pricing  
   Obviously with Stripe. A free tier with limited usage (max xx requests per day/month) and a paid tier with more requests and more data returned in the request.
 
 One example would be returning both the markdown and the html of the article or parsing the author name and the published date.
