@@ -40,26 +40,30 @@ _Not everything written here is set in stone, might be subject to change._
 - [x] Bug Fixing generated article #1
 - [x] Better integrate landing page
 
-- [x] Setup Users _Not mandatory_
+- [x] Setup Users
 
-  - [x] Setup Login Page _Not mandatory_
-  - [x] Setup Register Page _Not mandatory_
-  - [x] Generate api key for each user when they register _Not mandatory_
-  - [x] Page to show api keys _Not mandatory_
-  - [x] Regenerate api keys _Not mandatory_
-  - [x] Handle Logout _Not mandatory_
+  - [x] Setup Login Page
+  - [x] Setup Register Page
+  - [x] Generate api key for each user when they register
+  - [x] Page to show api keys
+  - [x] Regenerate api keys
+  - [x] Handle Logout
 
 - [x] About Page
 - [x] TOS Page
 - [x] Privacy Page
 
-- [ ] Setup Stripe _Not mandatory_
+- [x] Setup Stripe _Not mandatory_
 
-  - [ ] Decide on a pricing model _Not mandatory_
-  - [ ] Integrate Stripe with Laravel Cashier _Not mandatory_
-  - [ ] Billing Page _Not mandatory_
+  - [x] Decide on a pricing model _Not mandatory_
+  - [x] Integrate Stripe with Laravel Cashier _Not mandatory_
+  - [x] Billing Page _Not mandatory_
+  - [x] When registering setup automatic free trial _Not mandatory_
+  - [x] Ability to manually switch to subscription _Not mandatory_
+  - [x] Create subscription on Stripe _Not mandatory_
 
-- [ ] Bug Fixing generated article #2
+- [x] Bug Fixing generated article #2
+- [x] Change all buttons UI to be the same
 
 - [ ] Newsletter Page _Not mandatory_
 - [ ] FAQ Page _Not mandatory_
@@ -70,11 +74,17 @@ _Not everything written here is set in stone, might be subject to change._
 ## Launch
 
 - [ ] Twitter
-- [ ] PH
-- [ ] IH
-- [ ] dev.to
+- [ ] PH _Not the first day_
+- [ ] IH _Not the first day_
+- [ ] dev.to _Not the first day_
 - [ ] Telegram
 - [ ] Slack
+
+## Launch
+
+- [ ] Fix Cron -> Create cron laravel reset api limits end of month (from subscription date) _Not mandatory_
+
+- [ ] Update Auth to always use middleware
 
 ---
 
