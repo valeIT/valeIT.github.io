@@ -37,16 +37,21 @@ _Not everything written here is set in stone, might be subject to change._
 - [x] Setup REST Service to return full html from url
 - [x] Edit Service to instead return markdown
 - [x] Edit Service to instead return article markdown
-- [ ] Bug Fixing generated article
-- [ ] Better integrate landing page
+- [x] Bug Fixing generated article #1
+- [x] Better integrate landing page
 
-- [ ] Setup Users _Not mandatory_
+- [x] Setup Users _Not mandatory_
 
-  - [ ] Setup Login Page _Not mandatory_
-  - [ ] Setup Register Page _Not mandatory_
-  - [ ] Generate api key for each user when they register _Not mandatory_
-  - [ ] Page to show api keys _Not mandatory_
-  - [ ] Handle Logout _Not mandatory_
+  - [x] Setup Login Page _Not mandatory_
+  - [x] Setup Register Page _Not mandatory_
+  - [x] Generate api key for each user when they register _Not mandatory_
+  - [x] Page to show api keys _Not mandatory_
+  - [x] Regenerate api keys _Not mandatory_
+  - [x] Handle Logout _Not mandatory_
+
+- [x] About Page
+- [x] TOS Page
+- [x] Privacy Page
 
 - [ ] Setup Stripe _Not mandatory_
 
@@ -54,9 +59,8 @@ _Not everything written here is set in stone, might be subject to change._
   - [ ] Integrate Stripe with Laravel Cashier _Not mandatory_
   - [ ] Billing Page _Not mandatory_
 
-- [ ] About Page
-- [ ] TOS Page
-- [ ] Privacy Page
+- [ ] Bug Fixing generated article #2
+
 - [ ] Newsletter Page _Not mandatory_
 - [ ] FAQ Page _Not mandatory_
 - [ ] Zapier Integration _Not mandatory_

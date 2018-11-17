@@ -11,11 +11,11 @@ This policy explains which kind of information our websites, apps and services c
 
 **We value privacy, those are few of our key principles:**
 
-* **We never ask you for personal information of any kind, unless truly needed (ie. asking for credit card information when you purchase anything, your email address for customer support,...etc.);**
-* **We don’t store personal information on our servers unless required for the on-going operation of one of our services;**
-* **We're not in the business of selling your data, and never will. We are in the business of selling our apps and providing outstanding customer support;**
-* **We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights;**
-* **We aim for full transparency on how we gather, use, and share your personal information;**
+- **We never ask you for personal information of any kind, unless truly needed (ie. asking for credit card information when you purchase anything, your email address for customer support,...etc.);**
+- **We don’t store personal information on our servers unless required for the on-going operation of one of our services;**
+- **We're not in the business of selling your data, and never will. We are in the business of selling our apps and providing outstanding customer support;**
+- **We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights;**
+- **We aim for full transparency on how we gather, use, and share your personal information;**
 
 Thanks to [Automattic](http://automattic.com/privacy/) for releasing their Privacy Policy under a [Creative Commons Sharealike License](http://creativecommons.org/licenses/by-sa/4.0/). This policy is under the same Licence.
 
@@ -33,17 +33,17 @@ I don't store any analytics on our servers. They are operated by [Google Analyti
 
 Certain visitors of our websites, apps and services choose to interact with them in ways that require them to gather personally-identifying information. The amount and type of information that our websites, apps and services gather depends on the nature of the interaction. Those who engage in transactions with our websites, apps and services – by purchasing a piece of software from the Online Store for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, our websites, apps and services collects such information only as it is necessary or appropriate to fulfil the purpose of the visitor’s interaction with our websites, apps and services.We don't disclose personally-identifying information other than as described below. Visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain activities. The store on the website is operated by [FastSpring](http://www.fastspring.com/privacy).
 
-* Communications with Us: You may also provide us information when you respond to surveys, communicate with our Happiness Engineers about a support question, or post a question about your site in our public forums.
+- Communications with Us: You may also provide us information when you respond to surveys, communicate with our Support about a support question, or post a question about your site in our public forums.
 
 #### Aggregated Statistics
 
 Our websites, apps and services may collect statistics about the behaviour of visitors to its websites and apps. For instance, they may monitor the most popular pages visited. They may display this information publicly or provide it to others. However, they don't disclose personally-identifying information other than as described below.
 
-* Log Information: Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, such as the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information. We collect log information when you use our Services.
-* Usage Information: We collect information about your usage of our Services. For example, we collect information about the actions that users perform in an app. We also collect information about what happens when you use our Services (e.g., page views, support document searches, button clicks) along with information about your device (e.g., mobile screen size, name of cellular network, and mobile device manufacturer). We use this information to, for example, provide our Services to you, as well as get insights on how people use our Services, so we can make our Services better.
-* Location Information: We may determine the approximate location of your device from your IP address. We collect and use this information to, for example, calculate how many people visit our Services from certain geographic regions. We may also collect information about your precise location via our mobile apps (when, for example, you post a photograph with location information) if you allow us to do so through your mobile device operating system’s permissions.
-* Stored Information: We may access information stored on your mobile device via our mobile apps. We access this stored information through your device operating system’s permissions.
-* Information from Cookies & Other Technologies: A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Pixel tags (also called web beacons) are small blocks of code placed on websites and e-mails. We uses cookies and other technologies like pixel tags to help us identify and track visitors, usage, and access preferences for our Services, as well as track and understand e-mail campaign effectiveness and to deliver targeted ads. For more information about our use of cookies and other technologies.
+- Log Information: Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, such as the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information. We collect log information when you use our Services.
+- Usage Information: We collect information about your usage of our Services. For example, we collect information about the actions that users perform in an app. We also collect information about what happens when you use our Services (e.g., page views, support document searches, button clicks) along with information about your device (e.g., mobile screen size, name of cellular network, and mobile device manufacturer). We use this information to, for example, provide our Services to you, as well as get insights on how people use our Services, so we can make our Services better.
+- Location Information: We may determine the approximate location of your device from your IP address. We collect and use this information to, for example, calculate how many people visit our Services from certain geographic regions. We may also collect information about your precise location via our mobile apps (when, for example, you post a photograph with location information) if you allow us to do so through your mobile device operating system’s permissions.
+- Stored Information: We may access information stored on your mobile device via our mobile apps. We access this stored information through your device operating system’s permissions.
+- Information from Cookies & Other Technologies: A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Pixel tags (also called web beacons) are small blocks of code placed on websites and e-mails. We uses cookies and other technologies like pixel tags to help us identify and track visitors, usage, and access preferences for our Services, as well as track and understand e-mail campaign effectiveness and to deliver targeted ads. For more information about our use of cookies and other technologies.
 
 We may also get information from third party services about individuals who are not yet our users, which we may use, for example, for marketing and advertising purposes.
 
@@ -51,12 +51,12 @@ We may also get information from third party services about individuals who are 
 
 We use information about you as mentioned above and as follows:
 
-* To provide our Services;
-* To further develop our Services – for example by adding new features that we think our users will enjoy;
-* To monitor and analyze trends and better understand how users interact with our Services, which helps us improve our Services and make them easier to use;
-* To monitor and protect the security of our Services, detect and prevent fraudulent transactions and other illegal activities, fight spam, and protect our rights and property and others;
-* To communicate with you about offers and promotions offered by Us and others we think will be of interest to you, solicit your feedback, or keep you up to date on Us and our products;
-* To personalize your experience using our Services, provide content recommendations and serve relevant advertisements;
+- To provide our Services;
+- To further develop our Services – for example by adding new features that we think our users will enjoy;
+- To monitor and analyze trends and better understand how users interact with our Services, which helps us improve our Services and make them easier to use;
+- To monitor and protect the security of our Services, detect and prevent fraudulent transactions and other illegal activities, fight spam, and protect our rights and property and others;
+- To communicate with you about offers and promotions offered by Us and others we think will be of interest to you, solicit your feedback, or keep you up to date on Us and our products;
+- To personalize your experience using our Services, provide content recommendations and serve relevant advertisements;
 
 ### Sharing Information
 
@@ -66,33 +66,33 @@ How We Share Information:
 
 We share information about you in the limited circumstances spelled out below and with appropriate safeguards on your privacy:
 
-* Subsidiaries, Employees, and Independent Contractors: We may disclose information about you to our subsidiaries, our employees, and individuals who are our independent contractors that need to know the information in order to help us provide our Services or to process the information on our behalf. We require our subsidiaries, employees, and independent contractors to follow this Privacy Policy for personal information that we share with them.
-* Third Party Vendors: We may share information about you with third party vendors who need to know information about you in order to provide their services to us. This group includes vendors that help us provide our Services to you (like payment providers that process your credit and debit card information) and those that help us understand and enhance our Services (like analytics providers). We require vendors to agree to privacy commitments in order to share information with them.
-* As Required by Law: We may disclose information about you in response to a subpoena, court order, or other governmental request.
-* To Protect Rights and Property: We may disclose information about you when we believe in good faith that disclosure is reasonably necessary to protect our property or rights, third parties, or the public at large. For example, if we have a good faith belief that there is an imminent danger of death or serious physical injury, we may disclose information related to the emergency without delay.
-* Business Transfers: In connection with any merger, sale of company assets, or acquisition of all or a portion of our business by another company, or in the unlikely event that We go out of business or enter bankruptcy, user information would likely be one of the assets that is transferred or acquired by a third party. If any of these events were to happen, this Privacy Policy would continue to apply to your information and the party receiving your information may continue to use your information, but only consistent with this Privacy Policy.
-* With Your Consent: We may share and disclose information with your consent or at your direction. For example, we may share your information with third parties with which you authorize us to do so.
-* Aggregated and De-Identified Information: We may share information that has been aggregated or reasonably de-identified, so that the information could not reasonably be used to identify you. For instance, we may publish aggregate statistics about the use of our Services.
-* Published Support Requests: And if you send us a request (for example, via a support email or one of our feedback mechanisms), we reserve the right to publish that request in order to help us clarify or respond to your request or to help us support other users.
+- Subsidiaries, Employees, and Independent Contractors: We may disclose information about you to our subsidiaries, our employees, and individuals who are our independent contractors that need to know the information in order to help us provide our Services or to process the information on our behalf. We require our subsidiaries, employees, and independent contractors to follow this Privacy Policy for personal information that we share with them.
+- Third Party Vendors: We may share information about you with third party vendors who need to know information about you in order to provide their services to us. This group includes vendors that help us provide our Services to you (like payment providers that process your credit and debit card information) and those that help us understand and enhance our Services (like analytics providers). We require vendors to agree to privacy commitments in order to share information with them.
+- As Required by Law: We may disclose information about you in response to a subpoena, court order, or other governmental request.
+- To Protect Rights and Property: We may disclose information about you when we believe in good faith that disclosure is reasonably necessary to protect our property or rights, third parties, or the public at large. For example, if we have a good faith belief that there is an imminent danger of death or serious physical injury, we may disclose information related to the emergency without delay.
+- Business Transfers: In connection with any merger, sale of company assets, or acquisition of all or a portion of our business by another company, or in the unlikely event that We go out of business or enter bankruptcy, user information would likely be one of the assets that is transferred or acquired by a third party. If any of these events were to happen, this Privacy Policy would continue to apply to your information and the party receiving your information may continue to use your information, but only consistent with this Privacy Policy.
+- With Your Consent: We may share and disclose information with your consent or at your direction. For example, we may share your information with third parties with which you authorize us to do so.
+- Aggregated and De-Identified Information: We may share information that has been aggregated or reasonably de-identified, so that the information could not reasonably be used to identify you. For instance, we may publish aggregate statistics about the use of our Services.
+- Published Support Requests: And if you send us a request (for example, via a support email or one of our feedback mechanisms), we reserve the right to publish that request in order to help us clarify or respond to your request or to help us support other users.
 
 ### Choices
 
 You have several choices available when it comes to information about you:
 
-* Limit the Information that You Provide: You can choose not to provide optional account information Please keep in mind that if you do not provide this information, certain features of our Services may not be accessible.
-* Limit Access to Information On Your Mobile Device: Your mobile device operating system should provide you with the ability to discontinue our ability to collect stored information or location information via our mobile apps. If you do so, you may not be able to use certain features.
-* Opt-Out of Electronic Communications: You may opt out of receiving promotional messages from us. Just follow the instructions in those messages. If you opt out of promotional messages, we may still send you other messages, like those about your account and legal notices.
-* Set Your Browser to Reject Cookies: You can usually choose to set your browser to remove or reject browser cookies before using Our websites, with the drawback that certain features of Our website may not function properly without the aid of cookies.
+- Limit the Information that You Provide: You can choose not to provide optional account information Please keep in mind that if you do not provide this information, certain features of our Services may not be accessible.
+- Limit Access to Information On Your Mobile Device: Your mobile device operating system should provide you with the ability to discontinue our ability to collect stored information or location information via our mobile apps. If you do so, you may not be able to use certain features.
+- Opt-Out of Electronic Communications: You may opt out of receiving promotional messages from us. Just follow the instructions in those messages. If you opt out of promotional messages, we may still send you other messages, like those about your account and legal notices.
+- Set Your Browser to Reject Cookies: You can usually choose to set your browser to remove or reject browser cookies before using Our websites, with the drawback that certain features of Our website may not function properly without the aid of cookies.
 
 ### Request / Delete your data
 
 You can request a copy of all data we have about you by sending us an email, you can also ask us to delete all the data we have about you.
 
-* How to export:
+- How to export:
 
 Send an email to valentino@valentinourbano.com with the subject "[EXPORT] USERNAME APPNAME". You can include anything you want to share in the body, a real human will read it. We will respond with an export of your data.
 
-* How to delete:
+- How to delete:
 
 Send an email to valentino@valentinourbano.com with the subject "[DELETE] USERNAME APPNAME". You can include anything you want to share in the body, a real human will read it. We will respond with a confirmation of deletion.
 
@@ -172,9 +172,9 @@ Notice to European Users: this privacy statement has been prepared in fulfilment
 
 #### Changelog
 
-* June 6, 2015 : First Version.
-* November 2, 2015 : Added Parse as Analytics Provider for some iOS Apps.
-* February 10, 2016 : Improved wording and removed Parse, following the shutdown.
-* January 10, 2018 : Changed "Apps" to "Projects".
-* February 11, 2018 : Changed links for apps and projects page.
-* May 5, 2018: GDPR + Improved Wording.
+- June 6, 2015 : First Version.
+- November 2, 2015 : Added Parse as Analytics Provider for some iOS Apps.
+- February 10, 2016 : Improved wording and removed Parse, following the shutdown.
+- January 10, 2018 : Changed "Apps" to "Projects".
+- February 11, 2018 : Changed links for apps and projects page.
+- May 5, 2018: GDPR + Improved Wording.
