@@ -29,7 +29,7 @@ _Not everything written here is set in stone, might be subject to change._
 
 ### Building
 
-- [ ] Setup Laravel Server
+- [x] Setup Laravel Server
 - [ ] Setup landing Page
 - [ ] Integrate Laravel with Landing Page
 
@@ -58,6 +58,7 @@ _Not everything written here is set in stone, might be subject to change._
 - [ ] Newsletter Page _Not mandatory_
 - [ ] FAQ Page _Not mandatory_
 - [ ] Zapier Integration _Not mandatory_
+- [ ] Deploy Server to Digital Ocean
 
 ## Launch
 
