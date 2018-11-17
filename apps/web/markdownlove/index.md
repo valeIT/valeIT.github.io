@@ -36,7 +36,8 @@ _Not everything written here is set in stone, might be subject to change._
 - [x] Setup REST Api Endpoint
 - [x] Setup REST Service to return full html from url
 - [x] Edit Service to instead return markdown
-- [ ] Edit Service to instead return article markdown
+- [x] Edit Service to instead return article markdown
+- [ ] Bug Fixing generated article
 - [ ] Better integrate landing page
 
 - [ ] Setup Users _Not mandatory_
