@@ -30,13 +30,14 @@ _Not everything written here is set in stone, might be subject to change._
 ### Building
 
 - [x] Setup Laravel Server
-- [ ] Setup landing Page
-- [ ] Integrate Laravel with Landing Page
+- [x] Setup landing Page
+- [x] Integrate Laravel with Landing Page
 
-- [ ] Setup REST Api Endpoint
+- [x] Setup REST Api Endpoint
 - [ ] Setup REST Service to return full html from url
 - [ ] Edit Service to instead return markdown
 - [ ] Edit Service to instead return article markdown
+- [ ] Better integrate landing page
 
 - [ ] Setup Users _Not mandatory_
 
