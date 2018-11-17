@@ -34,8 +34,8 @@ _Not everything written here is set in stone, might be subject to change._
 - [x] Integrate Laravel with Landing Page
 
 - [x] Setup REST Api Endpoint
-- [ ] Setup REST Service to return full html from url
-- [ ] Edit Service to instead return markdown
+- [x] Setup REST Service to return full html from url
+- [x] Edit Service to instead return markdown
 - [ ] Edit Service to instead return article markdown
 - [ ] Better integrate landing page
 
@@ -59,6 +59,7 @@ _Not everything written here is set in stone, might be subject to change._
 - [ ] Newsletter Page _Not mandatory_
 - [ ] FAQ Page _Not mandatory_
 - [ ] Zapier Integration _Not mandatory_
+- [ ] Check servder configuration on Digital Ocean (php-xml, ...)
 - [ ] Deploy Server to Digital Ocean
 
 ## Launch
