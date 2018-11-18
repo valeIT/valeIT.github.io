@@ -65,26 +65,37 @@ _Not everything written here is set in stone, might be subject to change._
 - [x] Bug Fixing generated article #2
 - [x] Change all buttons UI to be the same
 
-- [ ] Newsletter Page _Not mandatory_
-- [ ] FAQ Page _Not mandatory_
-- [ ] Zapier Integration _Not mandatory_
-- [ ] Check servder configuration on Digital Ocean (php-xml, ...)
-- [ ] Deploy Server to Digital Ocean
+* [ ] Newsletter Page _Not mandatory_
+* [ ] FAQ Page _Not mandatory_
+* [ ] Zapier Integration _Not mandatory_
+* [ ] Check servder configuration on Digital Ocean (php-xml, ...)
+* [ ] Deploy Server to Digital Ocean
+
+### Bug Fixing
+
+- [x] Justify text in TOS and Privacy (now it's centered)
+- [x] Move top titles 1 line down
+- [x] Remove get api key from login / logout / tos / privacy / about
+- [x] About the site -> put only tiwtter and website at the end and remove info about me
+- [x] make welcome user not clickable
+- [x] Api keys before copy. something like the api key is used in every request to the service and its needed to protect the service from abuse
+- [ ] make welcome hover not do anything
 
 ## Launch
 
-- [ ] Twitter
+- [x] Twitter
 - [ ] PH _Not the first day_
 - [ ] IH _Not the first day_
 - [ ] dev.to _Not the first day_
-- [ ] Telegram
-- [ ] Slack
+- [x] Telegram
+- [x] Slack
 
-## Launch
+## After Launch
 
 - [ ] Fix Cron -> Create cron laravel reset api limits end of month (from subscription date) _Not mandatory_
 
 - [ ] Update Auth to always use middleware
+- [ ] Center pricing on mobile
 
 ---
 
