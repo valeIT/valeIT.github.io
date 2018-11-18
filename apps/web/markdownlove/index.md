@@ -97,6 +97,7 @@ _Not everything written here is set in stone, might be subject to change._
 - [ ] Update Auth to always use middleware
 - [ ] Center pricing on mobile
 - [ ] Setup sentry for debug
+- [ ] Don't redirect to pricing after login if already subscribed
 
 ---
 
