@@ -12,7 +12,11 @@ An API to turn an article URL into beautiful markdown without any of the clutter
 
 ## [Go to Markdown.love][2]
 
-## [Watch the Stream][3]
+## [Watch the Archived Stream][3]
+
+# Time tracking for the < 24 hours launch
+
+![Tracking for 2018-11-17](/assets/article_images/markdownlovetime.png)
 
 _Not everything written here is set in stone, might be subject to change._
 
@@ -103,22 +107,19 @@ _Not everything written here is set in stone, might be subject to change._
 
 ## General Info
 
-<s>
+### <s>Still need to figure out</s>
 
-### Still need to figure out
+- <s>Name  
+  markdown.love is enough?</s>
 
-- Name  
-  markdown.love is enough?
+- <s>Logo  
+  A simple M should be fine..?</s>
 
-- Logo  
-  A simple M should be fine..?
+- <s>Monetization  
+  Does it do too little to be monetized? Can it be usage based?</s>
 
-- Monetization  
-  Does it do too little to be monetized? Can it be usage based?
-
-- Api Keys  
-   I'd love to require API keys. I've seen that free API usually get hammered with requests
-  </s>
+- <s>Api Keys  
+   I'd love to require API keys. I've seen that free API usually get hammered with requests</s>
 
 ### Figured out
 
@@ -131,17 +132,19 @@ _Not everything written here is set in stone, might be subject to change._
 - Tech Stack  
   As I've said many times my main goal in this challenge is to learn something new and ship my first web app. I've kept my scope pretty limited to be able to do both at the same time.
 
-Backend: Laravel + Mysql
-Frontend: Vanilla js (ES6)
+Backend: Laravel + Mysql  
+Frontend: Vanilla js (ES6) + Laravel Blade
 
 ### Ideas - Future
 
 - Pricing  
-  Obviously with Stripe. A free tier with limited usage (max xx requests per day/month) and a paid tier with more requests and more data returned in the request.
-- Crawl
-  Ability to have a crawler and get all articles on a site (with reason)
+  <s>Obviously with Stripe. A free tier with limited usage (max xx requests per day/month) and a paid tier with more requests and more data returned in the request.</s>
+  I actually got pricing working on the stream. Still need to implement part 2: more data returned in the request for subscription users.
 
-One example would be returning both the markdown and the html of the article or parsing the author name and the publish date.
+  One example would be returning both the markdown and the html of the article or parsing the author name and the publish date.
+
+- Crawl
+  Ability to have a crawler and get all articles on a site (within reason)
 
 ### Feedback
 
