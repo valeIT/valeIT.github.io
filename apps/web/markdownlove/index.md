@@ -139,7 +139,7 @@ Frontend: Vanilla js (ES6)
 - Pricing  
   Obviously with Stripe. A free tier with limited usage (max xx requests per day/month) and a paid tier with more requests and more data returned in the request.
 - Crawl
-  Abiliti to have a crawler and get all articles on a site (with reason)
+  Ability to have a crawler and get all articles on a site (with reason)
 
 One example would be returning both the markdown and the html of the article or parsing the author name and the publish date.
 
