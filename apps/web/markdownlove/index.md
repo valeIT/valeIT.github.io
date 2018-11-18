@@ -68,8 +68,8 @@ _Not everything written here is set in stone, might be subject to change._
 * [ ] Newsletter Page _Not mandatory_
 * [ ] FAQ Page _Not mandatory_
 * [ ] Zapier Integration _Not mandatory_
-* [ ] Check servder configuration on Digital Ocean (php-xml, ...)
-* [ ] Deploy Server to Digital Ocean
+* [x] Check servder configuration on Digital Ocean (php-xml, ...)
+* [x] Deploy Server to Digital Ocean
 
 ### Bug Fixing
 
