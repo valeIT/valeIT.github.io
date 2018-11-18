@@ -1,10 +1,19 @@
 [{
+        "name": "Markdown Love",
+        "id": "MarkdownLove",
+        "description": "Remove the clutter and get directly to the content you love! Turn any article into Markdown.",
+        "link": "https://markdown.love/",
+        "platforms": ["Web"],
+        "fontAwesome": ["fab fa-chome", "fab fa-firefox", "fab fa-safari", "fab fa-opera", "fab fa-edge"],
+        "open": "http://www.valentinourbano.com/apps/web/markdownlove/"
+    },
+    {
         "name": "Free My Desktop",
         "id": "FreeMyDesktop",
         "description": "Quickly hide and show your desktop, dock and menubar. Make your screens and recordings look great. For free.",
         "link": "http://www.valentinourbano.com/Free-my-desktop-mac-app.html",
         "platforms": ["Mac"],
-        "fontAwesome": ["laptop"],
+        "fontAwesome": ["fa fa-laptop"],
         "open": "http://www.valentinourbano.com/apps/mac/freemydesktop/open"
     },
     {
@@ -13,7 +22,7 @@
         "description": "Build your own strategy to get as many pins into the wheel as you can.",
         "link": "https://itunes.apple.com/us/app/endless-wheel/id1257429123?&at=1010lHG??mt=8",
         "platforms": ["iOS", "android"],
-        "fontAwesome": ["mobile", "android"]
+        "fontAwesome": ["fa fa-mobile", "fab fa-android"]
 
     },
 
@@ -23,7 +32,7 @@
         "description": "Tickery allows you to check the buy and sell price of many currencies.",
         "link": "https://itunes.apple.com/us/app/walutomat-kursy-walut/id1216145372?&at=1010lHG??mt=8",
         "platforms": ["iOS"],
-        "fontAwesome": ["mobile"]
+        "fontAwesome": ["fa fa-mobile"]
 
     },
 
@@ -33,7 +42,7 @@
         "description": "The best way to count pretty much anything on your iPhone, iPad or iPod touch. Fully customizable. For Free!",
         "link": "http://www.valentinourbano.com/apps/ios/minimalcounter",
         "platforms": ["iOS"],
-        "fontAwesome": ["mobile"]
+        "fontAwesome": ["fa fa-mobile"]
     },
 
     {
@@ -42,7 +51,7 @@
         "description": "Explore your discipline and utilities and save custom presets.",
         "link": "http://www.valentinourbano.com/apps/ios/swtorcalculator",
         "platforms": ["iOS"],
-        "fontAwesome": ["mobile"]
+        "fontAwesome": ["fa fa-mobile"]
     },
 
     {
@@ -51,7 +60,7 @@
         "description": "Count the time left before your next big day!",
         "link": "https://itunes.apple.com/us/app/county-event-countdown/id1041921168?&at=1010lHG??mt=8",
         "platforms": ["iOS"],
-        "fontAwesome": ["mobile"]
+        "fontAwesome": ["fa fa-mobile"]
     },
 
     {
@@ -60,7 +69,7 @@
         "description": "Check the location of your IP address and get notified you each time your IP address changes!",
         "link": "http://www.valentinourbano.com/apps/mac/iplocation",
         "platforms": ["Mac"],
-        "fontAwesome": ["laptop"]
+        "fontAwesome": ["fa fa-laptop"]
     },
 
     {
@@ -69,7 +78,7 @@
         "description": "Blurring Faces in an image has never been easier! You no longer need to manually tap each and every face, with FaceBlur you just select the picture and the app does the rest.",
         "link": "https://itunes.apple.com/us/app/faceblur-automatically-blur/id1042255381?&at=1010lHG??mt=8",
         "platforms": ["iOS"],
-        "fontAwesome": ["mobile"]
+        "fontAwesome": ["fa fa-mobile"]
     },
 
     {
@@ -78,7 +87,7 @@
         "description": "CryptoChecker allows you to check the price of more than 700 Cryptocurrencies in a glance, from on your iPhone, iPad, and iPod touch.",
         "link": "https://itunes.apple.com/us/app/cryptochecker/id1042715907?&at=1010lHG??mt=8",
         "platforms": ["iOS"],
-        "fontAwesome": ["mobile"]
+        "fontAwesome": ["fa fa-mobile"]
 
     },
 
@@ -88,7 +97,7 @@
         "description": "Minimal Countdown timer for all your cooking needs (and much else).",
         "link": "https://itunes.apple.com/us/app/kitchen-timer-cooking-alarm/id1012475145?&at=1010lHG?mt=8",
         "platforms": ["iOS", "Watch"],
-        "fontAwesome": ["mobile", "clock-o"]
+        "fontAwesome": ["fa fa-mobile", "fa fa-clock"]
     },
 
     {
@@ -99,7 +108,7 @@
         "bundleName": "Check your Crypto",
         "bundleLink": "https://itunes.apple.com/us/app-bundle/check-your-crypto-dogecoin/id1021098263?&at=1010lHG?mt=8",
         "platforms": ["iOS", "Watch"],
-        "fontAwesome": ["mobile", "clock-o"]
+        "fontAwesome": ["fa fa-mobile", "fa fa-clock"]
     },
 
     {
@@ -110,7 +119,7 @@
         "bundleName": "Check your Crypto",
         "bundleLink": "https://itunes.apple.com/us/app-bundle/check-your-crypto-dogecoin/id1021098263?&at=1010lHG?mt=8",
         "platforms": ["iOS", "Watch"],
-        "fontAwesome": ["mobile", "clock-o"]
+        "fontAwesome": ["fa fa-mobile", "fa fa-clock"]
     },
 
     {
@@ -121,7 +130,7 @@
         "bundleName": "Check your Crypto",
         "bundleLink": "https://itunes.apple.com/us/app-bundle/check-your-crypto-dogecoin/id1021098263?&at=1010lHG?mt=8",
         "platforms": ["iOS", "Watch"],
-        "fontAwesome": ["mobile", "clock-o"]
+        "fontAwesome": ["fa fa-mobile", "fa fa-clock"]
     },
 
     {
@@ -130,7 +139,7 @@
         "description": "The old classic Tic Tac Toe that you know and love, now for Apple Watch! [Also available for iPhone, iPad and iPod touch.] ",
         "link": "https://itunes.apple.com/us/app/tic-tac-toe-apple-watch-edition/id1011862851?&at=1010lHG?mt=8",
         "platforms": ["iOS", "Watch"],
-        "fontAwesome": ["mobile", "clock-o"]
+        "fontAwesome": ["fa fa-mobile", "fa fa-clock"]
     },
 
     {
@@ -139,7 +148,7 @@
         "description": "Generate a Random Password on iOS or a PIN on Apple Watch.",
         "link": "https://itunes.apple.com/us/app/random-password-generator/id1015892163?&at=1010lHG?mt=8",
         "platforms": ["iOS", "Watch"],
-        "fontAwesome": ["mobile", "clock-o"]
+        "fontAwesome": ["fa fa-mobile", "fa fa-clock"]
     },
 
     {
@@ -148,7 +157,7 @@
         "description": "Translate everything in more than 50 languages.",
         "link": "https://itunes.apple.com/us/app/translatory-your-personal/id1018240873?&at=1010lHG?mt=8",
         "platforms": ["iOS"],
-        "fontAwesome": ["mobile"]
+        "fontAwesome": ["fa fa-mobile"]
     },
 
     {
@@ -157,7 +166,7 @@
         "description": "Generate, Read and Share QRCodes without effort.",
         "link": "https://itunes.apple.com/us/app/percentage-change-calculator/id1011977403?&at=1010lHG?mt=8",
         "platforms": ["iOS"],
-        "fontAwesome": ["mobile"]
+        "fontAwesome": ["fa fa-mobile"]
     },
 
     {
@@ -166,7 +175,7 @@
         "description": "Quickly Calculate the Percentage Change of any price.",
         "link": "https://itunes.apple.com/us/app/percentage-change-calculator/id1011977403?&at=1010lHG?mt=8",
         "platforms": ["iOS"],
-        "fontAwesome": ["mobile"]
+        "fontAwesome": ["fa fa-mobile"]
     },
 
     {
@@ -175,7 +184,7 @@
         "description": "Get the latest memes directly on your iPhone, iPad or iPod touch.",
         "link": "https://itunes.apple.com/us/app/ary-the-meme-explorer/id1021104124?&at=1010lHG??mt=8",
         "platforms": ["iOS"],
-        "fontAwesome": ["mobile"]
+        "fontAwesome": ["fa fa-mobile"]
     }
 
 ]

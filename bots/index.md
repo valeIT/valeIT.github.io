@@ -11,12 +11,13 @@ I currently do not offer support for bots.
 
 {% if member.link %}
 
-## {% if member.fontAwesome %}{% for image in member.fontAwesome %}<i class="fa fa-{{ image }}"></i> {% endfor %}{% endif %}<a href="{{ member.link }}">{{ member.name }}</a>
+## {% if member.fontAwesome %}{% for image in member.fontAwesome %}<i class="{{ image }}"></i> {% endfor %}{% endif %}<a href="{{ member.link }}">{{ member.name }}</a>
+
 <br>
-{{ member.description }}   
+{{ member.description }}
 
 {% if member.bundleLink %}Included in [{{ member.bundleName }}]({{ member.bundleLink }}) bundle.{% endif %}{% endif %}  
-[More Info](/bots/patchnotes/page/{{ member.id | downcase }}.html)          
+[More Info](/bots/patchnotes/page/{{ member.id | downcase }}.html)
 
 {% endfor %}
 

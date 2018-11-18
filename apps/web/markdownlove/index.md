@@ -96,10 +96,13 @@ _Not everything written here is set in stone, might be subject to change._
 
 - [ ] Update Auth to always use middleware
 - [ ] Center pricing on mobile
+- [ ] Setup sentry for debug
 
 ---
 
 ## General Info
+
+<s>
 
 ### Still need to figure out
 
@@ -113,7 +116,8 @@ _Not everything written here is set in stone, might be subject to change._
   Does it do too little to be monetized? Can it be usage based?
 
 - Api Keys  
-  I'd love to require API keys. I've seen that free API usually get hammered with requests
+   I'd love to require API keys. I've seen that free API usually get hammered with requests
+  </s>
 
 ### Figured out
 
@@ -129,10 +133,12 @@ _Not everything written here is set in stone, might be subject to change._
 Backend: Laravel + Mysql
 Frontend: Vanilla js (ES6)
 
-### Ideas
+### Ideas - Future
 
 - Pricing  
   Obviously with Stripe. A free tier with limited usage (max xx requests per day/month) and a paid tier with more requests and more data returned in the request.
+- Crawl
+  Abiliti to have a crawler and get all articles on a site (with reason)
 
 One example would be returning both the markdown and the html of the article or parsing the author name and the publish date.
 

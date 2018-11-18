@@ -4,7 +4,7 @@
         "description": "Retweets tech deals.",
         "link": "https://twitter.com/freegeekdeal",
         "platforms": ["twitter"],
-        "fontAwesome": ["twitter"]
+        "fontAwesome": ["fab fa-twitter"]
 
     },
 
@@ -14,7 +14,7 @@
         "description": "Clean your Tweets, Retweets and Favorites.",
         "link": "https://github.com/valeIT/twitterclean",
         "platforms": ["twitter", "github"],
-        "fontAwesome": ["twitter", "github"]
+        "fontAwesome": ["fab fa-twitter", "fab fa-github"]
 
     },
 
@@ -24,7 +24,7 @@
         "description": "Twitter bot that uses Machine Learning to tweet \"quotes\".",
         "link": "https://twitter.com/quoteabday",
         "platforms": ["twitter"],
-        "fontAwesome": ["twitter"]
+        "fontAwesome": ["fab fa-twitter"]
 
     },
 
@@ -34,7 +34,7 @@
         "description": "Twitter bot that tweets random cryptocurrencies every day.",
         "link": "https://twitter.com/cryptoaday",
         "platforms": ["twitter"],
-        "fontAwesome": ["twitter"]
+        "fontAwesome": ["fab fa-twitter"]
 
     }
 
