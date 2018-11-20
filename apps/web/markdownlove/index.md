@@ -96,12 +96,21 @@ _Not everything written here is set in stone, might be subject to change._
 
 ## After Launch
 
-- [ ] Fix Cron -> Create cron laravel reset api limits end of month (from subscription date) _Not mandatory_
+- [x] Fix Cron -> Create cron laravel reset api limits end of month (from subscription date) _Not mandatory_
 
 - [ ] Update Auth to always use middleware
-- [ ] Center pricing on mobile
-- [ ] Setup sentry for debug
+- [x] Center pricing on mobile
+- [x] Setup sentry for debug
 - [ ] Don't redirect to pricing after login if already subscribed
+- [x] More data for subscribed users
+
+  - [x] Returns Author
+  - [x] Returns Images
+  - [x] Returns Original HTML
+  - [x] Returns Title
+
+- [x] Rewrite relative URLs
+- [x] Updated API Documentation with more example and details
 
 ---
 
@@ -109,39 +118,38 @@ _Not everything written here is set in stone, might be subject to change._
 
 ### <s>Still need to figure out</s>
 
-- <s>Name  
-  markdown.love is enough?</s>
+- [x] <s>Name  
+       markdown.love is enough?</s>
 
-- <s>Logo  
-  A simple M should be fine..?</s>
+- [x] <s>Logo  
+       A simple M should be fine..?</s>
 
-- <s>Monetization  
-  Does it do too little to be monetized? Can it be usage based?</s>
+- [x] <s>Monetization  
+       Does it do too little to be monetized? Can it be usage based?</s>
 
-- <s>Api Keys  
-   I'd love to require API keys. I've seen that free API usually get hammered with requests</s>
+- [x] <s>Api Keys  
+       I'd love to require API keys. I've seen that free API usually get hammered with requests</s>
 
 ### Figured out
 
-- Domain  
-  Wanted a really simple domain. All md. were taken, but markdown. Had quite a few free. Markdown.love sounded great and was decently priced @ Porkbun.
+- [x] Domain  
+       Wanted a really simple domain. All md. were taken, but markdown. Had quite a few free. Markdown.love sounded great and was decently priced @ Porkbun.
 
-- Hosting  
-  I'm going to use a Digital Ocean droplet and Cloudflare. I've already setup https via certbot and a testing page up.
+- [x] Hosting  
+       I'm going to use a Digital Ocean droplet and Cloudflare. I've already setup https via certbot and a testing page up.
 
-- Tech Stack  
-  As I've said many times my main goal in this challenge is to learn something new and ship my first web app. I've kept my scope pretty limited to be able to do both at the same time.
+- [x] Tech Stack  
+       As I've said many times my main goal in this challenge is to learn something new and ship my first web app. I've kept my scope pretty limited to be able to do both at the same time.
 
 Backend: Laravel + Mysql  
 Frontend: Vanilla js (ES6) + Laravel Blade
 
 ### Ideas - Future
 
-- Pricing  
-  <s>Obviously with Stripe. A free tier with limited usage (max xx requests per day/month) and a paid tier with more requests and more data returned in the request.</s>
-  I actually got pricing working on the stream. Still need to implement part 2: more data returned in the request for subscription users.
-
-  One example would be returning both the markdown and the html of the article or parsing the author name and the publish date.
+- [x] Pricing  
+       <s>Obviously with Stripe. A free tier with limited usage (max xx requests per day/month) and a paid tier with more requests and more data returned in the request.
+      I actually got pricing working on the stream. Still need to implement part 2: more data returned in the request for subscription users.  
+       One example would be returning both the markdown and the html of the article or parsing the author name and the publish date.</s>
 
 - Crawl
   Ability to have a crawler and get all articles on a site (within reason)
