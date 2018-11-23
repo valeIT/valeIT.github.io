@@ -45,9 +45,10 @@ layout: empty
                 <div class="collapse navbar-collapse" id="navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="./index.html" title="">Home</a></li>
-                        <li><a href="./project.html" title="">Project</a></li>
-                        <li><a href="https://writerise.nolt.io/" rel='nofollow'>Roadmap</a></li>
-                        <li>
+                        <!-- <li><a href="./project.html" title="">Project</a></li> -->
+                        <li><a href="https://trello.com/b/ojqeBpTf/writerise" rel='nofollow'>Open</a></li>
+                                               <li><a href="https://writerise.nolt.io/" rel='nofollow'>Roadmap</a></li>
+
                             <p>
                                 <a href="#BUY" class="btn btn-default navbar-btn" title="">Buy</a>
                             </p>
@@ -79,8 +80,8 @@ layout: empty
                 <div class="col-xs-12 col-md-8 col-md-offset-2">
                     <div class="text-center">
                         <h2>Discover</h2>
-                        <p>Boost your writing with WriteRise. Daily accountability and motivation at your fingertips.
-                            <br> Get an in-depth view on your writing abits. How much time you spend writing each day, which project are the most productive? Which areas are lacking? Where to take action?
+                        <p>Boost your writing with WriteRise. <br>Daily accountability and motivation at your fingertips.<br>
+                            <br> Get an in-depth view on your writing habits. How much time you spend writing each day, which projects are the most productive? Which areas are lacking? Where to take action?
                             <br> With WriteRise is easy to find out and get writing.
                         </p>
                     </div>
@@ -117,7 +118,7 @@ layout: empty
                                     </p>
 
                                     <p>
-                                        Get notifier when you reach your word goal for the day (or if you woon't make it and need to step up your game)
+                                        Get notified when you reach your word goal for the day (or if you won't make it and need to step up your game)
                                     </p>
                                     <a href="#BUY" class="btn btn-primary" title="">
                                         Buy
@@ -138,11 +139,11 @@ layout: empty
                                         <span class="sr-only">Next</span>
                                     </a>
                                     <p>
-                                        Track on a per application basis or for every applicatioon
+                                        Track on a per application basis or automatically and in the background.
                                     </p>
 
                                     <p>
-                                        ?????????????????
+                                        Writerise gets out of the way so you can be productive. You can either use it as accountability to write more, or as a tracking tool to get insights.
                                     </p>
                                     <a href="#BUY" class="btn btn-primary" title="">
                                         Buy
@@ -166,7 +167,7 @@ layout: empty
             <div class="row section-container-spacer">
                 <div class="col-xs-12 col-md-12">
                     <h2>Founder</h2>
-                    <p>Made by a single indie developer <br>Vestibulum sit amet hendrerit leo, quis vehicula mi.</p>
+                    <p>Made by a single indie developer <br>Valentino Urbano</p>
                 </div>
             </div>
             <div class="row">
@@ -226,7 +227,7 @@ layout: empty
         </div>
     </div>
 
-    <div class="section-container">
+    <!-- <div class="section-container">
         <div class="container text-center">
             <div class="row section-container-spacer">
                 <div class="col-xs-12 col-md-12">
@@ -249,7 +250,7 @@ layout: empty
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
 
     <!--<div class="section-container contact-container">
