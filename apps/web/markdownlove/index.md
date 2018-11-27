@@ -111,6 +111,7 @@ _Not everything written here is set in stone, might be subject to change._
 
 - [x] Rewrite relative URLs
 - [x] Updated API Documentation with more example and details
+- [x] Fixed password reset email
 
 ---
 
