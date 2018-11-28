@@ -254,16 +254,16 @@ layout: empty
                 <div class="row">
                     <div class="col-md-10 col-md-push-1">
                         <h1>IPLocation 2 <span>Available</span> in the Mac App Store</h1>
-                        <h4>Get it in the Mac App Store now. <br><br></h4>
+                        <!-- <h4>Get it in the Mac App Store now. <br><br></h4> -->
                         <br><br><br>
-                        <p><a href="/IPLocation2-Open-Beta.html" class="btn btn-default scrollpoint sp-effect1">download
+                        <p><a href="https://itunes.apple.com/us/app/iplocation-2/id1438343930?&at=1010lHG?mt=8" class="btn btn-default scrollpoint sp-effect1">download
                                 now!</a></p>
                     </div>
 
                     <div class="col-md-6 col-md-push-3">
                         <div class="btn-group btn-group-justified btn-lg small">
                             <div class="btn-group">
-                                <a href="/IPLocation2-Open-Beta.html" class="btn btn-default scrollpoint sp-effect6">
+                                <a href="https://itunes.apple.com/us/app/iplocation-2/id1438343930?&at=1010lHG?mt=8" class="btn btn-default scrollpoint sp-effect6">
                                     <span class="apple"></span>
                                 </a>
                             </div>
@@ -282,8 +282,7 @@ layout: empty
 
                     <h2 class="scrollpoint sp-effect3">IPLocation <span>Features</span></h2>
                     <p class="first">With IPLocation checking your ip geolocation has never been easier. The
-                        application lives in the menubar and notifies you each time your IP address changes. IPLocation
-                        is highly customizable with a bunch of options.</p>
+                        application lives in the menubar and notifies you each time your IP address changes.</p>
                     <p></p>
                     <p>
                         <a href="#packages" class="btn btn-default scrollpoint sp-effect1">buy now!</a>
@@ -378,7 +377,7 @@ layout: empty
                         <div class="section-heading scrollpoint sp-effect3">
                             <h3>IPLocation<span> Versions</span></h3>
                             <span class="divider"></span>
-                            <p>Get more features with IPLocation, or get the bare essential with Mini!</p>
+                            <!-- <p>Get more features with IPLocation, or get the bare essential with Mini!</p> -->
                         </div>
                     </div>
                 </div>
@@ -401,10 +400,10 @@ layout: empty
                                 <p>
                                     Note: IPLocation 1 is an old version and is currently unsupported. <br>If you've
                                     purchased IPLocation 1 after May 1st 2018 and before the release of IPLocation 2
-                                    (October 26th) you can get the all new IPLocation 2 for
+                                    (December 2nd) you can get the all new IPLocation 2 for
                                     free. This special offer applies to both users of the direct version and the mac
                                     app store version of IPLocation 1. <br>To find out how contact me via <a href="/about/">email</a>
-                                    with your proof (and date) of purchase.
+                                    with your proof (and date) of purchase. Please note that IPLocation 2 is only available on the Mac AppStore at the moment.
                                 </p>
                                 <s><a href="#" class="btn btn-sign-up btn-block"> </a>Retired</s>
                             </div>
@@ -435,7 +434,7 @@ layout: empty
                                 <!-- Note: The store version of IPLocation is currenctly unsupported. Migrate for free to the MAS Version. To find out how contact me via <a href="/about/">email</a> with your proof of purchase.<br> You can still buy a licence
                                 from the store below and get it migrated over to the MAS whenever you like. -->
                                 <a href="" class="btn btn-sign-up btn-block">Buy now</a>
-                                <!-- <a href="https://sites.fastspring.com/myshar/product/iplocation" class="btn btn-sign-up btn-block">Buy now</a> [and also get the MAS version for free] -->
+                                <!-- <a href="https://itunes.apple.com/us/app/iplocation-2/id1438343930?&at=1010lHG?mt=8" class="btn btn-sign-up btn-block">Buy now</a> [and also get the MAS version for free] -->
                             </div>
                         </div>
                     </div>
@@ -510,10 +509,9 @@ layout: empty
                         </div> -->
                         <div class="col-md-8">
                             <div class="section-heading scrollpoint sp-effect3">
-                                <h3>IPLocation<span> team</span></h3>
+                                <h3>Proudly<span> made by</span></h3>
                                 <span class="divider"></span>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore reiciendis vel
-                                    reprehenderit expedit!</p>
+                                <!-- <p>IPLocation</p> -->
                             </div>
                         </div>
                         <!-- <div class="col-md-2 hidden-xs">
@@ -531,7 +529,7 @@ layout: empty
                                         <div class="member">
                                             <div class="media">
                                                 <a class="pull-left" href="#">
-                                                    <img class="media-object" src="http://api.randomuser.me/portraits/men/74.jpg"
+                                                    <img class="media-object" src="ValentinoUrbano.jpeg"
                                                         alt="">
                                                 </a>
                                                 <div class="media-body">
@@ -547,9 +545,7 @@ layout: empty
                                                     </h4>
                                                     <p>Developer</p>
                                                     <span class="divider"></span>
-                                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error,
-                                                        veritatis. Numquam adipisci eos necessitatibus nemo, nulla
-                                                        eligendi nobis quae autem illum ullam magni.</p>
+                                                    <p>I've left University to study iOS full time on my own and I have been working as iOS Developer for the past 4 years.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -806,8 +802,7 @@ layout: empty
                             </ul>
                         </div><br><br><br>
                         <p class="rights">
-                            2015-Current <span>IPLocation</span> by Valentino Urbano. | Template by <a href="http://www.scoopthemes.com"
-                                rel=nofollow>ScoopThemes</a>
+                            2015-Current <span>IPLocation</span> by Valentino Urbano. | Template by ScoopThemes
                         </p>
                     </div>
                 </div>
