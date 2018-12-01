@@ -433,7 +433,7 @@ layout: empty
                                 </ul>
                                 <!-- Note: The store version of IPLocation is currenctly unsupported. Migrate for free to the MAS Version. To find out how contact me via <a href="/about/">email</a> with your proof of purchase.<br> You can still buy a licence
                                 from the store below and get it migrated over to the MAS whenever you like. -->
-                                <a href="" class="btn btn-sign-up btn-block">Buy now</a>
+                                <a href="https://itunes.apple.com/us/app/iplocation-2/id1438343930?&at=1010lHG?mt=8" class="btn btn-sign-up btn-block">Buy now</a>
                                 <!-- <a href="https://itunes.apple.com/us/app/iplocation-2/id1438343930?&at=1010lHG?mt=8" class="btn btn-sign-up btn-block">Buy now</a> [and also get the MAS version for free] -->
                             </div>
                         </div>
