@@ -1,4 +1,12 @@
 [{
+        "name": "IPLocation 2",
+        "id": "IPLocation",
+        "description": "Check the location of your IP address and get notified you each time your IP address changes!",
+        "link": "http://www.valentinourbano.com/apps/mac/iplocation",
+        "platforms": ["Mac"],
+        "fontAwesome": ["fa fa-laptop"]
+    },
+    {
         "name": "Markdown Love",
         "id": "MarkdownLove",
         "description": "Remove the clutter and get directly to the content you love! Turn any article into Markdown.",
