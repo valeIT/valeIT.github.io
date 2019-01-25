@@ -12,6 +12,8 @@ author: Valentino Urbano
 comment_id: 19
 ---
 
+[IPLocation2 is now live. Sign up to the newsletter to be notified when the beta for the next release opens up.][0]
+
 IPLocation 2 for Mac Public Beta is now shipping!
 
 IPLocation notifies you each time the location your IP address changes. IPLocation also allows you to keep a complete timeline of your IP addresses over time.
@@ -39,3 +41,4 @@ You can also take a look at the [roadmap and upvote your favorite features][7].
 [3]: /about
 [6]: https://twitter.com/valentinourbano
 [7]: https://iplocation.nolt.io/
+[0]: /newsletter
