@@ -42,7 +42,7 @@ IPLocation 2 comes with full support for Mac OS Mojave and Dark Mode, but withou
 
 ### Pricing, Discounts, and Upgrades
 
-IPLocation 2 normal price is 27.99$, but until February 1st you can have it for the launch price of 22.99$!
+IPLocation 2 normal price is 24.99$, but until February 1st you can have it for the launch price of 20.99$!
 
 Note: If you've purchased IPLocation 1 after January 1st 2018 and before the release of IPLocation 2 (October 26th 2018) you can get IPLocation 2 for free. This special offer applies to both users of the direct version and the Mac App Store version of IPLocation 1. Just contact me via [email][3] with your proof (and date) of purchase and I'll get it sorted out for you in no time.[^2]
 
