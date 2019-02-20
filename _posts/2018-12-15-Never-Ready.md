@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You Will Never Be Fully Ready For Anything
-date: 2018-01-31 22:28:05.000000000 +01:00
+date: 2018-12-15 22:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
