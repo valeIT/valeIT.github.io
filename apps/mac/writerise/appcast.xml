@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>Fastly</title>
+<item>
+<title>1.0</title>
+<pubDate>Thu, 21 Feb 2019 15:29:40 +0100</pubDate>
+<sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/valeIT/valeIT.github.io/master/apps/mac/writerise/Fastly.app.zip" sparkle:version="2" sparkle:shortVersionString="1.0" length="13930717" type="application/octet-stream"/>
+</item>
+</channel></rss>
