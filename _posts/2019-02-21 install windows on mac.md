@@ -13,9 +13,15 @@ author: Valentino Urbano
 
 _This is not a tutorial, it's more of a note so I'm going to remember how to do something the next time I stumble again on the same problem._
 
-# Install Windows on Your Mac Using Bootcamp
+When you need to perform a task on your Mac that requires a Windows machine your choices are three:
 
-Virtual Machines are fine if you just need to do quick tasks, but at times you need the actual machine without the complexity of a hidden VM on top. Luckily Mac's support for installing Windows alongside OSX is great.
+1. Virtualization (Virtual Machine,..)
+
+2. Dual Boot
+
+3. Using two computers
+
+Excluding the third options which we're not going to cover for obvious reasons the choice is pretty obvious. Virtual Machines are fine if you just need to do quick tasks, but at times you need the actual machine without the complexity of a hidden VM on top. Luckily Mac's support for installing Windows alongside OSX is great.
 
 The installation process is annoying, but once installed simply holding alt while booting lets you choose which OS to boot up to.
 
