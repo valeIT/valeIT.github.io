@@ -6,8 +6,8 @@ type: post
 published: true
 status: publish
 categories: [Tech, Writing]
-image: /assets/article_images/.jpeg
-image2: /assets/article_images/.jpeg
+image:
+image2:
 author: Valentino Urbano
 ---
 
