@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction To Middlewares In Laravel
-date: 2019-02-21 22:28:05.000000000 +01:00
+date: 2019-02-25 22:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
