@@ -3,7 +3,7 @@ rvm:
   - 2.4
 script:
   - bundle exec jekyll build
-  - bundle exec htmlproofer ./_site --disable-external --check-favicon --check-html --assume_extension
+  #- bundle exec htmlproofer ./_site --disable-external --check-favicon --check-html --assume_extension
 env:
   global:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
