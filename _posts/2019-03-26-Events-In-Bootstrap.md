@@ -1,4 +1,17 @@
-callback on alert dismissal bootstrap
+---
+layout: post
+title: callback on alert dismissal bootstrap - Events
+date: 2019-03-26 22:28:05.000000000 +01:00
+type: post
+published: true
+status: publish
+categories: []
+image:
+image2:
+author: Valentino Urbano
+---
+
+
 Most components in bootstrap fire an event when dismissed. You can intercept the event and act accordingly. For this project, I was using jquery sp this example will be based on that, but it is quite easy to convert it to vanilla js (or the framework of your choosing).
 
 The main problem when approaching this is that the official bootstrap documentation on the topic is wrong. It said that you need to look for the "closed.bs.alert" event, but it never gets fired. Instead, you should listen for the "close.bs.alert" event. The same thing applies to most events in bootstrap.

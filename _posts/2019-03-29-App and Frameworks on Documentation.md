@@ -1,3 +1,16 @@
+---
+layout: post
+title: App and Frameworks on Documentation
+date: 2019-03-29 22:28:05.000000000 +01:00
+type: post
+published: true
+status: publish
+categories: []
+image:
+image2:
+author: Valentino Urbano
+---
+
 Making an app and a framework are 2 very different things. Making an app you can be super specific in your coffee about what you need. Making a framework you need to be flexible cause it's certain that people will use it in ways that you didn't predict.
 
 You can also avoid documenting your app's code as much since technically you are (likely) going to be the only person working on it. That might bite you later though. If you are working on a framework used by other people you don't have that luxury. Your documentation should be top notch, so many frameworks have terrible documentation and a lot of people (myself first) are taken aback just because of it.

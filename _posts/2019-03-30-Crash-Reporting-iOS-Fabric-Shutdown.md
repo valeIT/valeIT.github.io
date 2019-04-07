@@ -1,6 +1,17 @@
-Crash reporting iOS
+---
+layout: post
+title: Crash Reporting iOS Fabric Shutdown
+date: 2019-03-30 22:28:05.000000000 +01:00
+type: post
+published: true
+status: publish
+categories: []
+image:
+image2:
+author: Valentino Urbano
+---
 
-FFabric and Crashlytics are shutting down soon. Google will be forcing everyone to move to firebase for their crash reporting and analytics. On top of the problem of firebase being a big dependency to just have crash reporting if you have a lot of small apps it is not feasible to migrate to Fastlane since the free plan is capped to a few applications and after that you need to pay the 29.99 a month subscription which seems excessive to just use it for crash reporting.
+Fabric and Crashlytics are shutting down soon. Google will be forcing everyone to move to firebase for their crash reporting and analytics. On top of the problem of firebase being a big dependency to just have crash reporting if you have a lot of small apps it is not feasible to migrate to Fastlane since the free plan is capped to a few applications and after that you need to pay the 29.99 a month subscription which seems excessive to just use it for crash reporting.
 
 I'd already been using sentry for my laravel projects and like it a lot. It can be the one and the only platform you need for all your crash reporting needs.
 

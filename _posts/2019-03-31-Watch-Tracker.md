@@ -1,4 +1,15 @@
-Watch - Tracker
+---
+layout: post
+title: MiBand 3 - Watch As An Health Tracker
+date: 2019-03-31 22:28:05.000000000 +01:00
+type: post
+published: true
+status: publish
+categories: []
+image:
+image2:
+author: Valentino Urbano
+---
 
 I never thought I would get an electronic watch. I never had the cult of watches as many others do, but I always appreciated the utility of having an electronic watch.
 

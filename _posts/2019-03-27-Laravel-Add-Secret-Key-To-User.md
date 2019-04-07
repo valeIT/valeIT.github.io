@@ -1,4 +1,15 @@
-# Laravel add secret key to user
+---
+layout: post
+title: Laravel add secret key to user
+date: 2019-03-27 22:28:05.000000000 +01:00
+type: post
+published: true
+status: publish
+categories: []
+image:
+image2:
+author: Valentino Urbano
+---
 
 First, we need to update our database to add the field to store the secret key. Open a terminal window to your project's root and run:
 

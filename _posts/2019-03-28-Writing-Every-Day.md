@@ -1,3 +1,16 @@
+---
+layout: post
+title: Writing Every Day
+date: 2019-03-28 22:28:05.000000000 +01:00
+type: post
+published: true
+status: publish
+categories: []
+image:
+image2:
+author: Valentino Urbano
+---
+
 Writing something every day does not mean to write an article that could be published in x magazine every day (insert Forbes, times,... instead of x). It just means to write something, anything. Put the words on the page.
 
 There will be days when you are more "in the zone" and days when you are less and you don't feel like writing at all. It is normal when you do something consistently for a long time. That doesn't mean that you can't do it for that day, it just means that you will struggle more and it is possible that what comes out is not the best, but it doesn't matter. What matters is that you showed up and you can be sure that the next day will be better.
