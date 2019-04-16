@@ -1,3 +1,16 @@
+---
+layout: post
+title: Using The iPad As A Writer
+date: 2019-04-08 22:28:05.000000000 +01:00
+type: post
+published: true
+status: publish
+categories: []
+image:
+image2:
+author: Valentino Urbano
+---
+
 I don't know why but I feel more comfortable jotting down quick ideas for an article on my phone than on my Mac. On the other hand, I much rather prefer writing anything long-form on a proper keyboard.
 
 I've seen so many writers switching to an iPad as their primary device in the last few years and I think it's a great choice for the professionals and hobbyist alike. The iPad delivers the 'Focus' mode that everybody wants: a full-screen application with just text and some friction to internet connectivity on the WiFi only model if you decide to set it up that way [^1]. The only limit is the software keyboard, but with so many great external keyboards that problem is solved.

@@ -1,4 +1,16 @@
-#Check if a git remote is synced
+---
+layout: post
+title: How To Check If A Git Remote Is Properly Synced
+date: 2019-04-11 22:28:05.000000000 +01:00
+type: post
+published: true
+status: publish
+categories: []
+image:
+image2:
+author: Valentino Urbano
+---
+<!-- #Check if a git remote is synced -->
 
 _This is not a tutorial, it's more of a note so I'm going to remember how to do something the next time I stumble again on the problem._
 

@@ -1,3 +1,15 @@
+---
+layout: post
+title: Apps On Android - Thoughts of an iOS Developer on Android VS iOS
+date: 2019-04-10 22:28:05.000000000 +01:00
+type: post
+published: true
+status: publish
+categories: []
+image:
+image2:
+author: Valentino Urbano
+---
 # Apps on Android
 
 *Dislaimer: I'm an iOS and Mac Developer.*

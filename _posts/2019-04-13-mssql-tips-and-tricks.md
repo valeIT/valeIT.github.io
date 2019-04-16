@@ -1,3 +1,16 @@
+---
+layout: post
+title: Microsoft SQL Tips And Tricks For MySQL And Postres Developers
+date: 2019-04-13 22:28:05.000000000 +01:00
+type: post
+published: true
+status: publish
+categories: []
+image:
+image2:
+author: Valentino Urbano
+---
+
 If you're used working in Mysql you usually would use the exact same syntax on other SQL based databases. Even when you switch to Postgres or SQLite most of the syntax is basically the same.
 
 The syntax for Microsoft SQL, on the other hand, is slightly different. Nothing too different, but there are certain caveats that needs to be understood to avoid wasting time wondering why your 'perfectly good query' is not yielding any result even though you're sure there are results in the database because that's exactly what happened to us.
