@@ -21,4 +21,4 @@ If you find a problem and you get stuck you can work on something else for a whi
 
 In the end I decided that the best thing to do is to improve in some areas that I'm already familiar, but not too much so I won't' get stuck too often, but I will learn new things and for the (hopefully) few things that I just can't do offline I'll write TODOs and implement later.
 
-[1]: {%post_url Working-Offline %}
+[1]: {% post_url 2018-12-19-Working-Offline %}
