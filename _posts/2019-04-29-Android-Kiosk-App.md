@@ -137,6 +137,10 @@ class MainActivity : AppCompatActivity() {
         setKioskPolicies(true, isAdmin)
 
         webView.webViewClient = MyWebViewClient(this)
+		webView.clearCache(true);
+        webView.clearHistory();
+        webView.getSettings().setJavaScriptEnabled(true);
+        webView.getSettings().setJavaScriptCanOpenWindowsAutomatically(true);
         webView.loadUrl("http://google.com")
     }
 
@@ -260,9 +264,9 @@ class MainActivity : AppCompatActivity() {
 
 Let's analyze it a bit.
 
-"setKioskPolicies(true, isAdmin)" takes care of enabling the Kiosk part of the app by granting the special permissions. Right below it, we set up the webview to point to Google: "webView.webViewClient = MyWebViewClient(this); webView.loadUrl("http://google.com")". On top of blocking most button and turn on full screen and kiosk "setAsHomeApp" also sets the app as the default launcher so that the app gets automatically launched after each reboot so the user can't exit the application in any way.
+`setKioskPolicies(true, isAdmin)` takes care of enabling the Kiosk part of the app by granting the special permissions. Right below it, we set up the webview to point to Google: `webView.webViewClient = MyWebViewClient(this); webView.loadUrl("http://google.com")`. We also enable javascript (which is disabled by default by adding `webView.getSettings().setJavaScriptEnabled(true); webView.getSettings().setJavaScriptCanOpenWindowsAutomatically(true);`. On top of blocking most button and turn on full screen and kiosk "setAsHomeApp" also sets the app as the default launcher so that the app gets automatically launched after each reboot so the user can't exit the application in any way.
 
-If you would like to turn off kiosk mode you can either update the .apk by removing the call to "setKioskPolicies(true, isAdmin)" or by performing a factory reset by calling (you can add it on the onCreate method) "devicePolicyManager.wipeData(DevicePolicyManager.WIPE_RESET_PROTECTION_DATA)". That will only work if you have wipe permissions enabled (if you followed this article you have them), if you don't have them for some reason you can instead call "devicePolicyManager.clearPackagePersistentPreferredActivities(mAdminComponentName, packageName)" to remove the app launching on startup and perform a normal factory reset from the Settings app.
+If you would like to turn off kiosk mode you can either update the .apk by removing the call to `setKioskPolicies(true, isAdmin)` or by performing a factory reset by calling (you can add it on the onCreate method) `devicePolicyManager.wipeData(DevicePolicyManager.WIPE_RESET_PROTECTION_DATA)`. That will only work if you have wipe permissions enabled (if you followed this article you have them), if you don't have them for some reason you can instead call `devicePolicyManager.clearPackagePersistentPreferredActivities(mAdminComponentName, packageName)` to remove the app launching on startup and perform a normal factory reset from the Settings app.
 
 ----
 
