@@ -1,4 +1,11 @@
 [{
+        "name": "Learning Flutter",
+        "id": "LearningFlutter",
+        "description": "We are a community of Web and Mobile developers that wants to improve and teach others how to develop applications with Flutter.",
+        "link": "https://learningflutter.net",
+        "platforms": ["Web"],
+        "fontAwesome": ["fab fa-chome", "fab fa-firefox", "fab fa-safari", "fab fa-opera", "fab fa-edge"],
+    }, {
         "name": "IPLocation 2",
         "id": "IPLocation",
         "description": "Check the location of your IP address and get notified you each time your IP address changes!",
