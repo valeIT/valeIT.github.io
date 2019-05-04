@@ -21,13 +21,17 @@ Surely there are other people that would like to both learn and share their own 
 
 ![](/assets/article_images/learningflutter3.png)
 
-[If you're not familiar with Flutter here's a short introduction on it][5]:
+If you're not familiar with Flutter here's a short introduction on it:
 
 > Flutter allows you to have one codebase and deploy applications to both iOS and Android devices.
 >
 > > Fundamentally, Flutter is for users that want beautiful apps, with delightful motion and animation, and UIs with character and an identity all their own.
 
-We have hand crafted an [easy route to follow][3] if you're new to Flutter and would like to learn to create your first application with it. If you're instead already familiar with Flutter and want to try something more challenging you can try [building a markdown note taking app from scratch][4].
+If you're new to Flutter and would like to learn to create your first application with it we have hand crafted an [easy route to follow][3].
+If you're instead already familiar with Flutter and want to try something more challenging you can try [building a markdown note taking app from scratch][4].
+If you're more interested in learning about [what Flutter brings to the table and why I love it among so many others you might be interested in What Is Flutter and Why Should You Use It?][5].
+
+Let me know if you have any questions or tips!
 
 ![](/assets/article_images/learningflutter2.png)
 
