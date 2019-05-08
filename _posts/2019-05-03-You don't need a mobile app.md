@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your small business doesn't need an app. Here's Why.
-date: 2018-05-03 22:28:05.000000000 +01:00
+date: 2019-05-03 22:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
