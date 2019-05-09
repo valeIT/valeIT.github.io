@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I Tried Drawing
-date: 2019-05-00 14:00:05.000000000 +01:00
+date: 2019-05-09 14:00:05.000000000 +01:00
 type: post
 published: true
 status: publish
@@ -36,7 +36,6 @@ After you have finished your "first draft drawing" you can go over it with color
 I found myself wanting a graphics tablet to draw. The mouse is a really bad device for it, but since I don't draw often I didn't feel it was worth it for now. If this experiment is going to repeat itself and I find myself willing to draw more often it's going to be something I will seriously consider.
 
 You can definitely do it with a mouse, but both the end result and your experience doing it will feel subpar.
-
 
 _A few of the tutorials I followed:_
 
