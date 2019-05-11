@@ -23,7 +23,7 @@ Deleting every single entry without reading it.
 Many people do this with emails when they find themselves with 10k+ emails in their inboxes.
 It doesn't feel right, but when you reach that point you need to face the truth: There is no chance you are going to go through them all. It's better to start anew. This time hopefully having learned to press that save button a little less frequently.
 
-[1]: {% 2012-02-05-information-overload %}
-[2]: {% 2019-01-05-information-overload-3---Twitter %}
+[1]: {% post_url 2012-02-05-information-overload %}
+[2]: {% post_url 2019-01-05-information-overload-3---Twitter %}
 
 [^1]: Yes I just made that up, but I feels it sums up the point perfectly.
