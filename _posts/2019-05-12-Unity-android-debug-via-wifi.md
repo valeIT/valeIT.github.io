@@ -1,4 +1,15 @@
-# Debug your Android (or Unity) application through Wi-Fi
+---
+layout: post
+title: Debug your Android (or Unity) application through Wi-Fi
+date: 2019-05-12 18:00:05.000000000 +01:00
+type: post
+published: true
+status: publish
+categories: []
+image:
+image2:
+author: Valentino Urbano
+---
 
 _This is not a tutorial, it's more of a note so I'm going to remember how to do something the next time I stumble again on the problem._
 
