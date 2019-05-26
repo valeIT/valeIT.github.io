@@ -1,3 +1,15 @@
+---
+layout: post
+title: Work Analysis Using Time Tracking - 8 Months In
+date: 2019-05-25 22:28:05.000000000 +01:00
+type: post
+published: true
+status: publish
+categories: []
+image:
+image2:
+author: Valentino Urbano
+---
 # Work Analysis
 
 I've been running [Observe][1] since I bought this Mac last August. During that time I've spent around 40 days doing productive tasks. This doesn't mean that I've been productive only for 14 days, but that the hours tracked on my Mac all summed up together round up to 40 days. Considering there are 241 days between September 26 (the day I started tracking the time I spend on Mac ) and today and that on average I spend 4 hours a day (including weekends) doing actual work (that is not emails or other fluff).

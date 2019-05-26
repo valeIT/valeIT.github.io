@@ -1,4 +1,16 @@
-# unity colliders and triggers
+---
+layout: post
+title: When and How to use a Collider or a Trigger in Unity
+date: 2019-05-21 22:28:05.000000000 +01:00
+type: post
+published: true
+status: publish
+categories: []
+image:
+image2:
+author: Valentino Urbano
+---
+<!-- # unity colliders and triggers -->
 
 Unity uses colliders to detect hits between different objects in the scene. If you have 2 cubes in the scene and you move one of top of the other nothing will happen. If instead you add a collider to both of them they will push each other around instead of stacking. Using a proper collider is a good advice for performance. It won't matter if your scene is small and only has a few gameObjects, but once they start increasing the choice of a more computationally heavy collider will hit your performance hard. On the other hand the choice of a poor collider might make your collision detection less precise or even miss the collision entirely.
 

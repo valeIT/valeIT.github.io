@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Resizing Images for the Web
-date: 2019-05-12 22:28:05.000000000 +01:00
+date: 2019-05-13 22:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
