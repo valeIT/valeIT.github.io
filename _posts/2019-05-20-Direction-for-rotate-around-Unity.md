@@ -62,4 +62,4 @@ Source
 
 [1]: https://gamedev.stackexchange.com/questions/167492/how-to-determine-what-direction-an-object-should-orbit-around-another
 
-[2]: {% post_url '2019-04-30-unity-rotate-around.md' %}
+[2]: {% post_url 2019-04-30-unity-rotate-around %}
