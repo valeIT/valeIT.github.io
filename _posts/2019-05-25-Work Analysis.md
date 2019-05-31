@@ -60,6 +60,6 @@ It is staggering to see the difference between the percentage of VSCode and ever
 
 [1]: https://qotoqot.com/qbserve/
 
-[2]: {% post_url offdays %}
-http://www.valentinourbano.com/offdays.html
+[2]: {% post_url 2018-12-10-offdays %}
+<!-- http://www.valentinourbano.com/offdays.html -->
 [3]: /markdownlove/open/
