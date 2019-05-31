@@ -10,7 +10,9 @@ image:
 image2:
 author: Valentino Urbano
 ---
+
 <!-- # Unity - Procedural Map Generation Using Isometric Tilemaps -->
+
 Unity has added great support for isometric tilemaps in recent years. You can work on tiles of your own dimensions over different layers.
 
 [This article is based on multiple components taken from the example Unity project on tilemaps including the pixel-perfect camera and the isometric character controller. You can find both in the example project.][1]
@@ -53,7 +55,6 @@ Select the specific tile you want to add to the ground layer. Double click on it
 
 Once you're satisfied you can move on to the other layers and follow the same exact steps to add them to the scene. Take care about the collider layer since it's the only layer that will collider with your player.
 
-
 Play the game and test it out. If you've set up a high velocity for your character you might notice that collision detection is spotty, that's due to the fact that currently collision detection is set as dynamic. Set it to continuos to fix the issue.
 
 You can now use the Eraser tool to delete everything from your scene.
@@ -70,7 +71,10 @@ This is going to be the result:
 
 First, create a new class to hold the different layers for each section of our tiles. In my case, this meant 2 tiles: one for the ground and one to be used both for the collider layer and the ground detail.
 
+But this aggregate tile could grow or shrink based on the needs of the specific application. If you need an additional layer you can add it, same thing if you need to remove it. I can't stress enough that the important part of the system is that it has been designed based on having 1 tile per section and it won't work for any other use case, but for this use case, it's great.
+
 `Ztile.cs`:
+
 ```
 using UnityEngine;
 using UnityEngine.Tilemaps;
@@ -86,7 +90,7 @@ We use `[System.Serializable]` so that we can add tiles from the inspector. This
 
 ## Defining The Generator
 
-Next, the actual generator: ``. In this file, we store an array of Ztile to hold our different sections on top of every Tilemap so we can map each tile to the correct layer.
+Next, we create the actual map generator: `TileMapGenerator`. In this file, we store an array of our custom Ztile to hold the different sections so we can map each tile to the correct layer. In this case we are using a few different layers, but for more complicated setups yo ucould always add more layers when needed.
 
 ```
 using System.Collections;
@@ -130,7 +134,9 @@ public class TileMapGenerator: MonoBehaviour
   }
 ```
 
-Everything is pretty straightforward. We are going to put our sections into the `tiles` array and when we start the level we can use this array to populate the map.
+Everything is pretty straightforward. We are going to put our sections into the `tiles` array. When we start a new level we can use this array to populate the map with the level's tilemap.
+
+In this example we have only one level, but if we had multiple levels we could have an Hashmap for each level. Each Hashmap would contain the array of tiles for that specific level.
 
 ## Set Up from the Editor
 
@@ -138,7 +144,7 @@ Go back to unity and add an empty gameObject to store the map generator. Drag in
 
 ![](/asset/article_images/unity-tilemap-3.png)
 
-Before going back to the code we now to keep track of the tile position for each section. From the Tile Palette select the arrow icon and find the tile where you need to place the first section of the map
+Before going back to the code we need to keep track of the tile position for each section. From the Tile Palette select the arrow icon and find the tile where you need to place the first section of the map
 
 ![](/asset/article_images/unity-tilemap-3a.png)
 
@@ -146,7 +152,7 @@ This is going to be your starting point. The other step we need to take is to fi
 
 ![](/asset/article_images/unity-tilemap-3b.png)
 
-Calculate the difference between the two positions. The result is the offset we need between sections.
+Calculate the difference between the two positions. The result is the offset we need between the different sections.
 
 ## Putting it all together
 
@@ -207,6 +213,5 @@ Build and run the project. You can now add more entries to the tiles array and t
 If they don't align correctly you either need to fix your graphics or change the tile dimensions. To do that select the grid and edit the cellSize.
 
 ![](/asset/article_images/unity-tilemap-4.png)
-
 
 [1]: https://blogs.unity3d.com/2019/03/18/isometric-2d-environments-with-tilemap/
