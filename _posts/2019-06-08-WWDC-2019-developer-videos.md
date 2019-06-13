@@ -27,14 +27,27 @@ I usually only watch a few videos from WWDC due to time constraints, but this ye
   As for every year a more developer centric deep dive presentation
 - [What's New in Swift](https://developer.apple.com/wwdc19/402)
   What's new in both Swift 5.1 and Swift 5
-- [**Introducing SwiftUI: Building Your First App**](https://developer.apple.com/wwdc19/204)
-  If you only watched one video (apart from the keynote itself) it should be this one. They build a complete app using swiftUI on stage
 - [Creating Independent Watch Apps](https://developer.apple.com/wwdc19/208)
   How to create watch applications that don't require a companion iOS application (and how to install apps on the watch)
 - [Introducting Multiple Windows on iPad](https://developer.apple.com/wwdc19/212)
   AppDelegate is now responsible for the App Lifecycle, but doesn't own a window anymore since we are going to have multiple ones.
 - [Implementing Dark Mode on iOS](https://developer.apple.com/wwdc19/214)
   Best practises on how to implement dark modes on your existing iOS applications and what the system already does for yu behind the scenes.
+- [Adopting Swift Packages in Xcode](https://developer.apple.com/wwdc19/408)
+  A first party solution to manage dependencies.
+- [Debugging in Xcode 11](https://developer.apple.com/wwdc19/412)
+How to debug your SwiftUI apps in the preview, without running the application.
+
+### SwiftUI
+
+- [**Introducing SwiftUI: Building Your First App**](https://developer.apple.com/wwdc19/204)
+  If you only watched one video (apart from the keynote itself) it should be this one. They build a complete app using swiftUI on stage
+- [SwiftUI Essentials](https://developer.apple.com/wwdc19/216)
+  A more in depth dive into SwiftUI including animations, if statements, bindings and cross platform support.
+- [SwiftUI on watchOS](https://developer.apple.com/wwdc19/219)
+  Build interfaces on watchOS using SwiftUI including interacting with the digital crown and interactive notifications.
+- [Data Flow Through SwiftUI](https://developer.apple.com/wwdc19/226)
+  When ti use @state @Bindings and @BindableObjects to  bind your model to the UI.
 
 [The list is not final, I didn't watch all the videos yet. More links coming as I watch them.]
 
