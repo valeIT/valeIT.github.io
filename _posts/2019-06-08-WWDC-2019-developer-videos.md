@@ -37,6 +37,9 @@ I usually only watch a few videos from WWDC due to time constraints, but this ye
   A first party solution to manage dependencies.
 - [Debugging in Xcode 11](https://developer.apple.com/wwdc19/412)
 How to debug your SwiftUI apps in the preview, without running the application.
+- [Advances in Networking, Part 1
+]()
+  How to use Combine with network requests and more new APIs in URLSessions/URLRequest including support for WebSockets.
 
 ### SwiftUI
 
