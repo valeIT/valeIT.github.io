@@ -37,11 +37,17 @@ I usually only watch a few videos from WWDC due to time constraints, but this ye
   A first party solution to manage dependencies.
 - [Debugging in Xcode 11](https://developer.apple.com/wwdc19/412)
 How to debug your SwiftUI apps in the preview, without running the application.
-- [Advances in Networking, Part 1
-]()
+- [Advances in Networking, Part 1](https://developer.apple.com/wwdc19/712)
   How to use Combine with network requests and more new APIs in URLSessions/URLRequest including support for WebSockets.
 
-### SwiftUI
+## Other Videos to Watch
+
+These videos are not a must watch, but if you still have some time left you should.
+
+- [Modern Swift API Design](https://developer.apple.com/wwdc19/415)
+  Value and references. Generics, protocols and property wrappers.
+
+## SwiftUI
 
 - [**Introducing SwiftUI: Building Your First App**](https://developer.apple.com/wwdc19/204)
   If you only watched one video (apart from the keynote itself) it should be this one. They build a complete app using swiftUI on stage
@@ -51,6 +57,11 @@ How to debug your SwiftUI apps in the preview, without running the application.
   Build interfaces on watchOS using SwiftUI including interacting with the digital crown and interactive notifications.
 - [Data Flow Through SwiftUI](https://developer.apple.com/wwdc19/226)
   When ti use @state @Bindings and @BindableObjects to  bind your model to the UI.
+
+## Combine
+
+- [Combine In Practise](https://developer.apple.com/wwdc19/721)
+ How to use SwiftUI with Combine.
 
 [The list is not final, I didn't watch all the videos yet. More links coming as I watch them.]
 
