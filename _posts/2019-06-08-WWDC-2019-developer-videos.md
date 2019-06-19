@@ -11,7 +11,7 @@ image2:
 author: Valentino Urbano
 ---
 
-# WWDC 2019
+<!-- # WWDC 2019 -->
 
 This year's WWDC was probably the biggest in term of changes for Developers since the unveil of Swift thanks to SwiftUI. It is the future of iOS (iPadOS) and Mac development and even relegates Catalyst (Marzipan) to the background.[^1]
 
@@ -46,6 +46,10 @@ These videos are not a must watch, but if you still have some time left you shou
 
 - [Modern Swift API Design](https://developer.apple.com/wwdc19/415)
   Value and references. Generics, protocols and property wrappers.
+- [Optimizing App Launch](https://developer.apple.com/wwdc19/423)
+  How to get your app to launch under 500ms. Take a look especially at the demo.
+- [Great Developer Habits](https://developer.apple.com/wwdc19/239)
+  General habits for a better developer experience.
 
 ## SwiftUI
 
@@ -57,12 +61,20 @@ These videos are not a must watch, but if you still have some time left you shou
   Build interfaces on watchOS using SwiftUI including interacting with the digital crown and interactive notifications.
 - [Data Flow Through SwiftUI](https://developer.apple.com/wwdc19/226)
   When ti use @state @Bindings and @BindableObjects to  bind your model to the UI.
+- [Integrating SwiftUI](https://developer.apple.com/wwdc19/231)
+  Expose UIKit to SwiftUI and viceversa, or use SwiftUI from Objective-C.
+- [SwiftUI On All Devices](https://developer.apple.com/wwdc19/240)
+  Use SwiftUI to build adapt your application to the platform you're developing for.
+- [Building Custom Views with SwiftUI](https://developer.apple.com/wwdc19/237)
+  Build a gauge or graph using SwiftUI with performance in mind.
+- [Mastering Xcode Previews](https://developer.apple.com/wwdc19/233)
+  Using Previews to their full potential, even from UIKit or Objective-C code.
 
 ## Combine
 
 - [Combine In Practise](https://developer.apple.com/wwdc19/721)
  How to use SwiftUI with Combine.
 
-[The list is not final, I didn't watch all the videos yet. More links coming as I watch them.]
+The list is complete for the videos now available. A few videos are still "coming soon" though.
 
 [^1]: And thinking that we were sure Catalyst would be the star of the show...
