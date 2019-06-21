@@ -6,7 +6,7 @@ plugins:
 
 title: "Valentino Urbano"
 description: >
-   iOS Developer, Swift, Writer, Husband
+  iOS Developer, Swift, Writer, Husband
 
 email: valentino@valentinourbano.com
 #blog logo
@@ -16,15 +16,16 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/logo_image.png"
 
-name: 'Valentino Urbano'
-author: 'Valentino Urbano'
+name: "Valentino Urbano"
+author: "Valentino Urbano"
 author_image: "/assets/images/author.png"
+yearStart: "2012"
 
-paginate:	5
+paginate: 5
 
 url: "http://www.valentinourbano.com"
 baseurl: ""
-twitter_handle: '@valentinourbano'
+twitter_handle: "@valentinourbano"
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -33,16 +34,16 @@ google_analytics: UA-61742521-6
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/valentinourbano
+  - icon: twitter
+    url: https://twitter.com/valentinourbano
     desc: Follow me on twitter
-    share_url: 
-    share_title: 
-    share_link: 
+    share_url:
+    share_title:
+    share_link:
 
-  - icon:	github
-    url:	https://github.com/valeIT/valeIT.github.io/
-    desc:	This site is open source
+  - icon: github
+    url: https://github.com/valeIT/valeIT.github.io/
+    desc: This site is open source
     share_url:
     share_title:
     share_link:
@@ -53,8 +54,7 @@ kramdown:
 permalink: /:title.html
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
     values:
       layout: "post"
