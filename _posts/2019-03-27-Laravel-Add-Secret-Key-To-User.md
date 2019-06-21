@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Laravel add secret key to user
+title: Hoe to add a secret key to your user in Laravel
 date: 2019-03-27 22:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
-categories: []
+categories: [Programming]
 image:
 image2:
 author: Valentino Urbano

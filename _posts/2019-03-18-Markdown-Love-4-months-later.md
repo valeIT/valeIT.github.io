@@ -5,7 +5,7 @@ date: 2019-03-15 22:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
-categories: []
+categories: [Me]
 image:
 image2:
 author: Valentino Urbano
@@ -39,6 +39,8 @@ As of tech, I don't regret the choice.
 # The Future
 
 I'm planning to keep improving markdown.love in the coming months, but since the current state is totally fine for my daily use I'm not expecting big features or overhauls. If you'd like something new I'm [always open to suggestions though][1]
+
+Update 2019-06-21: The site has been shut down. Could not justify the increasing server costs with no current revenue nor signs of improvements. I'm still using it a few times a week running on localhost for my needs. All in all it has been a great experience proving that I could create a website (a spece where I had no experience in) in less than a day.
 
 [0]: https://markdown.love
 [1]: http://www.valentinourbano.com/support

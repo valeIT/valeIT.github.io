@@ -5,7 +5,7 @@ date: 2019-06-20 22:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
-categories: []
+categories: [Writing]
 image:
 image2:
 author: Valentino Urbano

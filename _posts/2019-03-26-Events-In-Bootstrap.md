@@ -1,11 +1,11 @@
 ---
 layout: post
-title: callback on alert dismissal bootstrap - Events
+title: Callback on alert dismissal bootstrap - Events
 date: 2019-03-26 22:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
-categories: []
+categories: [Programming]
 image:
 image2:
 author: Valentino Urbano

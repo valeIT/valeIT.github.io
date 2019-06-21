@@ -5,7 +5,7 @@ date: 2019-01-14 22:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
-categories: []
+categories: [Programming]
 image:
 image2:
 author: Valentino Urbano

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Unity - Rotate Around While Maintaining Direction
+title: Unity - Rotate Around An Object While Maintaining Your Current Direction
 date: 2019-04-30 22:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
-categories: []
+categories: [Programming]
 image:
 image2:
 author: Valentino Urbano

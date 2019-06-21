@@ -5,7 +5,7 @@ date: 2019-03-15 22:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
-categories: []
+categories: [General]
 image: /assets/article_images/igor-ovsyannykov-252356.jpeg
 image2: /assets/article_images/igor-ovsyannykov-252356.jpeg
 author: Valentino Urbano

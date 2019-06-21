@@ -6,13 +6,13 @@ type: post
 published: true
 status: publish
 categories:
-- Tech
-author: Valentino Urbano 
+- Productivity
+author: Valentino Urbano
 ---
 
 [This][0].
 
-If you want to be pruductive you have to get out of here and get your work done, now. Don't be lazy.
+If you want to be productive you have to get out of here and get your work done, now. Don't be lazy.
 
 
 [0]: http://productiveblog.tumblr.com/

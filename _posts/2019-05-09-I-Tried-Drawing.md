@@ -1,11 +1,11 @@
 ---
 layout: post
-title: I Tried Drawing
+title: I'm a Developer and I Tried Drawing, You Can Too
 date: 2019-05-09 14:00:05.000000000 +01:00
 type: post
 published: true
 status: publish
-categories: []
+categories: [Me]
 image:
 image2:
 author: Valentino Urbano

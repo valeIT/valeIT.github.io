@@ -5,7 +5,7 @@ date: 2019-05-11 18:00:05.000000000 +01:00
 type: post
 published: true
 status: publish
-categories: []
+categories: [Productivity]
 image:
 image2:
 author: Valentino Urbano

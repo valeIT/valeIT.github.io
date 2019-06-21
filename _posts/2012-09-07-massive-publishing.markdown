@@ -7,7 +7,8 @@ published: true
 status: publish
 categories:
 - Writing
-author: Valentino Urbano 
+- Productivity
+author: Valentino Urbano
 ---
 
 In the last few months I started writing many articles that now lie in a folder into my dropbox account.

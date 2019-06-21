@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Android Kiosk App
+title: Create Your Own Android Kiosk Application Using Kotlin
 date: 2019-04-29 22:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
-categories: []
+categories: [Programming]
 image:
 image2:
 author: Valentino Urbano

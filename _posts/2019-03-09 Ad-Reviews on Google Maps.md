@@ -5,7 +5,7 @@ date: 2019-03-09 22:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
-categories: []
+categories: [General]
 image: /assets/article_images/photo-734562.jpeg
 image2: /assets/article_images/photo-734562.jpeg
 author: Valentino Urbano

@@ -5,7 +5,7 @@ date: 2019-04-04 22:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
-categories: []
+categories: [Tech]
 image:
 image2:
 author: Valentino Urbano
