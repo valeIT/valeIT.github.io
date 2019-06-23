@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Categorizing Posts
-date: 2019-06-21 22:28:05.000000000 +01:00
+date: 2019-06-22 22:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
@@ -22,3 +22,6 @@ A lot of posts don't particularly fit in the limited number of categories that I
 What I decided to go for is to put everything in categories as best I could and leave the rest in 'General' so in the future when the number of articles for a specific topic grows I know that I can always go and look in 'General' for posts to add the new category to instead of labeling to the closest thing to it that I have available now and promptly forget to migrate it to the new category.
 
 [^1]: Almost since a lot of times was just adding words to an already existing article so the count doesn't really match.
+
+<!--
+*Note for 200WaD: This refers to adding categories to articles published on my [website](http://www.valentinourbano.com) and not on 200WaD. To add categories on my website's posts I just have to edit a markdown file. To do it on 200WaD I would have needed to go manually through each post and add it.* -->
