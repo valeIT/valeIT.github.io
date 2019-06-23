@@ -10,7 +10,7 @@ categories:
 author: Valentino Urbano
 ---
 
-These last few years I run an experiment, started with [this post]({% post_url 2012-06-20-dead-links %}) back in 2012.
+These last few years I run an experiment, started with [this post][4] back in 2012.
 
 I've included in my [travis.ci][0] build, on top of the usual build errors, also all of my pages that link to an external resource that no longer exists. The [current build][1] returns 64 errors (most of them are 404s).
 
@@ -26,7 +26,7 @@ Some basic stats:
 
 Not that high. Note that the "Total links" also include a lot of internal links.
 
-One error was for a [web archive page][2] which seemed peculiar. The cause: robots.txt 
+One error was for a [web archive page][2] which seemed peculiar. The cause: robots.txt
 Now I'm just speculating, but it seems like [the site that gave 404][3] was indexed in it, but was later removed due to a change in the robots.txt
 
 
@@ -34,3 +34,4 @@ Now I'm just speculating, but it seems like [the site that gave 404][3] was inde
 [1]: https://travis-ci.org/valeIT/valeIT.github.io/builds/326023186?
 [2]: https://web.archive.org/web
 [3]: https://web.archive.org/web/2/http://www.ilmacminimalista.it
+[4]: {% post_url 2012-06-20-dead-links  %}
