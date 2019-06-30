@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Fucshia
+title: Google Fuchsia
 date: 2019-06-30 14:28:05.000000000 +01:00
 type: post
 published: true
@@ -10,15 +10,15 @@ image: /assets/article_images/.jpeg
 image2: /assets/article_images/.jpeg
 author: Valentino Urbano
 ---
-# [Google Fucshia][2]
+# [Google Fuchsia][2]
 
 *This is just speculation from a user of both Android and iOS and a developer for both platforms. It is my personal opinion and it might be completely off the mark.*
 
-I spent most of the day updating [Learning Flutter][1]. Google just released the first sneak peek of [Project Fucshia][2][^1]. It's Google's new Open Source Operating System that might one day replace Android or Chrome OS. It also might not.
+I spent most of the day updating [Learning Flutter][1]. Google just released the first sneak peek of [Project Fuchsia][2][^1]. It's Google's new Open Source Operating System that might one day replace Android or Chrome OS. It also might not.
 
 For now, it is just an experiment and no official news has been given on its future.
 
-It seems clear that Google is spending a lot of time and money on the Fucshia making it unlikely to be just a gimmick. From there to say that it will surely replace Android in a short amount of time as someone is speculating is a fantasy. Google can't just decide one day to drop Android. It is going to require a large amount of time and resource to make the transition.
+It seems clear that Google is spending a lot of time and money on the Fuchsia making it unlikely to be just a gimmick. From there to say that it will surely replace Android in a short amount of time as someone is speculating is a fantasy. Google can't just decide one day to drop Android. It is going to require a large amount of time and resource to make the transition.
 
 All that said I think it is for the good. With Oracle stake in Java and its approach in closing it ever further while requiring companies to pay them to use it, the whole Java ecosystem is in distress. There is still OpenJava (a still free and Open Source fork of Java), but having the key player on the market being so anti-consumer is not a great outlet to inspire any kind of confidence in Java's future as a language.
 
