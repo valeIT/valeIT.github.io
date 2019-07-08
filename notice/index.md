@@ -3,6 +3,8 @@ layout: page
 title: Disclaimer
 ---
 
+This disclaimer applies to all the content I publish on this website.
+
 ## For Freelance articles
 
 Please be advised, this is just my experience. It should not be taken as what to do.
