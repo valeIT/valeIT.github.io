@@ -14,7 +14,7 @@
         "fontAwesome": ["fa fa-laptop"]
     },
     {
-        "name": "Markdown Love",
+        "name": "Markdown Love [Retired]",
         "id": "MarkdownLove",
         "description": "Remove the clutter and get directly to the content you love! Turn any article into Markdown.",
         "link": "https://markdown.love/",
@@ -68,16 +68,14 @@
         "platforms": ["iOS"],
         "fontAwesome": ["fa fa-mobile"]
     },
-
     {
-        "name": "County - Event Countdown",
-        "id": "County",
-        "description": "Count the time left before your next big day!",
-        "link": "https://itunes.apple.com/us/app/county-event-countdown/id1041921168?&at=1010lHG??mt=8",
-        "platforms": ["iOS"],
-        "fontAwesome": ["fa fa-mobile"]
+        "name": "Tic Tac Toe Apple Watch Edition",
+        "id": "TicTacToe",
+        "description": "The old classic Tic Tac Toe that you know and love, now for Apple Watch! [Also available for iPhone, iPad and iPod touch.] ",
+        "link": "https://itunes.apple.com/us/app/tic-tac-toe-apple-watch-edition/id1011862851?&at=1010lHG?mt=8",
+        "platforms": ["iOS", "Watch"],
+        "fontAwesome": ["fa fa-mobile", "fa fa-clock"]
     },
-
     {
         "name": "IPLocation / IPLocation Mini",
         "id": "IPLocation",
@@ -86,7 +84,14 @@
         "platforms": ["Mac"],
         "fontAwesome": ["fa fa-laptop"]
     },
-
+    {
+        "name": "County - Event Countdown",
+        "id": "County",
+        "description": "Count the time left before your next big day!",
+        "link": "https://itunes.apple.com/us/app/county-event-countdown/id1041921168?&at=1010lHG??mt=8",
+        "platforms": ["iOS"],
+        "fontAwesome": ["fa fa-mobile"]
+    },
     {
         "name": "FaceBlur - Automatically Blur Faces in an Image",
         "id": "FaceBlur",
@@ -147,16 +152,6 @@
         "platforms": ["iOS", "Watch"],
         "fontAwesome": ["fa fa-mobile", "fa fa-clock"]
     },
-
-    {
-        "name": "Tic Tac Toe Apple Watch Edition",
-        "id": "TicTacToe",
-        "description": "The old classic Tic Tac Toe that you know and love, now for Apple Watch! [Also available for iPhone, iPad and iPod touch.] ",
-        "link": "https://itunes.apple.com/us/app/tic-tac-toe-apple-watch-edition/id1011862851?&at=1010lHG?mt=8",
-        "platforms": ["iOS", "Watch"],
-        "fontAwesome": ["fa fa-mobile", "fa fa-clock"]
-    },
-
     {
         "name": "Random Password Generator",
         "id": "RandomPasswordGenerator",
@@ -200,6 +195,21 @@
         "link": "https://itunes.apple.com/us/app/ary-the-meme-explorer/id1021104124?&at=1010lHG??mt=8",
         "platforms": ["iOS"],
         "fontAwesome": ["fa fa-mobile"]
+    },
+    {
+        "name": "Simple Plan . it [Retired]",
+        "id": "SimplePlanIt",
+        "description": "The main italian website for everything Simple Plan.",
+        "link": "https://simpleplan.it/",
+        "platforms": ["Web"],
+        "fontAwesome": ["fab fa-chome", "fab fa-firefox", "fab fa-safari", "fab fa-opera", "fab fa-edge"],
+    },
+    {
+        "name": "mysimpleromance [Retired]",
+        "id": "mysimpleromance",
+        "description": "My first website. Italian forum about the canadian rock band Simple Plan and the american band My Chemical Romance. Later converted into a website. 400k+ visits",
+        "link": "https://mysimpleromance.altervista.org/",
+        "platforms": ["Web"],
+        "fontAwesome": ["fab fa-chome", "fab fa-firefox", "fab fa-safari", "fab fa-opera", "fab fa-edge"],
     }
-
 ]
