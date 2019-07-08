@@ -23,4 +23,4 @@ I predict that the need for Honest Human Curated Content is going to keep increa
 
 We all need to be aware and start to vote with our attention.  You can start by deleting your Facebook account, for example. [I've done it 5 years ago.][1]
 
-[1]:{%% post_url 2012-03-27-privacy-on-facebook %%}
+[1]:{% post_url 2012-03-27-privacy-on-facebook %}
