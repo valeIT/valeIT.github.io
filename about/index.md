@@ -29,7 +29,7 @@ To code I mainly use Xcode (for Apple platforms) and Visual Studio Code (for eve
 
 ## Contact
 
-You can contact me via email at <a href="mailto:valentino@valentinourbano.com">valentino@valentinourbano.com</a>.
+You can contact me via email at <a href="mailto:{{site.email}}">{{site.email}}</a>.
 
 Note: This is a personal email address. If you need to contact me for support use the [Support Page](/support/). Support emails received personal email addresses will be ignored and deleted.
 

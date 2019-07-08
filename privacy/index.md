@@ -90,11 +90,11 @@ You can request a copy of all data we have about you by sending us an email, you
 
 - How to export:
 
-Send an email to valentino@valentinourbano.com with the subject "[EXPORT] USERNAME APPNAME". You can include anything you want to share in the body, a real human will read it. We will respond with an export of your data.
+Send an email to {{site.email}} with the subject "[EXPORT] USERNAME APPNAME". You can include anything you want to share in the body, a real human will read it. We will respond with an export of your data.
 
 - How to delete:
 
-Send an email to valentino@valentinourbano.com with the subject "[DELETE] USERNAME APPNAME". You can include anything you want to share in the body, a real human will read it. We will respond with a confirmation of deletion.
+Send an email to {{site.email}} with the subject "[DELETE] USERNAME APPNAME". You can include anything you want to share in the body, a real human will read it. We will respond with a confirmation of deletion.
 
 ### GDPR Notice
 
