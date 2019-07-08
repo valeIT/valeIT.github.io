@@ -13,6 +13,7 @@ I’m living in Milan, Italy with my wife dividing of my time between:
 - [Freelancing][2]
 - Developing web applications
 - [Writing][1]
+- Learning Flutter
 
 ### Changelog
 
@@ -20,6 +21,7 @@ I’m living in Milan, Italy with my wife dividing of my time between:
 - March 16, 2018: Update on Freelancing.
 - October 2, 2018: Updated.
 - October 29, 2018: Updated.
+- July 7, 2019: Updated with Flutter.
 
 [0]: /about
 [1]: /
