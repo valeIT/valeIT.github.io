@@ -19,7 +19,7 @@ The most popular way of solving the problem is via an algorithm, it's always act
 
 I would rather have a human curating it and maybe pay for it instead of being free, but by an algorithm. We've already seen what we are going to get with it from Facebook, Youtube, Twitter and more.
 
-I predict that the need for Honest Human Curated Content is going to be big.
+I predict that the need for Honest Human Curated Content is going to keep increasing with time.
 
 We all need to be aware and start to vote with our attention.  You can start by deleting your Facebook account, for example. [I've done it 5 years ago.][1]
 
