@@ -11,9 +11,9 @@ image2:
 author: Valentino Urbano
 ---
 
-A few years ago I was working for a (big) client that provided a login (for source control and email) to every single employee or external contractor.
+A few years ago I was working for a (big) client that provided a login (for source control, chat and email) to every single employee or external contractor.
 
-They had a really good infrastructure and IT department. They also had a very annoying password policy. It forced you to update your password every 3 months with no exceptions.
+They had a really good infrastructure and IT department. They also had a very annoying password policy. It forced you to update your password every 3 months with no exceptions. Everyone in the office often complained about it, but from higher up the message was clear. The policy was there to stay.
 
 On top of that it has some other 'interesting' rules about password contents and length:
 
