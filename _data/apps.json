@@ -1,10 +1,17 @@
 [{
+        "name": "Storyboard Colors",
+        "id": "StoryboardColors",
+        "description": "Paste the XML code of the color from your .storyboard file to quickly visualize it and compare it with other storyboard colors.",
+        "link": "https://storyboardcolor.codemagic.app/#/",
+        "platforms": ["Web"],
+        "fontAwesome": ["fab fa-chome", "fab fa-firefox", "fab fa-safari", "fab fa-opera", "fab fa-edge"]
+    }, {
         "name": "Learning Flutter",
         "id": "LearningFlutter",
         "description": "We are a community of Web and Mobile developers that wants to improve and teach others how to develop applications with Flutter.",
         "link": "https://learningflutter.net",
         "platforms": ["Web"],
-        "fontAwesome": ["fab fa-chome", "fab fa-firefox", "fab fa-safari", "fab fa-opera", "fab fa-edge"],
+        "fontAwesome": ["fab fa-chome", "fab fa-firefox", "fab fa-safari", "fab fa-opera", "fab fa-edge"]
     }, {
         "name": "IPLocation 2",
         "id": "IPLocation",
