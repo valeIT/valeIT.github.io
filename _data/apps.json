@@ -1,7 +1,7 @@
 [{
         "name": "Storyboard Colors",
         "id": "StoryboardColors",
-        "description": "Paste the XML code of the color from your .storyboard file to quickly visualize it and compare it with other storyboard colors.",
+        "description": "Paste the XML code of the color from your .storyboard file to quickly visualize it and compare it with other colors.",
         "link": "https://storyboardcolor.codemagic.app/#/",
         "platforms": ["Web"],
         "fontAwesome": ["fab fa-chome", "fab fa-firefox", "fab fa-safari", "fab fa-opera", "fab fa-edge"]
