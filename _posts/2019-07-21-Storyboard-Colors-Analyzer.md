@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Storyboard Colors Analyzer
+title: Storyboard Colors Analyzer - iOS
 date: 2019-07-21 22:28:05.000000000 +01:00
 type: post
 published: true
