@@ -1,0 +1,5 @@
+<!-- STARTTITLE -->
+
+These are notes I've taken while watching the video of the corresponding session. They don't have all the information contained in the video, but I've tried to still write the main points for my personal use cases.
+
+<!-- ENDTITLE -->
