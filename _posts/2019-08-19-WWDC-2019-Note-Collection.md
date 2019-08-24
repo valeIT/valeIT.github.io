@@ -11,4 +11,7 @@ image2:
 author: Valentino Urbano
 ---
 
-{% include_relative ../wwdc/2019/index_content.md %}
+ <!-- include_relative ../wwdc/2019/index_content.md  -->
+# [WWDC 2019 Notes][1]
+
+[1]: /wwdc/2019/
