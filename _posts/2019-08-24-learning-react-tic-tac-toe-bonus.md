@@ -346,6 +346,9 @@ Most of these solutions are not pretty, but being done on a new framework and wi
 
 Let me know how you would have done it,apart from the few things I've already pointed out.
 
+[You can find the repository here][2]
+
 PS: Liking React so far!
 
 [1]: https://reactjs.org/tutorial/tutorial.html#overview
+[2]: https://github.com/valeIT/ReactTicTacToe
