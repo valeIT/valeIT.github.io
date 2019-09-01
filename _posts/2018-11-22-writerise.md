@@ -5,7 +5,7 @@ date: 2018-11-22 22:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
-categories: [Me,Programming]
+categories: [Me, Programming]
 image:
 image2:
 author: Valentino Urbano
@@ -25,9 +25,11 @@ WriteRise is a Mac application to track how much you write across all of your ap
 
 It's still in early development, but I'm going to ship an early alpha to my [email subscribers][1] next week.
 
-On my journey on putting myself in the public more I [started a Trello board][2] for the project. For now it's still very incomplete, but it is going to get properly flashed out in the coming days.
+<s>On my journey on putting myself in the public more I [started a Trello board][2] for the project. For now it's still very incomplete, but it is going to get properly flashed out in the coming days.</s> I found out that Trello did not work for me, I much prefer working with markdown files locally. I still accept suggestions via [email][3] or [twitter][4]
 
 Let me know what you think about it on Twitter!
 
 [1]: http://www.valentinourbano.com/newsletter
-[2]: https://trello.com/b/ojqeBpTf/writerise
+[2]: /
+[3]: /about
+[4]: https://twitter.com/valentinourbano
