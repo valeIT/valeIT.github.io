@@ -5,7 +5,7 @@ date: 2019-08-11 22:28:05.000000000 +01:00
 type: post
 published: true
 status: published
-categories: [Geneal]
+categories: [General]
 image:
 image2:
 author: Valentino Urbano
