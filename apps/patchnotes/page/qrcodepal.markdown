@@ -3,6 +3,11 @@ layout: page
 title: QRCodePal Patch Notes
 ---
 
+## 2.0
+
+- NEW: New Theme
+- FIX: iOS 13 Support
+
 ## 1.4
 
 - FIX: Improved iOS 10 support

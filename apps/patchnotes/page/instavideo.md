@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Tickery Patch Notes
+title: InstaVideo
 ---
 
-## 1.5
+## 1.1
 
-- NEW: Dark Mode Support
 - FIX: iOS 13 Support
+- FIX: shutter background
 
 ## 1.0
 

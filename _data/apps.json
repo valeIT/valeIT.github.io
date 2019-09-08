@@ -1,8 +1,45 @@
 [{
+        "name": "Teria",
+        "id": "Teria",
+        "description": "Teria let's you write notes quickly.",
+        "link": "/Introducing-Teria.html",
+        "platforms": ["iOS", "android"],
+        "fontAwesome": ["fa fa-mobile", "fab fa-android"]
+
+    },
+    {
+        "name": "WriteRise",
+        "id": "WriteRise",
+        "description": "WriteRise automatically tracks your writings during the day grouped by application.",
+        "link": "/Introducing-WriteRise.html",
+        "platforms": ["Mac"],
+        "fontAwesome": ["fa fa-laptop"]
+
+    },
+    {
+        "name": "Dreamer",
+        "id": "Dreamer",
+        "description": "Dreamer uses machine learning to let your phone dream on your photos.",
+        "link": "/Fall-App-Updates.html",
+        "platforms": ["iOS"],
+        "fontAwesome": ["fa fa-mobile"]
+
+    },
+    {
+        "name": "Shine",
+        "id": "Shine",
+        "description": "Shine is a super minimalistic Weather app with a carefully crafted design.",
+        "link": "/Fall-App-Updates.html",
+        "platforms": ["iOS"],
+        "fontAwesome": ["fa fa-mobile"]
+
+    },
+    {
         "name": "Storyboard Colors for iOS and mac apps",
         "id": "StoryboardColors",
         "description": "Paste the XML code of the color from your .storyboard file in Xcode to quickly visualize it and compare it with other colors.",
         "link": "https://storyboardcolor.codemagic.app/#/",
+        "moreInfo": "/Storyboard-Colors-Analyzer.html",
         "platforms": ["Web"],
         "fontAwesome": ["fab fa-chome", "fab fa-firefox", "fab fa-safari", "fab fa-opera", "fab fa-edge"]
     }, {
@@ -16,7 +53,7 @@
         "name": "IPLocation 2",
         "id": "IPLocation",
         "description": "Check the location of your IP address and get notified you each time your IP address changes!",
-        "link": "http://www.valentinourbano.com/apps/mac/iplocation",
+        "link": "/apps/mac/iplocation",
         "platforms": ["Mac"],
         "fontAwesome": ["fa fa-laptop"]
     },
@@ -27,16 +64,16 @@
         "link": "https://markdown.love/",
         "platforms": ["Web"],
         "fontAwesome": ["fab fa-chome", "fab fa-firefox", "fab fa-safari", "fab fa-opera", "fab fa-edge"],
-        "open": "http://www.valentinourbano.com/apps/web/markdownlove/"
+        "open": "/apps/web/markdownlove/"
     },
     {
         "name": "Free My Desktop",
         "id": "FreeMyDesktop",
         "description": "Quickly hide and show your desktop, dock and menubar. Make your screens and recordings look great. For free.",
-        "link": "http://www.valentinourbano.com/Free-my-desktop-mac-app.html",
+        "link": "/Free-my-desktop-mac-app.html",
         "platforms": ["Mac"],
         "fontAwesome": ["fa fa-laptop"],
-        "open": "http://www.valentinourbano.com/apps/mac/freemydesktop/open"
+        "open": "/apps/mac/freemydesktop/open"
     },
     {
         "name": "Endless Wheel",
@@ -62,7 +99,7 @@
         "name": "Minimal Counter",
         "id": "MinimalCounter",
         "description": "The best way to count pretty much anything on your iPhone, iPad or iPod touch. Fully customizable. For Free!",
-        "link": "http://www.valentinourbano.com/apps/ios/minimalcounter",
+        "link": "/apps/ios/minimalcounter",
         "platforms": ["iOS"],
         "fontAwesome": ["fa fa-mobile"]
     },
@@ -71,7 +108,7 @@
         "name": "SWTOR Discipline and Utilities Calculator",
         "id": "SWTORCalculator",
         "description": "Explore your discipline and utilities and save custom presets.",
-        "link": "http://www.valentinourbano.com/apps/ios/swtorcalculator",
+        "link": "/apps/ios/swtorcalculator",
         "platforms": ["iOS"],
         "fontAwesome": ["fa fa-mobile"]
     },
@@ -87,7 +124,7 @@
         "name": "IPLocation / IPLocation Mini",
         "id": "IPLocation",
         "description": "Check the location of your IP address and get notified you each time your IP address changes!",
-        "link": "http://www.valentinourbano.com/apps/mac/iplocation",
+        "link": "/apps/mac/iplocation",
         "platforms": ["Mac"],
         "fontAwesome": ["fa fa-laptop"]
     },
@@ -196,7 +233,7 @@
     },
 
     {
-        "name": "Ary - The Meme Explorer",
+        "name": "Ary - The Meme Explorer [Retired]",
         "id": "Ary",
         "description": "Get the latest memes directly on your iPhone, iPad or iPod touch.",
         "link": "https://itunes.apple.com/us/app/ary-the-meme-explorer/id1021104124?&at=1010lHG??mt=8",

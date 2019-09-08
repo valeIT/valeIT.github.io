@@ -3,7 +3,11 @@ layout: page
 title: County Patch Notes
 ---
 
-## 1.6 
+## 1.7
+
+- FIX: iOS 13 Support
+
+## 1.6
 
 - FIX: Fixed UI for iPhone X
 - FIX: Improved iOS 11 support
@@ -38,6 +42,6 @@ title: County Patch Notes
 * NEW: New and Improved Image Picker!
 * NEW: Select a custom color for your text!
 
-##1.0
+## 1.0
 
 - Initial Release

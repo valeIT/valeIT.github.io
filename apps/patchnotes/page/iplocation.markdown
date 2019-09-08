@@ -3,6 +3,10 @@ layout: page
 title: IPLocation Patch Notes
 ---
 
+## 2.1
+
+- FIX: macOS Catalina Support
+
 ## 2.0
 
 - NEW: A whole new History View to see a timeline of your IP changes with location and date.

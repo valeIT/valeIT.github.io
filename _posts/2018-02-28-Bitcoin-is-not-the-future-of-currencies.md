@@ -87,8 +87,6 @@ To have a better understanding of the whole fenomenon you should also read these
 
 These are just a few first steps, there is a lot more...
 
-[0]: /soon
-
 <!-- post_url Medium is taking over the blogging world -->
 
 [1]: https://en.wikipedia.org/wiki/Ethereum_Classic

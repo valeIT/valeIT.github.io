@@ -3,6 +3,11 @@ layout: page
 title: CryptoChecker Patch Notes
 ---
 
+## 1.6
+
+- NEW: New card based UI
+- FIX: iOS 13 Support
+
 ## 1.5
 
 - FIX: Improved iOS 10 support

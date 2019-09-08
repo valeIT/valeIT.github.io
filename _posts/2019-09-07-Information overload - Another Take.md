@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How To Fight Information Overload - Part 2
-date: 2018-10-30 20:28:05.000000000 +01:00
+title: How To Fight Information Overload - Another Take
+date: 2019-09-07 20:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
@@ -23,12 +23,12 @@ Back in [2012 I wrote about information overload][1]. Since then I've written a 
 
 Let's take on all the steps one by one.
 
-###<p id="1">1</p>
+- <p id="1">1</p>
 Since I've always been a tech-savvy guy I've always jumped into new social networks as soon as they became popular, that netted me a scary 12 open accounts in no time. Now I'm down to zero (I still have one open[^1], but I haven't logged in more than 2 years). The idea started when news broke out that Path on iOs was uploading all your contacts in plaintext to their servers. And it just kept growing from there. Soon enough Facebook changed their ads and privacy settings and Google followed right after (that was to be expected)[^2].
 
 <!-- Part 1 -->
 
-###<p id="2">2</p>
+- <p id="2">2</p>
 I love podcasts and I still listen to them on a regular basis. My subscription list though got trimmed by a considerable amount. I used to listen to most of the 5by5 shows and a lot of other ones on top of that (around 40 total, yeah insane). Now the number is down to less than 10 and of those 10 I don't listen to every episode, I just look at the show notes and decide if I want to listen to this week's episode or not[^3]
 . Unfortunately (as I [mentioned](/) I can't listen to podcasts while programming or writing, so the only time I can is either when I'm not doing anything or when I'm playing (which doesn't happen that often lately).
 
@@ -39,17 +39,18 @@ The podcasts I'm subscribed to include[^4]:
 - Swift by Sundell
 - Accidental Tech Podcast
 - Under the Radar
+- Mac Power Users[^4]
 
 What I'm doing to cut back is not necessarely listen to all the episodes of a podcast (especially the longer ones), but only if the topic is something that I would definitely enjoy and learn something from.
 
-###<p id="3">3</p>
+- <p id="3">3</p>
 
 I have reduced the number of email accounts down to 5. I'm also using unified inboxes to have only one place where I go to to check emails instead of logging in all the different places. The biggest change I made was not that though. It was reducing the number of emails I would receive. I unsubscribed to 90% of the newsletters and I set up automatic rules to automatically delete the remaning spam messages that still got through to the inbox. It took a while to set up, but the peace of mind of having a much cleaner inbox repaid it tenfold. I've also redirected all support tickets to my ticketing system instead of my inbox.
 
-###<p id="4">4</p>
+- <p id="4">4</p>
   Similar to what I said for podcasts applies to RSS Feeds as well. I used to follow all the main sites that reported about apple (9to5 mac, macrumors, macstories, ...), now I don't follow any of those. The only exception is MacStories, but even in this case I' not subscribed to their RSS. I follow Federico Viticci on Twitter and at times he links at articles he has written, but that's it.
 
-  ###<p id="5">5</p>
+  - <p id="5">5</p>
 
 I've branched out more than I've ever thought possible. I've learned a lot and experimented a lot. I even streamed for 24 hours, something that I never thought I could do (as introverted as I am). On top of that I opened my own company and I've been Freelancing for more than one year.
 
@@ -68,16 +69,17 @@ The major "time sink"[^5] in my timeline is [Handmade Hero](https://handmadehero
 
 - Kurzgesagt
 
-###<p id="learn">Learning</p>
+- <p id="learn">Learning</p>
 On top of that, I finished most of the base courses on Codecademy and I'm currently taking the Algorithm course on Khan Academy [Finished]. Up next is the C# course from Microsoft starting this month [Finished]. Currently, I'm playing around with [Unity](https://unity3d.com).
 
-[^1]: Yes, that's [Twitter](http://twitter.com/valentinourbano).
+[^1]: Yes, that's [Twitter][4].
 [^2]: Unfortunately, as I'll write in a few paragraphs, I still have my main email account on gmail. I wrote already an [article][2] about why that is.
 [^3]: And if the answer is nope for too many times the whole show gets dumped. This same method applies to RSS Feeds. They have to earn my time, no exeptions.
-[^4]: MacPowerUsers: I find it less and less useful as time goes on, unfortunately, but I love Katie and David and they got me starting on Mac Automation, so I'm giving it a few more shots.
+[^4]: MacPowerUsers: I find it less and less useful as time goes on, unfortunately, but I love the hosts and it was what got me starting on Mac Automation back in the days, so I'm just listening to a few shows a year.
 [^5]: 1 to 2 hours a day (and yeah I'm way behind since I can't watch to it every single day) and it's not something you can half ass.
 [^1]: You should too...
 
 [1]: {% post_url 2012-02-05-information-overload %}
-[2]: gmailarticle
-[3]: {% post_url consumption overload }
+[2]: {% post_url 2018-02-11-Piwik %}
+[3]: {% post_url 2019-05-11-Consumption-Overload %}
+[4]: http://twitter.com/valentinourbano
