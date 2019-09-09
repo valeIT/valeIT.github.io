@@ -44,12 +44,15 @@ What I'm doing to cut back is not necessarely listen to all the episodes of a po
 
 ###<p id="3">3</p>
 
-I have reduced the number of email accounts down to 5. I'm also using unified inboxes to have only one place where I go to to check emails instead of logging in all the different places. The biggest change I made was not that though. It was reducing the number of emails I would receive. I unsubscribed to 90% of the newsletters and I set up automatic rules to automatically delete the remaning spam messages that still got through to the inbox. It took a while to set up, but the peace of mind of having a much cleaner inbox repaid it tenfold. I've also redirected all support tickets to my ticketing system instead of my inbox.
+I have reduced the number of email accounts down to 5. Yes, it is still a lot, but I like to keep different areas in their own silos where if one account gets compromised that is not the only email that is linked to everything.
+The biggest change I made was not that though. It was reducing the number of emails I would receive. I unsubscribed to 90% of the newsletters and I set up automatic rules to automatically delete the remaning spam messages that still got through to the inbox. It took a while to set up, but the peace of mind of having a much cleaner inbox repaid it tenfold. I've also redirected all support tickets to my ticketing system instead of my inbox.
+
+I'm used to use a unified inbox to have only one place where I go to to check emails instead of logging in all the different places, but I found that it encouradged looking at emails too often. So I started doing one thing: I removed all the emails from my mac (where I spend most of my time) and put the on my phone (that I rarely use to pass the time). I put the part in paranthesis because it's important and most people do the opposite of what I do. So if you're someone that is more likely on his phone than mac you should keep the email accounts on the mac and delete it from the phone instead. I didn't delete all of the accounts from my phone, only the ones that were not really necessary for me to be notified on when on the go (which is most of them). Another more drastic step would be to drop the unified inbox and bne forced to manually go to the website to check for emails. Introducing some friction that will make you look at the inbox less. Technology should be convienient so I think that's a step too far.
 
 ###<p id="4">4</p>
-  Similar to what I said for podcasts applies to RSS Feeds as well. I used to follow all the main sites that reported about apple (9to5 mac, macrumors, macstories, ...), now I don't follow any of those. The only exception is MacStories, but even in this case I' not subscribed to their RSS. I follow Federico Viticci on Twitter and at times he links at articles he has written, but that's it.
+Similar to what I said for podcasts applies to RSS Feeds as well. I used to follow all the main sites that reported about apple (9to5 mac, macrumors, macstories, ...), now I don't follow any of those. The only exception is MacStories, but even in this case I' not subscribed to their RSS. I follow Federico Viticci on Twitter and at times he links at articles he has written, but that's it.
 
-  ###<p id="5">5</p>
+###<p id="5">5</p>
 
 I've branched out more than I've ever thought possible. I've learned a lot and experimented a lot. I even streamed for 24 hours, something that I never thought I could do (as introverted as I am). On top of that I opened my own company and I've been Freelancing for more than one year.
 
