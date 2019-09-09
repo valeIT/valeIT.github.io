@@ -23,6 +23,6 @@ WriteRise main commitment is to privacy. Everything stays on your machine and it
 If you like WriteRise you might like [Teria][4].
 
 [1]: /apps/mac/writerise
-[2]: {% post_url Writerise-1 %}
+[2]: {% post_url 2018-11-22-writerise %}
 [3]: {% post_url 2019-09-20-Fall-App-Updates %}
 [4]: /apps/patchnotes/teria
