@@ -89,5 +89,5 @@ On top of that, I finished most of the base courses on Codecademy and I'm curren
 
 [1]: {% post_url 2012-02-05-information-overload %}
 [2]: {% post_url 2012-02-27-the-new-google %}
-[3]: {% post_url 2019-05-11-Consumption-Overload }
+[3]: {% post_url 2019-05-11-Consumption-Overload %}
 [4]: http://twitter.com/valentinourbano
