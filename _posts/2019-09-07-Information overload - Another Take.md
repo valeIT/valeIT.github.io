@@ -49,8 +49,13 @@ The biggest change I made was not that though. It was reducing the number of ema
 
 I'm used to use a unified inbox to have only one place where I go to to check emails instead of logging in all the different places, but I found that it encouradged looking at emails too often. So I started doing one thing: I removed all the emails from my mac (where I spend most of my time) and put the on my phone (that I rarely use to pass the time). I put the part in paranthesis because it's important and most people do the opposite of what I do. So if you're someone that is more likely on his phone than mac you should keep the email accounts on the mac and delete it from the phone instead. I didn't delete all of the accounts from my phone, only the ones that were not really necessary for me to be notified on when on the go (which is most of them). Another more drastic step would be to drop the unified inbox and bne forced to manually go to the website to check for emails. Introducing some friction that will make you look at the inbox less. Technology should be convienient so I think that's a step too far.
 
+
 ###<p id="4">4</p>
-Similar to what I said for podcasts applies to RSS Feeds as well. I used to follow all the main sites that reported about apple (9to5 mac, macrumors, macstories, ...), now I don't follow any of those. The only exception is MacStories, but even in this case I' not subscribed to their RSS. I follow Federico Viticci on Twitter and at times he links at articles he has written, but that's it.
+Similar to what I said for podcasts, the same applies to RSS Feeds. I still love RSS feeds and how uncentralized they are so I usually prefer using them instead of any other centralized for of content.
+I used to follow all the main sites that reported about Apple (9to5 mac, macrumors, macstories, ...) and technology in general. I now don't follow any.
+ The only exception is MacStories, but even in this case I' not subscribed to their RSS. I follow Federico Viticci on Twitter and at times he links at articles he has written, but that's it.
+Most of them public very long articles and do such 3+ times a day. Even if you just skim them it is going to take a while and I didn't think it was a good way to pass my time. If there is something important in tech that I need to know I'll find out about it in some other way. Maybe I will get to know it only the day after it happened, but it is not a bid deal.
+Nowadays I get most of my news from Twitter. The good thing about it is that it is supposed to be a timeline, you can peek in and out on your own schedule and if you miss something you don't get it in the backlog. It is gone. Some people might find it that it encouradges them to check it all the times (fear of missing out), but others have embraced it and only look at it on their own schedule.
 
 ###<p id="5">5</p>
 
@@ -82,5 +87,5 @@ On top of that, I finished most of the base courses on Codecademy and I'm curren
 [^1]: You should too...
 
 [1]: {% post_url 2012-02-05-information-overload %}
-[2]: gmailarticle
-[3]: {% post_url consumption overload }
+[2]: {% post_url 2012-02-27-the-new-google %}
+[3]: {% post_url 2019-05-11-Consumption-Overload }
