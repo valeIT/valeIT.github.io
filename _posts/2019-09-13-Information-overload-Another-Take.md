@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How To Fight Information Overload - Part 2
-date: 2018-10-30 20:28:05.000000000 +01:00
+title: How To Fight Information Overload - Another Take
+date: 2019-09-13 20:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
@@ -24,11 +24,13 @@ Back in [2012 I wrote about information overload][1]. Since then I've written a 
 Let's take on all the steps one by one.
 
 ### <p id="1">1</p>
+
 Since I've always been a tech-savvy guy I've always jumped into new social networks as soon as they became popular, that netted me a scary 12 open accounts in no time. Now I'm down to zero (I still have one open[^1], but I haven't logged in more than 2 years). The idea started when news broke out that Path on iOs was uploading all your contacts in plaintext to their servers. And it just kept growing from there. Soon enough Facebook changed their ads and privacy settings and Google followed right after (that was to be expected)[^2].
 
 <!-- Part 1 -->
 
 ### <p id="2">2</p>
+
 I love podcasts and I still listen to them on a regular basis. My subscription list though got trimmed by a considerable amount. I used to listen to most of the 5by5 shows and a lot of other ones on top of that (around 40 total, yeah insane). Now the number is down to less than 10 and of those 10 I don't listen to every episode, I just look at the show notes and decide if I want to listen to this week's episode or not[^3]
 . Unfortunately (as I [mentioned](/) I can't listen to podcasts while programming or writing, so the only time I can is either when I'm not doing anything or when I'm playing (which doesn't happen that often lately).
 
@@ -49,11 +51,11 @@ The biggest change I made was not that though. It was reducing the number of ema
 
 I'm used to use a unified inbox to have only one place where I go to to check emails instead of logging in all the different places, but I found that it encouradged looking at emails too often. So I started doing one thing: I removed all the emails from my mac (where I spend most of my time) and put the on my phone (that I rarely use to pass the time). I put the part in paranthesis because it's important and most people do the opposite of what I do. So if you're someone that is more likely on his phone than mac you should keep the email accounts on the mac and delete it from the phone instead. I didn't delete all of the accounts from my phone, only the ones that were not really necessary for me to be notified on when on the go (which is most of them). Another more drastic step would be to drop the unified inbox and bne forced to manually go to the website to check for emails. Introducing some friction that will make you look at the inbox less. Technology should be convienient so I think that's a step too far.
 
-
 ### <p id="4">4</p>
+
 Similar to what I said for podcasts, the same applies to RSS Feeds. I still love RSS feeds and how uncentralized they are so I usually prefer using them instead of any other centralized for of content.
 I used to follow all the main sites that reported about Apple (9to5 mac, macrumors, macstories, ...) and technology in general. I now don't follow any.
- The only exception is MacStories, but even in this case I' not subscribed to their RSS. I follow Federico Viticci on Twitter and at times he links at articles he has written, but that's it.
+The only exception is MacStories, but even in this case I' not subscribed to their RSS. I follow Federico Viticci on Twitter and at times he links at articles he has written, but that's it.
 Most of them public very long articles and do such 3+ times a day. Even if you just skim them it is going to take a while and I didn't think it was a good way to pass my time. If there is something important in tech that I need to know I'll find out about it in some other way. Maybe I will get to know it only the day after it happened, but it is not a bid deal.
 Nowadays I get most of my news from Twitter. The good thing about it is that it is supposed to be a timeline, you can peek in and out on your own schedule and if you miss something you don't get it in the backlog. It is gone. Some people might find it that it encouradges them to check it all the times (fear of missing out), but others have embraced it and only look at it on their own schedule.
 
@@ -67,21 +69,41 @@ That means that I haven't released a lot of new things in a while since I've bee
 
 ## Additions
 
-On top of removing many sources of information I've added many others, so it's not really an "I won", but I think that this transition has been for the best — I'll leave that to you to judge.
+On top of removing many sources of information I've added many others. All considering it's not really a total win. But if we sum it up I switched from items that push you to read them by being persistently there to items that are transitory and if they're not there you miss them. This works great since I don't mind missing out on stuff if I'm busy (but will not work well for people who do mind). I think that this transition has been for the best — I'll leave that to you to judge.
 
 ### Reddit
-As a note, I added Reddit though, as obviously noted on my "Best of Reddit" series. I find it to be the best one — if it can even be called "social network".
+
+I added Reddit, and also started and subsequentially drop a series on my blog about the best posts of the week/month called "Best of Reddit".
+
+Reddit has been the main outlet to follow international news, and new tech products. The beauty of it is that instead of reading 10s of different blogs you follow one feed. One feed in one place that, as twitter, I can actively decide to open and check out or not. The issue is that items are posted by users so they might not be always accurate and void of bias.
 
 ### YouTube
 
-Youtube is the second thing that grew in time spent procrastinating. Thankfully "Watch Later" saved me from the urge of watching everything in my timeline as soon as I see a new video coming up with the downsite that during busy times I ended up having 200+ videos in the list. [Taking a look at this article for more details on it][3]
+Youtube is the second thing that grew in time spent on the site. Thankfully "Watch Later" saved me from the urge of watching everything in my timeline as soon as I see a new video coming up with the downsite that during busy times I ended up having 200+ videos in the list. [Taking a look at this article for more details on it][3], but as a recap I will need to do the same for it. Every once in a while go back and clean it up declaring that I will never have the time to watch them all.
 
-The major "time sink"[^5] in my timeline is [Handmade Hero](https://handmadehero.org), a great project by Casey Muratori where he's streaming the development of an RPG (2D - Multiplatform - Using NO Libraries at all - From Scratch) for free.
+The major "time sink"[^5] in my timeline is [Handmade Hero](https://handmadehero.org), a great project by Casey Muratori where he's streaming the development of an RPG (2D - Multiplatform - Using NO Libraries at all - From Scratch) for free. I'm at episode 50 and he's at 500, but I just cannot afford one hour a day to watch him (he streams every day). So I will catch up once he's finished with the project.
+
+**Game Dev (recent addition)**
+
+- Handmade Hero
+- Johnatan Blow
+- Sebastian Lague
+- Monkey DNA Games (@dinuka)
+
+**Science**
 
 - Kurzgesagt
+- MinuteEarth
+- Tom Scott
+
+**Animations**
+
+- Domics
+- Jaiden Animations
 
 ### <p id="learn">Learning</p>
-On top of that, I finished most of the base courses on Codecademy and I'm currently taking the Algorithm course on Khan Academy [Finished]. Up next is the C# course from Microsoft starting this month [Finished]. Currently, I'm playing around with [Unity](https://unity3d.com).
+
+<s>On top of that, I finished most of the base courses on Codecademy and I'm currently taking the Algorithm course on Khan Academy [Finished]. Up next is the C# course from Microsoft starting this month [Finished].</s> Currently, I'm playing around with [Unity](https://unity3d.com). During this part year I've launched a [blog about Flutter][8] and launched [a website][9] that I've built in less than 24 hours, and I have a few apps in the pipelines almost ready for release.
 
 [^1]: Yes, that's [Twitter](http://twitter.com/valentinourbano).
 [^2]: Unfortunately, as I'll write in a few paragraphs, I still have my main email account on gmail. I wrote already an [article][2] about why that is.
@@ -98,3 +120,4 @@ On top of that, I finished most of the base courses on Codecademy and I'm curren
 [6]: {% post_url 2018-11-22-writerise %}
 [7]: {% post_url 2019-03-18-Markdown-Love-4-months-later %}
 [8]: https://learningflutter.net
+[9]: http://www.valentinourbano.com/apps/web/markdownlove/
