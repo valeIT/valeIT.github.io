@@ -10,18 +10,6 @@ image: /assets/article_images/tyler-nix-420916.jpeg
 image2: /assets/article_images/tyler-nix-420916.jpeg
 author: Valentino Urbano
 ---
----
-layout: post
-title: How To Fight Information Overload - Another Take
-date: 2019-09-13 20:28:05.000000000 +01:00
-type: post
-published: true
-status: publish
-categories: [General]
-image: /assets/article_images/tyler-nix-420916.jpeg
-image2: /assets/article_images/tyler-nix-420916.jpeg
-author: Valentino Urbano
----
 
 Back in [2012 I wrote about information overload][1]. Since then I've written a few updates. Now, after 7 years, I feel confident in reporting my results.
 
