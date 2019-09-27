@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Hololens Review - What You Need To Know As A Business
-date: 2019-07-22 22:28:05.000000000 +01:00
+date: 2019-09-22 22:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
@@ -21,13 +21,15 @@ The unique feature is having an open field of view. You're not behind a screen. 
 
 <!-- Part 1 -->
 
-I've tried the "alternatives" (Oculus and Vive), but I'm of the idea they're different products for a different audience and market. One for games, the other for business. You shouldn't make the error to think that all 3 are competitors for the same market. They are not.
+I've tried the various "alternatives" (mainly Facebook Oculus and the HTC Vive), but I'm of the idea that they're different products. Products for a different audience and a different market. The closed headsets (Oculus and the Vive) are more directed to gamers offering an immersive experience, while the Hololens are more directed to businesses being able to merge the real world with holograms. You shouldn't make the error to think that all competing for the very same market. They are not. There are obviously many areas of overlap between them, but they do not overlap completely.
 
-I'm exaggerating things to make a point. The difference is there though. It is obvious to anyone who's tried both.
+I might be exaggerating things a bit to make a point, but the difference is there. It is obvious to anyone who's tried both and if you ever have the opportunity to do so, you should. You might not like it at first, but it is worth just to have the experience and know what the current limit of technology is.
 
-It's not set in stone, Microsoft could move towards the gaming crowd and Facebook/HTC towards the business crowd. This is the situation at this moment, but it doesn't seem like it's changing so far.
+It's not set in stone. Microsoft could move towards the gaming crowd and Facebook / HTC towards the business crowd. This is the situation at this moment, but it doesn't seem like it's changing so far.
 
-One last thing is to take a note at the huge price difference. It is steep. Obviously Hololens is still on a technical preview so the price should go down with tine, but they are at least an order of magnitude more expensive.
+One last thing is to take a note at the huge price difference. It is steep. Obviously Hololens is still on a technical preview (even the price went down a little already) so the price should go down with tine, but they are at least an order of magnitude more expensive.
+
+<!-- Part 2 -->
 
 ## Technological limitations
 
