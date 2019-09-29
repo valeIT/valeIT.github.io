@@ -33,21 +33,31 @@ One last thing is to take a note at the huge price difference. It is steep. Obvi
 
 ## Technological limitations
 
-Indoor positioning is hard, more so in a changing environment.
+Hololens works by creating a map of the space around it. It can also hold multiple spaces since they are organized by which WiFi router it is connected to.
 
-We had to use them during events with thousands of moving people and varying lighting.
+It does so with various degrees of success. Indoor positioning is hard, more so in a dynamic environment.
 
-They performed poorly. They're not the device for that specific job.
+We had to use them during events with thousands of moving people and varying lighting. They performed poorly. They're not the device for that specific job.
 
-They're great if they can map the ambient around them beforehand and if the room is static[^2]. If so, you can shut them off, move them to a different position in the room and turn them back on without fear. When you do, they figure out where they are in an instant and place the hologram where you left it, with the exact rotation that you left it on.
+They're great if they are allowed to map the ambient around them beforehand and if the ambient doesn't change with time[^2].
 
-## On Commercial Edition
+If it's static you can shut them off, move them to a different position inside the mapped space and when you turn them back on they will reposition the objects correctly. Hololens figure out where they are quickly after been rebooted and in an instant place the holograms where you left them, with the exact rotation that you left it on.
 
-If you're showing it to clients, do yourself a favor and get the Commercial Edition. Nothing is worse than the app closing during a demo because of a gesture made at random. Even though it looks similar to the bloom gesture[^1] is not something you can do without knowing it happens (I speak from experience).
+If it's dynamic you are going to run though issues depending on how dynamic the space is. There were times where the rotation was wrong, times when the position was wrong and time where it lost its mapping completely and had no idea where it was.
 
-The price difference is steep, but worth.
+There is a mode where you can see how the device has mapped the room so before placing anything try to get it all mapped.
 
-Consider that you can't upgrade a development license to a Commercial one. And do it before buying your first device - if you're a small company and getting a single Hololens is a significant investment.
+<!-- Part 3 -->
+
+## On The Commercial Edition
+If you're having a demo for a client or anything that it is more than just internal testing, do yourself and your company a favour and get the Commercial Edition of Hololens instead of the Developer Edition. Yes, it is more expensive and the "base version" is already expensive enough as it is, but nothing is worse than the application you're showing off closing during a demo because of a gesture. Especially in the beginning getting a hang of the various gestures and what they do is hard and it is fairly easy to get the gesture wrong and trigger an unexpected action.
+
+On top of that the gesture that closes the application and brings you back to the desktop (bloom gesture) might get recognized instead of the tap gesture(air tap). That because the system will recognize the wrong gesture from time to time if they're similar enough.
+Also keep in mind that you can't upgrade a Development license to a Commercial one so you need to factor in this decision before being any device, especially if you're a small company and getting a single Hololens might be a significant investment.
+
+A different route, if you don't want to spend the money for the Commercial Edition, might be deciding from the start to forgo of gestures altogether and only use clickers to air tap, this way you solve the problem, but you also lose a lot of the experience of using the product.
+
+<!-- Part 4 -->
 
 ## Competition
 
@@ -59,6 +69,5 @@ It's a niche device with huge innovative potential, but in its current state is 
 
 That said I'm pretty sure that AR[^3] and VR[ˆ3] are the next big thing in tech.
 
-[^1] : (the one that closes the app and brings you back to the desktop)
-[^2]: Doesn't change with time. This includes both the lighting, the objects and the people in the space.
+[^2]: The space needs to stay completely static. This includes both the lighting, the objects and the people inside the space. It will still work with a dynamic space, but its performance will be poorer and objects might be placed in the wrong position.
 [^3]: AR stands for Augmented Reality. Usually referred at a visual representation of the real world "augmented" by technology. VR stands for Virtual Reality. In this case the real world is not simply augmented, but simulated "ex-novo".
