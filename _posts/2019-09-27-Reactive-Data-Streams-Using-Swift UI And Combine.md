@@ -11,13 +11,13 @@ image2:
 author: Valentino Urbano
 ---
 
-I've finally had some time to spend with SwiftUI and Combine after a month's break from it. Things have changed a lot since when I last tried it. The latest betas (after beta 6) brought many changes: many keywords and way to do things changed and they old way is not working anymore.
+I finally had some time to spend with SwiftUI and Combine after a month's break from it this past weekend. Things have changed a lot since when I last tried it. The latest betas (after beta 6) brought many changes: new keywords and components. On top of that the way to do things changed a lot and they old way is not working anymore.
 
 # Build A Reactive View With SwiftUI And Combine
 
-Let's see how it is possible to create a simple SwiftUI view that automatically listen for changes in the viewModel and automatically updates automatically with only a few lines of code.
+Let's see how it is possible to create a simple SwiftUI view that automatically listen for changes in the viewModel and automatically updates its state with only a few lines of code.
 
-First we create a very simple model to store our
+First we create a very simple model to store our data:
 
 ```
 struct PriceViewModel {
@@ -25,7 +25,7 @@ struct PriceViewModel {
 }
 ```
 
-Next we create our container to handle persistance/networking and to load out model and make it available to the view. Remember to import Combine and to have your container implement the ObservableObject protocol:
+Next we create our container object (manager) to handle persistance/networking and to load out model and make it available to the view. Remember to import Combine and to have your container implement the ObservableObject protocol to be able to use combine automatically:
 
 '''
 import Foundation
@@ -69,6 +69,8 @@ struct PriceView: View {
 
 }
 '''
+
+Note: In this case we are returning the same view from both cases (a Text), if we would have returned different kind of views we would have needed to cast them to AnyView before returning them, otherwise the return type would not match.
 
 Sources:
 

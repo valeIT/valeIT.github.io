@@ -61,13 +61,13 @@ A different route, if you don't want to spend the money for the Commercial Editi
 
 ## Competition
 
-The difference between Hololens and Vive/Oculous is not really well understood. They are completely different products for completely different use cases. Having a blocked field of view against having an open one is a huge difference, as much as I don't consider them to be comparable.
+The difference between Hololens and Vive/Oculous is not really that obvious unless you've tried them both. From an external observer they might seem like distinct, but similar products. After trying them you realized that they are completely different products for completely different use cases. Having a blocked field of view or having an open one is a huge difference, as much so that I don't consider them to be comparable devices.
 
 ## Conclusion
 
-It's a niche device with huge innovative potential, but in its current state is still an unrefined product, more adept at demos about the technology that actual use in a production environment.
+It's a niche device with huge innovative potential, but in its current state is still an unrefined product, more adept at demos about the technology itself that actual use in a production environment.
 
-That said I'm pretty sure that AR[^3] and VR[ˆ3] are the next big thing in tech.
+That said AR[^3] and VR[ˆ3] are one of the next big things in tech.
 
 [^2]: The space needs to stay completely static. This includes both the lighting, the objects and the people inside the space. It will still work with a dynamic space, but its performance will be poorer and objects might be placed in the wrong position.
 [^3]: AR stands for Augmented Reality. Usually referred at a visual representation of the real world "augmented" by technology. VR stands for Virtual Reality. In this case the real world is not simply augmented, but simulated "ex-novo".
