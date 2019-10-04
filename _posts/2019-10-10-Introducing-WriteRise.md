@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing WriteRise
-date: 2019-09-22 20:28:05.000000000 +01:00
+date: 2019-10-10 20:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
