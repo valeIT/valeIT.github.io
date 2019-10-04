@@ -19,4 +19,4 @@ A carefully designed minimal weather app.
 - C or F support
 - Beautifully designed
 
-[3]: {% post_url 2019-09-20-Fall-App-Updates %}
+[3]: {% post_url 2019-10-04-Fall-App-Updates %}
