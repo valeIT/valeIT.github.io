@@ -3,6 +3,10 @@ layout: page
 title: Random Password Generator Patch Notes
 ---
 
+## 2.5
+
+- NEW: New Theme
+- FIX: iOS 13 Support
 
 ## 2.0
 
@@ -14,13 +18,13 @@ title: Random Password Generator Patch Notes
 ## 1.3
 
 - NEW: Nuova Localizzazione in Italiano. Essendo Italiano mi è dispiaciuto non poter offrire la localizzazione per il rilascio. Se notate qualcosa fuori posto fatemelo sapere ;)
-- NEW: Dodano lokalizację w języku polskim. Wszelkie błędy proszę zgłaszać poprzez użycie opcji "wyślij opinię". 
+- NEW: Dodano lokalizację w języku polskim. Wszelkie błędy proszę zgłaszać poprzez użycie opcji "wyślij opinię".
 - NEW: Added Knowledge Base section in Settings -> Support
 - NEW: Added a fast "Copy to Clipboard" button to copy the newly generated password with just one tap.
 - NEW: Added support for generating a customizable password. Just pick the components you want from Settings! (Want even more options? Let me know by opening a ticket in-app!)
 - NEW: iOS9 Support!
 
-- NEW: WatchOS2 Support! 
+- NEW: WatchOS2 Support!
 
 [**NOTICE**: This will break compatibility with WatchKit (AKA WatchOS1). If you are still on WatchKit refrain from updating until you upgrade to WatchOS2!!]
 
@@ -36,6 +40,6 @@ title: Random Password Generator Patch Notes
 * FIX: Settings improved
 * FIX: Increased Speed across the board
 
-##1.0
+## 1.0
 
 - Initial Release

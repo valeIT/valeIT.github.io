@@ -2,8 +2,13 @@
 layout: page
 title: Translatory Patch Notes
 ---
+## 2.5
+
+- FIX: iOS 13 Support
+- NEW: New Theme
 
 ## 2.0
+
 - NEW: All new backend for improved translations!
 - NEW: Increased limit on max number of translations allowed per month.
 - General Bug Fixing
@@ -19,7 +24,7 @@ title: Translatory Patch Notes
 ## 1.3
 
 - FIX: Added a voice in the tutorial about the Speak function not working in silent mode.
-- FIX: Improved launch screen 
+- FIX: Improved launch screen
 
 ## 1.2
 
@@ -42,10 +47,10 @@ If, after buying the In-app purchase, the "Speak" feature doesn't work make sure
 * NEW: Dodano lokalizację w języku polskim. Wszelkie błędy proszę zgłaszać poprzez użycie opcji "wyślij opinię".
 * Increased Speed across the board
 
-- FIX: Searching for a word for which the translation is not available won't cause a non related error message to appear.  
-- FIX: Fixed 4/5 bugs when selecting languages from Settings  
-- FIX: The translate button will be disable if there is no text to translate.  
-- NEW: Selecting a language for display from Settings will now be kept between launches  
+- FIX: Searching for a word for which the translation is not available won't cause a non related error message to appear.
+- FIX: Fixed 4/5 bugs when selecting languages from Settings
+- FIX: The translate button will be disable if there is no text to translate.
+- NEW: Selecting a language for display from Settings will now be kept between launches
 - NOTICE: If you find any bugs when selecting a language please open a ticket. ;)
 
 ##1.0

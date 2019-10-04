@@ -1,3 +1,8 @@
+## 3.0
+
+- NEW: Today's extension
+- FIX: iOS 13 Support
+
 ## 2.0
 
 - NEW: Added support for Euro
@@ -25,7 +30,7 @@
 
 ## 1.3
 
-- NEW: WatchOS2 Support! 
+- NEW: WatchOS2 Support!
 
 [**NOTICE**: This will break compatibility with WatchKit (AKA WatchOS1). If you are still on WatchKit refrain from updating until you upgrade to WatchOS2!!]
 
@@ -60,7 +65,7 @@ NOTE: The [CheckYourCrypto][4] bundle has been discounted as well, mind that it 
 ## 1.0
 
 - Initial Release
- 
+
 [0]: https://itunes.apple.com/us/app/dogechecker-dogecoin-price/id1011904433?ls=1&mt=8?&at=1010lHG
 [1]: https://itunes.apple.com/pl/app/blackchecker-blackcoin-price/id1012356346?&at=1010lHG?mt=8
 [2]: https://itunes.apple.com/pl/app/litechecker-litecoin-price/id1012346934?&at=1010lHG?mt=8

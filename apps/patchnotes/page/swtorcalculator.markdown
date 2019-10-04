@@ -3,7 +3,17 @@ layout: page
 title: SWTOR Calculator Patch Notes
 ---
 
-##1.0
+## 1.5
+
+Warning: The update for the Calculator is going to delete your old data since the underlying data model has changed too much to perform a migration. You may also be prompted to restore purchases to unlock the ad free version.
+
+- FIX: Improved custom toon loading
+- FIX: Minor bug fixes
+- FIX: iOS 13 support
+
+[More information][3]
+
+## 1.0
 
 - Initial Release
 
@@ -22,25 +32,25 @@ The app is available right now for free on the AppStore:
 * [Website][1]
 * [AppStore][2]
 
-**The free version includes:**  
+**The free version includes:**
 
-- Check all the class and advanced class abilities  
-- Check all the discipline and utilities  
-- Select your utilities  
+- Check all the class and advanced class abilities
+- Check all the discipline and utilities
+- Select your utilities
 - Fully updated for 4.0!
 
-**The full version includes:**  
+**The full version includes:**
 
-- No ads  
-- Create (and edit) an unlimited number of custom toons / custom builds  
-- Seamless experience: Saves and loads any changes in the selected utilities for your custom toons automatically  
+- No ads
+- Create (and edit) an unlimited number of custom toons / custom builds
+- Seamless experience: Saves and loads any changes in the selected utilities for your custom toons automatically
 
 [The full version is an In-App purchase accessible from Settings -> Full Version]
 
-**Notes:**  
+**Notes:**
 
-- Minimum OS supported: iOS 8.1  
-- Minimum hardware version: iPhone 5/5c - iPad 4th gen.  
+- Minimum OS supported: iOS 8.1
+- Minimum hardware version: iPhone 5/5c - iPad 4th gen.
 
 It may work on older hardware/os, but it's not officially supported.
 
@@ -68,3 +78,4 @@ NOTE: This applies to all your existing custom toons as well, if you have any.
 [0]: https://www.reddit.com/r/swtor/
 [1]: http://www.valentinourbano.com/apps/ios/swtorcalculator/
 [2]: https://itunes.apple.com/us/app/swtor-discipline-utility-calculator/id1023767306?ls=1&amp;at=1010lHG?mt=8
+[3]: {% post_url 2019-09-20-Fall-App-Updates %}

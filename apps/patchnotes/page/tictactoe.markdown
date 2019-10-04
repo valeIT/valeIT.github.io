@@ -3,6 +3,11 @@ layout: page
 title: Tic Tac Toe Patch Notes
 ---
 
+## 3.0
+
+- NEW: Local multiplayer on the same device is now available for both iOS and Apple Watch.
+- FIX: iOS 13 Support
+
 ## 2.5
 
 - NEW: iOS 11 Support
@@ -41,6 +46,6 @@ title: Tic Tac Toe Patch Notes
 * Added better resources for Apple Watch App
 * Improved Sharing Sheet.
 
-##1.0
+## 1.0
 
 - Initial Release

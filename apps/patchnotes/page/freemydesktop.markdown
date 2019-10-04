@@ -3,6 +3,10 @@ layout: page
 title: Free My Desktop
 ---
 
+## 1.3
+
+- FIX: macOS Catalina Support
+
 ## 1.2
 
 - Added Menu on right and left click

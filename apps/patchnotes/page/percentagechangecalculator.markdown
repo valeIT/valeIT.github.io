@@ -3,6 +3,11 @@ layout: page
 title: Percentage Change Calculator Patch Notes
 ---
 
+## 2.0
+
+- NEW: New Theme
+- FIX: iOS 13 Support
+
 ## 1.3
 
 - FIX: Improved iOS 10 support

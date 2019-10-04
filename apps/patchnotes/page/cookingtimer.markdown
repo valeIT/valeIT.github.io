@@ -3,6 +3,11 @@ layout: page
 title: Cooking Timer Patch Notes
 ---
 
+## 2.0
+
+- NEW: Added circles for time remaining. It works as the activity ring on the Apple Watch.
+- FIX: iOS 13 Support
+
 ## 1.9
 
 - FIX: improved iOS 10 and WatchOS 2 Support
@@ -15,10 +20,10 @@ title: Cooking Timer Patch Notes
 
 - NEW: New loading screen
 
-## 1.6 
+## 1.6
 
-- FIX: Fixed a memory leak when cancelling an in-app purchase.  
-- FIX: Fixed a bug with the automatic sharing of a timer to the paired Apple Watch.  
+- FIX: Fixed a memory leak when cancelling an in-app purchase.
+- FIX: Fixed a bug with the automatic sharing of a timer to the paired Apple Watch.
 - FIX: Minor Bugs
 
 - NEW: Better on boarding experience when asking for push notification access.
