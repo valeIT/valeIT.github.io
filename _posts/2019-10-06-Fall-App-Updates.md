@@ -11,7 +11,6 @@ image2:
 author: Valentino Urbano
 ---
 
-
 I've been hard at work this summer to update most of my apps to iOS 13. Most of them are minor updates, but there are few major ones as well.
 
 You can find the patch notes for each in the [patch notes][1] section of the website.
@@ -20,14 +19,14 @@ Here I'm not going to go through all the changes, but I'm going to highlight the
 
 # New Apps
 
-If you're subscribed to my [newsletter][4] stay tuned. In the next few days you will get the possibility to join the beta of Teria and Dreamer.
-
+_This article includes part taken from my [newsletter][4] from a few weeks ago and had the chance to join the beta of Teria and Dreamer early. If not you can subscribe to it [here][4]._
 
 ## Writing
 
 Teria and WriteRise are both related to writing, but they are their own separate entities that try to do two different things. I will explain more in the mail but here's a short taste.
 
 ### WriteRise
+
 [mac OS application]
 
 WriteRise automatically tracks your writings during the day grouped by application. At the end of the day, week, month or year you can look back at how much you've written each day.
@@ -37,32 +36,38 @@ After a long alpha period WriteRise is now in beta. The app is stable and I've b
 You can find the [devlog here][20].
 
 Full Patch Notes:
+
 - [Patch Notes][40]
 
 ### Teria
+
 [iOS and Android application]
 
 Teria is a minimal note taking app that opens directly into the editor ready to type in. I use it to jolt down ideas all the time. On top of that it offers a calendar with streaks to see how much you've written each day.
 
 Full Patch Notes:
+
 - [Patch Notes][21]
 - [Introducing Teria][39]
 
 ## Dreamer
+
 [iOS application]
 
 Dreamer uses an open source machine learning algorithm to let your phone dream on your photos.
 
-You can use Dreamer by browsing your local photo gallery or using Google Photos*. Please be wary that Google Photos support is experimental and might be removed in a future version. For more information you can read [the article about it][7].
+You can use Dreamer by browsing your local photo gallery or using Google Photos\*. Please be wary that Google Photos support is experimental and might be removed in a future version. For more information you can read [the article about it][7].
 
 As with everything I work on privacy is paramount. Everything is local to the device. Nothing is ever seen by us nor uploaded to any kind of server.
 
 We collect anonymized statistics to see which filter is the most popular without tracking anything about your session. Your session is stored on the device only and it is only used to authenticate towards Google and Apple servers and is never sent to anyone.
 
 Full Patch Notes:
+
 - [Patch Notes][22]
 
 # Shine
+
 [iOS application]
 
 Shine is a super minimalistic Weather app with a carefully crafted design. Everything from the icon to the app's content has been crafted to be delightful.
@@ -72,6 +77,7 @@ Shine only has one purpose: Showing you the weather for your current location pa
 Because of that you might find that it lacks a lot of features from other competing applications. It does not offer any way to add more than one location. It does not offer graphs or fancy visualizations. That is by choice.
 
 Full Patch Notes:
+
 - [Patch Notes][23]
 
 # Updates
@@ -91,6 +97,7 @@ This allows for the ability of choosing different version of the dataset to use 
 The average user only has a few custom characters saved so it should not be too much of a problem, but it is not ideal. We are sorry that it came to this. Mind that if you do not want to lose your custom character for the times being you can choose not to upgrade. Everything will work as before, but you will miss out on the new updates for iOS 13 and beyond.
 
 Full Patch Notes:
+
 - [Patch Notes][3]
 
 ## Minimal Counter
@@ -105,6 +112,7 @@ seamlessly.
 Everything should work as before since I've tried to keep the behaviour as close to the original version as possible. You can find more information about it [on the sync announcement post][6] from version 1.5.
 
 Full Patch Notes:
+
 - [Patch Notes][24]
 
 ## Other
@@ -130,6 +138,7 @@ In no particular order
 [4]: /newsletter
 [2]: /apps/ios/swtorcalculator
 [3]: /apps/patchnotes/swtorcalculator
+
 [6]: {% post_url 2016-01-01-Minimal-Counter-1-5 %}
 [7]: {% post_url 2019-10-04-Google-Photos-API %}
 [20]: {% post_url 2018-11-22-writerise %}
