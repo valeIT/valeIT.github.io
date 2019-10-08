@@ -8,7 +8,7 @@ status: publish
 categories: [Programming]
 image:
 image2:
-author:
+author: Valentino Urbano
 ---
 
 Most of my side projects are the result of quick sprints. Periods of deep, Focused work in a relatively short amount of time.

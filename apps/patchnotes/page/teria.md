@@ -59,5 +59,5 @@ More in the [article unveiling Teria][1].
 If you like Teria you might like [WriteRise][4].
 
 [3]: {% post_url 2019-10-06-Fall-App-Updates %}
-[1]: {% post_url 2019-09-20-Introducing-Teria %}
+[1]: {% post_url 2019-10-06-Introducing-Teria %}
 [4]: /apps/patchnotes/writerise
