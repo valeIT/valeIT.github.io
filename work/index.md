@@ -7,12 +7,19 @@ For more details you can always [send me an email](/about/#contact).
 
 ### iOS and Mac Developer (4+ years)
 
-I've been working as an iOS Developer professionally for 3+ years on all area of business (from bank apps and automotive to the medical sector) for important national and international partners.
+I've been working as an iOS Developer professionally developing complete applications in different areas for important national and international partners.
+
+Just a few of the sectors:
+- banking
+- automotive
+- medical
+- tourism
+
 <br><br><br>
 
-### Web (Backend and Frontend) Developer (1 year)
+### Web (Backend and Frontend) Developer (1.5 year)
 
-I've been working on maintaining a distributed network on Google Cloud Engine using the LAMP stack.
+I've been working on maintaining a distributed network on Google Cloud Engine using the LAMP stack on top of developing multiple static and dynamic websites.
 <br><br><br>
 
 ### Dev Ops (1 year)
@@ -28,4 +35,4 @@ I've lead a team of web developers from inception to shipping two versions of ou
 I've also lead a small team of iOS Developer as Lead Developer.
 <br><br><br>
 
-- Last Update: October 2, 2018
+- Last Update: October 7, 2019
