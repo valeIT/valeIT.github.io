@@ -24,5 +24,5 @@ If you like WriteRise you might like [Teria][4].
 
 [1]: /apps/mac/writerise
 [2]: {% post_url 2018-11-22-writerise %}
-[3]: {% post_url 2019-10-04-Fall-App-Updates %}
+[3]: {% post_url 2019-10-06-Fall-App-Updates %}
 [4]: /apps/patchnotes/teria

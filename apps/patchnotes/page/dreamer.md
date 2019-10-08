@@ -36,5 +36,5 @@ Credits:
 
 
 [1]: https://github.com/jcjohnson/fast-neural-style/
-[3]: {% post_url 2019-10-04-Fall-App-Updates %}
-[7]: {% post_url 2019-09-20-Google-Photos-API %}
+[3]: {% post_url 2019-10-06-Fall-App-Updates %}
+[7]: {% post_url 2019-10-05-Google-Photos-API %}

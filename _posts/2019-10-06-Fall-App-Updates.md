@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fall App Updates
-date: 2019-10-04 20:28:05.000000000 +01:00
+date: 2019-10-06 20:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
@@ -140,7 +140,7 @@ In no particular order
 [3]: /apps/patchnotes/swtorcalculator
 
 [6]: {% post_url 2016-01-01-Minimal-Counter-1-5 %}
-[7]: {% post_url 2019-10-04-Google-Photos-API %}
+[7]: {% post_url 2019-10-05-Google-Photos-API %}
 [20]: {% post_url 2018-11-22-writerise %}
 [21]: /apps/patchnotes/teria
 [22]: /apps/patchnotes/dreamer
@@ -160,5 +160,5 @@ In no particular order
 [36]: /apps/patchnotes/tictactoe
 [37]: /apps/patchnotes/tickery
 [38]: /apps/patchnotes/translatory
-[39]: {% post_url 2019-10-04-Introducing-Teria %}
+[39]: {% post_url 2019-10-06-Introducing-Teria %}
 [40]: /apps/patchnotes/writerise

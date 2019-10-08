@@ -19,7 +19,7 @@ A carefully designed minimal weather app.
 - C or F support
 - Beautifully designed
 
-[3]: {% post_url 2019-10-04-Fall-App-Updates %}
+[3]: {% post_url 2019-10-06-Fall-App-Updates %}
 
 Teria let's you write notes quickly.
 
@@ -58,6 +58,6 @@ More in the [article unveiling Teria][1].
 
 If you like Teria you might like [WriteRise][4].
 
-[3]: {% post_url 2019-10-04-Fall-App-Updates %}
+[3]: {% post_url 2019-10-06-Fall-App-Updates %}
 [1]: {% post_url 2019-09-20-Introducing-Teria %}
 [4]: /apps/patchnotes/writerise

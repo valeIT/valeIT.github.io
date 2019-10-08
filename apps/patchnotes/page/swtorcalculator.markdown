@@ -78,4 +78,4 @@ NOTE: This applies to all your existing custom toons as well, if you have any.
 [0]: https://www.reddit.com/r/swtor/
 [1]: http://www.valentinourbano.com/apps/ios/swtorcalculator/
 [2]: https://itunes.apple.com/us/app/swtor-discipline-utility-calculator/id1023767306?ls=1&amp;at=1010lHG?mt=8
-[3]: {% post_url 2019-10-04-Fall-App-Updates %}
+[3]: {% post_url 2019-10-06-Fall-App-Updates %}

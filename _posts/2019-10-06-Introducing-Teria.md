@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing Teria
-date: 2019-10-04 20:28:05.000000000 +01:00
+date: 2019-10-06 20:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
