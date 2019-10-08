@@ -59,4 +59,11 @@ defaults:
     values:
       layout: "post"
 
+collections_dir: collections
+
+collections:
+  bestof:
+    output: true
+    permalink: /bestof/:path/
+
 exclude: [vendor]
