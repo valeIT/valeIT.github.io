@@ -6,3 +6,7 @@ gem 'bourbon'
 gem 'jemoji'
 gem "jekyll-time-to-read"
 gem 'html-proofer'
+
+group :jekyll_plugins do
+  gem 'pagemaster'
+end

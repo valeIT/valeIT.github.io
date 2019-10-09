@@ -3,6 +3,7 @@ plugins:
   - jekyll-paginate
   - jekyll-time-to-read
   - jekyll-sitemap
+  - pagemaster
 
 title: "Valentino Urbano"
 description: >
@@ -59,11 +60,13 @@ defaults:
     values:
       layout: "post"
 
-collections_dir: collections
+# collections_dir: collections
 
 collections:
-  bestof:
+  bestofmusic:
     output: true
-    permalink: /bestof/:path/
+    source: bestof/music.json
+    id_key: id
+    layout: bestof
 
 exclude: [vendor]

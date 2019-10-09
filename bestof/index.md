@@ -37,7 +37,7 @@ This is a first version so it might not be accurate since I might have forgotten
 
 - October 7, 2019: First Version.
 
-[0:] /articles
+[0]: /articles
 [1]: /books
 [2]: /movies
 [3]: /series

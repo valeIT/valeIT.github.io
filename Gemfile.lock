@@ -222,6 +222,8 @@ GEM
       mini_portile2 (~> 2.4.0)
     octokit (4.14.0)
       sawyer (~> 0.8.0, >= 0.5.3)
+    pagemaster (2.0.2)
+      jekyll (~> 3.8)
     parallel (1.18.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -264,6 +266,7 @@ DEPENDENCIES
   html-proofer
   jekyll-time-to-read
   jemoji
+  pagemaster
 
 BUNDLED WITH
    1.17.1
