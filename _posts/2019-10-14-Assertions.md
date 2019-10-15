@@ -33,12 +33,18 @@ This requires that every error that has the possibility of making the applicatio
 
 There will be cases when the error is simply not recoverable from.
 
-That is the only case when it is advisable to crash if there is no better solution. But it is not always a must. If this error is on a screen that is being presented and it is not a blocking screen it can just be dismissed while logging the error to the backend so that it can be fixed.
+That is the case when it is advisable to crash if there is no better solution to handle the issue. But it is not always a must. If this error is on a screen that is being presented and it is not a blocking screen[^1] it can just be dismissed while logging the error to the backend so that it can be looked on and subsequentially fixed.
 
-When to explicitely crash is a topic that is very controversial. There is the school of though of never crashing and there is the school of though of crashing early for every programmer side error (errors that are not runtime errors and are something like a missing icon, a wrong screen or class being instantiated, ...)
+When to explicitely crash is a topic that is very controversial. There is the school of though of never crashing and there is the school of though of crashing early for every programmer side error.[^2]
+
+Whatever you choose to do it is paramount that you have a solid logging and crash logging system to allow you to find out the percentage of users that run across errors (and know which kind of error they encounter) on top of what percentage of users are crashing. Developing in the dark makes everything way harder.
 
 ## Tests
 
 Tests are an important part of this technique. They're not encessary to implement it, but it makes everything safer and the programmer's life more bearable. They will be safe when refactoring and changing code while assuring that the behaviour or the application did not change.
 
 They key here is behaviour: You test for behaviour, not for specific code paths that can be changed without changing the final result.
+
+[^1]: A screen that you can't exit from because it is necessary for it to be there for that specific application.
+
+[^2]: Programmer side errors are those kind of errors that are not recoverable and are something like a missing icon, a wrong screen or class being instantiated, ...
