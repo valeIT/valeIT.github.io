@@ -13,7 +13,7 @@ author: Valentino Urbano
 
 It is hilarious to see so many people are lately complaining that there is no support link in our apps. The support link is the first item in the settings screen and it is not small either. I think they're part of the few apps that have the support link so visible and prominent. Most apps either don't have it at all or have it hidden behind many menu options. Still, people miss it all the time.
 
-A lot of apps have decided not to have the support links at all. It is mostly indie devs for which the amount of support requests they get is way too much and they can't keep up with it while also saving some time to develop the app.
+A lot of apps have decided not to have the support links at all. It is mostly indie developers for which the amount of support requests they get is way too much and they can't keep up with it while also saving some time to develop the app.
 
 # Have A Separate Inbox For Support Tickets
 

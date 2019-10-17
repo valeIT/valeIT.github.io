@@ -17,7 +17,7 @@ If you don't want to rebase the whole branch you can decide to rebase a specific
 
 Using it is really similar to rebase. Make sure you first check out the branch you want to rebase and run:
 
-'git rebase -i HEAD~18 --onto Test;'
+`git rebase -i HEAD~18 --onto Test;`
 
 Where Test is your destination branch and 18 is the number of commits you want to rebase.
 
