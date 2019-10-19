@@ -33,7 +33,6 @@ If you're not happy you should stop and think why that's not the case and make c
 
 [Your job should enable you to do what you want to do. Not define who you are.][0]
 
-Your job should enable you to do what you want to do. Not define who you are.
 I love programming and any kind of programming job is great, I'd be miserable doing most manual jobs. That's not what I am. On top of that, I'd do a terrible job at it, being terrible at most manual stuff.
 
 - Spend quality time with my wife
