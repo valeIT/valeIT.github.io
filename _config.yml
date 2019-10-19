@@ -63,10 +63,7 @@ defaults:
 # collections_dir: collections
 
 collections:
-  bestofmusic:
+  book-wordpress-to-jekyll:
     output: true
-    source: bestof/music.json
-    id_key: id
-    layout: bestof
 
 exclude: [vendor]
