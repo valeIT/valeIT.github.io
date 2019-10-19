@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What I Learned In One Year And Half Of Freelancing
-date: 2019-09-21 20:28:05.000000000 +01:00
+date: 2019-09-23 20:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
