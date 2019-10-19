@@ -26,15 +26,15 @@ In the next few days I'll be writing on how to setup a page for a book on any Je
 Writing 200 words every day is great for generating new ideas and getting into the habit of writing something on a consistent basis.
 Writing so often means that I did not have enough time to edit since I was writing and publishing an article on the same day.
 
-I will be now moving to write one day in advance as explained in the [code review for writing][1] article. The review process is open for everyone to join and comment so feel free to let me know of any mistakes or improvements that could be made.
+I will be now changing my schedule to write one day in advance as explained in the [code review for writing][1] article. The review process is open for everyone to join and comment so feel free to let me know of any mistakes or improvements that could be made.
 
 ## On "Migrating From WordPress To Jekyll"
 
-I have been writing this particular series for a while and it is the longest articles I've written this year.
+I have been writing this particular series for a while and it is the longest article I've written this year.
 
-I still have a few entries in it to be able to mark it as finished, but I only did small edits to it while writing. I also did not have the bigger picture of how the whole finished piece would look like beforehand[^1]. Now that it is done, it can be edited further and improved.
+I still have a few entries in it before being able to mark it as finished, but I only did small edits to it while writing. I also did not have the bigger picture of how the whole finished piece would look like beforehand[^1]. Now that it is done, it can be edited further and improved.
 
-I have a lot going on at the moment so I'm not going to assure any specific timing for it, but as with everything you will be able to follow the progress on GitHub.
+I have a lot going on at the moment so I don't have any specific timing for it, but as with everything you will be able to follow the progress on GitHub.
 
 
 [1]: https://github.com/valeIT/pulls
