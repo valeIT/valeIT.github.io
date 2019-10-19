@@ -9,18 +9,21 @@ This is a first version so it might not be accurate since I might have forgotten
 
 [The ones without links (or with links pointing back to this page or the homepage) are upcoming]
 
-{% for bestof in site.bestof %}
+{% for bestof in site.data.bestof %}
+{% if bestof.link %}
+
  <ul>
-  <li>
-      <a href="{{ bestof.url }}">
-        {{ bestof.title }}
+    <li>
+      <a href="{{ bestof.link }}">
+        {{ bestof.name }}
       </a>
     </li>
   </ul>
   <!-- <p>{{ staff_member.content | markdownify }}</p> -->
+{% endif %}
 {% endfor %}
 
-- [Best Articles I've written][0]
+<!-- - [Best Articles I've written][0]
 - [Best Books][1]
 - [Best Movies][2]
 - [Best TV Series][3]
@@ -30,14 +33,14 @@ This is a first version so it might not be accurate since I might have forgotten
 - [Best Courses][7]
 - [Best Subreddits][8]
 - [Best VideoGames][9]
-- [Best Music][10]
+- [Best Music][10] -->
 <!-- - [Best Cities I've Visited][11] -->
 
 #### Changelog
 
 - October 7, 2019: First Version.
 
-[0]: /articles
+<!-- [0]: /articles
 [1]: /books
 [2]: /movies
 [3]: /series
@@ -47,5 +50,5 @@ This is a first version so it might not be accurate since I might have forgotten
 [7]: /courses
 [8]: /reddit
 [9]: /games
-[10]: /music
+[10]: /music -->
 <!-- [11]: /cities -->
