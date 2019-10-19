@@ -43,7 +43,7 @@ Focus on what makes you happy and what you wanna do and who you wanna be.
 
 Back to the house:
 
-I guess I love what it represents. The freedom of living and working surrounded by nature after living in big cities my whole life I have enough.
+I guess I love what it represents. The freedom of living and working surrounded by nature. I've lived in big cities my whole life and I have enough of the noise, pollution, small spaces that living in big cities entail.
 
 [1]: https://200wordsaday.com/words/childhood-vision-291985da853406b111
 
