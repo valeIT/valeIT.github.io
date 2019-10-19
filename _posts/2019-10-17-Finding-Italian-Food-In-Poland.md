@@ -47,7 +47,7 @@ On top of that, we still have some supply and we'll be back in Italy for a short
 
   I only found it at Piotr i Pawel and Carrefour.
 
-- Molino Olive Oil
+- Monini Olive Oil
 
   I only found it at Piotr i Pawel and Carrefour.
 
