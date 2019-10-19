@@ -11,6 +11,8 @@ image2: /assets/article_images/yolanda-sun-40675.jpeg
 author: Valentino Urbano
 ---
 
+# My 5 Year Plan
+
 Often times we are so lost in the moment and in our routine that we forget about the bigger picture. I know what I'm doing right now, what I'll be doing during the week. What can I say about where I'll be in 5 years? Am I planning for it? Am I making the best decisions that will put me where I want to be?
 
 It's always a good idea to stop for a moment at the start of the year to think and ponder about where your life is going. If you're happy with its current trajectory and if you're not, make changes.
@@ -29,9 +31,8 @@ If you're not happy you should stop and think why that's not the case and make c
 
 - Have a fulfilling job
 
-<!-- [Your job should enable you to do what you want to do. Not define who you are.][0] -->
+[Your job should enable you to do what you want to do. Not define who you are.][0]
 
-Your job should enable you to do what you want to do. Not define who you are.
 I love programming and any kind of programming job is great, I'd be miserable doing most manual jobs. That's not what I am. On top of that, I'd do a terrible job at it, being terrible at most manual stuff.
 
 - Spend quality time with my wife
@@ -42,4 +43,4 @@ Does your job define who you are? It's time to stop it.
 
 You work to live, not live to work.
 
-<!-- [0]: {/% post_url defined by your work  /%} -->
+[0]: {% post_url 2019-03-15-Defined-by-your-job %}
