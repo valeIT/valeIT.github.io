@@ -27,24 +27,28 @@ I have already laid out my goals for the next 5 years:
 
 - [The Bigger Picture][2]
 
-The first item of which I've been trying to reach for a while, but with the current price of housing has taken a long time (and it is still going to take a while):
+I've been trying to accomplish the first point of that list for a while, but with the current price of housing it has taken a long time[^1].
 
 - A house in the countryside with lots of green.
 
-On this front I hopefully will be able to share something more about it sometime next year.
+I guess I love what it represents. The freedom of living and working surrounded by nature. I've lived in big cities my whole life and I have enough of the noise, pollution, small spaces that living in big cities entail.
+
+On this front I hopefully will be able to share something more sometime next year.
 
 The other points in there are easier.
 
-Apart the happiness one.
+Apart from the happiness one.
 
-I feel that as humans we're always envy, always looking at others. It is not good nor healthy for us. You should never compare yourself to others. You are different so you're no lower or higher than other people, you are just you.
+I feel that as humans we're always envious, always looking at others for validation. It is neither good nor healthy.
 
-Focus on what makes you happy and what you wanna do and who you wanna be.
+You should never compare yourself to others, it is only doing yourself a disservice.
+You are different: different live experience, different upbringing, different opportunities.
 
-Back to the house:
+Focus on what makes you happy. What you wanna do and who you wanna be.
 
-I guess I love what it represents. The freedom of living and working surrounded by nature. I've lived in big cities my whole life and I have enough of the noise, pollution, small spaces that living in big cities entail.
 
 [1]: https://200wordsaday.com/words/childhood-vision-291985da853406b111
 
 [2]: {% post_url 2018-12-29-The-Bigger-Picture %}
+
+[^1]: And it is still going to take some time.
