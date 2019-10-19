@@ -1,0 +1,56 @@
+[{
+        "name": "Best Articles I've written",
+        "id": "articles",
+        "link": "page/articles.html"
+    },
+    {
+        "name": "Books",
+        "id": "books",
+        "link": "page/books.html"
+    },
+    {
+        "name": "Movies",
+        "id": "movies",
+        "link": "page/movies.html"
+    },
+    {
+        "name": "TV Series",
+        "id": "tvseries",
+        "link": "page/tvseries.html"
+    },
+    {
+        "name": "Podcasts",
+        "id": "podcasts",
+        "link": "page/podcasts.html"
+    },
+    {
+        "name": "Blogs",
+        "id": "blogs",
+        "link": "page/blogs.html"
+    },
+    {
+        "name": "Youtube Channels",
+        "id": "youtube",
+        "link": "page/youtube.html"
+    },
+    {
+        "name": "Courses",
+        "id": "Courses",
+        "link": "page/courses.html"
+    },
+    {
+        "name": "Subreddits",
+        "id": "Subreddits",
+        "link": "page/subreddits.html"
+    },
+    {
+        "name": "Video Games",
+        "id": "videoGames",
+        "link": "page/videoGames.html"
+    },
+    {
+        "name": "Music",
+        "id": "Music",
+        "link": "page/music.html"
+    }
+]
