@@ -17,7 +17,7 @@ I really like Scrivener for anything either long term or with a substantial word
 
 I used to have a dedicated writing application in the past, something like Byword or Ulysses[^1]. I felt like VSCode could work just as well for my use case and I didn't really need the extra application installed. So I've been trying it for the past 6 months and for the last 3 I've completely switched over.
 
-As of basiline it might miss a lot of features, but will the thousands of extensions available for it you are almost certain to be sure to find the one for your use case (or if you don't you cna always write your own). For example, I have an extension for markdown files, a second one for latex previews and compilation and third one to catch spelling errors.
+As of baseline it might miss a lot of features, but will the thousands of extensions available for it you are almost certain to be sure to find the one for your use case (or if you don't you cna always write your own). For example, I have an extension for markdown files, a second one for latex previews and compilation and third one to catch spelling errors.
 
 You still need to put your writing into an editing application (like Grammarly or Hemingway Editor) in the end, but for the writing itself it's great.
 
