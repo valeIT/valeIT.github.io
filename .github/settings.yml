@@ -1,0 +1,8 @@
+repository:
+  allow_rebase_merge: false
+  - username: dependabot
+    permission: admin
+  - username: imgbot
+    permission: admin
+  - username: reporanger
+    permission: admin
