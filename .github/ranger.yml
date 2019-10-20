@@ -1,14 +1,13 @@
 default:
-    labels:
-      duplicate: close
-      wontfix: close
-      invalid: close
-      'merge when passing': merge
-      'squash when passing': merge
-      'rebase when passing': merge
+  labels:
+    duplicate: close
+    wontfix: close
+    invalid: close
+    "merge when passing": merge
+    "squash when passing": merge
+    "rebase when passing": merge
 
-    comments: []
+  comments: []
 
-
-    merges:
-  - action: delete_branch
+  merges:
+    - action: delete_branch
