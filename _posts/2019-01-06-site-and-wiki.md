@@ -20,4 +20,4 @@ These notes are going to space between topics and areas I'm interested in. One d
 You can find a few examples of what I'm talking about in the articles I published in the last few days on [How to copy and edit a title in Premiere Pro][0] and [Remove superuser access for Dropbox][1].
 
 [0]: {% post_url 2019-01-03-copy-title-edit-premiere-pro %}
-[1]: {% post_url 2016-09-09-###How-to-remove-Dropbox-from-Accessibility-prefs %}
+[1]: {% post_url 2019-01-04-2016-09-09-###How-to-remove-Dropbox-from-Accessibility-prefs %}
