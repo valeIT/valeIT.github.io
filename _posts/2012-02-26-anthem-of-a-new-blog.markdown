@@ -7,7 +7,7 @@ published: true
 status: publish
 categories:
 - Me
-author: Valentino Urbano 
+author: Valentino Urbano
 comment_id: 7
 ---
 
@@ -38,7 +38,7 @@ Next step - a MacBook Air.
 
 **Blog  Content**
 
-I wanna spend few words on what I'll cover here; the blog will be focused on Apple and technology in general, but I've decided to not about rumors or daily news, there'll be articles about news of course, but that's not the main purpose of the blog.
+I wanna spend few words on what I'll cover here; the blog will be focused on Apple and technology in general, but I've decided to not about rumors or daily news, there will be articles about news of course, but that's not the main purpose of the blog.
 
 I want to focus on a little more than that: I'll write commentaries and short 'essays' - I'm not so self-absorbed to presume that I'm able to write a full essay, but just a sort of.
 
@@ -61,7 +61,7 @@ Edit\#1:  I've added a readability button on the top of every article, I've also
 [5]: http://cutephp.com/forum/index.php?showtopic=41787
 [6]: http://wordpress.org
 [7]: http://en.wikipedia.org/wiki/XHTML
-[8]: /anthem-of-a-new-blog.html
-[9]: /anthem-of-a-new-blog.html
+[8]: #
+[9]: #
 [10]: /about
 [11]: http://mattgemmell.com/2011/11/29/comments-off/
