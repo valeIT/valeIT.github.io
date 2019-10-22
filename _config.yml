@@ -70,3 +70,5 @@ collections:
     layout: bestof
 
 exclude: [vendor]
+
+future: false #do not allow posts from the future to be published...
