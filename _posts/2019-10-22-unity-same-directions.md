@@ -15,7 +15,7 @@ I'm working on a basic targeting system for a 2D game. I want to automatically s
 
 Before this I was using a distance (sphere) based system so I would see enemies behind me as well.
 
-Doing this kind of targeting is easier than you might think It is sufficient to calculate the difference between your forward angle and the target. In my case the forward angle corresponds with the .up direction, but yours might be .forward since that's the unity standard forward direction so you would need to change all occurrences of .up to . forward in the following snippet (or whatever direction your forward direction is).
+Doing this kind of targeting is easier than you might think. It is sufficient to calculate the difference between your forward angle and the target. In my case the forward angle corresponds with the .up direction, but yours might be .forward since that's the unity standard forward direction so you would need to change all occurrences of .up to . forward in the following snippet (or whatever direction your forward direction is).
 
 ```
     Vector3 dir = (target.transform.position - transform.position).normalized;
