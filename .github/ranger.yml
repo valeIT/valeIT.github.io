@@ -22,12 +22,11 @@ comments:
 #     - duplicate
 commits:
   - action: label
-
     # either a string or a string representation of a regular expresssion
     pattern: /duplicate of/i
     labels:
       - duplicate
-
+  - action: label
     pattern: /./ #always add it
     labels:
       - "merge when passing"
