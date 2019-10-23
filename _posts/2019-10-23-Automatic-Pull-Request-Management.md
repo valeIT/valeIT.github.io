@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automatic Pull Request Management Using Github Bots
-date: 2019-10-22 20:28:05.000000000 +01:00
+date: 2019-10-23 20:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
@@ -10,6 +10,8 @@ image:
 image2:
 author: Valentino Urbano
 ---
+
+This is a continuation of [Treating My Blog Like A Production Application][2]. You should read that first if you have not.
 
 # Publishing My Website Automatically
 
@@ -67,13 +69,13 @@ I'm using Travis CI to automatically test that the website builds and there are 
 
 After setting up all the necessary rules you can add a bot to automatically merge the PR when everything is passing.
 
-I'm using ranger to automatically merge the PR when passing and delete the PR branch after merging. The only caveats is that you need to set the "merge when passing" label manually.
+I'm using ranger to automatically merge the PR when passing and delete the PR branch after merging. The only caveat is that you need to set the "merge when passing" label manually.
 
 # Automatic Merging
 
 Once all the tests pass and the reviewer approves I want the change to be automatically merged into master and deployed. GitHub automatically takes care of deploying every single commit from the master branch so the only thing I needed was some way to automatically merge the PR if all the checks had passed.
 
-Thanksfully [Repo Ranger][1] takes care of it. Open [the page][1] and add it to the repository you want it to manage.
+Thankfully [Repo Ranger][1] takes care of it. Open [the page][1] and add it to the repository you want it to manage.
 
 Add the file "ranger.yml" in the folder ".github" at the base of your project with the content:
 
@@ -94,3 +96,4 @@ merges:
 Once you apply the label "merge when passing" to the Pull Request and all the checks pass the PR will automatically be merged and thanks to "action: delete_branch" the branch will also be deleted.
 
 [1]: https://github.com/marketplace/ranger
+[2]: {% post_url 2019-10-19-Treating-My-Blog-Like-A-Production-Application %}
