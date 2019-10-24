@@ -7,7 +7,7 @@ published: true
 status: publish
 categories:
 - Programming
-author: Valentino Urbano 
+author: Valentino Urbano
 ---
 
 I needed to do a 301 redirect but I neither had access to the cPanel or FTP. I could just edit the full HTML code of the index.php page from the built-in editor in the browser.
@@ -16,6 +16,8 @@ I needed to do a 301 redirect but I neither had access to the cPanel or FTP. I c
 
 In the `head` section add (obviously between PHP opening and closing tags):
 
-    
-    header("HTTP/1.1 301 Moved Permanently"); 
-    header("Location: http://www.valentinourbano.com");
+
+```
+header("HTTP/1.1 301 Moved Permanently");
+header("Location: http://www.valentinourbano.com");
+```
