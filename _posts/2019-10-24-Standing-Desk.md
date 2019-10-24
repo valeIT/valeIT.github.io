@@ -1,3 +1,16 @@
+---
+layout: post
+title: Using Standing Desk For Your Health
+date: 2019-10-24 20:28:05.000000000 +01:00
+type: post
+published: true
+status: publish
+categories: [General]
+image:
+image2:
+author: Valentino Urbano
+---
+
 # Standing Desk
 
 We have a standing desk at the office. It is usually very lonely. I can count on two hands the number of times people apart from me and a coworker have used it in the last 3 months. I can also count on one hand the number of people who have used it and we have 40+ people in the office.
