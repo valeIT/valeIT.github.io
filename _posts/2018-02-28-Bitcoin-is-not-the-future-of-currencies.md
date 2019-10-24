@@ -74,7 +74,7 @@ More and more services and companies are centralizing and regulating everything 
 
 ## More In-Depth
 
-To have a better understanding of the whole fenomenon you should also read these:
+To have a better understanding of the whole phenomenon you should also read these:
 
 - [Bitcoin White Paper][12]
 - [Ethereum White Paper][13]
