@@ -67,3 +67,5 @@ collections:
     output: true
 
 exclude: [vendor]
+
+future: false #do not allow posts from the future to be published...
