@@ -38,7 +38,7 @@ I have a lot going on at the moment so I don't have any specific timing for it, 
 
 
 [1]: https://github.com/valeIT/pulls
-[2]: {% post_url 2019-10-19-Treating My Blog Like A Production Application %}
+[2]: {% post_url 2019-10-19-Treating-My-Blog-Like-A-Production-Application %}
 [3]: https://karajorgensen.com/2015/06/26/plotter-pantser-gardener/
 
 [^1]: More of a [panster than a gardener][3].
