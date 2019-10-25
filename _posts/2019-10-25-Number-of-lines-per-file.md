@@ -45,7 +45,7 @@ The output is something like this:
 128 ...FileName.swift
 ```
 
-If you have many files the previous command will fail. You can use the following command instead that converts the newlines to \0 so that xargs can be called with the -O argument fixing the issue:
+If you have many files the previous command will fail. You can instead use this command to convert the newlines to \0 (so that xargs can be called with the -O argument) fixing the issue:
 
 `find . -name '*.swift' | tr '\n' '\0' | xargs -0 wc -l | sort -nr >> line.txt`
 
