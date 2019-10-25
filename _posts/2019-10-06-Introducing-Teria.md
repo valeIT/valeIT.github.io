@@ -43,14 +43,17 @@ Notes are saved in normal json files. Since Teria supports rich text I could not
 
 My wife started using it as well a few months ago and she didn't like how each time you opened the app it opened automatically on the new note screen ready to type, but preferred the behaviour of a more traditional note taking app. So now you can tweak it through a setting if that's not your thing. Just be wary that having it with one click instead of two is a lot less friction and will encourage you to write more (at least that's how it worked for me). I encourage you to try leaving it as the default initially. Even if you've nothing to write about if your note taking app opens on empty page you will be more inclined in writing. Even if it's about something silly or just random thoughts. It is still very useful to let you put your thoughts down. That's what it is for in the first place. Teria simplifies the process since every single time you open it you get a new note and can start writing effortlessly.
 
-### Beta Available
+<s>### Beta Available
 
-Teria has been available in beta to my newsletter subscribers for a week. Now it is available for everyone. On iOS through [testflight][4] and on Android through Google Play (send me an email to be added to the list).
+Teria has been available in beta to my newsletter subscribers for a week. Now it is available for everyone. On iOS through [testflight][4] and on Android through Google Play (send me an email to be added to the list).</s>
+
+## [Now Available (For Free)][5]
 
 Let me know if you have any questions (either by replying to this email or from the [support page][3]!
+
 
 [2]: https://200wordsaday.com
 [3]: /support
 [4]: https://testflight.apple.com/join/RofFp4Z5
-
+[5]: {% post_url 2019-10-26-It's-Release-Day %}
 [^1]: This name may change upon release. If it does change the folder will probably be called 'Teria'
