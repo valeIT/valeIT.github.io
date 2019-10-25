@@ -25,7 +25,7 @@ You can learn more about it [here][4].
 For feedback or support feel free to [open a ticket][5]
 
 [1]:
-[2]:
+[2]: https://play.google.com/store/apps/details?id=com.valentinourbano.markdowneditor
 [3]: {% post_url 2019-10-06-Fall-App-Updates %}
 [4]: {% post_url 2019-10-06-Introducing-Teria %}
 [5]: /support
