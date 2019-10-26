@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "On hiatus"
+title: My Blog Goes On Hiatus
 date: 2012-05-24 17:30:33.000000000 +02:00
 type: post
 published: true
 status: publish
 categories:
 - Tech
-author: Valentino Urbano 
+author: Valentino Urbano
 ---
 
 From today i'll be focusing only on school, because i have my **final exam** in less than a month and i want to be ready - 100% ready.

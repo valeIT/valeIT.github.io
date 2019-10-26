@@ -12,7 +12,7 @@ Search by Title, Category, Date or URL:<br>
 </div>
 
 <!-- Script pointing to search-script.js -->
-<script src="/js/simple-jekyll-search.min.js" type="text/javascript"></script>
+<script async src="/js/simple-jekyll-search.min.js" type="text/javascript"></script>
 
 <!-- Configuration -->
 <script>

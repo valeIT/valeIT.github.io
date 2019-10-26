@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Papermill
+title: Papermill - The First Instapaper App For Android
 date: 2012-04-05 17:05:29.000000000 +02:00
 type: post
 published: true
 status: publish
 categories:
 - Tech
-author: Valentino Urbano 
+author: Valentino Urbano
 ---
 
-The developer of papermill, the first Instapaper app for Android has written an analysis of his first week on the android market.  
+The developer of papermill, the first Instapaper app for Android has written an analysis of his first week on the android market.
 The app is priced at 3.99€ and it requires an Instapaper subscription to work.
 
-It has been installed on 411 devices.  
+It has been installed on 411 devices.
 
 > approximately $590 in profit thus far.
 

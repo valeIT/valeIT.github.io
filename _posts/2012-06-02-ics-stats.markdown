@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "ICS Stats"
+title: Android Ice Cream Sandwich Adoption Statistics
 date: 2012-06-02 20:58:43.000000000 +02:00
 type: post
 published: true
 status: publish
 categories:
 - Tech
-author: Valentino Urbano 
+author: Valentino Urbano
 ---
 
-ICS is now at 7.1% after 7 months from its release.
+Ice Cream Sandwich is now at 7.1% adoption rate, 7 months after its release.
 
 [Mg Sieger][0]:
 
