@@ -3,6 +3,16 @@ layout: page
 title: Teria Patch Notes
 ---
 
+## 1.0.2
+
+- Fix settings subtitles
+- Fix list spacing
+- Improve backup persistance
+
+## 1.0.1
+
+- Add crash reporting
+
 ## 1.0
 
 - [Initial Release][5]
