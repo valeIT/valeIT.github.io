@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Passion
+title: Follow Your Passion
 date: 2012-04-21 16:19:19.000000000 +02:00
 type: post
 published: true
 status: publish
 categories:
 - Tech
-author: Valentino Urbano 
+author: Valentino Urbano
 ---
 
 James Price, an air traffic controller has built up his own Boeing 737 simulator using a real 737 nose using a retired aircraft. He has been working on this project since 2000\.
 
-  
+
 Nothing is impossible with dedication_(and money) _.

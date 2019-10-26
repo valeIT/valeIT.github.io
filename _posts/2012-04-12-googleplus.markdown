@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Google+
+title: Some Truth About Google+
 date: 2012-04-12 13:55:18.000000000 +02:00
 type: post
 published: true
 status: publish
 categories:
 - Tech
-author: Valentino Urbano 
+author: Valentino Urbano
 ---
 
 Google Official [Blog][0]:

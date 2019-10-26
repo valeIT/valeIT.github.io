@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "iCloud integration"
+title: Instacast And Tweetbot Implement iCloud Integration
 date: 2012-07-03 17:15:39.000000000 +02:00
 type: post
 published: true
 status: publish
 categories:
 - Tech
-author: Valentino Urbano 
+author: Valentino Urbano
 ---
 
 Few months ago Tweetbot was the first twitter client to roll out an update to include iCloud support for syncing the timeline position, dms and replies marked as read between the iPhone app, the iPad app (and the Mac app when it will be released).

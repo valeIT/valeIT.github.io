@@ -11,6 +11,8 @@ image2:
 author: Valentino Urbano
 ---
 
+We are going to create a USB stick that will allow us to run Linux from mac without having to install it on the main hard disk. This way you can always have a Linux distribution with you without taking any space, but at the same time being able to boot to it in minutes.
+
 _This is not a tutorial, it's more of a note so I'm going to remember how to do something the next time I stumble again on the problem._
 
 1. Download the image of the operating system (distro).
