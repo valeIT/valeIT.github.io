@@ -3,6 +3,18 @@ layout: page
 title: FaceBlur Patch Notes
 ---
 
+## 1.6
+
+- iOS 13 Support
+
+## 1.5.1
+
+- iOS 12 Support
+
+## 1.5
+
+- iOS 11 Support
+
 ## 1.4
 
 - FIX: Improved iOS 10 support
