@@ -1,3 +1,9 @@
+webrick:
+  headers:
+    X-Content-Type-Options: nosniff
+    X-Frame-Options: deny
+    X-XSS-Protection: 1; mode=block
+
 plugins:
   - jemoji
   - jekyll-paginate
