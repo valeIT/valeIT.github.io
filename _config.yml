@@ -72,3 +72,11 @@ collections:
 exclude: [vendor]
 
 future: false #do not allow posts from the future to be published...
+
+assets:
+  destination: "/assets"
+  compression: true
+  caching:
+    path: ".jekyll-cache/assets"
+    type: file # Possible values: memory, file
+    enabled: true
