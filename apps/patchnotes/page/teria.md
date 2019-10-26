@@ -3,6 +3,10 @@ layout: page
 title: Teria Patch Notes
 ---
 
+## 1.0.1
+
+- Add crash reporting
+
 ## 1.0
 
 - [Initial Release][5]
