@@ -13,6 +13,8 @@ author: Valentino Urbano
 
 ## Introducing Teria
 
+**Teria is now available for free on both the [iOS App Store][11] and the [Android Play Store][12].**
+
 Teria was born as a super minimal note application. It was just a textfield that you could jolt notes and ideas down so you would not forget. I'm a big proposal of (other links related to this idea) writing your ideas down as quickly as possible so you don't forget them, and I've written about it a few times. Teria helps you accomplish that. I've been using it every day for the past 6 months. This whole newsletter (editing aside) has been written on Teria.
 
 ### Streak
@@ -57,3 +59,5 @@ Let me know if you have any questions (either by replying to this email or from 
 [4]: https://testflight.apple.com/join/RofFp4Z5
 [5]: {% post_url 2019-10-26-It's-Release-Day %}
 [^1]: This name may change upon release. If it does change the folder will probably be called 'Teria'
+[11]: https://testflight.apple.com/join/RofFp4Z5
+[12]: https://play.google.com/store/apps/details?id=com.valentinourbano.markdowneditor
