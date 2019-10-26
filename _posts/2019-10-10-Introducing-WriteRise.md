@@ -35,6 +35,11 @@ Privacy has been one of the main focus from the start. All the data is local and
 
 Everything stored in the app is saved in an encrypted database using a random key generated at the first launch of the application and stored in the mac’s keychain. This way the data stays safe. Remember that if you lose this key you will need to reset your WriteRise data from settings.
 
+<script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gum.co/writerise?wanted=true" target="_blank">Buy WriteRise</a>
+
+[Buy it now][4]
 
 [2]: {% post_url 2018-12-07-Writerise4 %}
 [3]: {% post_url 2019-09-01-writerise-5 %}
+[4]: https://gumroad.com/l/writerise
