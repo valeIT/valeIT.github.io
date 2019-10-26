@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Teria Now Live
-date: 2019-10-26 20:28:05.000000000 +01:00
+date: 2019-10-26 06:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
