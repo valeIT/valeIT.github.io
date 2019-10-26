@@ -45,10 +45,10 @@ On top of that, we still have some supply and we'll be back in Italy for a short
 
 - Mutti Sauce
 
-  I only found it at Piotr i Pawel
+  I only found it at Piotr i Pawel and Carrefour.
 
-- Molini Olive Oil
+- Monini Olive Oil
 
-  I only found it at Piotr i Pawel
+  I only found it at Piotr i Pawel and Carrefour.
 
 You don't have to stop eating Italian food here. While Polish food is great, every once in a while you need some nostalgia and Italian food is simply amazing. The shame is that most local people seem not too interested in trying new stuff. They have no idea what they miss out on.

@@ -5,21 +5,7 @@ title: Teria Patch Notes
 
 ## 1.0
 
-- Initial Release
-
-
-A carefully designed minimal weather app.
-
-[From Fall App Updates][3]:
->Shine only does one thing: Showing you the weather for your current location packaged in a deeply appealing format. Nothing more, nothing less.
-
-**Key Features:**
-
-- Weather, temperature, high/low for your current location
-- C or F support
-- Beautifully designed
-
-[3]: {% post_url 2019-10-06-Fall-App-Updates %}
+- [Initial Release][5]
 
 Teria let's you write notes quickly.
 
@@ -61,3 +47,4 @@ If you like Teria you might like [WriteRise][4].
 [3]: {% post_url 2019-10-06-Fall-App-Updates %}
 [1]: {% post_url 2019-10-06-Introducing-Teria %}
 [4]: /apps/patchnotes/writerise
+[5]: {% post_url 2019-10-26-It's-Release-Day %}

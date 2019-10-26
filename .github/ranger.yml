@@ -1,0 +1,35 @@
+labels:
+  duplicate: close
+  wontfix: close
+  invalid: close
+  "merge when passing": merge
+  "squash when passing": merge
+  "rebase when passing": merge
+
+# All maintainer comments containing the pattern "duplicate of"
+# will apply the duplicate label
+comments:
+  # delete comments that match a specific pattern. In this case, all comments
+  # that include "+1" will be deleted.
+  - action: delete_comment
+    pattern: "+1" # can also be a regular expression
+# As of now `label` is the only valid action that can be triggered by
+# comments, and is a required field
+# - action: label
+#   # either a string or a string representation of a regular expresssion
+#   pattern: /duplicate of/i
+#   labels:
+#     - duplicate
+commits:
+  - action: label
+    # either a string or a string representation of a regular expresssion
+    pattern: /duplicate of/i
+    labels:
+      - duplicate
+  - action: label
+    pattern: /./ #always add it
+    labels:
+      - "merge when passing"
+
+merges:
+  - action: delete_branch
