@@ -27,6 +27,10 @@ You can learn more about it [here][4].
 - [Indie Hackers][7]
 - [Product Hunt][8]
 - [Hacker News][9]
+- Reddit [1][10] [2][11]
+- [Flutter][12]
+- [Medium][13]
+- [barnacl.es][14]
 
 
 For feedback or support feel free to [open a ticket][5]
@@ -41,3 +45,8 @@ For feedback or support feel free to [open a ticket][5]
 [7]: https://www.indiehackers.com/product/teria
 [8]: https://www.producthunt.com/posts/teria
 [9]: https://news.ycombinator.com/
+[10]: https://www.reddit.com/r/androidapps/comments/dna16n/dev_my_first_android_app_teria_is_launching_today/
+[11]:
+[12]: https://itsallwidgets.com/teria
+[13]: https://medium.com/@valentinourbano/teria-write-notes-quickly-c881c87fa894
+[14]: https://barnacl.es/s/qs7ixz/teria_write_notes_quickly
