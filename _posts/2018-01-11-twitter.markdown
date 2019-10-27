@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter
+title: Introducing Bots - Playing With The Twitter API
 date: 2018-01-10 9:00:01.000000000 +01:00
 type: post
 published: true

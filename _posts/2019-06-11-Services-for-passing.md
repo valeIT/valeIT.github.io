@@ -10,11 +10,9 @@ image:
 image2:
 author: Valentino Urbano
 ---
-<!-- 2014-12-01 -->
-
-Today I'm doing on a dark tangent. Hope you don't mind too much.
 
 A few services popped up in the last few years to handle giving out logins of people passing away to their heirs. The idea has its merits and its going to become more and more of an issue as time goes on and everything shifts more and more to digital, but I don't think this is the right solution.
+<!-- 2014-12-01 -->
 
 The real problem about every single one of these [services for passing](http://www.dafacto.com/2014/11/28/how-to-transfer-confidential-data-upon-ones-passing/) is that they are in fact a business (of course) and absolutely nothing can guarantee that they will be around a few years from now, even less than they will last until we pass away, and the more young you are the more this statement is true.
 

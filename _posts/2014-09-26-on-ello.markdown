@@ -1,25 +1,25 @@
 ---
 layout: post
-title: On Ello
+title: Ello Review - Yet Another Social Network No One Asked For
 date: 2014-09-26 14:32:47.000000000 +02:00
 type: post
 published: true
 status: publish
 categories:
 - Tech
-author: Valentino Urbano 
+author: Valentino Urbano
 ---
 
 [Nice thoughts on Ello][0] - another social network ala [App.net][1]:
 
 > They don't have feeds in or out. That means whatever you put in there, starting right now, is theirs. They won't even share your stuff with you. That's not a good deal. You shouldn't accept that.
-> 
+>
 > So Ello isn't answering any question I can think of.
-> 
-> If they were open, then I would be interested.  
+>
+> If they were open, then I would be interested.
 > [...]
 > This is the same problem I have with people pouring love into Medium. I don't care if they pay you to write there ...
-> 
+>
 
 If you're aiming to be an alternative to twitter and than you behave even worse than them, i don't know what to tell you.
 
@@ -34,14 +34,14 @@ At least app.met did the right thing opening their APIs - they also committed th
 _Update:_ [@waxpancake at Ello][3]
 
 > But a little digging shows a much more predictable source: they took a $435,000 round of seed funding in January from FreshTracks Capital, a Vermont-based VC firm that announced the deal in March.
-> 
+>
 
 The post is interesting as a whole, so I suggest you to read it all completely.
 
 We should give them a thumbs up for this though:
 
 > Ello also respects Do Not Track (DNT) settings in browsers.
-> 
+>
 
 But still no 'export' feature on sight. At all.
 

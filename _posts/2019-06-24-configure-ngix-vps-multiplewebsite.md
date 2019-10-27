@@ -40,7 +40,7 @@ nano /var/www/$NEWSITE.$TLD/html/index.html
 This is just a basic HTML example to show that the server is working and it is serving the correct folder for the URL.
 
 ```
-<html>
+<html lang="en">
     <head>
         <title>$NEWSITE.$TLD</title>
     </head>

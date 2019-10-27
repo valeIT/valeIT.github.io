@@ -7,8 +7,10 @@ published: true
 status: publish
 categories:
 - Tech
-author: Valentino Urbano 
+author: Valentino Urbano
 ---
+
+With the new iPhones Apple has put before us a very difficult choice:
 
 [![iPhone5 Black]({{ site.baseurl }}/assets/article_images/black.jpg)][0]
 
