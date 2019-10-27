@@ -8,7 +8,7 @@ status: publish
 image: /assets/article_images/photo-261579.jpeg
 image2: /assets/article_images/photo-261579.jpeg
 categories: [Tech]
-author: Valentino Urbano 
+author: Valentino Urbano
 comment_id: 8
 ---
 
@@ -27,11 +27,11 @@ I'm experimenting with turning back comments on selected articles. It applies to
 3. Create the HTML of the comment as you want it. You can take a look [here][4] for ideas. Put the file in `_includes/gh_comments.html`. If you build your own HTML, make sure to include the javascript from the link.
 4. In your article template include the comment:
 
-<script src="https://gist.github.com/valeIT/6c7269153bb723fc36f0dc595d27fead.js"></script>
+<script async src="https://gist.github.com/valeIT/6c7269153bb723fc36f0dc595d27fead.js"></script>
 
 5. If you want to style your comment add a .css or .scss file on .comment
 6. Open an Issue on the repo and copy the Issue id.
-7. Add `comment_id ` in your YAML for the post with the Issue id. If it's not present comments will be off. 
+7. Add `comment_id ` in your YAML for the post with the Issue id. If it's not present comments will be off.
 
 ## Accountability
 

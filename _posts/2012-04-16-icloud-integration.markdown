@@ -1,13 +1,13 @@
 ---
 layout: post
-title: iCloud integration
+title: iCloud integration in iOS Applications
 date: 2012-04-16 10:10:43.000000000 +02:00
 type: post
 published: true
 status: publish
 categories:
 - Tech
-author: Valentino Urbano 
+author: Valentino Urbano
 ---
 
 A few days ago tweetbot rolled out an update to include iCloud support for syncing the timeline position, drums and replies marked as read between the iPhone app, the iPad app (and the Mac app when it will be released).

@@ -12,16 +12,16 @@ author: Valentino Urbano
 
 I've been using Microsoft Translator for a few years in [Translatory](https://itunes.apple.com/us/app/translatory-your-personal/id1018240873?&at=1010lHG?mt=8), it has all the features you would expect while being priced way more competitively than Google Translate.
 
-At the end of last year, Microsoft announced that they'd retire the old APIs and would migrate to Azure for all of their services. They finally dropped support a few months ago. Not too bad, I thought, would just migrate the URL to the new one and it will keep working. 
+At the end of last year, Microsoft announced that they'd retire the old APIs and would migrate to Azure for all of their services. They finally dropped support a few months ago. Not too bad, I thought, would just migrate the URL to the new one and it will keep working.
 
-The sad part, for me, is that making an Azure account requires a credit card linked to your bank account and I don't have one, the one that I have linked to my bank account doesn't work online, and I'm not going to open the third one just for Azure. I tried to use my prepaid card that I use normally for all purchases, but it was rejected because it was prepaid. It was clear that I had to move somewhere else. 
+The sad part, for me, is that making an Azure account requires a credit card linked to your bank account and I don't have one, the one that I have linked to my bank account doesn't work online, and I'm not going to open the third one just for Azure. I tried to use my prepaid card that I use normally for all purchases, but it was rejected because it was prepaid. It was clear that I had to move somewhere else.
 
-The criteria to decide where to move to: 
+The criteria to decide where to move to:
 
-- It had to have a free tier 
-- After the free tier, it needed to have a reasonable pricing structure based on actual use 
+- It had to have a free tier
+- After the free tier, it needed to have a reasonable pricing structure based on actual use
 - It had to be from an established company (seen too many startup closing shops in a few months)
-- It had to support a decent amount of languages. 
+- It had to support a decent amount of languages.
 The only one I found that fulfilled all of them is [Yandex](https://translate.yandex.com/developers). [^1]
 
 
@@ -30,9 +30,9 @@ The only one I found that fulfilled all of them is [Yandex](https://translate.ya
 The data model and the view were already totally decoupled, that said I didn't want to change the method signatures for the 2 main calls to the backend of the app:
 
 ```
-  func supportedLanguages(_ completion: @escaping (NSError?, [String]?) -> ()) 
+  func supportedLanguages(_ completion: @escaping (NSError?, [String]?) -> ())
 
-  func translateText(_ text: String?, withSource: String? = nil, target: String? = nil, completion: @escaping TranslatorCompletionHandler) 
+  func translateText(_ text: String?, withSource: String? = nil, target: String? = nil, completion: @escaping TranslatorCompletionHandler)
 ```
 
 The first one is called on launch (if not cached) and retrieves all the supported languages from the web service to show them in the pickers, the second one performs the translation.
@@ -44,7 +44,7 @@ The migration itself wasn't hard at all, just make a data manager called FGTrans
 To use it in your project:
 
 1. Integrate Alamofire in your project
-2. Copy the file `TranslatorManager.swift` in your project 
+2. Copy the file `TranslatorManager.swift` in your project
 3. Add `TranslatorManager.sharedInstance.initWithKey(key: APIKEY)` in `application: willFinishLaunching`
 
 ### How to use
@@ -57,7 +57,7 @@ The only change is when you need to reset it instead of creating a new instance 
 
 I'm using swift so I migrated the network library from AFNetworking to Alamofire which is the only dependency.
 
-It's really bare bone and that's why I'm not hosting it on Carthage or Cocoapods. It is meant as a working solution to be improved. It works out of the box and the error handling is fine, but not great. You should tweak it for your use if you're gonna use it in production. 
+It's really bare bone and that's why I'm not hosting it on Carthage or Cocoapods. It is meant as a working solution to be improved. It works out of the box and the error handling is fine, but not great. You should tweak it for your use if you're gonna use it in production.
 
 Note: It has no caching, it is immediate to add caching, just uncomment a few line and add `PinCache` ad dependency, but it's not done and not tested. Without caching you're going to hit the API server more often which will incur in more costs.
 
@@ -68,7 +68,7 @@ If you integrate this into your app, make sure to follow the [Design Requirement
 ## Code
 
 
-<script src="https://gist.github.com/valeIT/6a0b8517b94921f653c6cb334a1a4015.js"></script>
+<script async src="https://gist.github.com/valeIT/6a0b8517b94921f653c6cb334a1a4015.js"></script>
 
 
 [License: MIT]

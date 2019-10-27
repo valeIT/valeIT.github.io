@@ -11,9 +11,9 @@ image2:
 author: Valentino Urbano
 ---
 
-_This is not a tutorial, it's more of a note so I'm going to remember how to do something the next time I stumble again on the problem._
-
 Dropbox for mac, once installed, keeps prompting for superuser permissions every once in a while. Even if you keep denying it, it will still ask very annoyingly, so annoyingly that you might give up and press ok only to make it go away.
+
+_This is not a tutorial, it's more of a note so I'm going to remember how to do something the next time I stumble again on the problem._
 
 Dropbox shouldn't need this kind of permissions to work and in fact, if you keep denying everything will work as it should. I refuse to give it my login password and I'm annoyed at it prompting for it every time I reboot.
 
