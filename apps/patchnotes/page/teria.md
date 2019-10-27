@@ -3,6 +3,10 @@ layout: page
 title: Teria Patch Notes
 ---
 
+## 1.0.5
+
+- [Android] Fix crash on certain device families
+
 ## 1.0.2
 
 - Fix settings subtitles
