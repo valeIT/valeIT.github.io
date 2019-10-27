@@ -16,5 +16,10 @@ Since it has been some time I wanted to take a peek at [Travis CI][4], the CI to
 
 ![](/assets/article-images/travis-ci-2019-10-27.png)
 
+But that's not all, if you zoom out there was even one day with more than one hundred. Don't ask why, I have no idea.
+
+![](/assets/article-images/travis-ci-2019-10-27-2.png)
+
+
 [2]: {% post_url 2019-10-19-Treating-My-Blog-Like-A-Production-Application %}
 [3]: {% post_url 2019-10-23-Automatic-Pull-Request-Management %}
