@@ -17,7 +17,7 @@ If you're using a navigation controller you will find that your app on iPad is j
 
 So what did you do wrong to get this weird behaviour? Absolutely nothing.
 
-Apple decided that if you use a navigation controller you're are surely also using a split view controller so it is showing the detail view of the split view controller even though you might not have it in your app at all. It doesn't make sense since there is UISplitViewController for that and I can decide to either use it or not and if I'm using a UINavigationController instead it is obvious I'm not using the UISplitViewController.
+Apple decided that if you use a navigation controller you are surely also using a split view controller so it is showing the detail view of the split view controller even though you might not have it in your app at all. It doesn't make sense since there is UISplitViewController for that and I can decide to either use it or not and if I'm using a UINavigationController instead it is obvious I'm not using the UISplitViewController.
 
 It does not seems that there is a real solution to the problem unfortunately.
 
