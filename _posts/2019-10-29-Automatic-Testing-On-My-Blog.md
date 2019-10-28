@@ -1,14 +1,27 @@
-# Automatic Testing On My Blog
+---
+layout: post
+title: Automatic Testing On My Blog
+date: 2019-10-29 16:28:05.000000000 +01:00
+type: post
+published: true
+status: publish
+categories: [Programming]
+image:
+image2:
+author: Valentino Urbano
+---
 
 [I've written how I'm running my blog as a production application][2] [multiple times][3].
 
-It has now been a few weeks and I like the process. Using bots has been the key. If I had to doo everything manually it wouldn't have been worth.
+It has now been a few weeks and I'm liking the process. Using bots has been the real key into making it work for more than a few days. If I had to do everything manually it wouldn't have been worth. I would have wasted so much time on gatekeeping (merging pull requests, assigning reviews, perfoming checks,...) that it would have been way too much.
 
-The main issue is the time commitment more than doubled, but it is still not an unsurmountable amount. Thankfully I've set up a lot of bots to do most of the work, but a few things are still manual.
+The time commitment has surely increased, but it is still not an unsurmountable amount. And what I got in return is having every single post checked by someone else and also have multiple automated checks before anything gets merged into the master branch.
 
-Since it has been some time I wanted to take a peek at [Travis CI][4], the CI tool I'm using. It spent almost 400 minutes to run test last week alone, thankfully they're free for Open Source applications.
+## Continuos Integration
 
-50 builds and test in one day is pretty massive... A lot of that activity is caused by bots, but some are manually triggered as well:
+I took a peek at the Code Integration statistics and was surprised by how much it is used. I'm using [Travis CI][4] which is free for Open Source applications. It spent almost 400 minutes to run test last week alone!
+
+The record last week was 50 builds + test in one day. A lot of that activity is caused by bots, but some are manually triggered as well:
 
 - automatic pull request merging on success triggers a test
 - automatic pulling master into every branch that has a PR open triggers a build for each pr
@@ -16,7 +29,7 @@ Since it has been some time I wanted to take a peek at [Travis CI][4], the CI to
 
 ![](/assets/article-images/travis-ci-2019-10-27.png)
 
-But that's not all, if you zoom out there was even one day with more than one hundred. Don't ask why, I have no idea.
+But that's not all and it is surely NOT the most builds per day to date. If you zoom out there was one day with more than one hundred builds. Don't ask why that is, I have no idea.
 
 ![](/assets/article-images/travis-ci-2019-10-27-2.png)
 
