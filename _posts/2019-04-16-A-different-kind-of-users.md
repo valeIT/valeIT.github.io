@@ -11,9 +11,8 @@ image2:
 author: Valentino Urbano
 ---
 
-<!-- A different kind of users -->
-
 I've always made websites and applications for people who knew how to use them. Not necessarely technical people, but people who would take the time to either search the app on the app store because they needed it for some task or people who would go on google and search for the website.
+<!-- A different kind of users -->
 
 Recently I have been doing an enterprise application for employees who are not necessarely seeking the application themselves, but it is being 'forced' upon them by their CEO. Their behavior is way different, and even though it is a tool that will make their work easier it has been met with veiled (at times less veiled) resistance.
 

@@ -3,6 +3,20 @@ layout: page
 title: Teria Patch Notes
 ---
 
+## 1.0.5
+
+- [Android] Fix crash on certain device families
+
+## 1.0.2
+
+- Fix settings subtitles
+- Fix list spacing
+- Improve backup persistance
+
+## 1.0.1
+
+- Add crash reporting
+
 ## 1.0
 
 - [Initial Release][5]
@@ -47,4 +61,4 @@ If you like Teria you might like [WriteRise][4].
 [3]: {% post_url 2019-10-06-Fall-App-Updates %}
 [1]: {% post_url 2019-10-06-Introducing-Teria %}
 [4]: /apps/patchnotes/writerise
-[5]: {% post_url 2019-10-26-It's-Release-Day %}
+[5]: {% post_url 2019-10-26-It-s-Release-Day %}

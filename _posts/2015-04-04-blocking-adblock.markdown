@@ -7,7 +7,7 @@ published: true
 status: publish
 categories:
 - Programming
-author: Valentino Urbano 
+author: Valentino Urbano
 ---
 
 [If you want to skip my rambling and get to the answer click here ;)][0]
@@ -44,7 +44,7 @@ Most of these other methods can be [found][3] [in][3] [multiple][4] places acros
 
     <script type="text/javascript">// <![CDATA[
     var Adblock = true;
-    // ]]></script><script src="ad.js" type="text/javascript"></script><script type="text/javascript">// <![CDATA[
+    // ]]></script><script async src="ad.js" type="text/javascript"></script><script type="text/javascript">// <![CDATA[
     if(Adblock) { //Adblock blocked the ad }else { //Adblock is off/disabled/... }
     // ]]></script>
 

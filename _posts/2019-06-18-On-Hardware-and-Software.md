@@ -28,4 +28,4 @@ If you think in the next x years you might need some more RAM to consider buying
 [^1]:If you're an indie you should [read this][1] instead.
 [^2]: This is not always the right course of actions. There are projects where staying lean and minimal until necessary is best and projects where preparing for the future is best. Only you know your business well enough to decide which of the two is the right course.
 
-[1]: {% post_url 2018-12-09-Don't-think-about-scaling-too-early %}
+[1]: {% post_url 2018-12-09-Dont-think-about-scaling-too-early %}

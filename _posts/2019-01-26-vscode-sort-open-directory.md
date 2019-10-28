@@ -11,9 +11,9 @@ image2:
 author: Valentino Urbano
 ---
 
-_This is not a tutorial, it's more of a note so I'm going to remember how to do something the next time I stumble again on the problem._
+When you open a project (or folder) in Visual Studio Code it will show you all the files and folders in that project. Normally they're sorted alphabetically, but I had the necessity of having the sorted by the last modified date.
 
-When you open a project (or folder) in Visual Studio Code it will show you all the files and folders in that project. Normally they're sorted alfabetically, but I had the necessity of having the sorted by the last modified date.
+_This is not a tutorial, it's more of a note so I'm going to remember how to do something the next time I stumble again on the problem._
 
 Open settings from VSCode and add the line at the bottom:
 

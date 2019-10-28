@@ -17,7 +17,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
     <link href="/apps/ios/web/css/bootstrap.css" rel='stylesheet' type='text/css' />
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="/apps/ios/web/js/jquery.min.js"></script>
+    <script async src="/apps/ios/web/js/jquery.min.js"></script>
     <!-- Custom Theme files -->
     <link href="style.css" rel='stylesheet' type='text/css' />
     <!-- Custom Theme files -->
@@ -52,7 +52,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <div class="sreen-gallery-cursual">
                     <!-- requried-jsfiles-for owl -->
                     <link href="owl.carousel.css" rel="stylesheet">
-                    <script src="/apps/ios/web/js/owl.carousel.js"></script>
+                    <script async src="/apps/ios/web/js/owl.carousel.js"></script>
                     <script>
                         $(document).ready(function() {
                             $("#owl-demo").owlCarousel({

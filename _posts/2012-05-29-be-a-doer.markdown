@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Be a Doer"
+title: Be a Doer Attitude In GTD
 date: 2012-05-29 17:03:17.000000000 +02:00
 type: post
 published: true
 status: publish
 categories:
 - Tech
-author: Valentino Urbano 
+author: Valentino Urbano
 ---
 
-Don't waste your time planning things to do if you know that in the end you will only procrastinate them over and over again. Don't be a planner, but a doer.  
+Don't waste your time planning things to do if you know that in the end you will only procrastinate them over and over again. Don't be a planner, but a doer.
 The GTD method [^1] is great _i use it a lot_, but its mission is to **let you do** things, if you spend the whole time organizing your tasks, but not a minute actually doing them, all the time spent organizing is wasted.
 
 If something to do comes to mind decide what to do with it:

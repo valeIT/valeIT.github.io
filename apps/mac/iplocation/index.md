@@ -22,15 +22,15 @@ layout: empty
     <link rel="stylesheet" href="/apps/mac/web/css/owl.carousel.css">
     <link rel="stylesheet" href="/apps/mac/web/css/owl.theme.css">
     <link rel="stylesheet" href="/apps/mac/iplocation/styles.css">
-    <script src="/apps/mac/web/js/modernizr.custom.32033.js"></script>
+    <script async src="/apps/mac/web/js/modernizr.custom.32033.js"></script>
 
     <!--[if IE]><script type="text/javascript" src="/apps/mac/web/js/excanvas.compiled.js"></script><![endif]-->
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <script async src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script async src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
 </head>
@@ -315,7 +315,7 @@ layout: empty
                     <!--
 <div class="col-md-2 hidden-xs">
                         <span class="owl-next"><i class="fa fa-chevron-right fa-2x"></i></span>
-                    </div>   
+                    </div>
 -->
 
                     <!-- <div id="owl-screenshots" class="owl-carousel"> -->
@@ -733,7 +733,7 @@ layout: empty
                                     </div>
                                 </div>
                             </div>
-                        </div>                            
+                        </div>
         </section>
 
        <!-- <section id="subscribe">
@@ -811,10 +811,10 @@ layout: empty
     </div>
 
 
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="/apps/mac/web/js/bootstrap.min.js"></script>
-    <script src="/apps/mac/web/js/owl.carousel.min.js"></script>
-    <script src="/apps/mac/web/js/waypoints.min.js"></script>
+    <script async src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script async src="/apps/mac/web/js/bootstrap.min.js"></script>
+    <script async src="/apps/mac/web/js/owl.carousel.min.js"></script>
+    <script async src="/apps/mac/web/js/waypoints.min.js"></script>
 
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAtxNC8sOq37sDk2NbEvhRWMkvasC7MNkM&sensor=false"></script>
 
@@ -822,7 +822,7 @@ layout: empty
     <script type="text/javascript" src="/apps/mac/web/rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
     <script type="text/javascript" src="/apps/mac/web/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
 
-    <script src="/apps/mac/web/js/script.js"></script>
+    <script async src="/apps/mac/web/js/script.js"></script>
     <script>
         $(document).ready(function () {
             appMaster.preLoader();
