@@ -61,4 +61,4 @@ If you like Teria you might like [WriteRise][4].
 [3]: {% post_url 2019-10-06-Fall-App-Updates %}
 [1]: {% post_url 2019-10-06-Introducing-Teria %}
 [4]: /apps/patchnotes/writerise
-[5]: {% post_url 2019-10-26-It's-Release-Day %}
+[5]: {% post_url 2019-10-26-It-s-Release-Day %}
