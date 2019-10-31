@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Add Analytics And Crash Reporting to your iOS app
+title: Add Analytics And Crash Reporting to your iOS and Android apps
 date: 2019-10-30 16:28:05.000000000 +01:00
 type: post
 published: true
