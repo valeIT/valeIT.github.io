@@ -27,13 +27,15 @@ You can learn more about it [here][4].
 - [Indie Hackers][7]
 - [Product Hunt][8]
 - [Hacker News][9]
-- Reddit [1][10] [2][11]
+- Reddit [1][10] [2][11] [3][15]
 - [Flutter][12]
 - [Medium][13]
 - [barnacl.es][14]
 
 
 For feedback or support feel free to [open a ticket][5]
+
+Update: Released a few [updates][6] fixing a few issues including a crash on several Android devices.
 
 [1]: https://testflight.apple.com/join/RofFp4Z5
 [2]: https://play.google.com/store/apps/details?id=com.valentinourbano.markdowneditor
@@ -46,7 +48,8 @@ For feedback or support feel free to [open a ticket][5]
 [8]: https://www.producthunt.com/posts/teria
 [9]: https://news.ycombinator.com/
 [10]: https://www.reddit.com/r/androidapps/comments/dna16n/dev_my_first_android_app_teria_is_launching_today/
-[11]:
+[11]: https://www.reddit.com/r/SideProject/comments/dnawte/just_released_my_side_project_teria_write_notes/
+[15]: https://www.reddit.com/r/iosapps/comments/dnarfo/teria_my_first_ios_app_built_using_flutter_is/
 [12]: https://itsallwidgets.com/teria
 [13]: https://medium.com/@valentinourbano/teria-write-notes-quickly-c881c87fa894
 [14]: https://barnacl.es/s/qs7ixz/teria_write_notes_quickly

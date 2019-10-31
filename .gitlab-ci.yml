@@ -1,0 +1,16 @@
+# https://gitlab.com/help/user/project/pages/getting_started_part_four.md
+image: ruby:2.5.3
+
+before_script:
+  - bundle install
+
+pages:
+  stage: deploy
+  script:
+  - bundle install
+  - bundle exec jekyll build -d public
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
