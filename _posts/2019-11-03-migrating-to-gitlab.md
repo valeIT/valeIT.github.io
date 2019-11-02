@@ -19,7 +19,7 @@ I've set up a highly automated system to be able to publish with ease just to fi
 
 This is totally unacceptable and breaks the whole premise of what I was trying to do.
 
-Gitlab Pages using Gitlab pipelines supports automatically pulling a GitHub repository and building it at each new commit. Exactly what I need. All the code will stay on GitHub to use its better ecosystem of plugins and bots, but the website will be server from GitLab. I've already migrated the DNS records to point to GitLab server, it will take up to 24 hours for it to propagate. The website might be down for this period.
+Gitlab Pages using Gitlab pipelines supports automatically pulling a GitHub repository and building it at each new commit. Exactly what I need. All the code will stay on GitHub to use its better ecosystem of plugins and bots, but the website will be served from GitLab. I've already migrated the DNS records to point to GitLab server, it will take up to 24 hours for it to propagate. The website might be down for this period.
 
 ## Setting it up
 
@@ -47,7 +47,7 @@ pages:
 
 ```
 
-This will tell gitlab to automatically build every commit on the master branch using jekyll. Go to the pipelines page in Gitlab after the first commit that includes this file to check if the shared Gitlab runner is correctly building the website. If it not check the error message, one possible reason was that the ruby version at the top of the file is not correct.
+This will tell gitlab to automatically build every commit on the master branch using jekyll. Go to the pipelines page in Gitlab after the first commit that includes this file to check if the shared Gitlab runner is correctly building the website. If it's not, check the error message. One possible reason might be that the ruby version at the top of the file is not correct.
 
 After it has finished building wait 30 minutes. After that time your site should be accessible at `USERNAME.gitlab.io`. If it is not check Settings > General > Visibility and toggle visibility for Pages to Everyone.
 
