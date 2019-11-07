@@ -33,3 +33,7 @@ var rotation = transform.rotation;
             transform.RotateAround(center.position, Vector3.forward, rotationSpeed * Time.deltaTime);
             transform.rotation = rotation;
 ```
+
+[Part 2][1]
+
+[1]: {% post_url 2019-11-04-unity-rotate-around-vs-physics-based-approach %}
