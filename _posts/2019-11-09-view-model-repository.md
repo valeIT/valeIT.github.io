@@ -41,7 +41,7 @@ Let's assume we have a tableView and we want to display a list of users:
     }
 ```
 
-Every call to cellForRowAt indexPath should be this short. Configuring the cell should be done from the cell itself and not in the controller. Look for opportunities to move logic where it should be. When starting out with MVC we find ourselves to put everything in the controller without thinking where the right place for this function should be.
+Every call to cellForRowAt indexPath should be this short. Configuring the cell should be done from the cell itself and not in the controller. Look for opportunities to move logic where it should be. When starting out with MVC you're most likely to write everything in the controller without thinking where that specific piece of code should reside.
 
 We can now let the cell configure itself based on the model. Inside the cell class:
 
@@ -74,11 +74,13 @@ extension AmountViewModel {
 
 1. Note how the view model doesn't know about the formatter, it gets told what formatter to use.
 
-Usually people using MVVM put all the logic inside the viewModel. I strongly disagree. The viewModel should be dumb, as the model, the should only know how to configure themselves. They can have helper methods, but they should not communicate directly to databases or initiate networking calls.
+Usually people using MVVM put all the logic inside the viewModel. I strongly disagree. The viewModel should be dumb, as the model. They should only know how to configure themselves. Model and viewModel can have helper methods, but should not communicate directly to databases or initiate networking calls that's the responsibility of another object.
 
 ### Repository
 
-For those we need another object. We will call it Repository, but you can call it however you want. Names are just there to make it clear to others what the purpose of an object is so if we use known conventions more people will be able to understand it without having to dive into the code.
+We will call this object Repository, but the naming scheme is not really important. Names are just there to make it clear to others what the purpose of an object is so if we use known conventions more people will be able to understand it without having to dive into the code.
+
+The Repository takes care of connecting your application to the outside world (be it the filesystem or an API), acting as the middleman.
 
 ```
 class AmountRepository {
@@ -103,9 +105,9 @@ class AmountRepository {
 }
 ```
 
-The repository acts as middleman between the outside world (api/db) and the view and configures the viewModel.
+The responsabilities or the repository are not only to fetch the model, but also to configure the viewModel and update the view. In bigger apps this might be too much for one object and you might want to split this into multiple object for each responsibility, but I found that for most apps this is a good astraction that separates concerns, but does not create too much boilerplate.
 
-From the controller we add the repository and we get the viewModel:
+From the controller we add the repository and we load the model. For each cell we ask the repository for the corresponding viewModel and populate the cell with it:
 
 ```
 private let repository = AmountRepository()
@@ -126,3 +128,7 @@ public func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPat
 ```
 
 Note how the controller holds a strong reference to the repository. This way once the controller goes out of scope the repository will get deallocated as well.
+
+### Architecture
+
+Different apps need different architecture. This lightweight architecture would be fine for most small to medium size applications. For bigger ones you might want to use something like MVVM-C or VIPER to have more separation of concerns. In this architecture the Repository has more than one responsibility breakind the single responsibility principle, but this is a conscious choice to limit complexity. If you feel it getting out of hand or getting longer than a few hundred lines that's when you start breaking it up into multiple objects.
