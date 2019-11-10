@@ -9,7 +9,7 @@ categories: [Programming]
 author: Valentino Urbano
 ---
 
-Your text to be able to be placed as children of a sprite (so not on the typical UI canvas) needs to be a `Text Mesh` (create an empty object and add the Text Mesh as component), unfortunately it doesn't fit well with sorting layers.
+A text object to be able to be placed as children of a sprite (so not on the typical UI canvas) needs to be a `Text Mesh` (create an empty object and add the Text Mesh as component), unfortunately it doesn't fit well with sorting layers.
 
 I've read multiple forums and none of the single answers there worked for me. I had to combine a few of them together to make it all work.
 
