@@ -9,15 +9,17 @@ categories: [Programming]
 author: Valentino Urbano
 ---
 
-A text object to be able to be placed as children of a sprite (so not on the typical UI canvas) needs to be a `Text Mesh` (create an empty object and add the Text Mesh as component), unfortunately it doesn't fit well with sorting layers.
+The first thought would be to have the text object be placed as children of the sprite so that it follows the sprite position as it moves around the scene. This way we avoid using the canvas and having to syncronize the position on the canvas with the position of the sprite on screen which would be a total nightmate.
 
-I've read multiple forums and none of the single answers there worked for me. I had to combine a few of them together to make it all work.
+The text object needs to be of type `Text Mesh`. You can make one by creating an empty object and adding the Text Mesh as component from the inspector. It moves with the sprite as expected, unfortunately it doesn't behave well with sorting layers.
 
-First add a new sorting layer and place it in front of the default, I called it "TextElement".
+I've read multiple discussions online and none of the many answers solved the problem for me. I had to combine a few of them together and add a few things to make it all work:
 
-Note: Your text needs to be a children of the sprite.
+First add a new sorting layer and place it in front of the default layer, I called it "TextElement".
 
-Add a new script to the text:
+Note: For this method to work your text needs to be a children of the sprite so if you haven't already drag it on top of the sprite to make it a children.
+
+Add a new script to the text element:
 
 `LayerIDHandler.cs`
 
@@ -36,8 +38,9 @@ Add a new script to the text:
  }
 ```
 
-And another:
+This will force it to have the same sorting layer of its parent (the sprite).
 
+Add a second script to set the name and the order to the sorting layer for the child:
 
 `SortingLayerExposer.cs`
 
@@ -59,9 +62,9 @@ And another:
  }
 ```
 
-And add both to the text.
+Drag both to the text element.
 
-In the transform (don't think this step is needed since it'll be set by the script, but still) set the Z to 10.
+Select the text's transform and set the Z to 10 since it needs to appear on top of the sprite and not on the same level.
 
 That's it, now your text should show in front of the sprite. If it doesn't check both your sprite and the main camera, they should be on the "Default" layer and both have a Z less than 10.
 
