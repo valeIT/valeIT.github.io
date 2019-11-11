@@ -11,7 +11,7 @@ image2:
 author: Valentino Urbano
 ---
 
-[This is part 2 of my Unity Space Series. You should first read part 1 if you haven't already][1]
+[This is part 2 of my Unity Space Series. You should first read part 1 if you haven't already][1].
 
 Recap: I'm playing around with Unity and I wanted to create a ship that would move through space until it got close enough to a planet. When that happened the ship would be attracted by the planet's gravity and start falling onto it.
 
