@@ -33,11 +33,11 @@ If you're building for release remember to also untick "Development Build" from 
 
 ## Building for Apple TV
 
-Just follow the iOS guide, it's 80% the same.
+The process to build your application for Apple TV you can simply follow the iOS guide, it's 80% the same.
 
-If you get a code signing issue you need to log in to the [developer website](https://developer.apple.com/) and manually [generate a provisioning  profile](https://developer.apple.com/library/content/documentation/IDEs/Conceptual/AppStoreDistributionTutorial/CreatingYourTeamProvisioningProfile/CreatingYourTeamProvisioningProfile.html) for Apple TV and download it. After the download completes you can double click on it to install it.
+If you get a code signing issue you need to log in to the [developer website](https://developer.apple.com/) and manually [generate a provisioning  profile](https://developer.apple.com/library/content/documentation/IDEs/Conceptual/AppStoreDistributionTutorial/CreatingYourTeamProvisioningProfile/CreatingYourTeamProvisioningProfile.html) for Apple TV and download it. After the download completes you can double click to add it to your keychain.
 
-I also had to turn off automatic code signing and manually select the provisioning profile to use or it wouldn't work. [This might get fixed in future Xcode versions or it might already been fixed.]
+I also had to turn off automatic code signing from Xcode and manually select the  provisioning profile that I had just downloaded or it would not work. [This might get fixed  in future Xcode versions or it might already been fixed by the time you read this.]
 
 ## Building for Android
 
