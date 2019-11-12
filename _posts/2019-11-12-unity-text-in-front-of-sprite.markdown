@@ -9,6 +9,8 @@ categories: [Programming]
 author: Valentino Urbano
 ---
 
+I wanted to have some text on top of a certain sprite in the world which would move alongside it. The most basic way to set up a label in Unity is to use the canvas, but it won't do it here since the text is not an overlay, but it is part of the game world.
+
 The first thought would be to have the text object be placed as children of the sprite so that it follows the sprite position as it moves around the scene. This way we avoid using the canvas and having to syncronize the position on the canvas with the position of the sprite on screen which would be a total nightmate.
 
 The text object needs to be of type `Text Mesh`. You can make one by creating an empty object and adding the Text Mesh as component from the inspector. It moves with the sprite as expected, unfortunately it doesn't behave well with sorting layers.
