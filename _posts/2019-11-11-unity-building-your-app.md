@@ -15,7 +15,7 @@ We're going to build the applications for Android and iOS, but also for other mi
 
 ## Before your build
 
-This initial configuration process is common to every platform and it is done insite Unity before exporting the application.
+This initial configuration process is common to every platform and it is done inside Unity before exporting the application.
 
 Open the "Player" (bottom left button from the build window) and setup your app name, icons and bundle identifier. For Android and Tizen you also need to setup the minimum api version that your application will support. This version will need to match the one configured in android studio and tizen studio respectively as minimum api/deployment version. You can find it from Settings inside Android Studio and Tizen Studio.
 
@@ -57,14 +57,12 @@ I also had to turn off automatic code signing from Xcode and manually select the
 - Open Tizen Studio and create a signing certificate, you will need this to run the application and submit it to the store
 - Configure the Tizen cli tools as follows:
 
-I read many tutorials and none of them worked. This is what worked for me on Mac OS:
+    1. Make sure you have already generated a certificate
+    2. Open tizen studio and create a new native tizen application
+    3. Open the terminal and cd to the folder of the project you just made
+    4. Type: `/Users/USER/tizen-studio/tools/ide/bin/tizen.sh cli-config --global   "default.profiles.path=/Users/USER/workspace/.metadata/.plugins/org.tizen.common.sign/profiles.xml"` changing `/Users/USER/tizen-studio/tools/ide/bin/tizen.sh` to the shell script inside the tizen sdk folder and changing `USER` to point to your user account.
 
-1. Make sure you have already generated a certificate
-2. Open tizen studio and create a new native tizen application
-3. Open the terminal and cd to the folder of the project you just made
-4. Yype: `/Users/USER/tizen-studio/tools/ide/bin/tizen.sh cli-config --global "default.profiles.path=/Users/USER/workspace/.metadata/.plugins/org.tizen.common.sign/profiles.xml"` changing `/Users/USER/tizen-studio/tools/ide/bin/tizen.sh` to the shell script inside the tizen sdk folder and changing `USER` to point to your user account.
-
-- Go back to unity -> PlayerSettings -> Tizen and fill the field "Signing Profile Name" with  the name of your certificate
+- Go back to unity -> PlayerSettings -> Tizen and fill the field "Signing Profile Name" with the name of your certificate
 - Close and reopen Unity
 - Restart your Mac
 - Go to `/Users/USER/tizen-studio/tools/certificate-generator/certificates/` and add the certificates without password to keychain access (drag and drop it in), after adding manually right click on them and trust them
