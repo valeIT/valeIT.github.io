@@ -13,7 +13,7 @@ author: Valentino Urbano
 
 ## UI vs Code
 
-The day of defining your UIs in a different place from your code and later on connecting it to the code are about to an end. The writing has been on the wall for a long time, but lately more and more platforms are embracing this paradigm shift.
+The days of defining your UIs in a different place from your code and later on connecting it to the code are about to come to an end. The writing has been on the wall for a long time, but lately more and more platforms are embracing this paradigm shift.
 
 With declarative programming and new frameworks like React Native, Flutter and now SwiftUI we see most major players moving out of xml based interfaces towards befining both your interface and your data binding in code in one single place. Still waiting for Native Android and Windows to get the memo.
 
