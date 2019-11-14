@@ -39,17 +39,17 @@ Unity uses these layers to figure out what to draw on top or behind every single
 Before trying to use procedural generation you should start with the unity editor.
 Open the tile palette and place it next to the scene view. This way you can easily drag tiles from the palette to your scene.
 
-![](/asset/article_images/unity-tilemap-1.png)
+![](/assets/article_images/unity-tilemap-1.png)
 
 Before doing that you need to add your sprites to the palette (or you can use [this example project][1] from Unity). From the tile palette click on "Create New Palette", give it a name and save the file. Drag your spites in the tile palette editor saving the generated file. After you've finished dragging anything you can now paint your grid. Don't forget that you can create multiple palettes if you need, for example, you can have one palette for each level or one palette for each biome.
 
 From the left panel open up the grid gameObject and take a look at your available layers. Try to map out mentally which layer would be more appropriate for each object you plan to add to the scene. Don't worry if you're not certain yet, you can always go back to your tilemap and change any tile.
 
-![](/asset/article_images/unity-tilemap-2.png)
+![](/assets/article_images/unity-tilemap-2.png)
 
 When you have a rough idea about what's going to end up as your ground - base layer marks it active from the tile palette.
 
-![](/asset/article_images/unity-tilemap-2a.png)
+![](/assets/article_images/unity-tilemap-2a.png)
 
 Select the specific tile you want to add to the ground layer. Double click on it and drag it into the scene. You can now keep dragging tiles or simply paint as if you were in Photoshop.
 
@@ -65,7 +65,7 @@ The tilemap I was working with consisted of a single tile for each section of th
 
 This is going to be the result:
 
-![](/asset/article_images/unity-tilemap-2b.png)
+![](/assets/article_images/unity-tilemap-2b.png)
 
 ## The Tile
 
@@ -142,15 +142,15 @@ In this example we have only one level, but if we had multiple levels we could h
 
 Go back to unity and add an empty gameObject to store the map generator. Drag in the script and populate the various variables by dragging in the respective components. Set 1 as the length of the tile array and drag your sprites. Make sure to drag the generated .asset file that we created when we dragged the basic sprite into the Tile Palette and not the sprite itself.
 
-![](/asset/article_images/unity-tilemap-3.png)
+![](/assets/article_images/unity-tilemap-3.png)
 
 Before going back to the code we need to keep track of the tile position for each section. From the Tile Palette select the arrow icon and find the tile where you need to place the first section of the map
 
-![](/asset/article_images/unity-tilemap-3a.png)
+![](/assets/article_images/unity-tilemap-3a.png)
 
 This is going to be your starting point. The other step we need to take is to find the offset between this point and the point for the second section. Be wary that each section needs to have the same dimensions in tiles for this method to work. You can try placing the first and second section manually and look where the tiles got placed
 
-![](/asset/article_images/unity-tilemap-3b.png)
+![](/assets/article_images/unity-tilemap-3b.png)
 
 Calculate the difference between the two positions. The result is the offset we need between the different sections.
 
@@ -212,6 +212,6 @@ Build and run the project. You can now add more entries to the tiles array and t
 
 If they don't align correctly you either need to fix your graphics or change the tile dimensions. To do that select the grid and edit the cellSize.
 
-![](/asset/article_images/unity-tilemap-4.png)
+![](/assets/article_images/unity-tilemap-4.png)
 
 [1]: https://blogs.unity3d.com/2019/03/18/isometric-2d-environments-with-tilemap/
