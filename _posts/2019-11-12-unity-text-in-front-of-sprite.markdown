@@ -19,7 +19,7 @@ I've read multiple discussions online and none of the many answers solved the pr
 
 First add a new sorting layer and place it in front of the default layer, I called it "TextElement".
 
-Note: For this method to work your text needs to be a children of the sprite so if you haven't already drag it on top of the sprite to make it a children.
+Note: For this method to work your text needs to be a children of the sprite. So if you haven't already drag it on top of the sprite to make it a children.
 
 Add a new script to the text element:
 
