@@ -15,11 +15,11 @@ author: Valentino Urbano
 
 *The theme for the book page is taken from the [Book Hamilton][2] template on Github.*
 
-The theme has been slightly edited, but it is mostly as is.
+The theme has been slightly edited, but it is mostly as is. It will create a neat book layout from your markdown files, taking care of chapters automatically.
 
-Copy the css and js files from the Book Hamilton Github repository and import them in  your project. You can look how it is done by going to the [js and css directories][3].
+To start copy the css and js files from the Book Hamilton Github repository and import them in your project. You can look how it is done by going to the [js and css directories][3] of the website.
 
-Add a new collection in your config.yaml file:
+To set up the content for it add a new collection in your config.yaml file:
 
 ```
 collections:
@@ -27,7 +27,9 @@ collections:
       output: true
 ```
 
-Inside the _layouts folder add the layout:
+Change `book-wordpress-to-jekyll` to the name of your folder that includes all the markdown files to generate the book.
+
+Move to the the `_layouts` folder add the layout for the book. This is taken from the hamilton repository and slightly edited:
 
 ```
 <!DOCTYPE html>
@@ -115,7 +117,7 @@ Inside the _layouts folder add the layout:
 </html>
 ```
 
-Finally add the book page. Here you will loop through all the entries in the `book-wordpress-to-jekyll` folder and put the book together on top of adding a table of content in the beginning of the page.
+Finally add the book page. The layout will loop through all the entries in the `book-wordpress-to-jekyll` folder and put the book together. On top that it will be adding a table of content at the beginning of the page.
 
 ```
 ---
@@ -167,9 +169,9 @@ amazon: \#
 <!-- end content-wrapper -->
 ```
 
+I've added a way to easily add a Gumroad and Amazon link to the book directly in the template.
 
-
-
+You can now build the website and go to the folder `book-wordpress-to-jekyll` to see the result.
 
 
 [1]: {% post_url 2019-10-21-The-Road-To-Publish-My-Short-ebook %}
