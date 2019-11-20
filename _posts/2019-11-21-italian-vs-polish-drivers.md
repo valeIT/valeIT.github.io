@@ -21,11 +21,12 @@ You notice that you've passed the border into Italy by counting the number of pe
 
 - People bonking on red
 
-You have surely heard about Napoli, where it is supposed that people ignore the red lights and just go. I have never been there so I cannot confirm or deny the allegations, but we have seen something similar in Turin. It is obviously not widespread and probably just some crazy guy that you might find anywhere, but it is the only place where it actually happened. A car was stopped at a red light and the following car started bonking and screaming for it to go that there was no one.
+You have surely heard about Napoli: everybody is certain that people there ignore any kind of road rules, including red lights and just go through them nonchalantly. I have never been there so I cannot confirm or deny the allegations, but we have seen something similar in Turin. It is obviously not widespread and probably just some crazy guy that you might find anywhere, but it is the only place where it actually happened. A car was stopped at a red light and the following car started bonking and screaming for it to go that there was no one.
 
 - People ignoring stop/yield signs
 
-There are few intersections at my city where if you're a local you know nobody is going to yield at so you need to act accordingly if you want to avoid being in a crash on a weekly basis. They go through it full speed with there being a blind corner where you can't see who's coming at all.
+If you want to avoid being in a car crash on a weekly basis in my city, you need to know which intersections the local population decided that they can ignore respecting the right of the way and they just blaze through. Rules don't apply to them.
+Everyone knows that nobody is going to yield there so you need to be extra careful not to find a car ramming your side because they didn't respect the stop signal. They go through it full speed, even though you can't see if there is someone coming or not since it is behind a blind corner in the road.
 
 - Cutting people off
 
