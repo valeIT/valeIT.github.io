@@ -13,13 +13,15 @@ author: Valentino Urbano
 
 I've now tried Apple TV Plus for a few weeks and I can say that the shows are good, but the software is terrible.
 
-I'm only interested in See and For All Mankind so I did not watch anything else, but both are great and well worth a watch if you like the premises of the series.
+I'm only interested in See and For All Mankind so I did not watch anything else, but both are great and well worth a watch if you like the premises of the series. I prefer For All Mankind between the two, but See has on its side being very original.
 
-Apple strength should be in the software, but apparently it is not. We have seen something similar with the first version of Apple Music, the UI looked good, but it was not usable.
+Apple strength should be in the software, but apparently it is not in this case. We have seen something similar with the first version of Apple Music, the UI looked good, but it was not usable. Searching for similar artists, different albums was a mess and the same is for Apple TV Plus.
 
-I would expect a new app to be far behind the competition when it came to features, but here even the basics are still missing. 
+I would expect a new app to be far behind the competition when it comes to features, so I tried not to judge it too harshly, but here even the basics are missing. 
 
-I won't comment on the mobile/apple tv apps since I'm not using either, I'm simply watching from the website[^1].
+I won't comment on the mobile/apple tv apps since I'm not using either, I'm simply watching from the website[^1], hopefully the native apps offer a better experience.
+
+Just a few points that sticked out:
 
 There is no way to continue a show or if there is (so I'm told) it doesn't work most of the times. The UI looks good, but it is unusable. Apple TV Plus has now a few shows and it is already hard to navigate and find the exact show you want to watch, imagine how it would be if it had more shows, let alone the number of shows any Apple TV Plus competitor has.
 
