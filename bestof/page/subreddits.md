@@ -4,7 +4,9 @@ title: Best Of - Subreddits
 ---
 
 <!-- <h1>{{ site.data.bestof_subreddits.title }}</h1> -->
-
+<div>
+{{ site.data.bestof_subreddits.description }}
+</div>
 {% for bestof in site.data.bestof_books.content %}
  <ul>
     <ol>
