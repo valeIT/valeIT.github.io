@@ -10,7 +10,7 @@ title: Best Of - Articles
 {% for bestof in site.data.bestof_articles.content %}
  <ul>
     <ol>
-        <b>{{ bestof.title }}</b> <br> {{ bestof.description }}
+        <a href={{ bestof.url }}><b>{{ bestof.title }}</b></a> <br> {{ bestof.description }}
     </ol>
   </ul>
   <!-- <p>{{ staff_member | markdownify }}</p> -->

@@ -27,7 +27,7 @@ struct PriceViewModel {
 
 Next we create our container object (manager) to handle persistance/networking and to load out model and make it available to the view. Remember to import Combine and to have your container implement the ObservableObject protocol to be able to use combine automatically:
 
-'''
+```
 import Foundation
 import Combine
 
@@ -50,13 +50,13 @@ class PricePresenter: ObservableObject {
     }
 
 }
-'''
+```
 
 You also need to annotate the model with the @Published keyboard. This will tell Combine to automatically setup the stream for us.
 
 Finally it is time to hook up the view. Since our model is optional we need to handle the initial empty state. I haven't found a great way to do it yet, there are a few methods, but all of them are not great. Hopefully Apple is going to introduce support for `if let` statements inside the body of a `View` soon enough. For now we have to use map that filters out the optionals, this way you can also set a default value.
 
-'''
+```
 import SwiftUI
 
 struct PriceView: View {
@@ -68,7 +68,7 @@ struct PriceView: View {
     }
 
 }
-'''
+```
 
 Note: In this case we are returning the same view from both cases (a Text), if we would have returned different kind of views we would have needed to cast them to AnyView before returning them, otherwise the return type would not match.
 
