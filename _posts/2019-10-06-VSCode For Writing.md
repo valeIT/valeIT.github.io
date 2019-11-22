@@ -11,7 +11,7 @@ image2:
 author: Valentino Urbano
 ---
 
-## VSCode For Great For Writing
+## VSCode Is Great For Writing
 
 I really like Scrivener for anything either long term or with a substantial word count. Its complexity though is usually overkill for the writing most of us do most of the times.
 
