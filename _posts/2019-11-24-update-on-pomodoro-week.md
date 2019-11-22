@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Update on Pomodoro For Blue Light
-date: 2019-11-22 16:28:05.000000000 +01:00
+date: 2019-11-24 16:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
@@ -18,7 +18,7 @@ This is Part 3, you should first read [Part 1][11] and [Part 2][12].
 
 I thought I had found a good application for it, but it doesn't always work. Sometimes it skips a period and you don't really realize that since you're usually too focused on what you're doing to notice. I've used it for a few weeks, but it was just not worth it. The number of times it failed were greater than the ones it notified of the break.
 
-I just can't find a decent application for it. 
+I just can't find a decent application for it.
 
 Here's a few of the problems from most applications I've tried:
 
