@@ -1,3 +1,16 @@
+---
+layout: post
+title: Apple 2019 MacBook Pro
+date: 2019-11-29 16:28:05.000000000 +01:00
+type: post
+published: true
+status: publish
+categories: [Tech]
+image:
+image2:
+author: Valentino Urbano
+---
+
 ## New MacBook
 
 I just bought a MacBook a year ago so I'm not interested in this year's macbook pro, but if I did not I would have surely bought it. It still has many problems, but finally even at Apple, stubborn as they are, have realized that the butterfly keyboard was a complete and utter disaster.
