@@ -1,6 +1,6 @@
 ## New MacBook
 
-I just bought a MacBook a year ago so I'm not interested in this year's macbook pro, but if I did not I would have surely bought it. It still has a lot of problems, but finally even at Apple, stubborn as they are, have realized that the butterfly keyboard was a complete and utter disaster.
+I just bought a MacBook a year ago so I'm not interested in this year's macbook pro, but if I did not I would have surely bought it. It still has many problems, but finally even at Apple, stubborn as they are, have realized that the butterfly keyboard was a complete and utter disaster.
 
 ## PROS
 
@@ -23,8 +23,10 @@ Finally we have a really good microphone already in our mac so during skype/slac
 
 - The Usual Prices
 As always prices are off the charts, but we're unfortunately all used to it.
+
 - Touchbar
 The touchbar is still here, it seems that Apple won't go back on this. It is way worse than having physical keys and the missclicks are still a big problem. I even had to hide a few buttons so that they didn't miss fire so often.
+
 - Ports
 Again the pro mac comes with only 4 USB-C ports and everyone is forced to buy an ugly dongle. Why?
 
