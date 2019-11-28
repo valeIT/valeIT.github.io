@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using A Split Mechanical Keyboard
-date: 2019-11-26 16:28:05.000000000 +01:00
+date: 2019-11-31 16:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
@@ -23,4 +23,4 @@ I've noticed that I'm so used to having a non split keyboard that I grossly unde
 
 In the beginning I also had the thought of changing the layout to dvorak which people say it is faster once you get used to it, but after the hands on experience today it is clear that those 2 problems are too big to be tackled at once. First I need to familiarize myself with the keyboard itself and only after I can try something more.
 
-[0]: {% post_url %}
+[0]: {% post_url 2019-11-30-split-keyboard %}
