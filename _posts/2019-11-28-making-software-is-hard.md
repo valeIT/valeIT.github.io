@@ -37,7 +37,10 @@ Throwing more people into the arena increases complexity so you will waste more 
 
 - Decreasing Scope
 
-The only real solution is a change in scope. If the deadline can't be changed and we also defined that we can increase productivity after a certain extent the only thing left is to cut on features. What is really necessary for the release? Can something be cut out? We've seen this clearly in this year's iOS 13. The OS was not ready for the new iPhone release so Apple decided to ship a version without some of the features announced at WWDC in June and add them a while later with iOS 13.1
+The only real solution is a change in scope. If the deadline can't be changed and we also defined that we can't increase productivity after a certain extent the only thing left is to cut on deliverables (features). What is really necessary for this particular next release? Can something, anything be cut out? What is the minimal amount of feature that we can ship to both satisfy customers and meet the deadline? Those kind of decisions are hard and it will need to be approached differently for each product, but in general git features that are already announced and expected are most likely needed so the cut will happen to quality of life, bug fixes and a few minor features.
+
+We've seen this clearly in this year's iOS 13. The OS was not ready in time for the new iPhone release so Apple decided to ship a version without some of the features announced at WWDC in June. They still  kept the major announcements from WWDC  (Dark Mode and iPad OS) and add the rest later with iOS 13.1. This also marked the first time Apple speed of releases increased significantly, unfortunately in this case this was not a positive since the reason of this was the large amount of bugs still present in in iOS 13 that needed to be fixed as soon as possible. We can all learn a lot from it, the takeaway is that even if you cut something you might not have cut enough things and still end up with more bugs than you like. It would be better to cut one more minor feature and have it ready a few weeks after than shipping one more feature, but not tested enough.
+
 
 ### Time Estimation
 
