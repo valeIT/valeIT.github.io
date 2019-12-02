@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple 2019 MacBook Pro
+title: Apple 2019 16' MacBook Pro
 date: 2019-11-29 16:28:05.000000000 +01:00
 type: post
 published: true
