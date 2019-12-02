@@ -41,7 +41,9 @@ The only real solution is a change in scope. If the deadline can't be changed an
 
 ### Time Estimation
 
-Time estimation in software will always be hard. You are trying to create something when the whole picture is not entirely there until after you've built it. That said you can use some tricks:
+Time estimation in software will always be hard. You are trying to create something when the whole picture is not entirely there until after you've built it. You will be forced to make reasonable assumptions based on your previous projects if you're lucky enough to have worked on a similar product, but even in that case the circumstances and what the client wants is not exactly the same so your estimate will be slightly off.
+
+That said you can use some tricks:
 
 - Increase your estimation
 
