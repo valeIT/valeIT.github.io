@@ -56,8 +56,8 @@ Let me know if you have any questions (either by replying to this email or from 
 
 [2]: https://200wordsaday.com
 [3]: /support
-[4]: https://testflight.apple.com/join/RofFp4Z5
+[4]: https://apps.apple.com/ae/app/teria-write-notes-quickly/id1475731987
 [5]: {% post_url 2019-10-26-It-s-Release-Day %}
 [^1]: This name may change upon release. If it does change the folder will probably be called 'Teria'
-[11]: https://testflight.apple.com/join/RofFp4Z5
+[11]: https://apps.apple.com/ae/app/teria-write-notes-quickly/id1475731987
 [12]: https://play.google.com/store/apps/details?id=com.valentinourbano.markdowneditor
