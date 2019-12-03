@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Jekyll Collections To Setup a Book Page For Your Blog
-date: 2019-10-31 20:28:05.000000000 +01:00
+date: 2019-12-22 20:28:05.000000000 +01:00
 type: post
 published: true
 status: publish
