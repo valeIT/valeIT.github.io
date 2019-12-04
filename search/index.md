@@ -13,6 +13,7 @@ Search by Title, Category, Date or URL:<br>
 
 <!-- Script pointing to search-script.js -->
 <script async src="/js/simple-jekyll-search.min.js" type="text/javascript"></script>
+<!-- <script async src="/node_modules/simple-jekyll-search/dest/simple-jekyll-search.min.js" type="text/javascript"></script> -->
 
 <!-- Configuration -->
 <script>
