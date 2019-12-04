@@ -11,7 +11,7 @@ image2:
 author: Valentino Urbano
 ---
 
-I'm not stranger to broken streaks. With today it happened 3 times. One on Duolingo and twice here.
+I'm not stranger to broken streaks. With today it happened 3 times. One on [Duolingo][1] and twice here.
 
 I was sure I had published an article yesterday, but this morning I found out I had not for some reason. I crosspost all my articles from my blog so I just published it on my blog and forgot to crosspost it here.[^1]
 
@@ -27,3 +27,5 @@ With that I'm not trying to say that the streak is meaningless. It is not, but i
 
 [^1]: That's something I should automate so the possibility of it happening again will be less.
 [^2]: That is not a list of all acceptable reasons, those are mine. Yours may differ.
+
+[1]: {% post_url 2019-07-15-Streaks-on-Duolingo %}
