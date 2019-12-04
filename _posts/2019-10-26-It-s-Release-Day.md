@@ -37,7 +37,7 @@ For feedback or support feel free to [open a ticket][5]
 
 Update: Released a few [updates][6] fixing a few issues including a crash on several Android devices.
 
-[1]: https://testflight.apple.com/join/RofFp4Z5
+[1]: https://apps.apple.com/ae/app/teria-write-notes-quickly/id1475731987
 [2]: https://play.google.com/store/apps/details?id=com.valentinourbano.markdowneditor
 [3]: {% post_url 2019-10-06-Fall-App-Updates %}
 [4]: {% post_url 2019-10-06-Introducing-Teria %}
