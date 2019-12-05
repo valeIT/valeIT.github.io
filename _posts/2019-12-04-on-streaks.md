@@ -11,7 +11,7 @@ image2:
 author: Valentino Urbano
 ---
 
-I'm not stranger to broken streaks. With today it happened 3 times. One on [Duolingo][1] and twice here.
+I'm not stranger to broken streaks. With today it happened 3 times. One on [Duolingo][1] and now twice here.
 
 I was sure I had published an article yesterday, but this morning I found out I had not for some reason. I crosspost all my articles from my blog so I just published it on my blog and forgot to crosspost it here.[^1]
 
