@@ -11,7 +11,7 @@ image2:
 author: Valentino Urbano
 ---
 
-I'm a huge Star Wars fan so view the whole article under this lens. If you're not a Star Wars fan there isn't really much in this game that has not been done bette before in other games, but it being Star Wars makes it special for us.
+I'm a huge Star Wars fan so view the whole article under this lens. If you're not a Star Wars fan there isn't really much in this game that has not been done better before in other games, but it being Star Wars makes it special for us.
 
 ## PLUS
 
@@ -25,7 +25,7 @@ The puzzles are fun and you don't need to read a guide to understand them (most 
 
 - Few bugs
 
-I'm used to experience lots of bugs in a newly released game. Usually during the first month they are pretty unbearable in most AAA games. Here I did not find any major issue. What I found were really minor problems that did not affect the enjoyment of the game at all.
+I'm used to experience lots of bugs in a newly released game. Usually during the first month they are pretty unbearable in most AAA games. Here I did not find any major issues. What I found were really minor problems that did not affect the enjoyment of the game at all.
 
 - Monetization
 
@@ -41,7 +41,7 @@ There is also a map screen which helps, but often the maps are on multiple verti
 
 - Timing puzzles
 
-For a few puzzles (the large majority do not present this problem) you need to time your clicks to be very precise or you will fail it. Even (on my estimation) a 300ms delay will make you fail so this is really bad for people either with disabilities or who wants to enjoy the game without too much stress. This happens even in story mode since it is not related to the combat part of the game but to puzzles.
+For a few puzzles (the large majority do not present this problem) you need to time your clicks to be very precise or you will fail them. Even (on my estimation) a 300ms delay will make you fail so this is really bad for people either with disabilities or who want to enjoy the game without too much stress. This happens even in story mode since it is not related to the combat part of the game but to puzzles.
 
 ## Conclusion
 
