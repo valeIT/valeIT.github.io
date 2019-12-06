@@ -13,7 +13,11 @@ author: Valentino Urbano
 
 # Why a Split Keyboard?
 
-I've been reading a lot about [carpal tunnel syndrome][1] in the last few days and I'm trying to be mentally aware of the position of my hands while typing. On a normal keyboard you cannot keep your wrists aligned since the keys are too close to one another and either the right or the left wrist will have to tilt to reach certain letters. The solution would be to try a split keyboard or a keyboard that has some space between the right and left side of the keyboard. I know one person in the office is already using it and from what he tells me he can now type faster than on a normal keyboard.
+I've been reading a lot about [carpal tunnel syndrome][1] in the last few days and I'm trying to be mentally aware of the position of my hands while typing. Losing the ability to comfortably type must be terrible for any programmer or writer.
+
+On a normal keyboard you cannot keep your wrists aligned with your arm since the keys are too close to one another and either the right or the left wrist will have to tilt to reach certain letters. The solution would be to try a split keyboard or a keyboard that has some space between the right and left side. This way you can use one hand to reach one half and the other hand to reach the other while keeping your wrist mostly sedentary.
+
+I know one person in the office is already using it and from what he tells me he can now type faster than on a normal keyboard.
 
 [1]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwibvNb7143mAhWPuIsKHVKuCN4QFjABegQIAxAB&url=https%3A%2F%2Fmedium.com%2F%40samrosecruz%2Fa-developers-nightmare-carpal-tunnel-syndrome-c00f6cfaa338&usg=AOvVaw2Nq9Lq-CORpkZu6-uGTYkD
 
