@@ -25,11 +25,11 @@ The workflow defines the action that will be taken by Bitrise each time a new bu
 
 - Code Signing
 
-Here you can add the certificates and provisioning profiles if you want to set up code signing manually or use an apple account to set it up automatically.
+For iOS here you can add the certificates and provisioning profiles if you want to set up code signing manually or use an apple account to set it up automatically. For Android you can set up your keystore file, alias and password.
 
 - Secrets
 
-Here you can add Environemnt Variables that are secretly saved by Bitrise that will be kept private.
+Here you can add Environemnt Variables that are secretly saved by Bitrise that will be kept private. They will be saved securely and used by Bitrise, you can edit them freely, but not see them again even if you're logged in.
 
 - Environemnt Variables
 
@@ -43,10 +43,12 @@ Each trigger defines a condition to trigger Bitrise. Conditions can be of 3 kind
   3. Pushing a new git tag
   
  By default Bitrise will trigger for each new commit and pull request, but you can customize this behaviour.
+ 
+ You are not forced to use triggers if you don't want to. You can also trigger a build manually or schedule one in the build section.
 
 - Stack
 
-Here you can define which version of Xcode and mac OS will be used for the CI/CD build.
+Here you can define which version of the OS and development tools (Xcode for iOS, Android Studio for Android) will be used for the CI/CD build. Bitrise is pretty quick in updating them once a new version is available.
 
 - Bitrise.yml
 
