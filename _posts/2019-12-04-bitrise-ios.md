@@ -13,7 +13,11 @@ author: Valentino Urbano
 
 [This post is NOT sponsored, I just like the service.]
 
-Bitrise provides Continuous Integration and Continuous Deployment for iOS and Android applications. Whenever you decide (for example after each new commit) Bitrise will build the run, run the tests and either notify you of problems or if you want it can automatically release a new build to the store.
+Bitrise provides Continuous Integration and Continuous Deployment for iOS and Android applications. For each trigger that you select (for example after each new new commit) Bitrise will build the app, run the test suite and notify you of problems in case of any failure. In case of success it can also automatically release a new build to the store (or to any beta tester) if you so choose.
+
+We will look on how to set it up for an iOS application. The process for Android is fairly similar. Before that we are going to go through each tab in the web console and see how you can use it.
+
+## Website Sections
 
 - Workflow
 
@@ -55,6 +59,18 @@ In the code section you will find the webhook set-up area. Bitrise can set it up
 For Gitlab go to Settings -> Web Hooks -> add the url to the URL field and select the events you want to ping the webhook with.
 For Bitbucket go to Settings -> Webhooks -> Create Webhook -> add the url to the URL field
 For Github go to Settings -> Webhook -> Add webhook -> add the url inside the payload section of the URL field
+
+## Platform Specific Workflow
+
+Most of the shared setup is explained in the "Website Section", the platform specific sections will mostly cover the workflow section.
+
+### iOS Application Setup
+
+
+
+### Android Application Setup
+
+
 
 ## Conclusion
 
