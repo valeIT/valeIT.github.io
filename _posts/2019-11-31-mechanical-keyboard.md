@@ -11,7 +11,7 @@ image2:
 author: Valentino Urbano
 ---
 
-# Why a Split Keyboard?
+## Why a Split Keyboard?
 
 I've been reading a lot about [carpal tunnel syndrome][1] in the last few days and I'm trying to be mentally aware of the position of my hands while typing. Losing the ability to comfortably type must be terrible for any programmer or writer.
 
@@ -21,7 +21,7 @@ I know one person in the office is already using it and from what he tells me he
 
 [1]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwibvNb7143mAhWPuIsKHVKuCN4QFjABegQIAxAB&url=https%3A%2F%2Fmedium.com%2F%40samrosecruz%2Fa-developers-nightmare-carpal-tunnel-syndrome-c00f6cfaa338&usg=AOvVaw2Nq9Lq-CORpkZu6-uGTYkD
 
-# Mechanical keyboard
+## Mechanical keyboard
 
 This brings up to today: I have just bought a mechanical custom made keyboard. It is really hard to use since it is a split keyboard without any label on any of the keys. Because of that my typing speed on it is abysmal. I'm so used to having a 'normal' keyboard that it completely threw me off. I'm also pretty fast at typing on a 'normal' keyboard without looking and I thought that it would translate into a decent performance here as well. Oh boy how wrong I was.
 
@@ -32,3 +32,10 @@ Moving only the fingers instead of the whole hand helps to delay the onset of ca
 I'm so used to having a non split keyboard that I grossly underestimate the distance between keys on the opposite side of the keyboard. Having all keys completely black does not help either. There is no chance of cheating by glancing at the keys.
 
 In the beginning I also had the thought of changing the layout to dvorak which people say it is faster once you get used to it, but after the hands on experience today it is clear that those 2 problems are too big to be tackled at once. First I need to familiarize myself with the keyboard itself and only after I can try something more.
+
+
+## What's next?
+
+I'm going to try to use the keyboard as much as I can, but this won't be as often as I'd like to. I had to decide if I was going to use it at home or at work since bring it to work and back twice a day is not great. It is pretty sturdy, but I still don't think it's ideal. It's probably ok to bring it home during the weekend though.
+
+In the next entry I will take a look at my first few days with it on top of a few more first impressions that are not obvious from one single writing session with it.
