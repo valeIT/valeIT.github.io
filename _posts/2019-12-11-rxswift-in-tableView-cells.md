@@ -12,7 +12,7 @@ author: Valentino Urbano
 ---
 
 
-Each time you have a subscription from inside your tableview cell you have a risk of showing stale data. Generally we have a variable that is strongly held by the view and whenever it is becomes nil the subscription gets cancelled.
+Each time you have a subscription from inside your tableview cell you have the risk of showing stale data. Generally we have a variable that is strongly held by the view and whenever it is becomes nil the subscription gets cancelled.
 
 Since cells are reused and not destroyed this does not happen. If you simply use a variable when the cell gets reused the old subscription will still be active and it will keep sending events to the wrong place. To avoid this problem you should take care of disposing your subscription manually each time the cell gets reused. This is easy and straightforward:
 
