@@ -15,7 +15,7 @@ I'm mostly writing about technology and programming in particular. I plan to con
 
 That doesn't mean that my blog is only limited to those topics as the main argument. It represents what I like so it can and will shift over time since I don't like to have different blogs for different areas. It should be the one place where anyone ([me included][1]) can find (almost) everything that I write online.
 
-I try to vary and write about a lot of different topics. I do not want my blog to be e thematic. I want it to be a reflection of who I am and what i find interesting in life.
+I try to vary and write about a lot of different topics. I do not want my blog to be e thematic. I want it to be a reflection of who I am and what I find interesting in life.
 
 This way though it is hard for someone who is interested in only one topic to follow only what they're interested in since I post daily and I might go a long time talking only about one topic and ignoring the rest.
 
