@@ -52,11 +52,15 @@ Here you can define which version of the OS and development tools (Xcode for iOS
 
 - Bitrise.yml
 
-This is the generated configuration file with everything you have set up in the previous screens. You can also edit this file directly if you prefer.
+This is the generated configuration file with everything you have set up in the previous screens. You can also edit this file directly if you prefer. You can also download this file and later uploading for a different application if you want to save and reuse most of the configuration. Usually the steps to build an application are similar so we tend to keep one file for each platform as a base that we can later tweak for each specific application.
 
 - Add the webhook
 
-In the code section you will find the webhook set-up area. Bitrise can set it up automatically or it can be setup manually by pasting the provided bitrise webhook url inside the appropriate section on Github, Gitlab or Bitbucket. The automatic set up doesn't always work so if you receive an error you will be fo0rced to proceed manually. The process is pretty straightfoward: copy the Bitrise link and paste it in the relevant section on your Git host service.
+A webhook will enable the automation features of Bitrise so you don't have to start each build manually, but Bitrise gets notified of changes (push, pull requests, tags,..) by your git provider. You can se it up from the code section -> webhook set-up area. 
+
+Bitrise can set it up automatically, or it can be setup manually, by pasting the provided bitrise webhook url inside the appropriate section on Github, Gitlab or Bitbucket. The automatic set up doesn't always work so if you receive an error you will be fo0rced to proceed manually.
+
+The process is pretty straightfoward: copy the Bitrise link and paste it in the relevant section on your Git host service.
 
 For Gitlab go to Settings -> Web Hooks -> add the url to the URL field and select the events you want to ping the webhook with.
 For Bitbucket go to Settings -> Webhooks -> Create Webhook -> add the url to the URL field
