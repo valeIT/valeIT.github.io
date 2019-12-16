@@ -52,13 +52,13 @@ Here you can define which version of the OS and development tools (Xcode for iOS
 
 - Bitrise.yml
 
-This is the generated configuration file with everything you have set up in the previous screens. You can also edit this file directly if you prefer. You can also download this file and later uploading for a different application if you want to save and reuse most of the configuration. Usually the steps to build an application are similar so we tend to keep one file for each platform as a base that we can later tweak for each specific application.
+This is the generated configuration file with everything you have set up in the previous screens. You can also edit this file directly if you prefer. You can also download this file and later upload it for a different application if you want to save and reuse most of the configuration. Usually the steps to build an application are similar so we tend to keep one file for each platform as a base that we can later tweak for each specific application.
 
 - Add the webhook
 
 A webhook will enable the automation features of Bitrise so you don't have to start each build manually, but Bitrise gets notified of changes (push, pull requests, tags,..) by your git provider. You can se it up from the code section -> webhook set-up area. 
 
-Bitrise can set it up automatically, or it can be setup manually, by pasting the provided bitrise webhook url inside the appropriate section on Github, Gitlab or Bitbucket. The automatic set up doesn't always work so if you receive an error you will be fo0rced to proceed manually.
+Bitrise can set it up automatically, or it can be setup manually, by pasting the provided bitrise webhook url inside the appropriate section on Github, Gitlab or Bitbucket. The automatic set up doesn't always work so if you receive an error you will be forced to proceed manually.
 
 The process is pretty straightfoward: copy the Bitrise link and paste it in the relevant section on your Git host service.
 
@@ -70,13 +70,41 @@ For Github go to Settings -> Webhook -> Add webhook -> add the url inside the pa
 
 Most of the shared setup is explained in the "Website Section", the platform specific sections will mostly cover the workflow section.
 
+What follows are the steps to build a specific application, what you may need will be slightly different. You may need to add or remove one or multiple steps, but this provides a good starting point.
+
 ### iOS Application Setup
 
+- Activate SSH key
+This will enable SSH access to be able to clone the repository.
+- Git clone repository
+Clones the remote repository to Bitrise.
+- Bitrise cache pull
+If there is something in the cache this will speed up the build process.
+- Certificate and profile installer
+Sets up the certificates and provisioning profile that we uploaded to be used in the build process.
+- Cocoapods install
+Downloads and installs the dependecies required by the application.
+- Run script
+For this project we are using swiftgen to generate swift code to securely access resources and colors at runtime. You can use this step to run any custom script or remove it entirely.
 
+Be mindful that the filesystem on the VM is different so if you want to access the project directory you'd need to access /Users/vagrant/git/ instead.
+- Xcode archive and export
+Builds the application.
+- Deploy to bitrise.io
+Makes the generated application available to download directly from Bitrise web interface.
+- Cache push
+Updates the build cache to speed up subsequent builds.
 
 ### Android Application Setup
 
-
+- Activate SSH key
+- Git clone repository
+- Bitrise cache pull
+- run script
+- install missing android sdk
+- android unit test
+- Deploy to bitrise.io
+- cache push
 
 ## Conclusion
 
