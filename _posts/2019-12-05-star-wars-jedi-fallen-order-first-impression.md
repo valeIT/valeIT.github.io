@@ -31,6 +31,10 @@ I'm used to experience lots of bugs in a newly released game. Usually during the
 
 Finally an EA game that does not have predatory microtransactions or a subcription. What a breath of fresh air.
 
+- Star Wars Story And Characters
+
+If you're a Star Wars fan you're going to like the story and the characters. It is the typical Star Wars story that you would expect with funny and relatable characters. The little droid is the best and will be with you for the whole gameplay. 
+
 ## MINUS
 
 - Confusing maps
@@ -45,4 +49,4 @@ For a few puzzles (the large majority do not present this problem) you need to t
 
 ## Conclusion
 
-Hugely recommended game for any Star Wars fan. Not really much point getting it if you're not a fan of the franchise since it doesn't really add much to the genre apart being in the Star Wars universe.
+Hugely recommended game for any Star Wars fan. Not really much point getting it if you're not a fan of the franchise since it doesn't really add much to the genre apart being set in the Star Wars universe.
