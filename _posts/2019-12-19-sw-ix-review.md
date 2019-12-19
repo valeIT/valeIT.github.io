@@ -1,4 +1,15 @@
-# Star Wars Episode IX The Rise of Skywalker Review
+---
+layout: post
+title: Star Wars Episode IX The Rise of Skywalker Review
+date: 2019-12-19 16:28:05.000000000 +01:00
+type: post
+published: true
+status: publish
+categories: [General]
+image:
+image2:
+author: Valentino Urbano
+---
 
 [Obviously heavy spoilers for the movie and SW 1-9]
 
