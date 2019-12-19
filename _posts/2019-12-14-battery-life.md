@@ -8,7 +8,7 @@ status: publish
 categories: [Tech]
 image:
 image2:
-author:
+author: Valentino Urbano
 ---
 
 I would rather have a thicker device than keep this awful battery life. Even with light use my mac cannot last more than 3-4 hours. Often times I find myself having to interrupt my workflow to go back to a power outlet. Sometimes this is not possible so I have to stop what I'm doing until I get back to a charger. The situation on an iPhone is slightly better since they're actively trying to increase battery life year over year and I don't really use it too much so I never found myself in need of charging it during the day.
