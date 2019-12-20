@@ -26,10 +26,6 @@ commits:
     pattern: /duplicate of/i
     labels:
       - duplicate
-  - action: label
-    pattern: /./ #always add it
-    labels:
-      - "merge when passing"
 
 merges:
   - action: delete_branch
