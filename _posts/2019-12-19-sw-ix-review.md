@@ -27,11 +27,11 @@ George Lucas has said repeatedly that the whole arc of SW 1 to 6 was the fall of
 
 The whole reason for his fall was trying to save Padme. The new trilogy now make it seem that bringing someone back from death is a joke.
 
-The whole idea of the chosen one that would bring balance to the Force that culminated in Vader throwing the Emperor down a shaft in episode 6 is now in shambles. Anakin in the end did not bring balance. He failed to kill the emperor. What a joke. It was all for nothing.
+The whole idea of the chosen one that would bring balance to the Force that culminated in Vader throwing the Emperor down a shaft in episode 6 is now in shambles. Anakin in the end did not bring balance. He failed to kill the Emperor. What a joke. It was all for nothing.
 
 ## No bigger plot
 
-SW 7 to 9 don't have an underline structure at all. They just decided 3 plots for the 3 movies and that's it. They have characters in common, are set in the same universe, and they happen chronologically but apart from that there is not much else going on.
+SW 7 to 9 don't have a structure at all. They just decided 3 standalone plots for the 3 movies and that's it. They have characters in common, are set in the same universe, and they happen chronologically but apart from that there is not much else going on.
 
 Many story arcs started in previous movies were never finished and were just left abandoned (Fin story arc for example) and you can't see an overall story progression from 7 to 9 as you do in 1 to 3 and 4 to 6.
 
@@ -47,7 +47,7 @@ A few egregious examples:
 
 1. Giving life
 
-As I said before the whole Anakin story arc has been destroyed. Now anyone can heal. Force heal is not a new thing, but before it was something really hard to do. Now even bringing people back to life can be done and the whole Darth Plagueis the Wise thing has disappeared. In the old republic with Jedi in peace and studying for millenia they were never able to crack it, not Windu, not Yoda, but we are to believe than now magically it can be done so easily.
+As I said before the whole Anakin story arc has been destroyed. Now anyone can heal. Force heal is not a new thing, but before it was something really hard to do. Now even bringing people back to life can be done and the whole Darth Plagueis the Wise thing has disappeared. In the Old Republic with Jedi in peace and studying for millenia they were never able to crack it, not Windu, not Yoda, but we are to believe than now magically it can be done so easily.
 
 2. Dementors
 
@@ -73,7 +73,7 @@ This is not as egregious as The Force Awakens in which almost the whole movie wa
 
 - Fin needs to say something to Rey and that whole plot is abandoned.
 
-- The Knights Of Ren of appear out of nowhere and go nowhere. They don't even have energy sabers, what they have looks like can be cut off by any lightsaber with ease.
+- The Knights Of Ren appear out of nowhere and go nowhere. They don't even have energy sabers, what they have looks like can be cut off by any lightsaber with ease.
 
 - In the end Ray goes to Tatooine. I would understand if Kylo went there to live like Obi Wan, but Tatooine doesn't mean anything for Ray... They talked about it like the Skywalker loved it. I'm sure both Anakin and Luke hated that place so much (for obvious reasons).
 
@@ -81,7 +81,7 @@ This is not as egregious as The Force Awakens in which almost the whole movie wa
 
 - All the Star Destroyers that are so advanced to kill a planet with one shot can't lift themselves without being guided by a navigation beacon. A beacon that can be destroyed by laser fire. But there is a second beacon on the command ship, but nowhere else because plot.
 
-- Many more (Kylo and Rey kissing, non Jedi surviving in the vacuum of space, Palpatine has manifestations of all the Siths watching the battle while the Jedi are nowhere to be seen[^3]).
+- Many more (Kylo and Rey kissing, non Jedi surviving in the vacuum of space, Palpatine has manifestations of all the Sith watching the battle while the Jedi are nowhere to be seen[^3]).
 
 ## Conclusions
 
