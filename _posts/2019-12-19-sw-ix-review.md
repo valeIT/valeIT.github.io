@@ -91,15 +91,16 @@ The movie is not bad in isolation, but putting the Star Wars logo behind it is s
 
 
 More:
-[Reddit 1][1]
-[Reddit 2][2]
-[Reddit 3][3]
+[Reddit 1][2]
+[Reddit 2][3]
+[Reddit 3][4]
 
 
 [^1]: A special bond happens between master and padawan and not between two random people, no matter how strong in the Force they are. Obi Wan and Yoda for example would be an unstoppable force if they had it, but obviously they did not and how could they?
 [^2]: I've just seen that there was a whole subplot with him that got cut so I guess that's the reason he was in there.
 [^3]: The whole scene "I'm all the Sith that ever lived" and "And I'm all the Jedi" was cringeworthy...
 
-[1]: https://www.reddit.com/r/movies/comments/ec9vvj/star_wars_rise_of_skywalker_review_megathread/
-[2]: https://www.reddit.com/r/StarWars/comments/ebb4tw/discussion_thread_the_rise_of_skywalker_premiere/
-[3]: https://www.reddit.com/r/StarWars/comments/ec8hnl/discussion_thread_the_rise_of_skywalker_opening/
+[1]: {% post_url 2015-12-20-star-wars-the-force-awakens-review %}
+[2]: https://www.reddit.com/r/movies/comments/ec9vvj/star_wars_rise_of_skywalker_review_megathread/
+[3]: https://www.reddit.com/r/StarWars/comments/ebb4tw/discussion_thread_the_rise_of_skywalker_premiere/
+[4]: https://www.reddit.com/r/StarWars/comments/ec8hnl/discussion_thread_the_rise_of_skywalker_opening/
