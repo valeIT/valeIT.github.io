@@ -2,9 +2,7 @@
 
 I have waited a few months before upgrading to Catalina, as I do every single release. It used to be that Apple software would just work, unfortunatrly this has not been the case for many years.
 
-For now I'll just upgrade the mac I use at work since I want to use Swift UI live preview's. If it was not for that I doubt I would upgrade for a while longer. This year's release doesn't really add any worthwhile user facing feature.
-
-We are not using them at work yet and I doubt that will happen for a few years since we still need to support old OS versions, but it is nice to have them ready and being able to test them out and play around with them.
+For now I'll just upgrade the mac I use at work since I want to use Swift UI live preview. If it was not for that I doubt I would upgrade for a while longer. This year's release doesn't really add any worthwhile user facing feature. We are not using them at work yet and I doubt that will happen for a few years since we still need to support old OS versions, but it is nice to have them ready and being able to test them out and play around with them.
 
 ## Installation
 
