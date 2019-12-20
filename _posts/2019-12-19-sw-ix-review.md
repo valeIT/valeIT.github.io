@@ -66,8 +66,11 @@ This is not as egregious as The Force Awakens in which almost the whole movie wa
 ## Others
 
 - Lando doesn't do anything and doesn't add anything to the movie, was nice to see him back though. They had him go around the galaxy asking for help with Chewy...
+
 - Fin needs to say something to Rae and that whole plot is abandoned
+
 - The knights Kylo of appear out of knowhere and go nowhere
+
 - In the end Ray goes to Tatooine. I would understand if Kylo went there to live like Obi Wan, but Tatooine doesn't mean anything for Ray... They talked about it like the Skywalker loved it. I'm sure both Anakyn and Luke hated that place for obvious reasons.
 
 ## Conclusions
