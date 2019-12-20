@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Star Wars Episode IX The Rise of Skywalker Review
+title: Star Wars Episode IX The Rise of Skywalker Review [SPOILERS]
 date: 2019-12-19 16:28:05.000000000 +01:00
 type: post
 published: true
@@ -11,9 +11,9 @@ image2:
 author: Valentino Urbano
 ---
 
-[Obviously heavy spoilers for the movie and SW 1-9]
+[Obviously heavy spoilers for the movie and SW 1 to 9]
 
-Coming in I had really love expectations, unfortunately it was not enough.
+Coming in I had really love expectations, unfortunately that was not enough.
 
 The movie at the same level of shittiness as [The Force Awakens][1] and way worse than The Last Jedi. It seems like Disney doesn't care at all about existing lore.
 
@@ -55,26 +55,30 @@ Force lightning can now destroy a whole fleet. That same force lightning cannot 
 
 ## Palpatine
 
-The whole Palpatine thing was ridiculous. He disappeared for 30 years and now he comes back out of knowhere. He gets introduces in the scrolling credits... And when he does he lasts less than three hours and is dead by the end of the movie.
+The whole Palpatine thing was ridiculous. He disappeared for 30 years and now he comes back out of knowhere, no forthshadowing at all. He gets introduces in the scrolling credits... And when he does he lasts less than three hours and is dead by the end of the movie.
 
 Palpatine has always been a real strategist, especially during the Original Trilogy as we've seen him rise to power. His behaviour here is totally not in line with the character. After having his strenght restored and neutralizing a whole fleet by himself he gets beaten by 2 lightsabers reflecting his lightning back to him in a flashback of Episode 3... We didn't even get a decent fight scene.
 
 ## Copy of Ep 6
 
-This is not as egregious as The Force Awakens in which almost the whole movie was a copy paste, but the final scene of the vault opening to reveal the rebel fleet losing and Ray having to take the throne to save her friends was so cringy. Try to make it feel you're even trying...
+This is not as egregious as The Force Awakens in which almost the whole movie was a copy paste from episode 4, but the final scene of the vault opening to reveal the rebel fleet losing and Ray having to take the throne to save her friends was so cringy. Try to make it look like you're at least trying...
 
 ## Others
 
-- Lando doesn't do anything and doesn't add anything to the movie, was nice to see him back though. They had him go around the galaxy asking for help with Chewy...
+- Lando doesn't do anything and doesn't add anything to the movie, was nice to see him back though. They had him go around the galaxy asking for help with Chewy...[^1]
 
-- Fin needs to say something to Rae and that whole plot is abandoned
+- Fin needs to say something to Rae and that whole plot is abandoned.
 
-- The knights Kylo of appear out of knowhere and go nowhere
+- The knights Kylo of appear out of knowhere and go nowhere. They don't even have energy sabers, what they have looks like can be cut off by any lightsaber with ease.
 
-- In the end Ray goes to Tatooine. I would understand if Kylo went there to live like Obi Wan, but Tatooine doesn't mean anything for Ray... They talked about it like the Skywalker loved it. I'm sure both Anakyn and Luke hated that place for obvious reasons.
+- In the end Ray goes to Tatooine. I would understand if Kylo went there to live like Obi Wan, but Tatooine doesn't mean anything for Ray... They talked about it like the Skywalker loved it. I'm sure both Anakyn and Luke hated that place so much (for obvious reasons).
 
 ## Conclusions
 
-This trilogy is not for fans of the original star wars. New people and kids are going to like it and this is where Disney is focused towards.
+This trilogy is not for fans of the original Star Wars. People new to the franchise and kids are going to like it and this is the audience Disney focused towards.
 
-[1]: {% post_url %}
+The movie is not bad in isolation, but putting the Star Wars logo behind it is such a shame.
+
+[1]: {% post_url 2015-12-20-star-wars-the-force-awakens-review %}
+
+[^1]: I've just seen that there was a whole subplot with him that got cut so I guess that's the reason he was in there.
