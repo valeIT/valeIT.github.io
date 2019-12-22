@@ -21,5 +21,15 @@
         "description": "",
         "id": "LordOfTheRings"
     },
+    {
+        "title": "Mass Effect by Drew Karpyshyn",
+        "description": "",
+        "id": "MassEffect"
+    },
+    {
+        "title": "Shannara by Terry Brooks",
+        "description": "",
+        "id": "Shannara"
+    },
     ]
 }
