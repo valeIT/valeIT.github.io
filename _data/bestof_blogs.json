@@ -2,8 +2,9 @@
     "title": "Best Blogs",
     "description": "",
     "content": [{
-        "title": "Still Empty",
+        "title": "Swift By Sundell",
         "description": "",
-        "id": "StillEmpty"
-    }]
+        "id": "SwiftBySundell"
+    }
+    ]
 }
