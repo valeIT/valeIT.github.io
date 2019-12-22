@@ -13,7 +13,7 @@ author:
 
 <!-- 2014-09-09 -->
 
-[The Tablet Loses](https://brooksreview.net/2014/09/the-tablet-loses/) :
+[The Tablet Loses](https://brooksreview.net/2014/09/the-tablet-loses/):
 >If you could only buy one device out of a laptop, tablet, or phone which would you buy? If it is me I’m buying the phone. It would be annoying, certainly, but my iPhone can do everything my iPad can do, and my iPad can do almost everything my Mac can do. So, there’s that.
 
 I'm not on the same boat at all.
