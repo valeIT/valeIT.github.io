@@ -25,11 +25,11 @@ The puzzles are fun and you don't need to read a guide to understand them (most 
 
 - Few bugs
 
-I'm used to experience lots of bugs in a newly released game. Usually during the first month they are pretty unbearable in most AAA games. Here I did not find any major issues. What I found were really minor problems that did not affect the enjoyment of the game at all.
+I'm used to experiencing lots of bugs in a newly released game. Usually during the first month they are pretty unbearable in most AAA games. Here I did not find any major issues. What I found were really minor problems that did not affect the enjoyment of the game at all.
 
 - Monetization
 
-Finally an EA game that does not have predatory microtransactions or a subcription. What a breath of fresh air.
+Finally an EA game that does not have predatory microtransactions or a subscription. What a breath of fresh air.
 
 - Star Wars Story And Characters
 
@@ -39,7 +39,7 @@ If you're a Star Wars fan you're going to like both the story and the characters
 
 - Confusing maps
 
-That's not necessarely a downside, only a personal preference. A lot of people will love them. And I'm sure that will time they will start making more sense.
+That's not necessarely a downside, only a personal preference. A lot of people will love them. And I'm sure that with time they will start making more sense.
 
 There is also a map screen which helps, but often the maps are on multiple vertical levels adding to the confusion and making the visual map not really super useful in the beginning.
 
