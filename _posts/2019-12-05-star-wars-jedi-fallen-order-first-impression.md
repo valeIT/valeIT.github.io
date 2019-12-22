@@ -33,7 +33,7 @@ Finally an EA game that does not have predatory microtransactions or a subcripti
 
 - Star Wars Story And Characters
 
-If you're a Star Wars fan you're going to like the story and the characters. It is the typical Star Wars story that you would expect with funny and relatable characters. The little droid is the best and will be with you for the whole gameplay. 
+If you're a Star Wars fan you're going to like both the story and the characters. You can expect a typical Star Wars Jedi story alongside funny and relatable characters - the humor is on point as well. The best character is the little droid on the cover and will be with you for the whole gameplay.
 
 ## MINUS
 
