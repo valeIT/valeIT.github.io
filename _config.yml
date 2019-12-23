@@ -10,6 +10,7 @@ plugins:
   - jekyll-time-to-read
   - jekyll-sitemap
   - pagemaster
+  - jekyll-archives
 
 title: "Valentino Urbano"
 description: >
@@ -86,3 +87,21 @@ assets:
     path: ".jekyll-cache/assets"
     type: file # Possible values: memory, file
     enabled: true
+
+jekyll-archives:
+  enabled: [
+    year, month, day, categories #, tags
+  ]
+  layout: archive-tagcategory
+  layouts:
+    year: archive-year
+    month: archive-month
+    day: archive-day
+    category: archive-tagcategory
+    tag: archive-tagcategory
+  permalinks:
+    year: '/archive/:year/'
+    month: '/archive/:year/:month/'
+    day: '/archive/:year/:month/:day/'
+    tag: '/archive/tag/:name/'
+    category: '/archive/category/:name/'
