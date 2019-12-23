@@ -2,8 +2,30 @@
     "title": "Best Subreddits",
     "description": "",
     "content": [{
-        "title": "Still Empty",
-        "description": "",
+        "title": "Handmade Hero by Casey Muratori",
+        "description": "RPG made from scratch (including the engine) with every step clearly explained",
+        "url": "https://www.youtube.com/channel/UCbGQAz4nL_P2Em5p8KPDFIA"
         "id": "StillEmpty"
-    }]
+    },{
+        "title": "Game Maker's Toolkit",
+        "description": "",
+        "url": "https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw"
+        "id": "StillEmpty"
+    },{
+        "title": "Kurzgesagt – In a Nutshell",
+        "description": "Perfectly animated science videos (mostly about space, but not necessarely)",
+        "url": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q"
+        "id": "StillEmpty"
+    },{
+        "title": "Sebastian Lague",
+        "description": "Unity game development and algorithms",
+        "url": "https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ"
+        "id": "StillEmpty"
+    },{
+        "title": "Veritasium",
+        "description": "Science videos",
+        "url": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA"
+        "id": "StillEmpty"
+    }
+]
 }
