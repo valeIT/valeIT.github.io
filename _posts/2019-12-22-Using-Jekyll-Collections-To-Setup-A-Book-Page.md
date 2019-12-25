@@ -13,13 +13,15 @@ author: Valentino Urbano
 
 [For more context read "The Road To Publish My Short ebook" before reading this article][1]
 
+I wanted to use a clean design for the book page. When you're reading anything long form the main focus should be the text without anything that distracts from reading itself. On top of that the design needed to look like a book and not just a simple long blog post. I went through a look of themes designed for books using different engines before deciding on one. Make sure you actually try the theme with your own content before deciding what to use.
+
 *The theme for the book page is taken from the [Book Hamilton][2] template on Github.*
 
-The theme has been slightly edited, but it is mostly as is. It will create a neat book layout from your markdown files, taking care of chapters automatically.
+The theme has been slightly edited, but it is mostly as is. It will create a neat book layout from your markdown files, taking care of chapters automatically. You only need to provide an .md file for each chapter.
 
-To start copy the css and js files from the Book Hamilton Github repository and import them in your project. You can look how it is done by going to the [js and css directories][3] of the website.
+To start setting up the theme copy the css and js files from the Book Hamilton Github repository and import them in your project or existing website. You can look how it is done by going to the [js and css directories][3] of the website.
 
-To set up the content for it add a new collection in your config.yaml file:
+To set up the content for it you need to add a new collection to the Jekyll configuration (by editing your config.yaml file). Add:
 
 ```
 collections:
@@ -27,9 +29,9 @@ collections:
       output: true
 ```
 
-Change `book-wordpress-to-jekyll` to the name of your folder that includes all the markdown files to generate the book.
+Change `book-wordpress-to-jekyll` to the name of the folder that includes all the markdown files necessary to generate the book.
 
-Move to the the `_layouts` folder add the layout for the book. This is taken from the hamilton repository and slightly edited:
+Next go to the the `_layouts` directory add the layout for the book. The following layout is taken from the hamilton repository and slightly edited:
 
 ```
 <!DOCTYPE html>
@@ -169,9 +171,9 @@ amazon: \#
 <!-- end content-wrapper -->
 ```
 
-I've added a way to easily add a Gumroad and Amazon link to the book directly in the template.
+I've also added a way to easily add a Gumroad and Amazon link to the book directly in the template.
 
-You can now build the website and go to the folder `book-wordpress-to-jekyll` to see the result.
+You can now build the website and go to the folder `book-wordpress-to-jekyll` in the browser to see the result.
 
 
 [1]: {% post_url 2019-10-21-The-Road-To-Publish-My-Short-ebook %}
