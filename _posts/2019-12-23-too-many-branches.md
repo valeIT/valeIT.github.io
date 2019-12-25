@@ -17,9 +17,9 @@ While having [a new branch and related pull request][1] for each new article is 
 
 ## Too many branches
 
-On Github this is not a problem since a bot takes care of deleting the remote  branch when it gets merged into master, but on the local machine you're supposed to do that manually. While this is generally the best approach and it makes the most sense since you're supposed to double check that you really merged one branch before merging it, in this specific case I only create a branch with the purpose of pushing it to a remote since I keep my drafts in a different (private) repository.
+On Github this is not a problem since a bot takes care of deleting the remote branch when it gets merged into master, but on the local machine you're supposed to do that manually. While this is generally the best approach and it makes the most sense since you're supposed to double check that you really merged one branch before merging it, in this specific case I only create a branch with the purpose of pushing it to a remote since I keep my drafts in a different (private) repository.
 
-What I really needed was for a quick and easy way to delete all the branched already merged.
+What I really needed was for a quick and easy way to delete all the branches that have already been merged.
 
 Fortunately you can do that with a semi-oneliner:
 
