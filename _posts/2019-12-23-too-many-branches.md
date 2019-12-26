@@ -30,4 +30,4 @@ git checkout master && git pull origin master && git fetch -p && git branch -d $
 The command will delete all the local merged branches apart from the master branch.
 
 [1]: {% post_url 2019-10-23-Automatic-Pull-Request-Management %}
-[2]: [2]: {% post_url 2019-10-19-Treating-My-Blog-Like-A-Production-Application %}
+[2]: {% post_url 2019-10-19-Treating-My-Blog-Like-A-Production-Application %}
