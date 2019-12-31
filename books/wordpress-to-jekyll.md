@@ -6,6 +6,8 @@ gumroad: \#
 amazon: \#
 ---
 
+{% assign items = site.book-wordpress-to-jekyll | sort: 'order_number' %}
+
 <div class="content-wrapper clearfix">
     <div class="toc" id="toc">
         <a href="#" class="toc-title" id="toc-title">
@@ -16,7 +18,7 @@ amazon: \#
 
                 <!-- was: [[ tree_to_html(data.tree) ]] -->
 
-                {% for chapter in site.book-wordpress-to-jekyll %}
+                {% for chapter in items %}
                 <li class="child">
                     <a href="#{{ forloop.index }}">{{ chapter.title }}</a>
                 </li>
@@ -28,7 +30,7 @@ amazon: \#
     <section class="main-content" role="main">
         <div class="main-content-source">
 
-            {% for chapter in site.book-wordpress-to-jekyll %}
+            {% for chapter in items %}
               <a name="{{ forloop.index }}"></a>
               <h1>{{ chapter.title }}</h1>
               {{ chapter.content }}
