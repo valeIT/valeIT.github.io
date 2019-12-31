@@ -41,6 +41,6 @@ When you're busy working on some big project your loved ones are the ones who ge
 
 Does your job define who you are? It's time to stop it.
 
-You work to live, not live to work.
+You work to live. Do not live to work.
 
 [0]: {% post_url 2019-03-15-Defined-by-your-job %}
