@@ -13,7 +13,7 @@ author: Valentino Urbano
 
 Streaming platforms were born as the final answer to cable. The solution to the problem of having 100s of channel and having to pay different rates for each of them. We will have one streaming platform with everything and pay one single fee.
 
-It did not pan out as planned. We now have more than 10 streaming subscriptions each one of them with their own original shows and exclusive publishing deals for specific movies and tv shows and we ended up back where we started. If someone wants to watch some specific content he will have to subscribe to multiple streaming channels and pay multiple subscribptions. This will non duoubtly bring back piracy that seemed to have been killed by the fair pricing on streaming services. Spending 9.99 a month is not a big deal, spending 3 or 4 times as much to watch all the shows you care about is a different story.
+It did not pan out as planned. We now have more than 10 streaming subscriptions each one of them with their own original shows and exclusive publishing deals for specific movies and tv shows and we ended up back where we started. If someone wants to watch some specific content he will have to subscribe to multiple streaming channels and pay multiple subscriptions. This will non doubt bring back piracy that seemed to have been killed by the fair pricing on streaming services. Spending 9.99 a month is not a big deal, spending 3 or 4 times as much to watch all the shows you care about is a different story.
 
 ## Streaming
 
@@ -21,11 +21,13 @@ As an example these are the shows I'd be interested in and the respective platfo
 
 - Game of Thrones (now finished) on HBO Go
 - Chernobyl (now finished) on HBO Go
-- The expanse on Netflix
-- For all mankind on Apple TV Plus
+- Westworld on HBO Go
+- Black Mirror on Netflix
+- For All Mankind on Apple TV Plus
 - Mandalorian on Disney Plus
 - The Man in the High Castle on Amazon Prime Video
 - Tom Clancy's Jack Ryan on Amazon Prime Video
+- The Expanse on Amazon Prime Video
 
 To this we also need to add the movies exclusives since a lot of movies are available on one platform and not the others.
 
