@@ -1,6 +1,6 @@
 # Looking back on 2019
 
-I did not have any year resolution. Instead I prefer to have a [slightly longer timescale][1] for my goals:
+I did not have any New Year's resolution. Instead I prefer to have a [slightly longer timescale][1] for my goals:
 
 >My top 3 plans for the next 5 years:
 >
@@ -20,7 +20,7 @@ I've worked on one web only freelance project this year and it was nice, the cli
 
 ## 3. Write more
 
-This has been a resounding success. I've written every day for more than a year and more than 110k words to date. The only downsides about it is that it being 200 words every day they tend to be short term content which is limiting, but writing long form is a lot more time consuming and I do not have the time to dedicate to it at the moment. Will see in the future.
+This has been a resounding success. I've written every day for more than a year and more than 110k words to date. The only downside about it is that it being 200 words every day they tend to be short term content which is limiting, but writing long form is a lot more time consuming and I do not have the time to dedicate to it at the moment. Will see in the future.
 
 ## 2019
 
