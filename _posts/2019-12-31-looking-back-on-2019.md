@@ -1,4 +1,15 @@
-# Looking back on 2019
+---
+layout: post
+title: Looking back on 2019
+date: 2019-12-31 16:28:05.000000000 +01:00
+type: post
+published: true
+status: publish
+categories: [Me]
+image:
+image2:
+author: Valentino Urbano
+---
 
 I did not have any New Year's resolution. Instead I prefer to have a [slightly longer timescale][1] for my goals:
 
