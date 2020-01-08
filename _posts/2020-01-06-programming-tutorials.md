@@ -11,11 +11,11 @@ image2: /assets/article_images/roman-mager-59976.jpeg
 author: Valentino Urbano
 ---
 
-Everyone has read a tutorial on a programming blog somewhere on some topic they were interested in, but few programmers have a blog and even fewer have ever written a tutorial on it. I've written before at length about why you should have a personal blog so I won't tackle that topic here, but only focus on why you should start thinking about writing tutorials.
+We consume programming tutorials often and as we go on with our carrer we tend to do that less and less. That would be the right time to start writing one instead and share your knowledge with others. Few programmers have a blog and even fewer have ever written an in-depth tutorial on it. I've written before at length about why you should have a personal blog, so I won't tackle that topic here, but only focus on why you should start thinking about writing tutorials.
 
 I have written a few small ones and with each and every one of them, even without having to go into too much depth since they were not very long, I have learned more than I could ever do otherwise on that specifing topic.
 
-The reason is that **before teach others, you need to have understood the topic in its entirety yourself**. You can't get away with skimming some documentation and only understand superficially. It is not going to cut it.
+The reason is that **before teaching others, the topic needs to be cristal clear to yourself first**. Just skimming some documentation is not going to cut it.
 
 Of course this doesn't only apply to programmers[^1], but to any kind of content creation in general. And you? What are you going to write about?
 
