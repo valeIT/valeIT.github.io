@@ -11,15 +11,16 @@ image2:
 author: Valentino Urbano
 ---
 
-*Note: The following code has been written for the new SceneDelegate in iOS13, if you're refactoring a legacy application the code in "scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions)" needs to be moved to the AppDelegate's "application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool".*
+*Note: The code in this article has been written for the new SceneDelegate in iOS13. If you're refactoring a legacy application all the code that we write inside "scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions)" needs to be moved to the corresponding AppDelegate file inside "application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool".*
 
-## MVP-R
+Apple development has for long followed the Apple dictated guideline of using the MVC paradigm of Model/View/Controller. This has been the facto standard since the introduction of the AppStore and iOS SDK in 2008.
 
-MVP is the simplest one of the following, its biggest issue is not providing routing capabilities so the Presenter on top of handling User Interaction and communicating with the netork service/persistance layer has to handle the navigation flow as well. With the addition of a Router we solve this problem.
+As time progressed and apps grew in size and features scaling MVC up became problematic. For that reason many different solutions that promise to solve all the problems with MVC have risen up, and with them strong advocates praising one solution over the other. This is not going to be one of those articles where I rise one up and declare the rest to be useless.
 
-The ViewController acts as a view that gets esposed to the presenter as a protocol (as it happens in VIPER). The Presenter handles the business logic and dispatches the changes back to the view (controller) for display. The router handles the navigation.
+We are going to analyze the most popular choices we have for iOS Development in 2020. This is not going to be a list of all the possible architecture for an iOS application, but only of what I consider relevant today in the industry.
 
 ## MVVM-C
+Model/ViewModel/Coordinator
 
                     Coordinator
                         |
@@ -30,7 +31,9 @@ ViewController <-> ViewModel -> DataManager/Repository/NetworkService
 
 Reactive programming on iOS is mostly done through RxSwift. During 2019 WWDC Apple introduced SwiftUI and Combine which with time will become a good alternative, but at the moment they're still not mature enough to be used espacially considering the iOS13+ requirement.
 
-On top of it we have a coordinator that handles the navigation for a certain feature.
+Since we're focusing on the architecture here I'll be showing a simpler model using callbacks instead of bindings, but the process is the same.
+
+On top of everything we have a coordinator that handles the navigation flow for a certain feature.
 
 First we create the AppCoordinator. This will be the main coordinator for the application and will handle routing to the root screens of the app (for example the login screen if not authenticated and the logged in screen otherwise).
 
@@ -148,7 +151,9 @@ class UserViewModel {
 }
 ```
 
-Notice how we are using callbacks and not delegates to dispatch the result to the controller. Here you chould also use RxSwift to expose a stream of events. We are also keeping a weak reference to the coordinator since we need it if we want to change screen.
+Notice again how we are using callbacks and not delegates to dispatch the result to the controller. If you used standard MVVM you would have RxSwift to expose a stream of events instead of callbacks.
+
+We are also keeping a weak reference to the coordinator since we need it if we want to change screen.
 
 We can now focus on the Controller. Since we don't care about the UI (the focus here is only on the architecture) I will create the controller from code without AutoLayout. This is obviously something you should never do in any kind of application.
 
@@ -999,8 +1004,22 @@ Note how most of the view's code in both cases is set up the various subviews an
 
 You can find the full project on [Github][1].
 
+## MVP-R
+
+MVP is the simplest one of the following, its biggest issue is not providing routing capabilities so the Presenter on top of handling User Interaction and communicating with the netork service/persistance layer has to handle the navigation flow as well. With the addition of a Router we solve this problem.
+
+The ViewController acts as a view that gets esposed to the presenter as a protocol (as it happens in VIPER). The Presenter handles the business logic and dispatches the changes back to the view (controller) for display. The router handles the navigation.
+
+//TODO:
+
+## MVC
+
+//TODO: 
+
 ## What should I use?
 
-You should not just use of architecture and stick with it no matter what. What architecture to use depends heavily on what kind of application you're building and what it is trying to do. An application that shows a couple of screens from a JSON request is completely different from an application that handles a social networking application with user login, registration, front page, timeline, private messaging, ...
+You should not just use of architecture and stick with it no matter what. What architecture to use depends heavily on what kind of application you're building and what it is trying to make.
+
+An application that shows a couple of screens from a JSON request is completely different from an application that handles a social networking application with user login, registration, front page, timeline, private messaging, ...
 
 Getting so stuck with one architecture and using it everywhere indiscriminately means fitting a round peg in a square hole.
