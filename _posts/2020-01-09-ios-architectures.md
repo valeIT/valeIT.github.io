@@ -175,7 +175,7 @@ final class UserViewController: UIViewController {
 }
 ```
 
-This way we have easy dependency injection of the viewModel. We can now add the basic UI:
+This way we have easy dependency injection of the viewModel. We initialize all the views from code, but obviously they can be created however you like.
 
 ```
 weak var label: UILabel?
@@ -1006,7 +1006,7 @@ You can find the full project on [Github][1].
 
 ## MVP-R
 
-MVP is the simplest one of the following, its biggest issue is not providing routing capabilities so the Presenter on top of handling User Interaction and communicating with the netork service/persistance layer has to handle the navigation flow as well. With the addition of a Router we solve this problem.
+MVP is the simplest one of the alternatives (exclusing MVC), its biggest issue is not providing routing capabilities so the Presenter on top of handling User Interaction and communicating with the netork service/persistance layer has to handle the navigation flow as well. With the addition of a Router we solve this problem.
 
 The ViewController acts as a view that gets esposed to the presenter as a protocol (as it happens in VIPER). The Presenter handles the business logic and dispatches the changes back to the view (controller) for display. The router handles the navigation.
 
