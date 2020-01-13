@@ -11,7 +11,7 @@ image2:
 author: Valentino Urbano
 ---
 
-At work whenever we don't need emails we use Slack. You can say we use it for everything. I guess most companies do the same nowadays. Some times though it is used too much and for the wrong use cases. The secret in effectively using Slack is knowing what it is for and what it is not.
+At work whenever we don't need emails we use Slack. You can say we use it for everything. I guess most companies do the same nowadays. Sometimes though it is used too much and for the wrong use cases. The secret in effectively using Slack is knowing what it is for and what it is not.
 
 - Chat
 
@@ -19,7 +19,7 @@ Slack is a chat app and it is definitely not where to keep your documentation or
 
 - Groups
 
-Groups are great. When you have a discussion about something that relates to the whole project or part of it or in any other case that interests more than 1 person create a group for it. Try to avoid using direct messages if it's not strickly necessary so other people can take advantage of what was discussed and can keep up to date without having to always ask the same questions. As before make sure to finally extract the resulting documentation out of Slack for later use.
+Groups are great. When you have a discussion about something that relates to the whole project or part of it or in any other case that interests more than 1 person create a group for it. Try to avoid using direct messages if it's not strictly necessary so other people can take advantage of what was discussed and can keep up to date without having to always ask the same questions. As before make sure to finally extract the resulting documentation out of Slack for later use.
 
 - Rich Content
 
@@ -42,7 +42,7 @@ It integrates well with Google calendar to let other people know if you're in a 
 
 - Status
 
-Use status. We try to always set our status accordingly to our availability so people know when it's ok to ping you and if they should expect a prompt answer from you or not. We have different status for working remotely, taking a break, on holidays or sick leave. We also tent to write which hours we'll be working remotely so the whole team is aware of it.
+Use status. We try to always set our status accordingly to our availability so people know when it's ok to ping you and if they should expect a prompt answer from you or not. We have different status for working remotely, taking a break, on holidays or sick leave. We also tend to write which hours we'll be working remotely so the whole team is aware of it.
 
 - Default Channels
 
