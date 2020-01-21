@@ -13,7 +13,7 @@ author: Valentino Urbano
 
 *Note: The code in this article has been written for the new SceneDelegate in iOS13. If you're refactoring a legacy application all the code that we write inside "scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions)" needs to be moved to the corresponding AppDelegate file inside "application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool".*
 
-Apple development has for long followed the Apple dictated guideline of using the MVC paradigm of Model/View/Controller. This has been the facto standard since the introduction of the AppStore and iOS SDK in 2008.
+Apple development has, for a long time, followed the Apple dictated guideline of using the MVC paradigm of Model/View/Controller. This has been the de facto standard since the introduction of the AppStore and iOS SDK in 2008.
 
 As time progressed and apps grew in size and features scaling MVC up became problematic. For that reason many different solutions that promise to solve all the problems with MVC have risen up, and with them strong advocates praising one solution over the other. This is not going to be one of those articles where I rise one up and declare the rest to be useless.
 
@@ -307,7 +307,7 @@ Update the controller to add a callback to the viewModel for each action:
     }
 ```
 
-Finally we update the coordinator with the code to navigate to the final scren:
+Finally we update the coordinator with the code to navigate to the final screen:
 
 ```
 import UIKit
@@ -334,7 +334,7 @@ final class UserCoordinator {
 }
 ```
 
-Push next is straightforward since we are just pushing the same controller so it is a continuation of the same flow so we do not need a new coordinator for it, but the detail screen might itself start a flow so we need a different  coordinator to handle it:
+`Push next` is straightforward since we are just pushing the same controller. It is a continuation of the same flow so we do not need a new coordinator for it. On the other hand the detail screen might start a new navigation flow so we need a different coordinator to handle it:
 
 ```
 import UIKit
@@ -496,7 +496,7 @@ You can find the full project on [Github][1].
 View <-> Presenter -> Interactor -> DataManager/Repository/NetworkService
 
 
-If your app is really complicated VIPER gives you a clear split or responsibilities. The offside is having to maintain a lot of files for each screen.
+If your app is really complicated VIPER gives you a clear separation of responsibilities. The offside is having to maintain a lot of files for each screen.
 
 Create the AppWireframe in the SceneDelegate and keep a strong reference to it so it does not get deallocated:
 
@@ -593,7 +593,7 @@ final class CountDataManager {
 }
 ```
 
-Not muc going on here. In the interactor we have the business logic and it acts as a middleman between the presenter and the DataManager:
+Not much going on here. In the interactor we have the business logic and it acts as a middleman between the presenter and the DataManager:
 
 ```
 final class CountInteractor {
@@ -1022,7 +1022,7 @@ The ViewController acts as a view that gets esposed to the presenter as a protoc
 
 ## What should I use?
 
-You should not just use of architecture and stick with it no matter what. What architecture to use depends heavily on what kind of application you're building and what it is trying to make.
+You should not just use one architecture and stick with it no matter what. What architecture to use depends heavily on what kind of application you're building and what it is trying to do.
 
 An application that shows a couple of screens from a JSON request is completely different from an application that handles a social networking application with user login, registration, front page, timeline, private messaging, ...
 
