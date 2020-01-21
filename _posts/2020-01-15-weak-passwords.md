@@ -11,7 +11,7 @@ image2:
 author: Valentino Urbano
 ---
 
-When I started using 1Password I manually imported the logins I remembered and changed the passwords for the most important ones. The others were left with relatively weak passwords, but if they got compromised nothing bad would happen. A few days ago I became curious  and started trying to find out which account were part of this group after almost a decade.
+When I started using 1Password I manually imported the logins I remembered and changed the passwords for the most important ones. The others were left with relatively weak passwords, but if they got compromised nothing bad would happen. A few days ago I became curious  and started trying to find out which of the accounts were part of this group after almost a decade.
 
 ## How To Show Weak passwords in 1Password
 
