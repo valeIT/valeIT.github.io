@@ -11,7 +11,7 @@ image2:
 author: Valentino Urbano
 ---
 
-I've seen a lot of complicated guides on how to keep your old light/dark theme while supporting iOS 13 Dark Mode seamlessly. The truth is that it doesn't need to be that complicated.
+I've seen a lot of complicated guides on how to keep your old light/dark theme while supporting iOS 13 Dark Mode seamlessly. The truth is it doesn't need to be that complicated.
 
 ## How to set it up
 
@@ -37,9 +37,9 @@ We can now take a look at how to use it. While the set up process was long and t
 
 1. If the user is on iOS 13 you will always force select the light theme of your custom theme.
 
-Since the light theme will always return the light color from the asset catalogue, and the light color is versioned with both dark and light appearances, iOS will automatically switch between the .light and .dark color automatically. Done.
+Since the light theme will always return the light color from the asset catalogue, and the light color is versioned with both dark and light appearances, iOS will automatically switch between the .light and .dark color. Done.
 
-2. If the user is on a previous OS you will show the switch to change between the light and dark theme as you did before. And in code, just as before either use the normal color or the custom dark color that we created in the asset catalogue assigning it a different name by switching manually.
+2. If the user is on a previous version of the OS you will show the switch to change between the light and dark theme as you did before. And in code, just as before either use the normal color or the custom dark color that we created in the asset catalogue assigning it a different name by switching manually.
 
 A great pro of this method is that you do not need to change your code everywhere since the behaviour of the code did not change. The only part that needs to change is which custom theme is selected for iOS13. You also need to change the colors, but you needed to do that anyway even if you didn't want to keep backward compatibility.
 
