@@ -11,7 +11,7 @@ image2:
 author: Valentino Urbano
 ---
 
-*Before reading this post you should be familiar with **RxSwift** and Reactive Programming. It is also fine if you use another framework of the Rx family on anothe platform since the whole idea of rx is that it keeps one syntaxt for different platforms.*
+*Before reading this post you should be familiar with **RxSwift** and Reactive Programming. It is also fine if you use another framework of the Rx family on another platform since the whole idea of rx is that it keeps one syntaxt for different platforms.*
 
 ReplaySubject is useful when the reactive part of the application comes into contact with the imperative part and for any reason (let it be the sdk or something it has to interact to) the imperative part cannot be converted. It is a way to make a bridge between the 2 worlds.
 
