@@ -11,7 +11,7 @@ image2:
 author: Valentino Urbano
 ---
 
-I've seen a lot of complicated guides on how to keep your old light/dark theme while supporting iOS 13 Dark Mode seamlessly. The truth is it doesn't need to be that complicated.
+I've seen a lot of complicated guides on how to keep your old light/dark theme while supporting iOS 13 Dark Mode seamlessly. The truth is that it doesn't need to be complicated.
 
 ## How to set it up
 
