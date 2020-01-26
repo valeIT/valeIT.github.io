@@ -40,7 +40,7 @@ struct User {
 extension User: Codable {}
 ```
 
-That's all you need.
+That's all you need. Swift will automatically encode and decode the model for you from and to a Data object.
 
 ```
 //Get the 'Data' from the body of the response
