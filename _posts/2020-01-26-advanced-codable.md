@@ -42,12 +42,16 @@ extension User: Codable {}
 
 That's all you need. Swift will automatically encode and decode the model for you from and to a Data object.
 
+The only thing you need to manually do is to instantiate the decoder or encoder and pass the object to decode/encode.
+
+If you need to decode an object:
+
 ```
 //Get the 'Data' from the body of the response
 let user = JSONDecoder().decode(data) //decode
 ```
 
-If you need to create a request instead:
+If you need to encode it instead:
 
 ```
 let user = User(name: "John", surname: "Smith")
@@ -57,9 +61,9 @@ let json = JSONEncoder().encode(user)
 
 ## Handling Dynamic Keys
 
-To do that we are going to need a DynamicKey that can hold anything:
+Handling dynamic keys is not supported by default using Codable. To be able to decode or encode an object that contains a key that is dynamic we need to create a custom DynamicKey object that can hold anything:
 
-
+```
 import Foundation
 
 //https://gist.github.com/samwize/a82f29a1fb34091cd61fc06934568f82
@@ -75,11 +79,13 @@ struct DynamicKey : CodingKey {
         self.intValue = intValue
     }
 }
+```
+Make sure that you implement the CodingKey protocol, this way the key can be used as a key by Codable. You'd want to add initializers for any type that the key supports (in this case just Int and String).
 
 
+We can now go back to the object we want to decode that implements that custom key and implement manual decoding for it. While using a custom key this way automatic decoding is not supported so you need to manually write the implementation of `init(from decoder: Decoder) throws`:
 
-We can now implement manual decoding for our user object:
-
+```
 import Foundation
 
 struct User {
@@ -108,7 +114,7 @@ extension User: Decodable {
    self.currentAccount = model
 
    //linked accounts
-   if let linkedAccounts = try? container.nestedContainer(keyedBy: DynamicKey.self, forKey: .linkedAccounts) {
+   if let linkedAccounts = try? container.nestedContainer(keyedBy: DynamicKey.self, forKey: .linkedAccounts) {//1
        var accountValues: [UserInfo] = []
        for key in linkedAccounts.allKeys {
            let value = try linkedAccounts.decode(String.self, forKey: key)
@@ -120,8 +126,11 @@ extension User: Decodable {
    }
     }
 }
+```
 
+1. We try to get the object that has for the the custom key and loop through the keys in the dictionary to map it to our model object.
 
+This is just an example of how you can use it, but it is very powerful. This way you do noyt necessarely need to have a model that looks very similar to the json object returned by the api with the disadvantage of having to write the decoding function manually.
 
 ## Automatic Conversion
 
