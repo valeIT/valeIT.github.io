@@ -134,6 +134,8 @@ This is just an example of how you can use it, but it is very powerful. This way
 
 ## Automatic Conversion
 
+What follows are a few example on how to setup your Encoder and Decoder object to automatically handle certain common case conversions without having to handle them each time in the model object. This way you don't need to include custom logic for the conversion in the model, but they will live in the encoder/decoder.
+
 **Keys**
 
 ```
