@@ -161,7 +161,7 @@ I run through one caveat using this method. We had occurences of snake case keys
 
 **Dates**
 
-Using this approach it is also possible to automatically convert dates using `.dateEncodingStrategy` and `.dateDecodingStrategy`.
+Using this approach it is also possible to automatically convert dates from and to strings automatically applying the correct formatting required by the server. You can use the `.dateEncodingStrategy` and `.dateDecodingStrategy` properties to set what kind of encoding/decoding to apply for any date.
 
 ```
     let decoder: JSONDecoder = {
@@ -176,8 +176,12 @@ Using this approach it is also possible to automatically convert dates using `.d
   }()
 ```
 
-The options are [listed in this doc from Apple][2], but most of the times you will be using a custom data formatter as shown.
+The full list of options are [listed in this doc from Apple][2], but most of the times you will be using a custom data formatter as shown in the example. A few on the most common ones are:
 
+- `.iso8601`
+- `.seconds/millisecondsSince1970` - If the server returns an Int instead of a date representing the seconds/ms since epoch.
+
+If you want to provide your own custom implementation of the decoding/encoding process without using a date formatter object that's possible as well by using `.custom` and implementing the following callback `((Date, Encoder) throws -> Void)` or `((Date, Decoder) throws -> Void)`.
 
 ## Custom Encode Using Type Erasure
 
