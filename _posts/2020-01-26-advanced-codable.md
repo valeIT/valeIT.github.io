@@ -185,8 +185,15 @@ If you want to provide your own custom implementation of the decoding/encoding p
 
 ## Custom Encode Using Type Erasure
 
-We had one case where we needed the result to be .urlInBody, but as json encoded string since we were using a legacy api that only accepted such input. There was no straight way to do it so we had to go the long way around. In the end the api was changed so we could remove this not so great code, but it shows the power of type erasure in Swift.
+We had one case where we needed the result to be .urlInBody, but as json encoded string since we were using a legacy api that only accepted such input. There was no straight way to do it using the framework and networking stack we had and changing them to support such use case automatically was too much worse since we knew that this was only something needed as a workaround for a short time until we could adopt a new more straightforward api and was limited to only one endpoint. Because of all those reasons we decided to go the long way around.
 
+After a few months the api was changed and we could remove this workaround. 
+
+The one thing that this code does well is showing the power of type erasure in Swift. By using type erasure you can avoid the error "X cannot conform to protocol Y since only concrete types can conform to protocol", common if you use a lot of protocol oriented programming.
+
+First some helper methods we are going to need for this example.
+
+```
 extension Data {
     func asDictionary() throws -> [String: Any] {
         guard let dictionary = try JSONSerialization.jsonObject(with: self, options: .allowFragments) as? [String: Any] else {
@@ -198,8 +205,10 @@ extension Data {
         return String(data: self, encoding: .utf8)
     }
 }
+```
 
-
+This is where we generate the json string. Notice how we need a value that implements Encodable, but we cannot pass `Encodable` directly. To solve this problem we are going to use type erasure with `AnyEncodable`.
+```
 struct StringEncoding: Encodable {
     let value: AnyEncodable
     let encoder: JSONEncoder
@@ -218,13 +227,21 @@ struct StringEncoding: Encodable {
         try container.encode(self)
     }
 }
+```
 
+Finally we implement `SingleValueEncodingContainer` to be able to encode `StringEncoding` to a single value since it's what we wanted in the first place.
+
+```
 extension SingleValueEncodingContainer {
     mutating func encode(_ value: StringEncoding) throws {
         try encode(value.valueString)
     }
 }
+```
 
+`AnyEncodable` wraps the Encodable protocol to type erase it and be able to use it inside the `StringEncoding` struct.
+
+```
 struct AnyEncodable: Encodable {
 
     private let encodable: Encodable
@@ -237,7 +254,9 @@ struct AnyEncodable: Encodable {
         try encodable.encode(to: encoder)
     }
 }
+```
 
+You can use type erasure to wrap any kind of protocol. If you want to see some examples from Apple SwiftUI uses it extensively.
 
 ## Custom Single Value Decoder
 
