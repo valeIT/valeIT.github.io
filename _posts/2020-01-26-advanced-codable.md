@@ -208,6 +208,7 @@ extension Data {
 ```
 
 This is where we generate the json string. Notice how we need a value that implements Encodable, but we cannot pass `Encodable` directly. To solve this problem we are going to use type erasure with `AnyEncodable`.
+
 ```
 struct StringEncoding: Encodable {
     let value: AnyEncodable
@@ -229,7 +230,7 @@ struct StringEncoding: Encodable {
 }
 ```
 
-Finally we implement `SingleValueEncodingContainer` to be able to encode `StringEncoding` to a single value since it's what we wanted in the first place.
+Finally we implement `SingleValueEncodingContainer` to be able to encode `StringEncoding` to a single value, since it's what we wanted in the first place.
 
 ```
 extension SingleValueEncodingContainer {
@@ -239,7 +240,7 @@ extension SingleValueEncodingContainer {
 }
 ```
 
-`AnyEncodable` wraps the Encodable protocol to type erase it and be able to use it inside the `StringEncoding` struct.
+`AnyEncodable` wraps the Encodable protocol to type erase it and be able to use it inside the `StringEncoding` struct. This is not only used for encodable, but you may use this tecnique for any protocol.
 
 ```
 struct AnyEncodable: Encodable {
@@ -256,7 +257,7 @@ struct AnyEncodable: Encodable {
 }
 ```
 
-You can use type erasure to wrap any kind of protocol. If you want to see some examples from Apple SwiftUI uses it extensively.
+You can use type erasure to wrap any kind of protocol. If you want to see some examples from Apple, SwiftUI uses it extensively.
 
 ## Custom Single Value Decoder
 
