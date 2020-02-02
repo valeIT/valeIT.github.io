@@ -261,10 +261,15 @@ You can use type erasure to wrap any kind of protocol. If you want to see some e
 
 ## Custom Single Value Decoder
 
-If you need to wrap a value inside a struct or an object, but the json for that property is a single value, you might have thought that you had to create one struct to decode the object closely matching the server response and another to do what you wanted.
+If you need to wrap a value inside a struct or an object, but the json for that property is a single value, you might have thought that you had to create one additional structure to decode it. This structure closely matching the server response in able to take advantage of the Codable protocol. A different structure would be needed to later do what you wanted with the data.
 
-While this approach may have its merits, it is not needed in this case. The struct can use SingleValueDecodingContainer and SingleValueEncodingContainer to tell Swift that this struct can be decoded and encoded to a single value.
+While this approach may have its merits, and it is usually advisable (for an architecture that uses this extensively [look no further than MVVM-C][5]), it is not needed if you don't want to use it.
 
+The solution is taking advantage of `SingleValueDecodingContainer` and `SingleValueEncodingContainer` to tell Swift that this struct can be decoded and encoded to a single value. The disadvantage of this approach is that you can't take advantage of automatic `Codable` comformance, you have to implement `init(from decoder` and `func encode(to encoder` manually.
+
+Here's how you would go to implement it:
+
+```
 struct DecimalString: Codable {
 
     let string: String
@@ -283,7 +288,11 @@ struct DecimalString: Codable {
         try container.encode(self)
     }
 }
+```
 
+After taking care of the struct and its `Codable` conformance we now need to implement `SingleValueDecodingContainer` and `SingleValueEncodingContainer`. That's straightforard as well:
+
+```
 extension SingleValueDecodingContainer {
     func decode(_ type: DecimalString.Type) throws -> DecimalString {
         if let decimalString = try? decode(String.self) {
@@ -302,8 +311,9 @@ extension SingleValueEncodingContainer {
         try encode(value.string)
     }
 }
+```
 
-In decode and encode you need to specify your custom encoding and decoding fuctions telling how to turn the single value into this struct and viceversa.
+In decode and encode you need to specify your custom encoding and decoding fuctions telling how to turn the single value into this struct and viceversa, just as you do while implementing Codable.
 
 ## Speed
 
@@ -317,3 +327,4 @@ All of this is not really noticeable if the number of objects that you are encod
 [2]: https://developer.apple.com/documentation/foundation/jsonencoder/dateencodingstrategy
 [3]: https://flight.school/articles/benchmarking-codable/
 [4]: https://medium.com/@zippicoder/performance-of-decoding-automatically-in-swift4-f089831f05a5
+[5]: {% post_url 2020-01-09-ios-architectures %}
