@@ -257,11 +257,11 @@ struct AnyEncodable: Encodable {
 }
 ```
 
-You can use type erasure to wrap any kind of protocol. If you want to see some examples from Apple, SwiftUI uses it extensively.
+You can use type erasure to wrap any kind of protocol. It is used to wrap a protocol and turn it into a structure making it more generic. If you want to see some examples from Apple, SwiftUI uses it extensively. 
 
 ## Custom Single Value Decoder
 
-If you need to wrap a value inside a struct or an object, but the json for that property is a single value, you might have thought that you had to create one additional structure to decode it. This structure closely matching the server response in able to take advantage of the Codable protocol. A different structure would be needed to later do what you wanted with the data.
+While using Codable there might have been cases when you need to wrap a value inside a struct or an object, but the json for that property is a single value. You might have thought that you had to create one additional structure to decode it. This structure would closely match the server response in order to take advantage of the Codable protocol. A different structure would be needed later to turn the data into the format you need it.
 
 While this approach may have its merits, and it is usually advisable (for an architecture that uses this extensively [look no further than MVVM-C][5]), it is not needed if you don't want to use it.
 
