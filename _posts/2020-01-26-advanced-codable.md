@@ -290,7 +290,7 @@ struct DecimalString: Codable {
 }
 ```
 
-After taking care of the struct and its `Codable` conformance we now need to implement `SingleValueDecodingContainer` and `SingleValueEncodingContainer`. That's straightforard as well:
+After taking care of the struct and its `Codable` conformance we now need to implement `SingleValueDecodingContainer` and `SingleValueEncodingContainer` to be able to decode and encode down to a single value "hiding" the structure as an implementation detail. That's straightforard as well:
 
 ```
 extension SingleValueDecodingContainer {
