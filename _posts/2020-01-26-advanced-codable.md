@@ -317,14 +317,25 @@ In decode and encode you need to specify your custom encoding and decoding fucti
 
 ## Speed
 
-If you really care about speed you should stick with NSJSONSerialization in [all cases it is faster][3] (on average Codable takes 2x the time).
+Before ending this article I want to talk about speed. In the beginning I naively assumed that the speed would be comparable to using the old NSJSSONSerialization, [since it's mostly wrapping it][6], but that's not the case at all.
 
-But also while using Codable the differences between different approaches [is significant][4]. Implementing encode() and decode() manually instead of having them automatically generated slows the process down by another 2x.
+If you really care about performance you should stick with NSJSONSerialization in [all cases, as it is way faster][3]. On average Codable takes 2x the time as NSJSONSerialization.
 
-All of this is not really noticeable if the number of objects that you are encoding and decoding is reasonable.
+But also while using Codable, the differences between using one approach against the other [is significant][4]. Implementing the `encode()` and `decode()` methods manually, instead of having them automatically generated buy the compiler, slows the process down by another 2x on average. You can read the two linked article for more details and analysis. There is one caveat though, in case of very complex objects this is reversed and [the manual way is faster than the automatically generated one][4].
+
+All of this is not really noticeable if the number of objects that you are encoding and decoding is reasonably limited. If you are working on a lot of objects (more than 1000) you really should start thinking about it[^1].
+
+
+## Epilogue
+
+You're now an expert at using Codable in Swift and have learned its strength and shortcomings. If you are working on an application that uses something different for serialization and looking to moving over to the Apple suggested way remember that you do not need to convert everything right away. You convert one model object every time you have time to refactor and you'll be done in no time.
+
+
+[^1]: You should also think about why on Earth are you loading 1000 items all at once, but in some cases you need to for legacy reasons =)
 
 
 [2]: https://developer.apple.com/documentation/foundation/jsonencoder/dateencodingstrategy
 [3]: https://flight.school/articles/benchmarking-codable/
 [4]: https://medium.com/@zippicoder/performance-of-decoding-automatically-in-swift4-f089831f05a5
 [5]: {% post_url 2020-01-09-ios-architectures %}
+[6]: https://github.com/apple/swift/blob/d93e0dfa01ddd897ba733b6a2d43b05e2f0073f9/stdlib/public/SDK/Foundation/JSONEncoder.swift#L1105
