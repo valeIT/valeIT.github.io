@@ -326,7 +326,7 @@ But also while using Codable, the differences between using one approach against
 All of this is not really noticeable if the number of objects that you are encoding and decoding is reasonably limited. If you are working on a lot of objects (more than 1000) you really should start thinking about it[^1].
 
 
-## Epilogue
+## Conclusion
 
 You're now an expert at using Codable in Swift and have learned its strength and shortcomings. If you are working on an application that uses something different for serialization and looking to moving over to the Apple suggested way remember that you do not need to convert everything right away. You convert one model object every time you have time to refactor and you'll be done in no time.
 
