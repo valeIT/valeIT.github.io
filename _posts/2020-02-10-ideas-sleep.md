@@ -17,3 +17,5 @@ I very often get new ideas for stories at night while I'm about to fall asleep a
 Lately I decided to stop writing them down and sleep instead following the thought that if they're really important they're going to come back again some other time. That resulted in missing on quite a lot of ideas though since a significant portion did not.
 
 I'm still unsure on the best approach for it, but for now I'm following this course since I consider having a healthy dose of sleep every night to be of paramount importance.
+
+[ So in the end this was slightly sleep related as well, but it is definitely not the story I was referring to in the previous post. That one will come soon. ]
