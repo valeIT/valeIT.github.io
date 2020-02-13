@@ -1,4 +1,15 @@
-# Better Sleep - Timings
+---
+layout: post
+title: Better Sleep - Timings
+date: 2020-01-13 16:28:05.000000000 +01:00
+type: post
+published: true
+status: publish
+categories: [General]
+image:
+image2:
+author: Valentino Urbano
+---
 
 I used to go to sleep at 1am on a regular basis and wake up at 8:30. That would leave me with an average of 7 hours of sleep. Not awful, but surely not good. Not counting the days when I had to wake up at 7 for one or the other reason.
 
