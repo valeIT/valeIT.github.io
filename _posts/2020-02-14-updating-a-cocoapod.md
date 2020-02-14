@@ -25,6 +25,8 @@ The key is stored in the user's local machine that has published the framework t
 
 #### Publishing An Update
 
+Now that all the necessary pieces are set up we can actually start working on publishing the update.
+
 1. Make your changes to the code making sure to understand that updating a framework is not like updating an app. Other people are making use of the API you provide. If there are changes in the API you need to have deprecation warnings/errors for the removed/changed functionality. Consider having both working at once for some time to give your users the time to update their code to take advantage of the new APIs.
 
 1. Push them to a remote
