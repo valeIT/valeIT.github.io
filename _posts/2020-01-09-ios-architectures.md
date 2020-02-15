@@ -1002,23 +1002,510 @@ extension DetailViewController: DetailViewInterface {
 
 Note how most of the view's code in both cases is set up the various subviews and link the actions that the user can perform. That's the whole range of responsibilities of the view. The presenter will convert that user intent to an action to dispatch to either the interactor or the wireframe and those two will act.
 
-You can find the full project on [Github][1].
+You can find the full project on [Github][2].
 
-## MVP-R [Coming Soon]
-
-<!--
+## MVP-R
 
 MVP is the simplest one of the alternatives (exclusing MVC), its biggest issue is not providing routing capabilities so the Presenter on top of handling User Interaction and communicating with the netork service/persistance layer has to handle the navigation flow as well. With the addition of a Router we solve this problem.
 
 The ViewController acts as a view that gets esposed to the presenter as a protocol (as it happens in VIPER). The Presenter handles the business logic and dispatches the changes back to the view (controller) for display. The router handles the navigation.
 
- TODO 
- 
- -->
 
-## MVC [Coming Soon]
 
-<!-- TODO -->
+                    (Coordinator / Router)
+                        |
+                        V
+View <- Controller <- Presenter -> DataManager/Repository/NetworkService
+
+In the case of MVP (or even MVC for that matter) you can add coordinators just like in MVVM-C. For this article we won't go through it since it is already explained in the MVVM example.
+
+It is a minimal version of VIPER for smaller application which purpose is to separate all the business logic in the presenter and leave the controller as a simple manager for the view. It is common and advisable to further separate the controller from the presenter by having the whole communication happen only through the use of protocols. This will increase the code needed, but on the other hand makes the presenter easily reusable by different controllers that want to implement the same behaviour.
+
+Since we are not using a Coordinator we need to set up the presenter and the controller from the SceneDelegate. The better way would be to create both in the Coordinator and set up the dependencies there, just like we did for both VIPER and MVVM-C.
+
+'''
+class SceneDelegate: UIResponder, UIWindowSceneDelegate {
+
+    var window: UIWindow?
+
+
+    func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions) {
+        if let windowScene = scene as? UIWindowScene {
+            let window = UIWindow(windowScene: windowScene)
+            let vc = setupInitialController()
+            window.rootViewController = vc
+        }
+    }
+
+
+    private func setupInitialController() -> UIViewController {
+        let presenter = Presenter()
+        let vc = ViewController(presenter: presenter)
+        presenter.userInterface = vc
+        return vc
+    }
+'''
+
+The Presenter is kept alive by the controller which has a strong reference to it. In the controller we only do the bare minimum we need to set up the views, populate them with data and pass actions back to the presenter, but we do not have any business logic. Everything else is handled in the presenter.
+
+
+class ViewController: UIViewController {
+
+    init(presenter: PresenterInput) {
+        self.presenter = presenter
+        super.init(nibName: nil, bundle: nil)
+    }
+
+    required init?(coder: NSCoder) {
+        fatalError()
+    }
+
+    let presenter: PresenterInput
+    weak var titleLabel: UILabel?
+    weak var nextButton: UIButton?
+
+
+In viewDidLoad we set up the controller's UI and we let the presenter know that we are now in the view hierarchy
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        setupTitleLabel()
+        setupNextButton()
+
+        presenter.initialLoading()
+    }
+
+    @objc func goToDetail() {
+        presenter.goToDetail()
+    }
+
+    private func setupTitleLabel() {
+         let label = UILabel(frame: CGRect(x: 0, y: 150, width: 350, height: 55))
+         label.textAlignment = .center
+         label.textColor = .red
+         view.addSubview(label)
+         self.titleLabel = label
+    }
+    private func setupNextButton() {
+        let button = UIButton(frame: CGRect(x: 0, y: 450, width: 350, height: 55))
+        button.setTitle("Next", for: .normal)
+        button.setTitleColor(.red, for: .normal)
+        button.addTarget(self, action: #selector(goToDetail), for: .touchUpInside)
+        view.addSubview(button)
+        self.nextButton = button
+    }
+
+We can now take a look at the presenter. The first thing to do is to figure out what actions should the controller pass up to the presenter and what results does the presenter pass back to the controller. We are going to formalize them as protocols.
+
+protocol PresenterInput: class {
+    var userInterface: PresenterOutput? { get set }
+    func initialLoading()
+    func goToDetail()
+}
+
+protocol PresenterOutput: class {
+    func setupLabel(text: String)
+    func showScreen(vc: UIViewController)
+}
+
+Now onto the presenter itself. We set up the label once loaded and we set up the new controller once the "go to detail" button is pressed
+
+class Presenter: PresenterInput {
+
+    weak var userInterface: PresenterOutput?
+
+    func initialLoading() {
+        userInterface?.setupLabel(text: "Home")
+    }
+
+    func goToDetail() {
+
+    }
+
+}
+
+Here we can either use a router, instantiate a view controller or perform a segue. I tend to dislike segues in MVP and prefer to instantiate th controller directly if we do not have a routing layer, but both solutions are obviously not great. With the segue you need to find the storyboard to see what it means on top of having strings (but that can be solved by using Swiftgen or R). Instantiating a controller would mean importing UIKit which you should avoid doing in a Presenter.
+
+    func goToDetail() {
+        //TODO: Should use Router/Coordinator instead
+        let presenter = DetailPresenter(dismissalAction: { [weak self] in
+            self?.userInterface?.setupLabel(text: "Dismissed")
+        })
+        let detail = DetailViewController(presenter: presenter)
+        presenter.userInterface = detail
+
+        userInterface?.showScreen(vc: detail)
+    }
+
+Finally back in the ViewController we implement the delegate
+
+extension ViewController: PresenterOutput {
+    func setupLabel(text: String) {
+        titleLabel?.text = text
+    }
+
+    func showScreen(vc: UIViewController) {
+        present(vc, animated: true, completion: nil)
+    }
+
+}
+
+Time for the detail view. Here we are simply going to have a dismiss button.
+
+The controller is very similar to the previous controller
+
+import UIKit
+
+class DetailViewController: UIViewController {
+
+    init(presenter: DetailPresenterInput) {
+        self.presenter = presenter
+        super.init(nibName: nil, bundle: nil)
+    }
+
+    required init?(coder: NSCoder) {
+        fatalError()
+    }
+
+    let presenter: DetailPresenterInput
+    weak var backButton: UIButton?
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        setupBackButton()
+    }
+
+    @objc func goBack() {
+        presenter.backAction()
+    }
+
+    private func setupBackButton() {
+        let button = UIButton(frame: CGRect(x: 0, y: 450, width: 350, height: 55))
+        button.setTitle("Dismiss", for: .normal)
+        button.setTitleColor(.blue, for: .normal)
+        button.addTarget(self, action: #selector(goBack), for: .touchUpInside)
+        view.addSubview(button)
+        self.backButton = button
+    }
+}
+
+The same goes for the presenter, with the distinction of having a reference to the side effect to perform on dismissal
+
+
+protocol DetailPresenterInput: class {
+    var userInterface: DetailPresenterOutput? { get set }
+
+    func backAction()
+}
+
+protocol DetailPresenterOutput: class {
+    func dismiss()
+}
+
+class DetailPresenter: DetailPresenterInput {
+
+    init(dismissalAction: @escaping Dismissal) {
+        self.dismissalAction = dismissalAction
+    }
+
+    weak var userInterface: DetailPresenterOutput?
+    private let dismissalAction: Dismissal
+
+    func backAction() {
+        dismissalAction()
+        userInterface?.dismiss()
+    }
+}
+
+We finally implement the protocol in the controller
+
+extension DetailViewController: DetailPresenterOutput {
+    func dismiss() {
+        dismiss(animated: true, completion: nil)
+    }
+}
+
+The last thing we miss is loading some data. We can load a label to show in the detail screen once the view loaded. In the controller we call the presenter asking it to load the data and in the presenter we pass the request to the repository that has the responsibility of loading the data (from the network, fielsystem,...).
+
+In DetailController:
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        setupBackButton()
+
+        presenter.initialLoading()
+    }
+
+In DetailPresenter we first update the Input:
+
+protocol DetailPresenterInput: class {
+    var userInterface: DetailPresenterOutput? { get set }
+
+    func backAction()
+    func initialLoading()
+}
+
+
+The Output:
+
+protocol DetailPresenterOutput: class {
+    func showDetail(withText: String)
+    func dismiss()
+}
+
+And finally the Presenter by calling the repository, fetching the daqta and returning it to the controller:
+
+
+    private let repository = DetailRepository()
+
+    func initialLoading() {
+        repository.loadData { [weak self] (data) in
+            self?.userInterface?.showDetail(withText: data.name)
+        }
+    }
+
+We can now create the Repository:
+
+final class DetailRepository {
+    var model: DetailModel?
+
+    typealias Completion = (DetailModel) -> Void
+
+    func loadData(completion: Completion) {
+        //TODO: Get model from network / db
+        let model = DetailModel(name: "Detail")
+        self.model = model
+        completion(model)
+    }
+}
+
+
+And the model:
+
+struct DetailModel {
+    let name: String
+}
+
+Finally we update the controller by adding the label and setting it up:
+
+    let presenter: DetailPresenterInput
+    weak var titleLabel: UILabel?
+    weak var backButton: UIButton?
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        setupTitleLabel()
+        setupBackButton()
+
+
+        ....
+
+
+
+    private func setupTitleLabel() {
+         let label = UILabel(frame: CGRect(x: 0, y: 150, width: 350, height: 55))
+         label.textAlignment = .center
+         label.textColor = .red
+         view.addSubview(label)
+         self.titleLabel = label
+    }
+
+
+And finally populate it:
+
+
+extension DetailViewController: DetailPresenterOutput {
+    func showDetail(withText text: String) {
+        titleLabel?.text = text
+    }
+
+    func dismiss() {
+        dismiss(animated: true, completion: nil)
+    }
+}
+
+You can find the source code on [Github][3].
+
+
+## MVC
+
+
+View <- Controller <-> Model
+
+MVC is the standard in iOS development. Model for the data, view for the UI and the Controller to manage the screen.
+
+The AppDelegate is the same as the other examples, we simply setup the SceneDelegate:
+
+@UIApplicationMain
+class AppDelegate: UIResponder, UIApplicationDelegate {
+
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        return true
+    }
+
+    // MARK: UISceneSession Lifecycle
+
+    func application(_ application: UIApplication, configurationForConnecting connectingSceneSession: UISceneSession, options: UIScene.ConnectionOptions) -> UISceneConfiguration {
+        return UISceneConfiguration(name: "Default Configuration", sessionRole: connectingSceneSession.role)
+    }
+
+}
+
+
+In the SceneDelegate we setup the initial controller:
+
+class SceneDelegate: UIResponder, UIWindowSceneDelegate {
+
+    var window: UIWindow?
+
+
+    func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions) {
+        if let windowScene = scene as? UIWindowScene {
+            let window = UIWindow(windowScene: windowScene)
+            window.rootViewController = ViewController()
+        }
+    }
+}
+
+We set up the controller:
+
+
+class ViewController: UIViewController {
+    weak var titleLabel: UILabel?
+    weak var nextButton: UIButton?
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        setupTitleLabel()
+        setupNextButton()
+
+    }
+
+    //MARK: Private UI Setup
+
+    private func setupTitleLabel() {
+         let label = UILabel(frame: CGRect(x: 0, y: 150, width: 350, height: 55))
+         label.textAlignment = .center
+         label.textColor = .red
+         view.addSubview(label)
+         self.titleLabel = label
+    }
+    private func setupNextButton() {
+        let button = UIButton(frame: CGRect(x: 0, y: 450, width: 350, height: 55))
+        button.setTitle("Next", for: .normal)
+        button.setTitleColor(.red, for: .normal)
+        button.addTarget(self, action: #selector(goToDetail), for: .touchUpInside)
+        view.addSubview(button)
+        self.nextButton = button
+    }
+
+And we load whatever we need to load and update the ui:
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        setupTitleLabel()
+        setupNextButton()
+
+        loadData()
+    }
+
+    ...
+
+
+    //MARK: Actions
+
+    private func loadData() {
+        titleLabel?.text = "Home"
+    }
+
+    @objc func goToDetail() {
+        let vc = DetailViewController(repository: DetailRepository())
+        present(vc, animated: true, completion: nil)
+    }
+}
+
+Now onto the detail screen. Similarly to the MVP example we inject the dependency in the controller and we setup the screen:
+
+class DetailViewController: UIViewController {
+    init(repository: DetailRepository) {
+        self.repository = repository
+        super.init(nibName: nil, bundle: nil)
+    }
+
+    required init?(coder: NSCoder) {
+        fatalError()
+    }
+
+    private let repository: DetailRepository
+
+    weak var titleLabel: UILabel?
+    weak var backButton: UIButton?
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        setupTitleLabel()
+        setupBackButton()
+
+        loadData()
+    }
+
+    //MARK: Private UI Setup
+
+    private func setupTitleLabel() {
+         let label = UILabel(frame: CGRect(x: 0, y: 150, width: 350, height: 55))
+         label.textAlignment = .center
+         label.textColor = .red
+         view.addSubview(label)
+         self.titleLabel = label
+    }
+    private func setupBackButton() {
+        let button = UIButton(frame: CGRect(x: 0, y: 450, width: 350, height: 55))
+        button.setTitle("Dismiss", for: .normal)
+        button.setTitleColor(.blue, for: .normal)
+        button.addTarget(self, action: #selector(goBack), for: .touchUpInside)
+        view.addSubview(button)
+        self.backButton = button
+    }
+
+
+Calling loadData will now load the data from the Repository:
+
+
+
+    //MARK: Actions
+
+    private func loadData() {
+        self.repository.loadData { [weak self] (data) in
+            self?.titleLabel?.text = data.name
+        }
+    }
+
+    @objc func goBack() {
+        dismiss(animated: true, completion: nil)
+    }
+
+}
+
+The repository and the model are the same as in the previous example:
+
+final class DetailRepository {
+    var model: DetailModel?
+
+    typealias Completion = (DetailModel) -> Void
+
+    func loadData(completion: Completion) {
+        //TODO: Get model from network / db
+        let model = DetailModel(name: "Detail")
+        self.model = model
+        completion(model)
+    }
+}
+
+struct DetailModel {
+    let name: String
+}
+
+You can find the source code on [Github][4].
 
 ## What should I use?
 
@@ -1027,3 +1514,9 @@ You should not just use one architecture and stick with it no matter what. What 
 An application that shows a couple of screens from a JSON request is completely different from an application that handles a social networking application with user login, registration, front page, timeline, private messaging, ...
 
 Getting so stuck with one architecture and using it everywhere indiscriminately means fitting a round peg in a square hole.
+
+
+[1]: https://github.com/valeIT/mvvm-ios
+[2]: https://github.com/valeIT/viper-ios
+[3]: https://github.com/valeIT/mvp-ios
+[4]: https://github.com/valeIT/mvc-ios
