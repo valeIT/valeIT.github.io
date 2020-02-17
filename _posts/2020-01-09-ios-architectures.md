@@ -1021,9 +1021,9 @@ In the case of MVP (or even MVC for that matter) you can add coordinators just l
 
 It is a minimal version of VIPER for smaller application which purpose is to separate all the business logic in the presenter and leave the controller as a simple manager for the view. It is common and advisable to further separate the controller from the presenter by having the whole communication happen only through the use of protocols. This will increase the code needed, but on the other hand makes the presenter easily reusable by different controllers that want to implement the same behaviour.
 
-Since we are not using a Coordinator we need to set up the presenter and the controller from the SceneDelegate. The better way would be to create both in the Coordinator and set up the dependencies there, just like we did for both VIPER and MVVM-C.
+Since we are not using a Coordinator we need to set up the presenter and the controller from the SceneDelegate. The better way would be to create both in the Coordinator and set up the dependencies there, just like we did for both VIPER and MVVM-C, but for this basic example this is still better than doing it from the controller itself. The controller should have a reference to the interface of the presenter, but it should not have a strong link to the presenter iself.
 
-'''
+```
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     var window: UIWindow?
@@ -1044,11 +1044,11 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         presenter.userInterface = vc
         return vc
     }
-'''
+```
 
 The Presenter is kept alive by the controller which has a strong reference to it. In the controller we only do the bare minimum we need to set up the views, populate them with data and pass actions back to the presenter, but we do not have any business logic. Everything else is handled in the presenter.
 
-
+```
 class ViewController: UIViewController {
 
     init(presenter: PresenterInput) {
@@ -1063,10 +1063,11 @@ class ViewController: UIViewController {
     let presenter: PresenterInput
     weak var titleLabel: UILabel?
     weak var nextButton: UIButton?
-
+```
 
 In viewDidLoad we set up the controller's UI and we let the presenter know that we are now in the view hierarchy
 
+```
     override func viewDidLoad() {
         super.viewDidLoad()
         setupTitleLabel()
@@ -1094,6 +1095,7 @@ In viewDidLoad we set up the controller's UI and we let the presenter know that 
         view.addSubview(button)
         self.nextButton = button
     }
+```
 
 We can now take a look at the presenter. The first thing to do is to figure out what actions should the controller pass up to the presenter and what results does the presenter pass back to the controller. We are going to formalize them as protocols.
 
