@@ -1065,7 +1065,7 @@ class ViewController: UIViewController {
     weak var nextButton: UIButton?
 ```
 
-In viewDidLoad we set up the controller's UI and we let the presenter know that we are now in the view hierarchy
+In viewDidLoad we set up the controller's UI and we let the presenter know that we are now in the view hierarchy so it can start setting up and loading the data.
 
 ```
     override func viewDidLoad() {
@@ -1099,6 +1099,7 @@ In viewDidLoad we set up the controller's UI and we let the presenter know that 
 
 We can now take a look at the presenter. The first thing to do is to figure out what actions should the controller pass up to the presenter and what results does the presenter pass back to the controller. We are going to formalize them as protocols.
 
+```
 protocol PresenterInput: class {
     var userInterface: PresenterOutput? { get set }
     func initialLoading()
@@ -1109,9 +1110,11 @@ protocol PresenterOutput: class {
     func setupLabel(text: String)
     func showScreen(vc: UIViewController)
 }
+```
 
-Now onto the presenter itself. We set up the label once loaded and we set up the new controller once the "go to detail" button is pressed
+Now onto the presenter itself. We set up the label once loaded and we set up the new controller once the "go to detail" button is pressed. In this case we are simply setting up a label, here you would connect to the database or webservice and load your model.
 
+```
 class Presenter: PresenterInput {
 
     weak var userInterface: PresenterOutput?
@@ -1125,6 +1128,7 @@ class Presenter: PresenterInput {
     }
 
 }
+```
 
 Here we can either use a router, instantiate a view controller or perform a segue. I tend to dislike segues in MVP and prefer to instantiate th controller directly if we do not have a routing layer, but both solutions are obviously not great. With the segue you need to find the storyboard to see what it means on top of having strings (but that can be solved by using Swiftgen or R). Instantiating a controller would mean importing UIKit which you should avoid doing in a Presenter.
 
