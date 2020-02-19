@@ -1130,8 +1130,12 @@ class Presenter: PresenterInput {
 }
 ```
 
-Here we can either use a router, instantiate a view controller or perform a segue. I tend to dislike segues in MVP and prefer to instantiate th controller directly if we do not have a routing layer, but both solutions are obviously not great. With the segue you need to find the storyboard to see what it means on top of having strings (but that can be solved by using Swiftgen or R). Instantiating a controller would mean importing UIKit which you should avoid doing in a Presenter.
+Here we can either use a router, instantiate a view controller or perform a segue. I tend to dislike segues in MVP and prefer to instantiate the controller directly if we do not want to have a routing layer, but both solutions are obviously not great. Having an actual routing component would be a much better choice of course, but for some simple apps it may be too much complexity.
 
+With the segue you need to find the storyboard to see what it means on top of having strings (but that can be solved by using Swiftgen or R). Instantiating a controller would mean importing UIKit which you should avoid doing in a Presenter.
+
+
+```
     func goToDetail() {
         //TODO: Should use Router/Coordinator instead
         let presenter = DetailPresenter(dismissalAction: { [weak self] in
@@ -1142,6 +1146,7 @@ Here we can either use a router, instantiate a view controller or perform a segu
 
         userInterface?.showScreen(vc: detail)
     }
+```
 
 Finally back in the ViewController we implement the delegate
 
