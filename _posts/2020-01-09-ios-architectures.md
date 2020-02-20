@@ -1148,8 +1148,11 @@ With the segue you need to find the storyboard to see what it means on top of ha
     }
 ```
 
-Finally back in the ViewController we implement the delegate
+You can take a look on how to implement a Router or Coordinator from either the MVVM or VIPER examples above.
 
+Going back to the ViewController we can finish by implementing the delegate of the presenter in order to receive its callbacks. We have already set ourselves as delegate in viewDidLoad so there is no need to do that again.
+
+```
 extension ViewController: PresenterOutput {
     func setupLabel(text: String) {
         titleLabel?.text = text
@@ -1160,11 +1163,13 @@ extension ViewController: PresenterOutput {
     }
 
 }
+```
 
-Time for the detail view. Here we are simply going to have a dismiss button.
+It is now time to add something more to the application to see how we handle different screens. As in the other examples this will simply consist of a basic detail view where we are simply going to have a dismiss button.
 
-The controller is very similar to the previous controller
+The controller is very similar to the previous examples for MVVM and VIPER. Notice how we use Dipendency Injection to populate the presenter before delegating back to the default initializer so that we avoid having optionals. Since a Controller has no sense in MVP without a presenter there can never be a case where the former exists without the latter so optionality doesn't make sense.
 
+```
 import UIKit
 
 class DetailViewController: UIViewController {
@@ -1199,10 +1204,11 @@ class DetailViewController: UIViewController {
         self.backButton = button
     }
 }
+```
 
-The same goes for the presenter, with the distinction of having a reference to the side effect to perform on dismissal
+The same goes for the presenter which is very similar to the VIPER solution. It has the difference from the main view `Presenter` of having a reference to the side effect to perform on dismissal. Again we are passing it in the initializer.
 
-
+```
 protocol DetailPresenterInput: class {
     var userInterface: DetailPresenterOutput? { get set }
 
@@ -1227,46 +1233,54 @@ class DetailPresenter: DetailPresenterInput {
         userInterface?.dismiss()
     }
 }
+```
 
-We finally implement the protocol in the controller
+We finally implement the protocol back in the controller to implement the dismissal action.
 
+```
 extension DetailViewController: DetailPresenterOutput {
     func dismiss() {
         dismiss(animated: true, completion: nil)
     }
 }
+```
 
 The last thing we miss is loading some data. We can load a label to show in the detail screen once the view loaded. In the controller we call the presenter asking it to load the data and in the presenter we pass the request to the repository that has the responsibility of loading the data (from the network, fielsystem,...).
 
 In DetailController:
 
+```
     override func viewDidLoad() {
         super.viewDidLoad()
         setupBackButton()
 
         presenter.initialLoading()
     }
+```
 
 In DetailPresenter we first update the Input:
 
+```
 protocol DetailPresenterInput: class {
     var userInterface: DetailPresenterOutput? { get set }
 
     func backAction()
     func initialLoading()
 }
-
+```
 
 The Output:
 
+```
 protocol DetailPresenterOutput: class {
     func showDetail(withText: String)
     func dismiss()
 }
+```
 
 And finally the Presenter by calling the repository, fetching the daqta and returning it to the controller:
 
-
+```
     private let repository = DetailRepository()
 
     func initialLoading() {
@@ -1274,9 +1288,11 @@ And finally the Presenter by calling the repository, fetching the daqta and retu
             self?.userInterface?.showDetail(withText: data.name)
         }
     }
+```
 
 We can now create the Repository:
 
+```
 final class DetailRepository {
     var model: DetailModel?
 
@@ -1289,16 +1305,19 @@ final class DetailRepository {
         completion(model)
     }
 }
-
+```
 
 And the model:
 
+```
 struct DetailModel {
     let name: String
 }
+```
 
 Finally we update the controller by adding the label and setting it up:
 
+```
     let presenter: DetailPresenterInput
     weak var titleLabel: UILabel?
     weak var backButton: UIButton?
@@ -1320,11 +1339,11 @@ Finally we update the controller by adding the label and setting it up:
          view.addSubview(label)
          self.titleLabel = label
     }
-
+```
 
 And finally populate it:
 
-
+```
 extension DetailViewController: DetailPresenterOutput {
     func showDetail(withText text: String) {
         titleLabel?.text = text
@@ -1334,6 +1353,7 @@ extension DetailViewController: DetailPresenterOutput {
         dismiss(animated: true, completion: nil)
     }
 }
+```
 
 You can find the source code on [Github][3].
 
@@ -1347,6 +1367,7 @@ MVC is the standard in iOS development. Model for the data, view for the UI and 
 
 The AppDelegate is the same as the other examples, we simply setup the SceneDelegate:
 
+```
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
@@ -1361,10 +1382,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
 }
-
+```
 
 In the SceneDelegate we setup the initial controller:
 
+```
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     var window: UIWindow?
@@ -1377,10 +1399,11 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         }
     }
 }
+```
 
 We set up the controller:
 
-
+```
 class ViewController: UIViewController {
     weak var titleLabel: UILabel?
     weak var nextButton: UIButton?
@@ -1409,9 +1432,11 @@ class ViewController: UIViewController {
         view.addSubview(button)
         self.nextButton = button
     }
+```
 
 And we load whatever we need to load and update the ui:
 
+```
     override func viewDidLoad() {
         super.viewDidLoad()
         setupTitleLabel()
@@ -1434,9 +1459,11 @@ And we load whatever we need to load and update the ui:
         present(vc, animated: true, completion: nil)
     }
 }
+```
 
 Now onto the detail screen. Similarly to the MVP example we inject the dependency in the controller and we setup the screen:
 
+```
 class DetailViewController: UIViewController {
     init(repository: DetailRepository) {
         self.repository = repository
@@ -1477,12 +1504,12 @@ class DetailViewController: UIViewController {
         view.addSubview(button)
         self.backButton = button
     }
-
+```
 
 Calling loadData will now load the data from the Repository:
 
 
-
+```
     //MARK: Actions
 
     private func loadData() {
@@ -1496,9 +1523,10 @@ Calling loadData will now load the data from the Repository:
     }
 
 }
-
+```
 The repository and the model are the same as in the previous example:
 
+```
 final class DetailRepository {
     var model: DetailModel?
 
@@ -1515,6 +1543,7 @@ final class DetailRepository {
 struct DetailModel {
     let name: String
 }
+```
 
 You can find the source code on [Github][4].
 
