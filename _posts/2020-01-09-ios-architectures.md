@@ -1247,7 +1247,7 @@ extension DetailViewController: DetailPresenterOutput {
 
 The last thing we miss is loading some data. We can load a label to show in the detail screen once the view loaded. In the controller we call the presenter asking it to load the data and in the presenter we pass the request to the repository that has the responsibility of loading the data (from the network, fielsystem,...).
 
-In DetailController:
+In DetailController as usual we aske the presenter to load the data:
 
 ```
     override func viewDidLoad() {
