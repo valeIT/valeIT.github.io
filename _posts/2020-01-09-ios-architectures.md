@@ -1247,7 +1247,7 @@ extension DetailViewController: DetailPresenterOutput {
 
 The last thing we miss is loading some data. We can load a label to show in the detail screen once the view loaded. In the controller we call the presenter asking it to load the data and in the presenter we pass the request to the repository that has the responsibility of loading the data (from the network, fielsystem,...).
 
-In DetailController as usual we aske the presenter to load the data:
+In DetailController as usual we ask the presenter to load the data:
 
 ```
     override func viewDidLoad() {
@@ -1258,7 +1258,9 @@ In DetailController as usual we aske the presenter to load the data:
     }
 ```
 
-In DetailPresenter we first update the Input:
+We still are not able to build though. This is because we updated both the controller and the presenter, but forgot to update the protocols they use to communicate with each other. In DetailPresenter we can now go ahead and update the two protocols. 
+
+First the Input.
 
 ```
 protocol DetailPresenterInput: class {
@@ -1269,7 +1271,7 @@ protocol DetailPresenterInput: class {
 }
 ```
 
-The Output:
+And then the Output.
 
 ```
 protocol DetailPresenterOutput: class {
@@ -1278,7 +1280,7 @@ protocol DetailPresenterOutput: class {
 }
 ```
 
-And finally the Presenter by calling the repository, fetching the daqta and returning it to the controller:
+Next we update the Presenter so that it calls the repository, fetching the needed data and returning it to the controller.
 
 ```
     private let repository = DetailRepository()
@@ -1290,7 +1292,7 @@ And finally the Presenter by calling the repository, fetching the daqta and retu
     }
 ```
 
-We can now create the Repository:
+We can now create the Repository. Its only goal is to load the data and pass it back to the presenter.
 
 ```
 final class DetailRepository {
@@ -1307,7 +1309,7 @@ final class DetailRepository {
 }
 ```
 
-And the model:
+Next the model. In this case it is really simple, but you are surely going to use a more complicated model object in a real application.
 
 ```
 struct DetailModel {
