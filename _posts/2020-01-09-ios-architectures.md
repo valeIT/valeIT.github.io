@@ -1343,7 +1343,7 @@ Finally we update the controller by adding the label and setting it up:
     }
 ```
 
-And finally populate it:
+Finally we populate the controller with the data from the Presenter. We also pass the dismiss call to UIKit. In a solution with a Router or a Coordinator the responsibility of such navigation action would be of the Router or Coordinator.
 
 ```
 extension DetailViewController: DetailPresenterOutput {
@@ -1356,6 +1356,8 @@ extension DetailViewController: DetailPresenterOutput {
     }
 }
 ```
+
+Using MVP is going to be ideal for smaller applications where the flow between the ViewControllers is simple and having a Routing layer is not necessary. Once the application becomes more complicated it is easy to switch over to something more complex like VIPER since the foundation is already there. The only thing to do is to add the routing layer and move out some responsibilities from the Presenter and Repository to the Interactor.
 
 You can find the source code on [Github][3].
 
