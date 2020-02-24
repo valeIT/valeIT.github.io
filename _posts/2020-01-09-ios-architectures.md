@@ -1369,7 +1369,11 @@ View <- Controller <-> Model
 
 MVC is the standard in iOS development. Model for the data, view for the UI and the Controller to manage the screen.
 
-The AppDelegate is the same as the other examples, we simply setup the SceneDelegate:
+A single controller is tipically used for one screen of content, but this is not a must. Thanks to controller containment you can use a controller similarly on how fragments are used in Android. This way you can better separate responsibilities between controllers and keep your code more clean.
+
+As for the other examples we are going to set up a simple application using the MVC architecture.
+
+The AppDelegate is the same as the other examples, we simply setup the new iOS13 SceneDelegate. There we are going to initialize the Controller.
 
 ```
 @UIApplicationMain
@@ -1388,7 +1392,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 }
 ```
 
-In the SceneDelegate we setup the initial controller:
+In the SceneDelegate we setup the initial controller and set it as root for the window. We use code for the initialization since it is easier to see in written form, but also because it is better for dependency injection.
 
 ```
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
@@ -1405,7 +1409,9 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 }
 ```
 
-We set up the controller:
+In the controller we setup the various UI elements that we are going to use in the app. In MVC the controller is also responsible for fetching the data and updating the UI. That does not mean that you need to fetch the data directly from the Controller itself by for example initializing a new UrlSession. You should use an external class for that, for example a Repository. In this case we are going to load static data so we do it directly from the Controller.
+
+First we set up the UI.
 
 ```
 class ViewController: UIViewController {
