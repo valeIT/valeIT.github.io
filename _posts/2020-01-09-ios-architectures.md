@@ -1444,7 +1444,7 @@ class ViewController: UIViewController {
     }
 ```
 
-And we load whatever we need to load and update the ui:
+And we load whatever we need to load and update the UI:
 
 ```
     override func viewDidLoad() {
@@ -1516,7 +1516,9 @@ class DetailViewController: UIViewController {
     }
 ```
 
-Calling loadData will now load the data from the Repository:
+The difference here would be that the request to load the data comes directly from the controller itself which is here not only responsible to handle the state and the updates for the view, but also to coordinate the loading of data.
+
+The loading itself does not happen in the controller though. Some people do, but it is bad practise since you are further injecting business logic into the Controller. Here calling `loadData` will now load the data from the Repository:
 
 
 ```
