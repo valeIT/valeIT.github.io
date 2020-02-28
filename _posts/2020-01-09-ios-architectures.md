@@ -1536,6 +1536,7 @@ The loading itself does not happen in the controller though. Some people do, but
 
 }
 ```
+
 The repository and the model are the same as in the previous example:
 
 ```
