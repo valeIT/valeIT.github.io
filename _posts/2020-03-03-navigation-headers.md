@@ -27,10 +27,22 @@ There are cases where it is the only tool available (thinking about financial ap
 
 Since there is no web like navigation bar there is a different take on where and if to show the logo.
 
-- You can either have the same header in every page.
+**Every Page**
+
+One possible choice is having the same header on every page.
 
 This way you lose the ability of showing the title of every page making it less obvious and clear the purpose of the page especially for new users, but you can show a consistent header everywhere. It is something to avoid in most apps.
 
-You can have it only in the home screen
+**Home Screen**
 
- and everywhere else you have the title of the page or you don't have it completely.
+A second choice is having it only in the home screen.
+
+This is the standard if you do want a header in the navigation bar. Everywhere else you have the title of the page you're in.
+
+**Launch Screen**
+
+Another less commmon method is having the header at launch and just have the titles for the rest of the pages. This will show your logo less, but it is more appropriate if the logo is not the right fit for any screen in particular.
+
+### What To Use
+
+Between all of them surely having it on the main screen of the app (the first one that opens after launch) is the most common strategy among mobile applications. As always the best choice depends on you app. As a minimum it needs to be in the launch screen. It should also be in the first screen unless you have a very good reason not to.
