@@ -11,7 +11,7 @@ image2:
 author: Valentino Urbano
 ---
 
-There are different school of thought on navigation headers both for mobile application and websites. None of them are inherently wrong.
+There are different schools of thought on navigation headers both for mobile application and websites. None of them are inherently wrong.
 
 Some people have it only on the main page, most people have it on every page as an easy link to go back to the home alongside the navigation bar. It usually consists of simply the logo of the company/website, but not necessarely. Usually on a website there is enough space to add navigation links next to it so you do not waste the space.
 
@@ -31,7 +31,9 @@ Since there is no web like navigation bar there is a different take on where and
 
 One possible choice is having the same header on every page.
 
-This way you lose the ability of showing the title of every page making it less obvious and clear the purpose of the page especially for new users, but you can show a consistent header everywhere. It is something to avoid in most apps.
+This way you lose the ability of showing the title of every page making the purpose of the page less obvious and clear. This becomes even more evident for new users that might not know at a glance what each section of the app does yet. As an upside thought you can show a consistent header everywhere and "keep the brand".
+
+It is something to avoid in most apps.
 
 **Home Screen**
 
