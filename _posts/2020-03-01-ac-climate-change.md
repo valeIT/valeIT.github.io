@@ -11,7 +11,7 @@ image2:
 author: Valentino Urbano
 ---
 
-In the last few years summer in Italy (and most of southern Europe) have become too hot to be able to live comfortably without air conditioning. We have seen peaks of more than 40 degrees with a really high humidity and from every trend it looks likely to keep rising.
+In the last few years summer in Italy (and most of southern Europe) has become too hot to be able to live comfortably without air conditioning. We have seen peaks of more than 40 degrees with a really high humidity and as far as sources show it looks likely to keep rising.
 
 People here are used to the hot climate and just a few years ago when temperatures were already becoming dangerous in the summer months (for old people and people with existing conditions) it was still hard to convince them of the need for AC.
 
