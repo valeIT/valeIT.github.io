@@ -14,7 +14,15 @@ For everything work related you can check my [work page](/work).
 
 ## Apps
 
-For more info about the personal apps (keep notice that many of them are years old at this point) check the [apps page](/apps). 
+For more info about the personal apps (keep notice that many of them are years old at this point) check the [apps page](/apps).
+
+## Book
+
+To read any book check my [book page](/books).
+
+## Notes
+
+For now this only includes my [WWDC notes](/wwdc).
 
 ## Bots
 
