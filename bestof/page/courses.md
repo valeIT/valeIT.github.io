@@ -4,7 +4,9 @@ title: Best Of - Courses
 ---
 
 <!-- <h1>{{ site.data.bestof_courses.title }}</h1> -->
-
+<div>
+{{ site.data.bestof_courses.description }}
+</div>
 {% for bestof in site.data.bestof_courses.content %}
  <ul>
     <ol>
