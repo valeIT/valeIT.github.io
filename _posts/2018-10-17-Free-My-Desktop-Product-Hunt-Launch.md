@@ -76,7 +76,7 @@ _Inspired by the huge success of the makers' community, especially people who I 
 
 [2]: https://www.indiehackers.com/forum/show-ih-just-launched-my-first-app-on-product-hunt-free-my-desktop-19f7c5ab09
 [3]: https://www.producthunt.com/posts/free-my-desktop
-[4]: https://twitter.com/valentinourbano
+[4]: {{ site.twitter_handle }}
 [5]: https://dev.to/valeit/just-launched-my-first-app-on-product-hunt---free-my-desktop-1ic8
 [6]: https://levels.io/
 [7]: https://www.andreyazimov.com/

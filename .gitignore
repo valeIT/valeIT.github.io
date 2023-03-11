@@ -6,3 +6,5 @@ _drafts
 *.swp
 .bundle/install.log
 tmp
+vendor/
+.jekyll-cache
