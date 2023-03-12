@@ -39,5 +39,5 @@ Now that all the necessary pieces are set up we can actually start working on pu
 
 
 
-[1]: {% post_url %}
+[1]: {% post_url 2015-11-27-parseswtableviewcell %}
 [2]: https://semver.org/
