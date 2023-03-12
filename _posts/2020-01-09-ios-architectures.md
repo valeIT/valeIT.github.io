@@ -20,6 +20,7 @@ As time progressed and apps grew in size and features scaling MVC up became prob
 We are going to analyze the most popular choices we have for iOS Development in 2020. This is not going to be a list of all the possible architecture for an iOS application, but only of what I consider relevant today in the industry.
 
 ## MVVM-C
+
 Model/ViewModel/Coordinator
 
                     Coordinator
@@ -1566,7 +1567,7 @@ You should not just use one architecture and stick with it no matter what. What 
 
 An application that shows a couple of screens from a JSON request is completely different from an application that handles a social networking application with user login, registration, front page, timeline, private messaging, ...
 
-Getting so stuck with one architecture and using it everywhere indiscriminately means fitting a round peg in a square hole.
+**Getting so stuck with one architecture and using it everywhere indiscriminately means fitting a round peg in a square hole.**
 
 
 [1]: https://github.com/valeIT/mvvm-ios
