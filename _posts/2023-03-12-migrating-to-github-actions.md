@@ -103,7 +103,13 @@ For example here we added a default label to any PR that merges it to master (an
 
 ## Branch Protection Rules
 
-We also need to update the branch protection rules for the master branch to use the new github actions instead of travis to know when the PR is ready to be automerged. Just delete the existing travis action and type the name of your new Github action instead.
+We also need to update the branch protection rules for the master branch to use the new github actions instead of travis to know when the PR is ready to be automerged. Just delete the existing travis action and type the name of your new Github action instead (here I had to select the action with the specific ruby version in the title, otherwise it would not work). Also you can select a lot of other rules that were not available previously.
+
+## Conclusion
+
+Now it's even better than before!
+
+Everything is automated. From setting the label on PRs, to blocking merging if it's marked as WIP, to assigning the reviewers, to confirming that it builds before allowing a merge, to finally mergining the branch automatically once it's approved and all the check pass on top of automatically build and deploy the website once the PR is merged onto master.
 
 
 [1]: https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/?WT.mc_id=devto-blog-yolasors
