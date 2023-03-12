@@ -84,9 +84,9 @@ labels:
   duplicate: close
   wontfix: close
   invalid: close
-  "merge when passing": merge
-  "squash when passing": merge
-  "rebase when passing": merge
+  MergeWhenPassing: merge
+  SquashWhenPassing: merge
+  RebaseWhenPassing: merge
 
 
 merges:
