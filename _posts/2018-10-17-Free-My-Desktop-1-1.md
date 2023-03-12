@@ -33,4 +33,4 @@ If you enjoyed it consider buying me a coffee.
 
 [1]: https://www.paypal.me/vale93
 [2]: /apps/mac/freemydesktop/
-[3]: https://twitter.com/valentinourbano
+[3]: {{ site.twitter_handle }}

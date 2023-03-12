@@ -119,37 +119,37 @@ _Not everything written here is set in stone, might be subject to change._
 
 ### <s>Still need to figure out</s>
 
-- [x] <s>Name  
+- [x] <s>Name
        markdown.love is enough?</s>
 
-- [x] <s>Logo  
+- [x] <s>Logo
        A simple M should be fine..?</s>
 
-- [x] <s>Monetization  
+- [x] <s>Monetization
        Does it do too little to be monetized? Can it be usage based?</s>
 
-- [x] <s>Api Keys  
+- [x] <s>Api Keys
        I'd love to require API keys. I've seen that free API usually get hammered with requests</s>
 
 ### Figured out
 
-- [x] Domain  
+- [x] Domain
        Wanted a really simple domain. All md. were taken, but markdown. Had quite a few free. Markdown.love sounded great and was decently priced @ Porkbun.
 
-- [x] Hosting  
+- [x] Hosting
        I'm going to use a Digital Ocean droplet and Cloudflare. I've already setup https via certbot and a testing page up.
 
-- [x] Tech Stack  
+- [x] Tech Stack
        As I've said many times my main goal in this challenge is to learn something new and ship my first web app. I've kept my scope pretty limited to be able to do both at the same time.
 
-Backend: Laravel + Mysql  
+Backend: Laravel + Mysql
 Frontend: Vanilla js (ES6) + Laravel Blade
 
 ### Ideas - Future
 
-- [x] Pricing  
+- [x] Pricing
        <s>Obviously with Stripe. A free tier with limited usage (max xx requests per day/month) and a paid tier with more requests and more data returned in the request.
-      I actually got pricing working on the stream. Still need to implement part 2: more data returned in the request for subscription users.  
+      I actually got pricing working on the stream. Still need to implement part 2: more data returned in the request for subscription users.
        One example would be returning both the markdown and the html of the article or parsing the author name and the publish date.</s>
 
 - Crawl
@@ -159,7 +159,7 @@ Frontend: Vanilla js (ES6) + Laravel Blade
 
 If you have any feedback you can let me know on [twitter][0] or via [email][1]
 
-[0]: https://twitter.com/valentinourbano
+[0]: {{ site.twitter_handle }}
 [1]: http://www.valentinourbano.com/about#contact
 [2]: https://www.markdown.love
 [3]: https://www.twitch.tv/valentinourbano93

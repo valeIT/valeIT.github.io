@@ -85,5 +85,5 @@ https://twitter.com/gustomela/status/1055160505369792513
 
 [1]: https://www.paypal.me/vale93
 [2]: /apps/mac/freemydesktop/
-[3]: https://twitter.com/valentinourbano
+[3]: {{ site.twitter_handle }}
 [4]: /apps/mac/freemydesktop/presskit.html

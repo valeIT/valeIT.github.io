@@ -136,7 +136,7 @@ You can also check out [Free My Desktop][7], it's a completely free Mac app that
 [3]: /about
 [4]: /apps/mac/iplocation
 [5]: https://itunes.apple.com/us/app/iplocation-2/id1438343930?&at=1010lHG?mt=8
-[6]: https://twitter.com/valentinourbano
+[6]: {{ site.twitter_handle }}
 
 [7]: {% post_url 2018-09-30-Free-my-desktop-mac-app %}
 

@@ -26,5 +26,5 @@ All in all it's possibly going to be the most expensive month in the year. That 
 I always try not to read any Apple news websites before both WWDC and the fall event to avoid any spoilers. If I go and watch and even already knowing half of the stuff in it, what's the point of watching the live stream at all?
 
 [1]: {% post_url 2019-06-06-a-year-with-android %}
-[2]: https://twitter.com/valentinourbano/status/1169497760766275585
+[2]: {{ site.twitter_handle }}/status/1169497760766275585
 [3]: https://www.amazon.com/gp/product/B07T4ZH692/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07T4ZH692&linkCode=as2&tag=valentinourba-20&linkId=64811634241c2d6a13f84ddfe8a83875

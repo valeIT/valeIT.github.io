@@ -32,4 +32,4 @@ Let me know what you think about it on Twitter!
 [1]: http://www.valentinourbano.com/newsletter
 [2]: /
 [3]: /about
-[4]: https://twitter.com/valentinourbano
+[4]: {{ site.twitter_handle }}
