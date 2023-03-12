@@ -17,8 +17,8 @@ I finally decided to buy a password manager and went through all my most importa
 
 After the lengthy setup process logging in to websites is actually easier. Your credentials will get auto-filled with a single click (or keypress).
 
-#Next steps
+## Next steps
 
-Once you feel comfortable with using a password manager you can start using 2-factor authentication as well. Don't rush it though. Already switching from not using to using a password manager is a big chance and too much change too quickly would just make you go back to the start.
+Once you feel comfortable with using a password manager you can start using 2-factor authentication as well. Don't rush it though. Already switching from not using to using a password manager is a big change and too much if it too quickly would just make you go back to the start.
 
 I'm going to talk about two-factor authentication in the next installment.

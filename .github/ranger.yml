@@ -2,9 +2,9 @@ labels:
   duplicate: close
   wontfix: close
   invalid: close
-  "merge when passing": merge
-  "squash when passing": merge
-  "rebase when passing": merge
+  mergeWhenPassing: merge
+  squashWhenPassing: merge
+  rebaseWhenPassing: merge
 
 # All maintainer comments containing the pattern "duplicate of"
 # will apply the duplicate label
