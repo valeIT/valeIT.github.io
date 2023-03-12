@@ -1,9 +1,9 @@
-name: Build Website + Preview
+name: Build Website
 
 on: [pull_request]
 
 permissions:
-  contents: read, write-all
+  contents: read
 
 jobs:
   build:
@@ -26,8 +26,3 @@ jobs:
     - name: Build
       run: bundle exec jekyll build
   #   run: bundle exec htmlproofer ./_site --disable-external --check-favicon --check-html --assume_extension
-    - name: Deploy preview
-      uses: rossjrw/pr-preview-action@v1
-      with:
-        source-dir: ./_site/
-    # The previews will be deleted once something is merged into master since we're using the default github pages action. Once the action becomes configurable, we should add a rule to avoid this: https://github.com/marketplace/actions/deploy-pr-preview
