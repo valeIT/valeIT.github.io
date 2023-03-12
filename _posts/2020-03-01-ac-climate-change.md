@@ -29,7 +29,7 @@ The problem with traditionally defined clearn energy (solar/wind) is that using 
 
 Tesla (for example) has solved it using batteries which are already in use in Australia. We don't rally have that much open space in Italy though, so I think that what they are doing in the UK fits the Italian geography the most: they use cheap energy during off peak hours to pump back uphill water to be later used (during peak hours) through hydroelectric to generate more electricity to keep up with the demand.
 
-Nuclear is also a great form of clean energy to use, but after Chernobyl and Fukushima most EU countries have migrated off it excerbaceting the problem. Hopefully the fusion breakthrough revitalizes the sector and we have some more investment in it.
+Nuclear is also a great form of clean energy to use, but after Chernobyl and Fukushima most EU countries have migrated off it exacerbating the problem. Hopefully the fusion breakthrough revitalizes the sector and we have some more investment in it.
 
 More importantly we need to take the energy security of our countries seriously and stop relying on other countries to provide it to us. We have a lot of space to harness offshore wind, but we don't do it because the local residents don't want it because and I quote "it looks ugly from the beach and scares the tourists away". What a shame.
 
