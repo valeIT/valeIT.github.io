@@ -1,3 +1,4 @@
-"merge when passing":
-  - *
-  - .
+mergeWhenPassing:
+- '*'
+- '**/*.md'
+- '**/*.*'
