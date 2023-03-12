@@ -1,19 +1,6 @@
-# This workflow uses actions that are not certified by GitHub.
-# They are provided by a third-party and are governed by
-# separate terms of service, privacy policy, and support
-# documentation.
-# This workflow will download a prebuilt Ruby version, install dependencies and run tests with Rake
-# For more information see: https://github.com/marketplace/actions/setup-ruby-jruby-and-truffleruby
+name: Build Website + Preview
 
-name: Build Website
-
-on: [push, pull_request]
-
-# on:
-#   push:
-#     branches: [ $default-branch ]
-#   pull_request:
-#     branches: [ $default-branch ]
+on: [pull_request]
 
 permissions:
   contents: read
@@ -39,3 +26,8 @@ jobs:
     - name: Build
       run: bundle exec jekyll build
   #   run: bundle exec htmlproofer ./_site --disable-external --check-favicon --check-html --assume_extension
+    - name: Deploy preview
+    - uses: rossjrw/pr-preview-action@v1
+      with:
+        source-dir: ./_site/
+    # The previews will be deleted once something is merged into master since we're using the default github pages action. Once the action becomes configurable, we should add a rule to avoid this: https://github.com/marketplace/actions/deploy-pr-preview
