@@ -11,7 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        ruby-version: ['2.6']
+        ruby-version: ['2.7.4']
+        #Check github pages version -> https://pages.github.com/versions/
 
     steps:
     - uses: actions/checkout@v3

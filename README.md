@@ -1,6 +1,4 @@
-[![pipeline status](https://gitlab.com/valentino/valentino.gitlab.io/badges/master/pipeline.svg)](https://gitlab.com/valentino/valentino.gitlab.io/commits/master)
-
-![Build Status](https://github.com/valeIT/valeIT.github.io/actions/workflows/build.yml/badge.svg)
+[![pages-build-deployment](https://github.com/valeIT/valeIT.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/valeIT/valeIT.github.io/actions/workflows/pages/pages-build-deployment)
 
 # [http://www.valentinourbano.com](http://www.valentinourbano.com).
 
