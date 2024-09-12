@@ -7,7 +7,7 @@ published: true
 status: publish
 categories:
 - Me
-author: Valentino Urbano 
+author: Valentino Urbano
 ---
 
 As italian I feel very sad and angry to hear this news, it's a shame.
@@ -26,4 +26,4 @@ Violence is never the answer.
 
 
 [0]: https://twitter.com/BreakingNews/statuses/203745377420181504
-[1]: https://twitter.com/valentinourbano/statuses/203821700075356160
+[1]: {{ site.twitter_handle }}/statuses/203821700075356160

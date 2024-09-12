@@ -39,6 +39,6 @@ You can also take a look at the [roadmap and upvote your favorite features][7].
 
 [2]: /apps/mac/iplocation/beta
 [3]: /about
-[6]: https://twitter.com/valentinourbano
+[6]: {{ site.twitter_handle }}
 [7]: https://iplocation.nolt.io/
 [0]: /newsletter
