@@ -4,7 +4,9 @@ title: Best Of - Books
 ---
 
 <!-- <h1>{{ site.data.bestof_books.title }}</h1> -->
-
+<div>
+{{ site.data.bestof_books.description }}
+</div>
 {% for bestof in site.data.bestof_books.content %}
  <ul>
     <ol>

@@ -4,7 +4,9 @@ title: Best Of - Blogs
 ---
 
 <!-- <h1>{{ site.data.bestof_blogs.title }}</h1> -->
-
+<div>
+{{ site.data.bestof_blogs.description }}
+</div>
 {% for bestof in site.data.bestof_blogs.content %}
  <ul>
     <ol>

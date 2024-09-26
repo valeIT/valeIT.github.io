@@ -1,8 +1,45 @@
 {
     "title": "Best TV Series",
+    "description": "",
     "content": [{
-        "title": "Still Empty",
+        "title": "Expanse",
         "description": "",
         "id": "StillEmpty"
-    }]
+    },
+    {
+        "title": "Game Of Thrones Season 1-5",
+        "description": "",
+        "id": "StillEmpty"
+    },
+    {
+        "title": "Westworld",
+        "description": "",
+        "id": "StillEmpty"
+    },
+    {
+        "title": "Breaking Bad",
+        "description": "",
+        "id": "StillEmpty"
+    },
+    {
+        "title": "Better Call Saul",
+        "description": "",
+        "id": "StillEmpty"
+    },
+    {
+        "title": "Grand Tour",
+        "description": "",
+        "id": "StillEmpty"
+    },
+    {
+        "title": "Black Mirror Season 1-2",
+        "description": "",
+        "id": "StillEmpty"
+    },
+    {
+        "title": "Chernobyl",
+        "description": "You should also listen to the companion podcast",
+        "id": "StillEmpty"
+    }
+]
 }

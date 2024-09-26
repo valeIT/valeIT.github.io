@@ -1,8 +1,40 @@
 {
     "title": "Best Podcasts",
+    "description": "",
     "content": [{
-        "title": "Still Empty",
-        "description": "",
+        "title": "Rework",
+        "description": "by Basecamp",
+        "id": "Rework"
+    },
+    {
+        "title": "Build And Analyze [RETIRED]",
+        "description": "with Marco Arment",
+        "id": "BuildAndAnalyze"
+    },
+    {
+        "title": "Hypercritical [RETIRED]",
+        "description": "with John Siracusa",
+        "id": "Hypercritical"
+    },
+    {
+        "title": "??",
+        "description": "About Health",
         "id": "StillEmpty"
-    }]
+    },
+    {
+        "title": "Under The Radar",
+        "description": "with David Smith and Marco Arment",
+        "id": "UnderTheRadar"
+    },
+    {
+        "title": "Developing Perspective [RETIRED]",
+        "description": "with David Smith",
+        "id": "DevelopingPerspective"
+    },
+    {
+        "title": "Accidental Tech Podcast",
+        "description": "with Marco Arment, Casey Liss and John Siracusa",
+        "id": "ATP"
+    }
+]
 }
