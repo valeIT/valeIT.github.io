@@ -3,13 +3,11 @@ layout: page
 title: About
 ---
 
-My name is Valentino Urbano and I live in between Poland and Italy with my wife.
-
 ## Projects
 
 I'm currently working full time as Freelancer, mainly developing apps for iOS, web applications (frontend and backend) and DevOps.
 
-I've been writing online since 2007 and had a website since 2009. I currently write on my [Blog](/), on [Learning Flutter](https://learningflutter.net), and occasionally on [Twitter](https://twitter.com/valentinourbano).
+I've been writing online since 2007 and had a website since 2009.
 
 I'm writing 200 words a day, every single day since November 2018. You can find most of them [here](/).
 
