@@ -7,8 +7,6 @@ To learn more about me take a look at the [about page][0].
 
 ## What I'm Doing Now:
 
-I’m living in <s>Milan, Italy</s>Poznan, Poland with my wife dividing of my time between:
-
 - Developing iOS applications (main focus)
 - [Freelancing][2]
 - Developing web applications
