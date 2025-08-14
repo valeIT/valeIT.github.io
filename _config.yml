@@ -12,10 +12,9 @@ plugins:
   - pagemaster
 
 title: "Valentino Urbano"
-description: >
-  iOS Developer, Swift, Writer, Husband
+description: ""
 
-email: valentino@valentinourbano.com
+email: vale93kotor@gmail.com
 #blog logo
 logo: "/assets/images/df_logo.png"
 float_logo: true # true, false (default)
@@ -32,7 +31,7 @@ paginate: 5
 
 url: "http://www.valentinourbano.com"
 baseurl: ""
-twitter_handle: "@valentinourbano"
+twitter_handle: ""
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -42,7 +41,7 @@ google_analytics: UA-61742521-6
 # social icons and sharing options
 social:
   - icon: twitter
-    url: https://twitter.com/valentinourbano
+    url: https://twitter.com/
     desc: Follow me on twitter
     share_url:
     share_title:
