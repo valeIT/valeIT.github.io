@@ -1,8 +1,35 @@
 {
     "title": "Best Books",
+    "description": "",
     "content": [{
-        "title": "Still Empty",
+        "title": "Oathbringer by Brandon Sanderson",
         "description": "",
-        "id": "StillEmpty"
-    }]
+        "id": "Oathbringer"
+    },
+     {
+        "title": "Mistborn by Brandon Sanderson",
+        "description": "",
+        "id": "Mistborn"
+    },
+     {
+        "title": "A Dance With Dragons by George R R Martin",
+        "description": "",
+        "id": "ADanceWithDragons"
+    },
+    {
+        "title": "Lord Of The Rings by J R R Tolkien",
+        "description": "",
+        "id": "LordOfTheRings"
+    },
+    {
+        "title": "Mass Effect by Drew Karpyshyn",
+        "description": "",
+        "id": "MassEffect"
+    },
+    {
+        "title": "Shannara by Terry Brooks",
+        "description": "",
+        "id": "Shannara"
+    }
+    ]
 }

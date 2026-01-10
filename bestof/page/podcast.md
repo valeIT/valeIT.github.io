@@ -4,7 +4,9 @@ title: Best Of - Podcasts
 ---
 
 <!-- <h1>{{ site.data.bestof_podcasts.title }}</h1> -->
-
+<div>
+{{ site.data.bestof_podcasts.description }}
+</div>
 {% for bestof in site.data.bestof_podcasts.content %}
  <ul>
     <ol>

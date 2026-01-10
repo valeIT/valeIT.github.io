@@ -4,7 +4,9 @@ title: Best Of - VideoGames
 ---
 
 <!-- <h1>{{ site.data.bestof_videoGames.title }}</h1> -->
-
+<div>
+{{ site.data.bestof_videoGames.description }}
+</div>
 {% for bestof in site.data.bestof_videoGames.content %}
  <ul>
     <ol>
